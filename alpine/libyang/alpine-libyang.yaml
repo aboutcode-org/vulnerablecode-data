@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libyang
+package: pkg:alpine/libyang
 versions:
   - purl: pkg:alpine/libyang@1.0.184-r1?arch=aarch64&distroversion=v3.13&reponame=community
     affected_by_vulnerabilities: []

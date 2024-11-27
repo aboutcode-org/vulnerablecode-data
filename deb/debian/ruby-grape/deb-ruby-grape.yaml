@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-grape
+package: pkg:deb/debian/ruby-grape
 versions:
   - purl: pkg:deb/debian/ruby-grape@0.16.2-2?distro=stretch
     affected_by_vulnerabilities:

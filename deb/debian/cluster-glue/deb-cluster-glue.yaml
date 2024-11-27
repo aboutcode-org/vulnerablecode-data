@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cluster-glue
+package: pkg:deb/debian/cluster-glue
 versions:
   - purl: pkg:deb/debian/cluster-glue@1.0.12-12?distro=sid
     affected_by_vulnerabilities: []

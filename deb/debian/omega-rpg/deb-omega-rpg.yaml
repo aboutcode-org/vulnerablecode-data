@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/omega-rpg
+package: pkg:deb/debian/omega-rpg
 versions:
   - purl: pkg:deb/debian/omega-rpg@1:0.90-pa9-11?distro=sid
     affected_by_vulnerabilities: []

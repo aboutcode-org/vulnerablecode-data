@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/openjpeg
+package: pkg:alpine/openjpeg
 versions:
   - purl: pkg:alpine/openjpeg@2.1.2-r1?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

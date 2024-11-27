@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dar
+package: pkg:deb/debian/dar
 versions:
   - purl: pkg:deb/debian/dar@0?distro=sid
     affected_by_vulnerabilities: []

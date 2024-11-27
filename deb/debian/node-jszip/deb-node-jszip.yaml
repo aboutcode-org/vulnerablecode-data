@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-jszip
+package: pkg:deb/debian/node-jszip
 versions:
   - purl: pkg:deb/debian/node-jszip@3.10.0%2Bdfsg-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mysql-connector-python
+package: pkg:deb/debian/mysql-connector-python
 versions:
   - purl: pkg:deb/debian/mysql-connector-python@2.1.5-1?distro=sid
     affected_by_vulnerabilities: []

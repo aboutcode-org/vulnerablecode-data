@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libphp-snoopy
+package: pkg:deb/debian/libphp-snoopy
 versions:
   - purl: pkg:deb/debian/libphp-snoopy@0?distro=sid
     affected_by_vulnerabilities: []

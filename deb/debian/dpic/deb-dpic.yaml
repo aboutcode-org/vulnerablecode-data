@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dpic
+package: pkg:deb/debian/dpic
 versions:
   - purl: pkg:deb/debian/dpic@0?distro=sid
     affected_by_vulnerabilities: []

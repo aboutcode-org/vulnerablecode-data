@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/webhelpers
+package: pkg:deb/debian/webhelpers
 versions:
   - purl: pkg:deb/debian/webhelpers@0?distro=buster
     affected_by_vulnerabilities: []

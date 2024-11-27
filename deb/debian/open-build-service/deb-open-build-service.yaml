@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/open-build-service
+package: pkg:deb/debian/open-build-service
 versions:
   - purl: pkg:deb/debian/open-build-service@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libplack-perl
+package: pkg:deb/debian/libplack-perl
 versions:
   - purl: pkg:deb/debian/libplack-perl@1.0031-1?distro=sid
     affected_by_vulnerabilities: []

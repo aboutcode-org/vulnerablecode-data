@@ -1,4 +1,4 @@
-pacakge: pkg:conan/libressl
+package: pkg:conan/libressl
 versions:
   - purl: pkg:conan/libressl@2.9.2
     affected_by_vulnerabilities:

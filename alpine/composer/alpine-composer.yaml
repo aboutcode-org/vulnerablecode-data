@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/composer
+package: pkg:alpine/composer
 versions:
   - purl: pkg:alpine/composer@2.0.13-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

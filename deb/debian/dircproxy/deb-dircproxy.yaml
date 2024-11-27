@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dircproxy
+package: pkg:deb/debian/dircproxy
 versions:
   - purl: pkg:deb/debian/dircproxy@1.0.5-5.1?distro=sid
     affected_by_vulnerabilities: []

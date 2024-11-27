@@ -1,4 +1,4 @@
-pacakge: pkg:composer/drupal/core-recommended
+package: pkg:composer/drupal/core-recommended
 versions:
   - purl: pkg:composer/drupal/core-recommended@7.0.0
     affected_by_vulnerabilities:

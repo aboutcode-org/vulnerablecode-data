@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fvwm
+package: pkg:deb/debian/fvwm
 versions:
   - purl: pkg:deb/debian/fvwm@0?distro=sid
     affected_by_vulnerabilities: []

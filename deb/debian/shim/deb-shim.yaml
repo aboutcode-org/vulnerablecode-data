@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/shim
+package: pkg:deb/debian/shim
 versions:
   - purl: pkg:deb/debian/shim@15.4-7?distro=sid
     affected_by_vulnerabilities:

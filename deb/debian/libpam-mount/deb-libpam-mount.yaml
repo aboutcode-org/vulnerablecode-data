@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libpam-mount
+package: pkg:deb/debian/libpam-mount
 versions:
   - purl: pkg:deb/debian/libpam-mount@0.48-1?distro=sid
     affected_by_vulnerabilities: []

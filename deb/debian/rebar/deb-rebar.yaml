@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rebar
+package: pkg:deb/debian/rebar
 versions:
   - purl: pkg:deb/debian/rebar@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ganglia-web
+package: pkg:deb/debian/ganglia-web
 versions:
   - purl: pkg:deb/debian/ganglia-web@3.5.8-3?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lv
+package: pkg:deb/debian/lv
 versions:
   - purl: pkg:deb/debian/lv@4.49.4-7woody2
     affected_by_vulnerabilities:

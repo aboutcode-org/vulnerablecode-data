@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-image
+package: pkg:deb/debian/rust-image
 versions:
   - purl: pkg:deb/debian/rust-image@0?distro=sid
     affected_by_vulnerabilities: []

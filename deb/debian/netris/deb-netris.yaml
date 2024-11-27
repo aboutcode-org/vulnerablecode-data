@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/netris
+package: pkg:deb/debian/netris
 versions:
   - purl: pkg:deb/debian/netris@0.4-3
     affected_by_vulnerabilities:

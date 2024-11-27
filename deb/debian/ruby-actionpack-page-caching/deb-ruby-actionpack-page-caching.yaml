@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-actionpack-page-caching
+package: pkg:deb/debian/ruby-actionpack-page-caching
 versions:
   - purl: pkg:deb/debian/ruby-actionpack-page-caching@1.0.2-4?distro=stretch
     affected_by_vulnerabilities: []

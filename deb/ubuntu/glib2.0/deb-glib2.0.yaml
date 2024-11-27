@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/glib2.0
+package: pkg:deb/ubuntu/glib2.0
 versions:
   - purl: pkg:deb/ubuntu/glib2.0@2.10.0-0ubuntu1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/konversation
+package: pkg:deb/ubuntu/konversation
 versions:
   - purl: pkg:deb/ubuntu/konversation@0.14cvs20040501-1
     affected_by_vulnerabilities:

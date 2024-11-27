@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libvorbis
+package: pkg:deb/debian/libvorbis
 versions:
   - purl: pkg:deb/debian/libvorbis@1.0rc3-1
     affected_by_vulnerabilities:

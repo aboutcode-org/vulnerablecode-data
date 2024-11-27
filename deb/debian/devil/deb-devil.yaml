@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/devil
+package: pkg:deb/debian/devil
 versions:
   - purl: pkg:deb/debian/devil@1.7.5-4?distro=sid
     affected_by_vulnerabilities: []

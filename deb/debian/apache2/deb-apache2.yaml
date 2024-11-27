@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/apache2
+package: pkg:deb/debian/apache2
 versions:
   - purl: pkg:deb/debian/apache2@0?distro=sid
     affected_by_vulnerabilities: []

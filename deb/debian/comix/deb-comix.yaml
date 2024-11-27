@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/comix
+package: pkg:deb/debian/comix
 versions:
   - purl: pkg:deb/debian/comix@3.6.4-1.1?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ark
+package: pkg:deb/debian/ark
 versions:
   - purl: pkg:deb/debian/ark@4:16.08.3-2?distro=sid
     affected_by_vulnerabilities: []

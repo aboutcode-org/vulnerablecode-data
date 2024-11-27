@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/indicator-datetime
+package: pkg:deb/ubuntu/indicator-datetime
 versions:
   - purl: pkg:deb/ubuntu/indicator-datetime@0.0.3-0ubuntu1
     affected_by_vulnerabilities:

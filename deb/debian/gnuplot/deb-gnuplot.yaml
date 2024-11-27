@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnuplot
+package: pkg:deb/debian/gnuplot
 versions:
   - purl: pkg:deb/debian/gnuplot@5.0.5%2Bdfsg1-6%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities:

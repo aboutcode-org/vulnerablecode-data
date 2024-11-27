@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xrdp
+package: pkg:deb/debian/xrdp
 versions:
   - purl: pkg:deb/debian/xrdp@0?distro=sid
     affected_by_vulnerabilities: []

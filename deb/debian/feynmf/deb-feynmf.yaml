@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/feynmf
+package: pkg:deb/debian/feynmf
 versions:
   - purl: pkg:deb/debian/feynmf@1.08-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bcel
+package: pkg:deb/debian/bcel
 versions:
   - purl: pkg:deb/debian/bcel@6.2-1?distro=sid
     affected_by_vulnerabilities:

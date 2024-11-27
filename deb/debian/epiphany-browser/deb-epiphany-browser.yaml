@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/epiphany-browser
+package: pkg:deb/debian/epiphany-browser
 versions:
   - purl: pkg:deb/debian/epiphany-browser@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bibutils
+package: pkg:deb/debian/bibutils
 versions:
   - purl: pkg:deb/debian/bibutils@4.12-5?distro=stretch
     affected_by_vulnerabilities:

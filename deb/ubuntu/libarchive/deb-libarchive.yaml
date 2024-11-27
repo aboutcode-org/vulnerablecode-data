@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libarchive
+package: pkg:deb/ubuntu/libarchive
 versions:
   - purl: pkg:deb/ubuntu/libarchive@1.02.036-2
     affected_by_vulnerabilities:

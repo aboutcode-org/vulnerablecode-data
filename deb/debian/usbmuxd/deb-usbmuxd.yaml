@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/usbmuxd
+package: pkg:deb/debian/usbmuxd
 versions:
   - purl: pkg:deb/debian/usbmuxd@1.0.7-2?distro=sid
     affected_by_vulnerabilities: []

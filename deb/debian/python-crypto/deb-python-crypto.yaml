@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-crypto
+package: pkg:deb/debian/python-crypto
 versions:
   - purl: pkg:deb/debian/python-crypto@2.0.1%2Bdfsg1-3?distro=buster
     affected_by_vulnerabilities: []

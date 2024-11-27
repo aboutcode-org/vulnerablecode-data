@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/linux-pam
+package: pkg:alpine/linux-pam
 versions:
   - purl: pkg:alpine/linux-pam@1.5.1?arch=aarch64&distroversion=v3.13&reponame=main
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/Sylius/Sylius
+package: pkg:composer/Sylius/Sylius
 versions:
   - purl: pkg:composer/Sylius/Sylius@1.10.0
     affected_by_vulnerabilities:

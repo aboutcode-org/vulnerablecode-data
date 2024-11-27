@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/cron
+package: pkg:deb/ubuntu/cron
 versions:
   - purl: pkg:deb/ubuntu/cron@3.0pl1-100ubuntu1
     affected_by_vulnerabilities:

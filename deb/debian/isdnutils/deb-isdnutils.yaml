@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/isdnutils
+package: pkg:deb/debian/isdnutils
 versions:
   - purl: pkg:deb/debian/isdnutils@1:2.1.beta1-23
     affected_by_vulnerabilities:

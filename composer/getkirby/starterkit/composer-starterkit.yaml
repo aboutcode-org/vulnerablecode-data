@@ -1,4 +1,4 @@
-pacakge: pkg:composer/getkirby/starterkit
+package: pkg:composer/getkirby/starterkit
 versions:
   - purl: pkg:composer/getkirby/starterkit@3.0.0
     affected_by_vulnerabilities:

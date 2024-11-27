@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mako
+package: pkg:deb/debian/mako
 versions:
   - purl: pkg:deb/debian/mako@0.3.4-1?distro=sid
     affected_by_vulnerabilities: []

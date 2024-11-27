@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gajim
+package: pkg:deb/debian/gajim
 versions:
   - purl: pkg:deb/debian/gajim@0.15-1?distro=sid
     affected_by_vulnerabilities: []

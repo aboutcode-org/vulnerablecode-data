@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libinfinity
+package: pkg:deb/debian/libinfinity
 versions:
   - purl: pkg:deb/debian/libinfinity@0.6.6-1?distro=sid
     affected_by_vulnerabilities: []

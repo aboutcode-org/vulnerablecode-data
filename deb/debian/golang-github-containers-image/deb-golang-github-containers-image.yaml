@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-containers-image
+package: pkg:deb/debian/golang-github-containers-image
 versions:
   - purl: pkg:deb/debian/golang-github-containers-image@0?distro=sid
     affected_by_vulnerabilities: []

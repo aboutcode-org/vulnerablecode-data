@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mon
+package: pkg:deb/debian/mon
 versions:
   - purl: pkg:deb/debian/mon@0.99.2-13?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-mongodb
+package: pkg:deb/debian/node-mongodb
 versions:
   - purl: pkg:deb/debian/node-mongodb@3.1.10%2B~3.1.9-1?distro=sid
     affected_by_vulnerabilities: []

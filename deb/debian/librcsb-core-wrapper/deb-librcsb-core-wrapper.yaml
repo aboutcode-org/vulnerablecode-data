@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/librcsb-core-wrapper
+package: pkg:deb/debian/librcsb-core-wrapper
 versions:
   - purl: pkg:deb/debian/librcsb-core-wrapper@1.005-10?distro=sid
     affected_by_vulnerabilities: []

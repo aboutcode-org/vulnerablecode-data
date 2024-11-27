@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/packer
+package: pkg:deb/debian/packer
 versions:
   - purl: pkg:deb/debian/packer@0?distro=stretch
     affected_by_vulnerabilities: []

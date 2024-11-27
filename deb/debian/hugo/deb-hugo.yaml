@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/hugo
+package: pkg:deb/debian/hugo
 versions:
   - purl: pkg:deb/debian/hugo@0.100.2-1?distro=stretch
     affected_by_vulnerabilities: []

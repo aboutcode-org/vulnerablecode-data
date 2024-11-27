@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cmake
+package: pkg:deb/debian/cmake
 versions:
   - purl: pkg:deb/debian/cmake@0?distro=sid
     affected_by_vulnerabilities: []

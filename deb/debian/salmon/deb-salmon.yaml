@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/salmon
+package: pkg:deb/debian/salmon
 versions:
   - purl: pkg:deb/debian/salmon@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-time
+package: pkg:deb/debian/rust-time
 versions:
   - purl: pkg:deb/debian/rust-time@0?distro=sid
     affected_by_vulnerabilities: []

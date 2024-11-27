@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tin
+package: pkg:deb/debian/tin
 versions:
   - purl: pkg:deb/debian/tin@1:1.4.1-1
     affected_by_vulnerabilities:

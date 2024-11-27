@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libyaml
+package: pkg:deb/debian/libyaml
 versions:
   - purl: pkg:deb/debian/libyaml@0.1.4-3?distro=sid
     affected_by_vulnerabilities: []

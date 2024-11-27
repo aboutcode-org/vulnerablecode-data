@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rdesktop
+package: pkg:deb/debian/rdesktop
 versions:
   - purl: pkg:deb/debian/rdesktop@1.5.0-4%2Bcvs20071006?distro=sid
     affected_by_vulnerabilities: []

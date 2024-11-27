@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/python3
+package: pkg:alpine/python3
 versions:
   - purl: pkg:alpine/python3@3.10.5-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

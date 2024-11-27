@@ -1,4 +1,4 @@
-pacakge: pkg:composer/pear/crypt_gpg
+package: pkg:composer/pear/crypt_gpg
 versions:
   - purl: pkg:composer/pear/crypt_gpg@1.4.0
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-aiohttp
+package: pkg:deb/debian/python-aiohttp
 versions:
   - purl: pkg:deb/debian/python-aiohttp@0?distro=stretch
     affected_by_vulnerabilities: []

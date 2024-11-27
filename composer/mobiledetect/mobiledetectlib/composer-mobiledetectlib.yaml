@@ -1,4 +1,4 @@
-pacakge: pkg:composer/mobiledetect/mobiledetectlib
+package: pkg:composer/mobiledetect/mobiledetectlib
 versions:
   - purl: pkg:composer/mobiledetect/mobiledetectlib@2.5.0
     affected_by_vulnerabilities:

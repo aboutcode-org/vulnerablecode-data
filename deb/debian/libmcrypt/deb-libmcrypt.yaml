@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libmcrypt
+package: pkg:deb/debian/libmcrypt
 versions:
   - purl: pkg:deb/debian/libmcrypt@0?distro=sid
     affected_by_vulnerabilities: []

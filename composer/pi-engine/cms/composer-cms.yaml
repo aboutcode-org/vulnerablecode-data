@@ -1,4 +1,4 @@
-pacakge: pkg:composer/pi-engine/cms
+package: pkg:composer/pi-engine/cms
 versions:
   - purl: pkg:composer/pi-engine/cms@2.5.0
     affected_by_vulnerabilities:

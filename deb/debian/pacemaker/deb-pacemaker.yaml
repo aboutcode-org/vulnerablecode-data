@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pacemaker
+package: pkg:deb/debian/pacemaker
 versions:
   - purl: pkg:deb/debian/pacemaker@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lprng
+package: pkg:deb/debian/lprng
 versions:
   - purl: pkg:deb/debian/lprng@0?distro=sid
     affected_by_vulnerabilities: []

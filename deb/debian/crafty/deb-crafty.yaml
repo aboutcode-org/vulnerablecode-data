@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/crafty
+package: pkg:deb/debian/crafty
 versions:
   - purl: pkg:deb/debian/crafty@14.11-3
     affected_by_vulnerabilities:

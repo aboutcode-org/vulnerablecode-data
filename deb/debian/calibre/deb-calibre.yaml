@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/calibre
+package: pkg:deb/debian/calibre
 versions:
   - purl: pkg:deb/debian/calibre@1.5.0%2Bdfsg-1?distro=sid
     affected_by_vulnerabilities: []

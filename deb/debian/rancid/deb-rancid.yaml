@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rancid
+package: pkg:deb/debian/rancid
 versions:
   - purl: pkg:deb/debian/rancid@2.3.2~a8-2?distro=sid
     affected_by_vulnerabilities: []

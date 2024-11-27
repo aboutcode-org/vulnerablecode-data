@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/haproxy
+package: pkg:alpine/haproxy
 versions:
   - purl: pkg:alpine/haproxy@1.8.23?arch=aarch64&distroversion=v3.8&reponame=main
     affected_by_vulnerabilities: []

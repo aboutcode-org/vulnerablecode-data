@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/cracklib
+package: pkg:alpine/cracklib
 versions:
   - purl: pkg:alpine/cracklib@2.9.7-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

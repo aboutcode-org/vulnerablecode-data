@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gns3
+package: pkg:deb/debian/gns3
 versions:
   - purl: pkg:deb/debian/gns3@0?distro=stretch
     affected_by_vulnerabilities: []

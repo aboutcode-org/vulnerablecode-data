@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-uvicorn
+package: pkg:deb/debian/python-uvicorn
 versions:
   - purl: pkg:deb/debian/python-uvicorn@0.13.3-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/hugin
+package: pkg:deb/debian/hugin
 versions:
   - purl: pkg:deb/debian/hugin@0.6.1-1.1?distro=sid
     affected_by_vulnerabilities: []

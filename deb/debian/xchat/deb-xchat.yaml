@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xchat
+package: pkg:deb/debian/xchat
 versions:
   - purl: pkg:deb/debian/xchat@0?distro=buster
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/duktape
+package: pkg:deb/debian/duktape
 versions:
   - purl: pkg:deb/debian/duktape@2.3.0-1?distro=sid
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/paypal/adaptivepayments-sdk-php
+package: pkg:composer/paypal/adaptivepayments-sdk-php
 versions:
   - purl: pkg:composer/paypal/adaptivepayments-sdk-php@3.9.2
     affected_by_vulnerabilities:

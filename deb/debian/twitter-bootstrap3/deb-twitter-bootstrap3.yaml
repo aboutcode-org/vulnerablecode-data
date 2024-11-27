@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/twitter-bootstrap3
+package: pkg:deb/debian/twitter-bootstrap3
 versions:
   - purl: pkg:deb/debian/twitter-bootstrap3@0?distro=sid
     affected_by_vulnerabilities: []

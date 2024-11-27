@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/postfixadmin
+package: pkg:deb/debian/postfixadmin
 versions:
   - purl: pkg:deb/debian/postfixadmin@2.3.5-1?distro=sid
     affected_by_vulnerabilities: []

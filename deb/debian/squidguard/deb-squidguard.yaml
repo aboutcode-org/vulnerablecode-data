@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/squidguard
+package: pkg:deb/debian/squidguard
 versions:
   - purl: pkg:deb/debian/squidguard@1.2.0-9?distro=sid
     affected_by_vulnerabilities: []

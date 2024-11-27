@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fmtlib
+package: pkg:deb/debian/fmtlib
 versions:
   - purl: pkg:deb/debian/fmtlib@5.2.1%2Bds-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libunivalue
+package: pkg:deb/debian/libunivalue
 versions:
   - purl: pkg:deb/debian/libunivalue@1.0.2-3?distro=stretch
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/chkrootkit
+package: pkg:deb/debian/chkrootkit
 versions:
   - purl: pkg:deb/debian/chkrootkit@0.49-5?distro=sid
     affected_by_vulnerabilities: []

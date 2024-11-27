@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libressl
+package: pkg:alpine/libressl
 versions:
   - purl: pkg:alpine/libressl@2.5.3-r1?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

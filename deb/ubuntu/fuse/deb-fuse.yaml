@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/fuse
+package: pkg:deb/ubuntu/fuse
 versions:
   - purl: pkg:deb/ubuntu/fuse@1.1-2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/fastd
+package: pkg:deb/ubuntu/fastd
 versions:
   - purl: pkg:deb/ubuntu/fastd@17-4
     affected_by_vulnerabilities:

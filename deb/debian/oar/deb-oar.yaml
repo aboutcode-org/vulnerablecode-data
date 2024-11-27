@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/oar
+package: pkg:deb/debian/oar
 versions:
   - purl: pkg:deb/debian/oar@2.5.7-1?distro=sid
     affected_by_vulnerabilities: []

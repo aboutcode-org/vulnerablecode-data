@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gargoyle-free
+package: pkg:deb/debian/gargoyle-free
 versions:
   - purl: pkg:deb/debian/gargoyle-free@2009-08-25-2?distro=sid
     affected_by_vulnerabilities: []

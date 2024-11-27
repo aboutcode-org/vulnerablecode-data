@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/flightcrew
+package: pkg:deb/debian/flightcrew
 versions:
   - purl: pkg:deb/debian/flightcrew@0.7.2%2Bdfsg-13%2Bdeb10u1?distro=sid
     affected_by_vulnerabilities: []

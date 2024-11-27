@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/py3-lxml
+package: pkg:alpine/py3-lxml
 versions:
   - purl: pkg:alpine/py3-lxml@4.5.1-r1?arch=aarch64&distroversion=v3.12&reponame=community
     affected_by_vulnerabilities: []

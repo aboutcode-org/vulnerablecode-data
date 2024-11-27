@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fwsnort
+package: pkg:deb/debian/fwsnort
 versions:
   - purl: pkg:deb/debian/fwsnort@1.6.4-1?distro=sid
     affected_by_vulnerabilities: []

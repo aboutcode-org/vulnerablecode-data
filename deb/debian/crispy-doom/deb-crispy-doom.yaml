@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/crispy-doom
+package: pkg:deb/debian/crispy-doom
 versions:
   - purl: pkg:deb/debian/crispy-doom@5.10.0-1
     affected_by_vulnerabilities: []

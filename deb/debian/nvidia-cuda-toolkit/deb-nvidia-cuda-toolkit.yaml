@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nvidia-cuda-toolkit
+package: pkg:deb/debian/nvidia-cuda-toolkit
 versions:
   - purl: pkg:deb/debian/nvidia-cuda-toolkit@11.1.1-2?distro=sid
     affected_by_vulnerabilities: []

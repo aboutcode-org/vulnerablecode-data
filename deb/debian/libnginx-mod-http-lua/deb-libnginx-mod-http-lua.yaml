@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libnginx-mod-http-lua
+package: pkg:deb/debian/libnginx-mod-http-lua
 versions:
   - purl: pkg:deb/debian/libnginx-mod-http-lua@0?distro=sid
     affected_by_vulnerabilities: []

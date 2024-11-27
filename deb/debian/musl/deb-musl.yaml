@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/musl
+package: pkg:deb/debian/musl
 versions:
   - purl: pkg:deb/debian/musl@1.1.15-2?distro=sid
     affected_by_vulnerabilities: []

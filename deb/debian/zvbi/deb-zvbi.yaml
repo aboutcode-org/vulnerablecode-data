@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/zvbi
+package: pkg:deb/debian/zvbi
 versions:
   - purl: pkg:deb/debian/zvbi@0.1.1-2
     affected_by_vulnerabilities:

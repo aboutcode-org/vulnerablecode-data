@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/git
+package: pkg:alpine/git
 versions:
   - purl: pkg:alpine/git@0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

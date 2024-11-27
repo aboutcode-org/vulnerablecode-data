@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/pidgin
+package: pkg:alpine/pidgin
 versions:
   - purl: pkg:alpine/pidgin@2.10.11-r1?arch=armhf&distroversion=v3.2&reponame=main
     affected_by_vulnerabilities: []

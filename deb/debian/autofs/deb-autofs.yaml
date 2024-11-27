@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/autofs
+package: pkg:deb/debian/autofs
 versions:
   - purl: pkg:deb/debian/autofs@0?distro=sid
     affected_by_vulnerabilities: []

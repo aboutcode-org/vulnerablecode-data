@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/shadowsocks-libev
+package: pkg:deb/debian/shadowsocks-libev
 versions:
   - purl: pkg:deb/debian/shadowsocks-libev@2.6.3%2Bds-3%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities:

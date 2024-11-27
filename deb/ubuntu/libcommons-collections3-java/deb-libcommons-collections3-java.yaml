@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libcommons-collections3-java
+package: pkg:deb/ubuntu/libcommons-collections3-java
 versions:
   - purl: pkg:deb/ubuntu/libcommons-collections3-java@3.1-2
     affected_by_vulnerabilities:

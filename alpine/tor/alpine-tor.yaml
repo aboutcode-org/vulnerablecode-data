@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/tor
+package: pkg:alpine/tor
 versions:
   - purl: pkg:alpine/tor@0.3.0.8-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

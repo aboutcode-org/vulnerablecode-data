@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/xapian-core
+package: pkg:alpine/xapian-core
 versions:
   - purl: pkg:alpine/xapian-core@1.4.6-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/e2guardian
+package: pkg:deb/debian/e2guardian
 versions:
   - purl: pkg:deb/debian/e2guardian@3.4.0.3-2?distro=stretch
     affected_by_vulnerabilities:

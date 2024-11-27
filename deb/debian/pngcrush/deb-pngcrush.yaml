@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pngcrush
+package: pkg:deb/debian/pngcrush
 versions:
   - purl: pkg:deb/debian/pngcrush@0?distro=sid
     affected_by_vulnerabilities: []

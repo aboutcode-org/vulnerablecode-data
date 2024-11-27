@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libpcap
+package: pkg:deb/debian/libpcap
 versions:
   - purl: pkg:deb/debian/libpcap@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/prestashop/productcomments
+package: pkg:composer/prestashop/productcomments
 versions:
   - purl: pkg:composer/prestashop/productcomments@3.6.0
     affected_by_vulnerabilities:

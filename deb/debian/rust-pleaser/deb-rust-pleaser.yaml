@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-pleaser
+package: pkg:deb/debian/rust-pleaser
 versions:
   - purl: pkg:deb/debian/rust-pleaser@0.4.1-1?distro=sid
     affected_by_vulnerabilities: []

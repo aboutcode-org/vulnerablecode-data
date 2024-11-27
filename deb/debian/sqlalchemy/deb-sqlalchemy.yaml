@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sqlalchemy
+package: pkg:deb/debian/sqlalchemy
 versions:
   - purl: pkg:deb/debian/sqlalchemy@0.6.7-1?distro=sid
     affected_by_vulnerabilities: []

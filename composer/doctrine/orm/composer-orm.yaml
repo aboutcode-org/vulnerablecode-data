@@ -1,4 +1,4 @@
-pacakge: pkg:composer/doctrine/orm
+package: pkg:composer/doctrine/orm
 versions:
   - purl: pkg:composer/doctrine/orm@2.0.0
     affected_by_vulnerabilities:

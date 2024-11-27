@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openblas
+package: pkg:deb/debian/openblas
 versions:
   - purl: pkg:deb/debian/openblas@0.2.19-3?distro=stretch
     affected_by_vulnerabilities:

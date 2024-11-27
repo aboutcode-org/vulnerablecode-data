@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/blueman
+package: pkg:deb/ubuntu/blueman
 versions:
   - purl: pkg:deb/ubuntu/blueman@1.10-2
     affected_by_vulnerabilities:

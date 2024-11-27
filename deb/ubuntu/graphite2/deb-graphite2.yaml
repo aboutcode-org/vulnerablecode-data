@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/graphite2
+package: pkg:deb/ubuntu/graphite2
 versions:
   - purl: pkg:deb/ubuntu/graphite2@1.0.3.real-1
     affected_by_vulnerabilities:

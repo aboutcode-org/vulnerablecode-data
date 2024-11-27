@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sendmail
+package: pkg:deb/debian/sendmail
 versions:
   - purl: pkg:deb/debian/sendmail@0?distro=sid
     affected_by_vulnerabilities: []

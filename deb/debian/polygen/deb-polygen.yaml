@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/polygen
+package: pkg:deb/debian/polygen
 versions:
   - purl: pkg:deb/debian/polygen@1.0.6-7sarge1
     affected_by_vulnerabilities:

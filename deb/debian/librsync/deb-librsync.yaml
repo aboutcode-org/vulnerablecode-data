@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/librsync
+package: pkg:deb/debian/librsync
 versions:
   - purl: pkg:deb/debian/librsync@0.9.7-10?distro=sid
     affected_by_vulnerabilities:

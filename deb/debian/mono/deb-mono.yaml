@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mono
+package: pkg:deb/debian/mono
 versions:
   - purl: pkg:deb/debian/mono@0?distro=sid
     affected_by_vulnerabilities: []

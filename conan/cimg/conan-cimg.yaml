@@ -1,4 +1,4 @@
-pacakge: pkg:conan/cimg
+package: pkg:conan/cimg
 versions:
   - purl: pkg:conan/cimg@2.8.3
     affected_by_vulnerabilities:

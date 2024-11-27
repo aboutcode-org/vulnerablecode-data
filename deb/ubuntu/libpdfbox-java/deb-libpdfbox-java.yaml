@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libpdfbox-java
+package: pkg:deb/ubuntu/libpdfbox-java
 versions:
   - purl: pkg:deb/ubuntu/libpdfbox-java@0.7.3.dfsg-2
     affected_by_vulnerabilities:

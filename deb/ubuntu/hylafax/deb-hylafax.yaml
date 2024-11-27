@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/hylafax
+package: pkg:deb/ubuntu/hylafax
 versions:
   - purl: pkg:deb/ubuntu/hylafax@1:4.1.8-13ubuntu1
     affected_by_vulnerabilities:

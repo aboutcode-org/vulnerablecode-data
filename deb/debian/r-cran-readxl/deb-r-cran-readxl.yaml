@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/r-cran-readxl
+package: pkg:deb/debian/r-cran-readxl
 versions:
   - purl: pkg:deb/debian/r-cran-readxl@0?distro=sid
     affected_by_vulnerabilities: []

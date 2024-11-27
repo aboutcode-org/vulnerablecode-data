@@ -1,4 +1,4 @@
-pacakge: pkg:composer/prestashop/ps_linklist
+package: pkg:composer/prestashop/ps_linklist
 versions:
   - purl: pkg:composer/prestashop/ps_linklist@1.0.4
     affected_by_vulnerabilities:

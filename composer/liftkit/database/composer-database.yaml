@@ -1,4 +1,4 @@
-pacakge: pkg:composer/liftkit/database
+package: pkg:composer/liftkit/database
 versions:
   - purl: pkg:composer/liftkit/database@1.0
     affected_by_vulnerabilities:

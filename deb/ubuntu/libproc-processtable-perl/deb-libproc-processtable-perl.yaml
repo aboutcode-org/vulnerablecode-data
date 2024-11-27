@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libproc-processtable-perl
+package: pkg:deb/ubuntu/libproc-processtable-perl
 versions:
   - purl: pkg:deb/ubuntu/libproc-processtable-perl@0.41-4
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/isc-dhcp
+package: pkg:deb/debian/isc-dhcp
 versions:
   - purl: pkg:deb/debian/isc-dhcp@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/nzedb/nzedb
+package: pkg:composer/nzedb/nzedb
 versions:
   - purl: pkg:composer/nzedb/nzedb@0.7.3%2B3
     affected_by_vulnerabilities:

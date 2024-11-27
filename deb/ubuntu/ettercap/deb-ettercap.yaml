@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ettercap
+package: pkg:deb/ubuntu/ettercap
 versions:
   - purl: pkg:deb/ubuntu/ettercap@1:0.6.b-2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/zsync
+package: pkg:deb/debian/zsync
 versions:
   - purl: pkg:deb/debian/zsync@0.3.3-1.sarge.1
     affected_by_vulnerabilities:

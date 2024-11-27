@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jzlib
+package: pkg:deb/debian/jzlib
 versions:
   - purl: pkg:deb/debian/jzlib@0.0.7?distro=sid
     affected_by_vulnerabilities: []

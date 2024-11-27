@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/glusterfs
+package: pkg:deb/ubuntu/glusterfs
 versions:
   - purl: pkg:deb/ubuntu/glusterfs@1.3.10-1
     affected_by_vulnerabilities:

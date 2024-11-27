@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fossil
+package: pkg:deb/debian/fossil
 versions:
   - purl: pkg:deb/debian/fossil@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/balsa
+package: pkg:deb/ubuntu/balsa
 versions:
   - purl: pkg:deb/ubuntu/balsa@2.0.17-2
     affected_by_vulnerabilities:

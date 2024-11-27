@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/calamares-settings-debian
+package: pkg:deb/debian/calamares-settings-debian
 versions:
   - purl: pkg:deb/debian/calamares-settings-debian@10.0.20-1%2Bdeb10u1?distro=sid
     affected_by_vulnerabilities: []

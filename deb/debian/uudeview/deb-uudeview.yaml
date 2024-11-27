@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/uudeview
+package: pkg:deb/debian/uudeview
 versions:
   - purl: pkg:deb/debian/uudeview@0.5.13-2
     affected_by_vulnerabilities:

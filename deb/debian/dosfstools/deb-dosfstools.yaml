@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dosfstools
+package: pkg:deb/debian/dosfstools
 versions:
   - purl: pkg:deb/debian/dosfstools@4.0-1?distro=sid
     affected_by_vulnerabilities: []

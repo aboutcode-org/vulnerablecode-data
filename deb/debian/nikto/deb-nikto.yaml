@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nikto
+package: pkg:deb/debian/nikto
 versions:
   - purl: pkg:deb/debian/nikto@1:2.1.5-1?distro=stretch
     affected_by_vulnerabilities:

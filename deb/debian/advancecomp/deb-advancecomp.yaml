@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/advancecomp
+package: pkg:deb/debian/advancecomp
 versions:
   - purl: pkg:deb/debian/advancecomp@1.20-1?distro=stretch
     affected_by_vulnerabilities: []

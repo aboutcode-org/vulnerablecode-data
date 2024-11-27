@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-tidwall-gjson
+package: pkg:deb/debian/golang-github-tidwall-gjson
 versions:
   - purl: pkg:deb/debian/golang-github-tidwall-gjson@1.1.5-2?distro=sid
     affected_by_vulnerabilities:

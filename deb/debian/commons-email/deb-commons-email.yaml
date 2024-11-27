@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/commons-email
+package: pkg:deb/debian/commons-email
 versions:
   - purl: pkg:deb/debian/commons-email@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libopenmpt
+package: pkg:deb/debian/libopenmpt
 versions:
   - purl: pkg:deb/debian/libopenmpt@0?distro=stretch
     affected_by_vulnerabilities: []

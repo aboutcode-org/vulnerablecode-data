@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/apachetop
+package: pkg:deb/debian/apachetop
 versions:
   - purl: pkg:deb/debian/apachetop@0.12.5-1sarge1
     affected_by_vulnerabilities:

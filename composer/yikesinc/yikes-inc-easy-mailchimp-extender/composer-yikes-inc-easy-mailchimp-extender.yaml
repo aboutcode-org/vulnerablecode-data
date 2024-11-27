@@ -1,4 +1,4 @@
-pacakge: pkg:composer/yikesinc/yikes-inc-easy-mailchimp-extender
+package: pkg:composer/yikesinc/yikes-inc-easy-mailchimp-extender
 versions:
   - purl: pkg:composer/yikesinc/yikes-inc-easy-mailchimp-extender@5.1
     affected_by_vulnerabilities:

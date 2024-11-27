@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-doorkeeper
+package: pkg:deb/debian/ruby-doorkeeper
 versions:
   - purl: pkg:deb/debian/ruby-doorkeeper@0?distro=sid
     affected_by_vulnerabilities: []

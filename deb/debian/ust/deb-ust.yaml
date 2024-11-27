@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ust
+package: pkg:deb/debian/ust
 versions:
   - purl: pkg:deb/debian/ust@0.7-2.1?distro=sid
     affected_by_vulnerabilities: []

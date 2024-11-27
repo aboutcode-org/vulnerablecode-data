@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/fribidi
+package: pkg:deb/ubuntu/fribidi
 versions:
   - purl: pkg:deb/ubuntu/fribidi@0.10.4-3
     affected_by_vulnerabilities:

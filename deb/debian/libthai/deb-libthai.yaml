@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libthai
+package: pkg:deb/debian/libthai
 versions:
   - purl: pkg:deb/debian/libthai@0.1.13-1?distro=sid
     affected_by_vulnerabilities: []

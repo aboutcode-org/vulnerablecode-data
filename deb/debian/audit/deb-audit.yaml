@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/audit
+package: pkg:deb/debian/audit
 versions:
   - purl: pkg:deb/debian/audit@1:2.4.4-1?distro=sid
     affected_by_vulnerabilities: []

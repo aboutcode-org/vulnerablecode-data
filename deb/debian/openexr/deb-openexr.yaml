@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openexr
+package: pkg:deb/debian/openexr
 versions:
   - purl: pkg:deb/debian/openexr@0?distro=sid
     affected_by_vulnerabilities: []

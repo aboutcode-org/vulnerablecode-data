@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/at-spi2-atk
+package: pkg:deb/ubuntu/at-spi2-atk
 versions:
   - purl: pkg:deb/ubuntu/at-spi2-atk@1.91.1-0ubuntu1
     affected_by_vulnerabilities:

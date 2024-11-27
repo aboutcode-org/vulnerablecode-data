@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/blender
+package: pkg:deb/ubuntu/blender
 versions:
   - purl: pkg:deb/ubuntu/blender@2.33a-1
     affected_by_vulnerabilities:

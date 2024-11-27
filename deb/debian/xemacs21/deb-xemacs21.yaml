@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xemacs21
+package: pkg:deb/debian/xemacs21
 versions:
   - purl: pkg:deb/debian/xemacs21@0?distro=sid
     affected_by_vulnerabilities: []

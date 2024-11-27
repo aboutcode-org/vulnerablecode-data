@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/glibc
+package: pkg:deb/debian/glibc
 versions:
   - purl: pkg:deb/debian/glibc@0?distro=sid
     affected_by_vulnerabilities: []

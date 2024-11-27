@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/cups
+package: pkg:alpine/cups
 versions:
   - purl: pkg:alpine/cups@2.2.10-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/shopxo/shopxo
+package: pkg:composer/shopxo/shopxo
 versions:
   - purl: pkg:composer/shopxo/shopxo@1.1.0
     affected_by_vulnerabilities:

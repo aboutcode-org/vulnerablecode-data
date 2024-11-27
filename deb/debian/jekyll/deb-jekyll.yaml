@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jekyll
+package: pkg:deb/debian/jekyll
 versions:
   - purl: pkg:deb/debian/jekyll@3.1.6%2Bdfsg-3?distro=stretch
     affected_by_vulnerabilities:

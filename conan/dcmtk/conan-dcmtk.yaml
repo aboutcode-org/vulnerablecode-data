@@ -1,4 +1,4 @@
-pacakge: pkg:conan/dcmtk
+package: pkg:conan/dcmtk
 versions:
   - purl: pkg:conan/dcmtk@3.6.5
     affected_by_vulnerabilities:

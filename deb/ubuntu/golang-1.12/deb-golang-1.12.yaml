@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/golang-1.12
+package: pkg:deb/ubuntu/golang-1.12
 versions:
   - purl: pkg:deb/ubuntu/golang-1.12@1.12.10-1ubuntu1
     affected_by_vulnerabilities: []

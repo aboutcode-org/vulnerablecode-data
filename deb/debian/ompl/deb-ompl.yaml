@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ompl
+package: pkg:deb/debian/ompl
 versions:
   - purl: pkg:deb/debian/ompl@0?distro=stretch
     affected_by_vulnerabilities: []

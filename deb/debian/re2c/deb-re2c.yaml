@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/re2c
+package: pkg:deb/debian/re2c
 versions:
   - purl: pkg:deb/debian/re2c@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libinfinity
+package: pkg:deb/ubuntu/libinfinity
 versions:
   - purl: pkg:deb/ubuntu/libinfinity@0.3.0-0ubuntu1
     affected_by_vulnerabilities:

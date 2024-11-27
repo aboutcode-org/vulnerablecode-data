@@ -1,4 +1,4 @@
-pacakge: pkg:composer/woocommerce/woocommerce
+package: pkg:composer/woocommerce/woocommerce
 versions:
   - purl: pkg:composer/woocommerce/woocommerce@2.6.10
     affected_by_vulnerabilities:

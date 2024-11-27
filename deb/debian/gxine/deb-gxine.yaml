@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gxine
+package: pkg:deb/debian/gxine
 versions:
   - purl: pkg:deb/debian/gxine@0.4.7-0.1?distro=stretch
     affected_by_vulnerabilities: []

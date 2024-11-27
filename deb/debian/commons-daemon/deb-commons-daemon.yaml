@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/commons-daemon
+package: pkg:deb/debian/commons-daemon
 versions:
   - purl: pkg:deb/debian/commons-daemon@1.0.15-10?distro=sid
     affected_by_vulnerabilities: []

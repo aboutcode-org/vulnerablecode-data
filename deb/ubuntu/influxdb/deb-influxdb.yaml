@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/influxdb
+package: pkg:deb/ubuntu/influxdb
 versions:
   - purl: pkg:deb/ubuntu/influxdb@0.10.0%2Bdfsg1-1
     affected_by_vulnerabilities:

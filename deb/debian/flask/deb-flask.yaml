@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/flask
+package: pkg:deb/debian/flask
 versions:
   - purl: pkg:deb/debian/flask@0.12.1-1?distro=stretch
     affected_by_vulnerabilities:

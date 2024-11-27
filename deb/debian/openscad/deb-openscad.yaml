@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openscad
+package: pkg:deb/debian/openscad
 versions:
   - purl: pkg:deb/debian/openscad@0?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libclamunrar
+package: pkg:deb/debian/libclamunrar
 versions:
   - purl: pkg:deb/debian/libclamunrar@0?distro=stretch
     affected_by_vulnerabilities: []

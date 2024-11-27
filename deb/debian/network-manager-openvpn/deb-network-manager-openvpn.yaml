@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/network-manager-openvpn
+package: pkg:deb/debian/network-manager-openvpn
 versions:
   - purl: pkg:deb/debian/network-manager-openvpn@0?distro=sid
     affected_by_vulnerabilities: []

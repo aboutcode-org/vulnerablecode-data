@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/tiff
+package: pkg:alpine/tiff
 versions:
   - purl: pkg:alpine/tiff@4.0.10-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

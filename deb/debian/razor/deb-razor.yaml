@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/razor
+package: pkg:deb/debian/razor
 versions:
   - purl: pkg:deb/debian/razor@1.20-1
     affected_by_vulnerabilities:

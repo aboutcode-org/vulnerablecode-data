@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/oniguruma
+package: pkg:alpine/oniguruma
 versions:
   - purl: pkg:alpine/oniguruma@6.9.4-r1?arch=aarch64&distroversion=v3.10&reponame=main
     affected_by_vulnerabilities: []

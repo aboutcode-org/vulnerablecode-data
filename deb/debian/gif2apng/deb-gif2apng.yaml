@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gif2apng
+package: pkg:deb/debian/gif2apng
 versions:
   - purl: pkg:deb/debian/gif2apng@1.9%2Bsrconly-2?distro=stretch
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/truckersmp/phpwhois
+package: pkg:composer/truckersmp/phpwhois
 versions:
   - purl: pkg:composer/truckersmp/phpwhois@4.2.3
     affected_by_vulnerabilities:

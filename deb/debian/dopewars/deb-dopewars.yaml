@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dopewars
+package: pkg:deb/debian/dopewars
 versions:
   - purl: pkg:deb/debian/dopewars@0?distro=sid
     affected_by_vulnerabilities: []

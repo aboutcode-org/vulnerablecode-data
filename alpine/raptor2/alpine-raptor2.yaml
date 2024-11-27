@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/raptor2
+package: pkg:alpine/raptor2
 versions:
   - purl: pkg:alpine/raptor2@2.0.15-r2?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

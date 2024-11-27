@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/calife
+package: pkg:deb/debian/calife
 versions:
   - purl: pkg:deb/debian/calife@1:3.0.1-4?distro=stretch
     affected_by_vulnerabilities: []

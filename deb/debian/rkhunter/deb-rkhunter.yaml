@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rkhunter
+package: pkg:deb/debian/rkhunter
 versions:
   - purl: pkg:deb/debian/rkhunter@1.2.7-14?distro=sid
     affected_by_vulnerabilities: []

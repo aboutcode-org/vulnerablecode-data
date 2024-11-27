@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gbatnav
+package: pkg:deb/debian/gbatnav
 versions:
   - purl: pkg:deb/debian/gbatnav@0.74.0-3
     affected_by_vulnerabilities:

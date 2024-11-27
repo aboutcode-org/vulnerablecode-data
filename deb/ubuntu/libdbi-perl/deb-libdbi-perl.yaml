@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libdbi-perl
+package: pkg:deb/ubuntu/libdbi-perl
 versions:
   - purl: pkg:deb/ubuntu/libdbi-perl@1.42-3
     affected_by_vulnerabilities:

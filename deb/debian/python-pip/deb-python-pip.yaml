@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-pip
+package: pkg:deb/debian/python-pip
 versions:
   - purl: pkg:deb/debian/python-pip@0?distro=sid
     affected_by_vulnerabilities: []

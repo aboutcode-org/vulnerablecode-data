@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/codemirror-js
+package: pkg:deb/debian/codemirror-js
 versions:
   - purl: pkg:deb/debian/codemirror-js@0?distro=stretch
     affected_by_vulnerabilities: []

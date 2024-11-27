@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/hpsockd
+package: pkg:deb/debian/hpsockd
 versions:
   - purl: pkg:deb/debian/hpsockd@0.14?distro=sid
     affected_by_vulnerabilities: []

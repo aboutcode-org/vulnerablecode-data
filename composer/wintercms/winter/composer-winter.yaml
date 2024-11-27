@@ -1,4 +1,4 @@
-pacakge: pkg:composer/wintercms/winter
+package: pkg:composer/wintercms/winter
 versions:
   - purl: pkg:composer/wintercms/winter@1.0.319
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gitolite3
+package: pkg:deb/ubuntu/gitolite3
 versions:
   - purl: pkg:deb/ubuntu/gitolite3@3.5.2-1
     affected_by_vulnerabilities:

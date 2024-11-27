@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dbus-broker
+package: pkg:deb/debian/dbus-broker
 versions:
   - purl: pkg:deb/debian/dbus-broker@26-1?distro=sid
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libapache2-mod-auth-mellon
+package: pkg:deb/ubuntu/libapache2-mod-auth-mellon
 versions:
   - purl: pkg:deb/ubuntu/libapache2-mod-auth-mellon@0.10.0-1
     affected_by_vulnerabilities:

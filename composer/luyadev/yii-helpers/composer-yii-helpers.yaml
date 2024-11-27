@@ -1,4 +1,4 @@
-pacakge: pkg:composer/luyadev/yii-helpers
+package: pkg:composer/luyadev/yii-helpers
 versions:
   - purl: pkg:composer/luyadev/yii-helpers@1.0.0
     affected_by_vulnerabilities:

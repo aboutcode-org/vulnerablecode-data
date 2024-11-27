@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/zlib
+package: pkg:deb/debian/zlib
 versions:
   - purl: pkg:deb/debian/zlib@1:1.1.1-0.1
     affected_by_vulnerabilities:

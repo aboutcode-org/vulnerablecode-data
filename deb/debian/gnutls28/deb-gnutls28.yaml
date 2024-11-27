@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnutls28
+package: pkg:deb/debian/gnutls28
 versions:
   - purl: pkg:deb/debian/gnutls28@0?distro=sid
     affected_by_vulnerabilities: []

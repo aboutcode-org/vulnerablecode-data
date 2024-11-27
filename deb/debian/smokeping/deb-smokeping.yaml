@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/smokeping
+package: pkg:deb/debian/smokeping
 versions:
   - purl: pkg:deb/debian/smokeping@0?distro=sid
     affected_by_vulnerabilities: []

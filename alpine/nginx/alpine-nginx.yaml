@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/nginx
+package: pkg:alpine/nginx
 versions:
   - purl: pkg:alpine/nginx@1.10.3-r0?arch=armhf&distroversion=v3.4&reponame=main
     affected_by_vulnerabilities: []

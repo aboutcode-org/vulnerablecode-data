@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/uwsgi
+package: pkg:alpine/uwsgi
 versions:
   - purl: pkg:alpine/uwsgi@2.0.16-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

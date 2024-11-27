@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnome-screensaver
+package: pkg:deb/debian/gnome-screensaver
 versions:
   - purl: pkg:deb/debian/gnome-screensaver@0?distro=sid
     affected_by_vulnerabilities: []

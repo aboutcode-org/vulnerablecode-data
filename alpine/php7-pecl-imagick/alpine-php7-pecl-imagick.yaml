@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/php7-pecl-imagick
+package: pkg:alpine/php7-pecl-imagick
 versions:
   - purl: pkg:alpine/php7-pecl-imagick@3.4.4-r0?arch=aarch64&distroversion=v3.11&reponame=community
     affected_by_vulnerabilities: []

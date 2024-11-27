@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/db
+package: pkg:alpine/db
 versions:
   - purl: pkg:alpine/db@0?arch=aarch64&distroversion=v3.8&reponame=main
     affected_by_vulnerabilities: []

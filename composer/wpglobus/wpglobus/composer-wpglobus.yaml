@@ -1,4 +1,4 @@
-pacakge: pkg:composer/wpglobus/wpglobus
+package: pkg:composer/wpglobus/wpglobus
 versions:
   - purl: pkg:composer/wpglobus/wpglobus@1.9.6
     affected_by_vulnerabilities:

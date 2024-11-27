@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/h2o
+package: pkg:alpine/h2o
 versions:
   - purl: pkg:alpine/h2o@2.2.6-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

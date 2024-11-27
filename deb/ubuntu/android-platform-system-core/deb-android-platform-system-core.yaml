@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/android-platform-system-core
+package: pkg:deb/ubuntu/android-platform-system-core
 versions:
   - purl: pkg:deb/ubuntu/android-platform-system-core@1:6.0.0%2Br26-1
     affected_by_vulnerabilities:

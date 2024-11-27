@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/okular
+package: pkg:deb/debian/okular
 versions:
   - purl: pkg:deb/debian/okular@4:16.08.2-1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

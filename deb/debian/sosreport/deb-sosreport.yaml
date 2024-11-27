@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sosreport
+package: pkg:deb/debian/sosreport
 versions:
   - purl: pkg:deb/debian/sosreport@0?distro=sid
     affected_by_vulnerabilities: []

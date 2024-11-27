@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/w3m
+package: pkg:alpine/w3m
 versions:
   - purl: pkg:alpine/w3m@0.5.3.20180125-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

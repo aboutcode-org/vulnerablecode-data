@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/texlive-extra
+package: pkg:deb/debian/texlive-extra
 versions:
   - purl: pkg:deb/debian/texlive-extra@2012.20130315-1?distro=sid
     affected_by_vulnerabilities: []

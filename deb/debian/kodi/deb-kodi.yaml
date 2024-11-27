@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kodi
+package: pkg:deb/debian/kodi
 versions:
   - purl: pkg:deb/debian/kodi@0?distro=sid
     affected_by_vulnerabilities: []

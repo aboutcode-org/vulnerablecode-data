@@ -1,4 +1,4 @@
-pacakge: pkg:composer/illuminate/database
+package: pkg:composer/illuminate/database
 versions:
   - purl: pkg:composer/illuminate/database@1.0.0
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/botan
+package: pkg:deb/debian/botan
 versions:
   - purl: pkg:deb/debian/botan@2.17.3%2Bdfsg-1?distro=sid
     affected_by_vulnerabilities: []

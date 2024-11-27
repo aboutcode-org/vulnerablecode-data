@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/yaws
+package: pkg:deb/debian/yaws
 versions:
   - purl: pkg:deb/debian/yaws@0?distro=sid
     affected_by_vulnerabilities: []

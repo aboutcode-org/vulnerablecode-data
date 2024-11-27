@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/hylafaxplus
+package: pkg:alpine/hylafaxplus
 versions:
   - purl: pkg:alpine/hylafaxplus@7.0.0-r1?arch=aarch64&distroversion=v3.9&reponame=main
     affected_by_vulnerabilities: []

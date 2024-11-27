@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-http
+package: pkg:deb/debian/rust-http
 versions:
   - purl: pkg:deb/debian/rust-http@0.1.15-1?distro=sid
     affected_by_vulnerabilities:

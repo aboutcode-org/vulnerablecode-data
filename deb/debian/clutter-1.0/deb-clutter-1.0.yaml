@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/clutter-1.0
+package: pkg:deb/debian/clutter-1.0
 versions:
   - purl: pkg:deb/debian/clutter-1.0@1.14.4-3?distro=sid
     affected_by_vulnerabilities: []

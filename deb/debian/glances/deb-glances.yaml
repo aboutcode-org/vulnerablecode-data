@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/glances
+package: pkg:deb/debian/glances
 versions:
   - purl: pkg:deb/debian/glances@3.1.0-1%2Bdeb10u1?distro=sid
     affected_by_vulnerabilities:

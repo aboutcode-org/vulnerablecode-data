@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/guake
+package: pkg:deb/debian/guake
 versions:
   - purl: pkg:deb/debian/guake@0.8.8-1?distro=stretch
     affected_by_vulnerabilities:

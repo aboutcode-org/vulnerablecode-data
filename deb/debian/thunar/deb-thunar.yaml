@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/thunar
+package: pkg:deb/debian/thunar
 versions:
   - purl: pkg:deb/debian/thunar@0?distro=sid
     affected_by_vulnerabilities: []

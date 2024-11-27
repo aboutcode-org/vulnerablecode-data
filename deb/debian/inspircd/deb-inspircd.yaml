@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/inspircd
+package: pkg:deb/debian/inspircd
 versions:
   - purl: pkg:deb/debian/inspircd@0?distro=sid
     affected_by_vulnerabilities: []

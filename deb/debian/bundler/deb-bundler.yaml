@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bundler
+package: pkg:deb/debian/bundler
 versions:
   - purl: pkg:deb/debian/bundler@1.13.6-2?distro=stretch
     affected_by_vulnerabilities:

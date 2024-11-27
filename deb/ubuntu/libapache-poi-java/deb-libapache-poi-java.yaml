@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libapache-poi-java
+package: pkg:deb/ubuntu/libapache-poi-java
 versions:
   - purl: pkg:deb/ubuntu/libapache-poi-java@3.10-1
     affected_by_vulnerabilities:

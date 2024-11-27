@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/dropbear
+package: pkg:alpine/dropbear
 versions:
   - purl: pkg:alpine/dropbear@2017.75-r0?arch=aarch64&distroversion=v3.5&reponame=main
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libsamplerate
+package: pkg:alpine/libsamplerate
 versions:
   - purl: pkg:alpine/libsamplerate@0.1.9-r0?arch=armhf&distroversion=v3.2&reponame=main
     affected_by_vulnerabilities: []

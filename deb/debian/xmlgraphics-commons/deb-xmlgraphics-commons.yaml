@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xmlgraphics-commons
+package: pkg:deb/debian/xmlgraphics-commons
 versions:
   - purl: pkg:deb/debian/xmlgraphics-commons@0?distro=stretch
     affected_by_vulnerabilities: []

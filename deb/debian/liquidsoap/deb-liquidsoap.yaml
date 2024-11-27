@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/liquidsoap
+package: pkg:deb/debian/liquidsoap
 versions:
   - purl: pkg:deb/debian/liquidsoap@0.3.8.1%2B2-2?distro=sid
     affected_by_vulnerabilities: []

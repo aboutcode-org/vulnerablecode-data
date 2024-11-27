@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xwayland
+package: pkg:deb/debian/xwayland
 versions:
   - purl: pkg:deb/debian/xwayland@2:21.1.4-1?distro=sid
     affected_by_vulnerabilities: []

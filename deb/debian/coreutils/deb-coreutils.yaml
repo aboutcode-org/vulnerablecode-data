@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/coreutils
+package: pkg:deb/debian/coreutils
 versions:
   - purl: pkg:deb/debian/coreutils@0?distro=sid
     affected_by_vulnerabilities: []

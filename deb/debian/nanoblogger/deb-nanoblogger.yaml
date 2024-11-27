@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nanoblogger
+package: pkg:deb/debian/nanoblogger
 versions:
   - purl: pkg:deb/debian/nanoblogger@0?distro=buster
     affected_by_vulnerabilities: []

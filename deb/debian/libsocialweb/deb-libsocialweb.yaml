@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libsocialweb
+package: pkg:deb/debian/libsocialweb
 versions:
   - purl: pkg:deb/debian/libsocialweb@0.25.20-1?distro=stretch
     affected_by_vulnerabilities: []

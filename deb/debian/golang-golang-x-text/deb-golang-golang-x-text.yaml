@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-golang-x-text
+package: pkg:deb/debian/golang-golang-x-text
 versions:
   - purl: pkg:deb/debian/golang-golang-x-text@0.3.3-1?distro=sid
     affected_by_vulnerabilities: []

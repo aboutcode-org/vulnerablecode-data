@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/opusfile
+package: pkg:deb/debian/opusfile
 versions:
   - purl: pkg:deb/debian/opusfile@0.12-4?distro=sid
     affected_by_vulnerabilities: []

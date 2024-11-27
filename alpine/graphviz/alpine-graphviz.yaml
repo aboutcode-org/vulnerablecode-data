@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/graphviz
+package: pkg:alpine/graphviz
 versions:
   - purl: pkg:alpine/graphviz@2.42.3-r1?arch=aarch64&distroversion=v3.11&reponame=main
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/dino-im
+package: pkg:deb/ubuntu/dino-im
 versions:
   - purl: pkg:deb/ubuntu/dino-im@0.0.git20180130-1
     affected_by_vulnerabilities:

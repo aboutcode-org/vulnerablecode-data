@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-semver
+package: pkg:deb/debian/node-semver
 versions:
   - purl: pkg:deb/debian/node-semver@5.3.0-1?distro=sid
     affected_by_vulnerabilities: []

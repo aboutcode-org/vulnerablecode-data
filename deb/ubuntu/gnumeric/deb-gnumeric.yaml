@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gnumeric
+package: pkg:deb/ubuntu/gnumeric
 versions:
   - purl: pkg:deb/ubuntu/gnumeric@1.10.0-1ubuntu1
     affected_by_vulnerabilities:

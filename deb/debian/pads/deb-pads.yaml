@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pads
+package: pkg:deb/debian/pads
 versions:
   - purl: pkg:deb/debian/pads@1.1.1?distro=sid
     affected_by_vulnerabilities: []

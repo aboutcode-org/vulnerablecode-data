@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nodau
+package: pkg:deb/debian/nodau
 versions:
   - purl: pkg:deb/debian/nodau@0.3.8-3?distro=sid
     affected_by_vulnerabilities:

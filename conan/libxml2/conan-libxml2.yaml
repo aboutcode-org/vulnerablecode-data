@@ -1,4 +1,4 @@
-pacakge: pkg:conan/libxml2
+package: pkg:conan/libxml2
 versions:
   - purl: pkg:conan/libxml2@2.10.3
     affected_by_vulnerabilities: []

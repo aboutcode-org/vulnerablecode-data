@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/myspell
+package: pkg:deb/debian/myspell
 versions:
   - purl: pkg:deb/debian/myspell@1:3.0%2Bpre3.1-21?distro=buster
     affected_by_vulnerabilities: []

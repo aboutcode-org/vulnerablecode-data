@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libcdio
+package: pkg:deb/debian/libcdio
 versions:
   - purl: pkg:deb/debian/libcdio@0?distro=stretch
     affected_by_vulnerabilities: []

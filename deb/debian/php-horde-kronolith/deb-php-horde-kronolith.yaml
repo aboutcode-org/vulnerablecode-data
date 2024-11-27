@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-horde-kronolith
+package: pkg:deb/debian/php-horde-kronolith
 versions:
   - purl: pkg:deb/debian/php-horde-kronolith@4.0.2-1?distro=sid
     affected_by_vulnerabilities: []

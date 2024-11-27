@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-rencode
+package: pkg:deb/debian/python-rencode
 versions:
   - purl: pkg:deb/debian/python-rencode@1.0.5-1?distro=sid
     affected_by_vulnerabilities:

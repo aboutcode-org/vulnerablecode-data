@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ujson
+package: pkg:deb/debian/ujson
 versions:
   - purl: pkg:deb/debian/ujson@1.35-1?distro=stretch
     affected_by_vulnerabilities: []

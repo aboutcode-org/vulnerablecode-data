@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mapserver
+package: pkg:deb/debian/mapserver
 versions:
   - purl: pkg:deb/debian/mapserver@4.10.3-1?distro=sid
     affected_by_vulnerabilities: []

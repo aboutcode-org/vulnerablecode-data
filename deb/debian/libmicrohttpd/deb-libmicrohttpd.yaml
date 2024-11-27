@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libmicrohttpd
+package: pkg:deb/debian/libmicrohttpd
 versions:
   - purl: pkg:deb/debian/libmicrohttpd@0?distro=sid
     affected_by_vulnerabilities: []

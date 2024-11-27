@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/shellinabox
+package: pkg:deb/debian/shellinabox
 versions:
   - purl: pkg:deb/debian/shellinabox@2.19?distro=sid
     affected_by_vulnerabilities: []

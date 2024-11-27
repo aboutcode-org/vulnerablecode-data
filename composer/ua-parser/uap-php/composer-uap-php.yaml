@@ -1,4 +1,4 @@
-pacakge: pkg:composer/ua-parser/uap-php
+package: pkg:composer/ua-parser/uap-php
 versions:
   - purl: pkg:composer/ua-parser/uap-php@3.4.0
     affected_by_vulnerabilities:

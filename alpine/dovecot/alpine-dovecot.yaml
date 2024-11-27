@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/dovecot
+package: pkg:alpine/dovecot
 versions:
   - purl: pkg:alpine/dovecot@2.2.34-r0?arch=aarch64&distroversion=v3.7&reponame=main
     affected_by_vulnerabilities: []

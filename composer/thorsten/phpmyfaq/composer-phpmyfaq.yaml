@@ -1,4 +1,4 @@
-pacakge: pkg:composer/thorsten/phpmyfaq
+package: pkg:composer/thorsten/phpmyfaq
 versions:
   - purl: pkg:composer/thorsten/phpmyfaq@2.10.0-alpha
     affected_by_vulnerabilities:

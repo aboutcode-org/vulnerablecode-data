@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cmark-gfm
+package: pkg:deb/debian/cmark-gfm
 versions:
   - purl: pkg:deb/debian/cmark-gfm@0.28.3.gfm.19-3?distro=sid
     affected_by_vulnerabilities:

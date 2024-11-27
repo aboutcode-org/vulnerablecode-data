@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sanlock
+package: pkg:deb/debian/sanlock
 versions:
   - purl: pkg:deb/debian/sanlock@2.2-2?distro=sid
     affected_by_vulnerabilities: []

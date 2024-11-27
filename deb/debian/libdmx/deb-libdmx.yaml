@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libdmx
+package: pkg:deb/debian/libdmx
 versions:
   - purl: pkg:deb/debian/libdmx@1:1.1.2-1%2Bdeb7u1?distro=sid
     affected_by_vulnerabilities: []

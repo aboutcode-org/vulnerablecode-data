@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libmad
+package: pkg:deb/debian/libmad
 versions:
   - purl: pkg:deb/debian/libmad@0.15.1b-10?distro=sid
     affected_by_vulnerabilities: []

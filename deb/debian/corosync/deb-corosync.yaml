@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/corosync
+package: pkg:deb/debian/corosync
 versions:
   - purl: pkg:deb/debian/corosync@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tqdm
+package: pkg:deb/debian/tqdm
 versions:
   - purl: pkg:deb/debian/tqdm@4.11.2-1?distro=sid
     affected_by_vulnerabilities: []

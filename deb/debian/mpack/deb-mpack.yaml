@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mpack
+package: pkg:deb/debian/mpack
 versions:
   - purl: pkg:deb/debian/mpack@1.5-5
     affected_by_vulnerabilities:

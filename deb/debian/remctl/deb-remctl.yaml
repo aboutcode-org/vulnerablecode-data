@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/remctl
+package: pkg:deb/debian/remctl
 versions:
   - purl: pkg:deb/debian/remctl@3.13-1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libjgraphx-java
+package: pkg:deb/ubuntu/libjgraphx-java
 versions:
   - purl: pkg:deb/ubuntu/libjgraphx-java@1.0.2.7-1
     affected_by_vulnerabilities:

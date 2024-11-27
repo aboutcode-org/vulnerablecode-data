@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/py3-impacket
+package: pkg:alpine/py3-impacket
 versions:
   - purl: pkg:alpine/py3-impacket@0.9.23-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

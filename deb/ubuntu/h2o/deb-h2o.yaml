@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/h2o
+package: pkg:deb/ubuntu/h2o
 versions:
   - purl: pkg:deb/ubuntu/h2o@2.2.3%2Bdfsg-2
     affected_by_vulnerabilities:

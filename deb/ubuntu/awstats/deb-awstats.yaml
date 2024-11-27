@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/awstats
+package: pkg:deb/ubuntu/awstats
 versions:
   - purl: pkg:deb/ubuntu/awstats@6.0-4
     affected_by_vulnerabilities:

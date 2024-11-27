@@ -1,4 +1,4 @@
-pacakge: pkg:composer/zendframework/zend-xmlrpc
+package: pkg:composer/zendframework/zend-xmlrpc
 versions:
   - purl: pkg:composer/zendframework/zend-xmlrpc@2.1.0
     affected_by_vulnerabilities:

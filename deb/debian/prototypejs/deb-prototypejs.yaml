@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/prototypejs
+package: pkg:deb/debian/prototypejs
 versions:
   - purl: pkg:deb/debian/prototypejs@0?distro=sid
     affected_by_vulnerabilities: []

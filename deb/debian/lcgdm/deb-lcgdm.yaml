@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lcgdm
+package: pkg:deb/debian/lcgdm
 versions:
   - purl: pkg:deb/debian/lcgdm@1.10.0-2?distro=buster
     affected_by_vulnerabilities: []

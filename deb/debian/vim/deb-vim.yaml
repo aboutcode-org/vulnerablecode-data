@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/vim
+package: pkg:deb/debian/vim
 versions:
   - purl: pkg:deb/debian/vim@0?distro=sid
     affected_by_vulnerabilities: []

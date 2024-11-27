@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libfsntfs
+package: pkg:deb/ubuntu/libfsntfs
 versions:
   - purl: pkg:deb/ubuntu/libfsntfs@20160108-1
     affected_by_vulnerabilities:

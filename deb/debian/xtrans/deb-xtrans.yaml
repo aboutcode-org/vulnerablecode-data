@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xtrans
+package: pkg:deb/debian/xtrans
 versions:
   - purl: pkg:deb/debian/xtrans@1.0.0-6?distro=sid
     affected_by_vulnerabilities: []

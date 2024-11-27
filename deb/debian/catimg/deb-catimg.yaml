@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/catimg
+package: pkg:deb/debian/catimg
 versions:
   - purl: pkg:deb/debian/catimg@2.5.0-1?distro=sid
     affected_by_vulnerabilities: []

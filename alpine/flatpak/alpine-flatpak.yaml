@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/flatpak
+package: pkg:alpine/flatpak
 versions:
   - purl: pkg:alpine/flatpak@1.0.7-r0?arch=aarch64&distroversion=v3.9&reponame=community
     affected_by_vulnerabilities: []

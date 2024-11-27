@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/krusader
+package: pkg:deb/debian/krusader
 versions:
   - purl: pkg:deb/debian/krusader@0?distro=sid
     affected_by_vulnerabilities: []

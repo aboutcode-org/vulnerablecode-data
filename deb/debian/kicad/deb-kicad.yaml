@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kicad
+package: pkg:deb/debian/kicad
 versions:
   - purl: pkg:deb/debian/kicad@4.0.5%2Bdfsg1-4?distro=stretch
     affected_by_vulnerabilities: []

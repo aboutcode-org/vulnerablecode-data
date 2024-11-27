@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/p7zip-rar
+package: pkg:deb/debian/p7zip-rar
 versions:
   - purl: pkg:deb/debian/p7zip-rar@16.02-1?distro=stretch
     affected_by_vulnerabilities:

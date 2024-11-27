@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bluez
+package: pkg:deb/debian/bluez
 versions:
   - purl: pkg:deb/debian/bluez@0?distro=sid
     affected_by_vulnerabilities: []

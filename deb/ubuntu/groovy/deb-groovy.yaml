@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/groovy
+package: pkg:deb/ubuntu/groovy
 versions:
   - purl: pkg:deb/ubuntu/groovy@0.1.0beta10-3
     affected_by_vulnerabilities:

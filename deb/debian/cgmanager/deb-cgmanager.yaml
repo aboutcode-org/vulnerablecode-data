@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cgmanager
+package: pkg:deb/debian/cgmanager
 versions:
   - purl: pkg:deb/debian/cgmanager@0.33-3?distro=buster
     affected_by_vulnerabilities: []

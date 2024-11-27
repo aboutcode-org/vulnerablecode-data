@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/netcdf
+package: pkg:deb/debian/netcdf
 versions:
   - purl: pkg:deb/debian/netcdf@0?distro=stretch
     affected_by_vulnerabilities: []

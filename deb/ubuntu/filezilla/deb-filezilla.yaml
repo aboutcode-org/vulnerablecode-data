@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/filezilla
+package: pkg:deb/ubuntu/filezilla
 versions:
   - purl: pkg:deb/ubuntu/filezilla@3.0.0-0ubuntu1
     affected_by_vulnerabilities:

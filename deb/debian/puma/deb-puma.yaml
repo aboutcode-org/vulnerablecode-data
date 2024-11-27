@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/puma
+package: pkg:deb/debian/puma
 versions:
   - purl: pkg:deb/debian/puma@0?distro=stretch
     affected_by_vulnerabilities: []

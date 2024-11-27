@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sqlite3
+package: pkg:deb/debian/sqlite3
 versions:
   - purl: pkg:deb/debian/sqlite3@0?distro=sid
     affected_by_vulnerabilities: []

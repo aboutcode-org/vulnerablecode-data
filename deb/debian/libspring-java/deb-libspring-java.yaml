@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libspring-java
+package: pkg:deb/debian/libspring-java
 versions:
   - purl: pkg:deb/debian/libspring-java@0?distro=sid
     affected_by_vulnerabilities: []

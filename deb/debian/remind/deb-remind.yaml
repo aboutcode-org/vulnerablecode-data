@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/remind
+package: pkg:deb/debian/remind
 versions:
   - purl: pkg:deb/debian/remind@03.01.15-1?distro=sid
     affected_by_vulnerabilities: []

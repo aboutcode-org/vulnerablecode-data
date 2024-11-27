@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnupg2
+package: pkg:deb/debian/gnupg2
 versions:
   - purl: pkg:deb/debian/gnupg2@0?distro=sid
     affected_by_vulnerabilities: []

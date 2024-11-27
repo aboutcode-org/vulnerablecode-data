@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/knot
+package: pkg:deb/debian/knot
 versions:
   - purl: pkg:deb/debian/knot@1.5.2-1?distro=sid
     affected_by_vulnerabilities: []

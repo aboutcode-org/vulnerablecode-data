@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openjpa
+package: pkg:deb/debian/openjpa
 versions:
   - purl: pkg:deb/debian/openjpa@2.2.2-1?distro=sid
     affected_by_vulnerabilities: []

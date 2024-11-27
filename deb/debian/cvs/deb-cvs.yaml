@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cvs
+package: pkg:deb/debian/cvs
 versions:
   - purl: pkg:deb/debian/cvs@0?distro=sid
     affected_by_vulnerabilities: []

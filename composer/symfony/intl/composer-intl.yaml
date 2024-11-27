@@ -1,4 +1,4 @@
-pacakge: pkg:composer/symfony/intl
+package: pkg:composer/symfony/intl
 versions:
   - purl: pkg:composer/symfony/intl@2.7.0
     affected_by_vulnerabilities:

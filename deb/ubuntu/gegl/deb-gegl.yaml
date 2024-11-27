@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gegl
+package: pkg:deb/ubuntu/gegl
 versions:
   - purl: pkg:deb/ubuntu/gegl@0.0.16-1
     affected_by_vulnerabilities:

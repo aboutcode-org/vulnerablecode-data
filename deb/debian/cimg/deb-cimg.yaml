@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cimg
+package: pkg:deb/debian/cimg
 versions:
   - purl: pkg:deb/debian/cimg@1.7.9%2Bdfsg-1?distro=stretch
     affected_by_vulnerabilities:

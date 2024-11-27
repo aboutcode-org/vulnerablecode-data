@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/courier-authlib
+package: pkg:deb/debian/courier-authlib
 versions:
   - purl: pkg:deb/debian/courier-authlib@0.60.1-2.1?distro=sid
     affected_by_vulnerabilities: []

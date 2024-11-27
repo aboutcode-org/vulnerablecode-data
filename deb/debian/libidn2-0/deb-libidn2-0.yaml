@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libidn2-0
+package: pkg:deb/debian/libidn2-0
 versions:
   - purl: pkg:deb/debian/libidn2-0@0?distro=stretch
     affected_by_vulnerabilities: []

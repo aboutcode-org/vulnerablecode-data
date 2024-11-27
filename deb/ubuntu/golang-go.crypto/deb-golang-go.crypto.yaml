@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/golang-go.crypto
+package: pkg:deb/ubuntu/golang-go.crypto
 versions:
   - purl: pkg:deb/ubuntu/golang-go.crypto@0.0~hg190-1
     affected_by_vulnerabilities:

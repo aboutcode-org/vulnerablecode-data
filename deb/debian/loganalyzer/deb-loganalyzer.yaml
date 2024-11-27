@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/loganalyzer
+package: pkg:deb/debian/loganalyzer
 versions:
   - purl: pkg:deb/debian/loganalyzer@3.6.6%2Bdfsg-1?distro=sid
     affected_by_vulnerabilities: []

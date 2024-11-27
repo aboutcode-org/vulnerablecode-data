@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rxvt
+package: pkg:deb/debian/rxvt
 versions:
   - purl: pkg:deb/debian/rxvt@1:2.6.4-13?distro=stretch
     affected_by_vulnerabilities: []

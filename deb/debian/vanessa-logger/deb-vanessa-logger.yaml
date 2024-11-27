@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/vanessa-logger
+package: pkg:deb/debian/vanessa-logger
 versions:
   - purl: pkg:deb/debian/vanessa-logger@0.0.10-3?distro=sid
     affected_by_vulnerabilities: []

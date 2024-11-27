@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/postgresql-13
+package: pkg:deb/debian/postgresql-13
 versions:
   - purl: pkg:deb/debian/postgresql-13@13.1-1?distro=bullseye
     affected_by_vulnerabilities: []

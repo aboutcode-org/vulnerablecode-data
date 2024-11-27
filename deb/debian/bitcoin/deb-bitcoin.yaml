@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bitcoin
+package: pkg:deb/debian/bitcoin
 versions:
   - purl: pkg:deb/debian/bitcoin@0?distro=sid
     affected_by_vulnerabilities: []

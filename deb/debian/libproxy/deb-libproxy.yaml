@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libproxy
+package: pkg:deb/debian/libproxy
 versions:
   - purl: pkg:deb/debian/libproxy@0?distro=sid
     affected_by_vulnerabilities: []

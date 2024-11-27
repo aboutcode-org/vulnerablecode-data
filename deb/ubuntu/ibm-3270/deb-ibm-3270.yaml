@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ibm-3270
+package: pkg:deb/ubuntu/ibm-3270
 versions:
   - purl: pkg:deb/ubuntu/ibm-3270@3.3.10ga4-2
     affected_by_vulnerabilities:

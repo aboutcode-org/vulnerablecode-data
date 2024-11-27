@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/psensor
+package: pkg:deb/debian/psensor
 versions:
   - purl: pkg:deb/debian/psensor@1.1.5-1?distro=sid
     affected_by_vulnerabilities: []

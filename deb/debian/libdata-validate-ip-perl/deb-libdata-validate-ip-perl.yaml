@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libdata-validate-ip-perl
+package: pkg:deb/debian/libdata-validate-ip-perl
 versions:
   - purl: pkg:deb/debian/libdata-validate-ip-perl@0.27-1?distro=sid
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tuxonice-userui
+package: pkg:deb/debian/tuxonice-userui
 versions:
   - purl: pkg:deb/debian/tuxonice-userui@1.0-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/qdbm
+package: pkg:deb/debian/qdbm
 versions:
   - purl: pkg:deb/debian/qdbm@0?distro=sid
     affected_by_vulnerabilities: []

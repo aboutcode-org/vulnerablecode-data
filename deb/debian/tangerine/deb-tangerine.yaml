@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tangerine
+package: pkg:deb/debian/tangerine
 versions:
   - purl: pkg:deb/debian/tangerine@0.3.2.2-6?distro=sid
     affected_by_vulnerabilities: []

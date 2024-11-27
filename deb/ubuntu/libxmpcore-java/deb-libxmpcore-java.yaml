@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libxmpcore-java
+package: pkg:deb/ubuntu/libxmpcore-java
 versions:
   - purl: pkg:deb/ubuntu/libxmpcore-java@5.1.2-1
     affected_by_vulnerabilities:

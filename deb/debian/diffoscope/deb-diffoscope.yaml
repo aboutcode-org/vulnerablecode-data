@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/diffoscope
+package: pkg:deb/debian/diffoscope
 versions:
   - purl: pkg:deb/debian/diffoscope@113?distro=sid
     affected_by_vulnerabilities: []

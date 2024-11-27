@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bwm-ng
+package: pkg:deb/debian/bwm-ng
 versions:
   - purl: pkg:deb/debian/bwm-ng@0.6.1-2?distro=stretch
     affected_by_vulnerabilities:

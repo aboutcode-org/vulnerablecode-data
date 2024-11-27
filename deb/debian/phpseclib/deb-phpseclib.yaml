@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/phpseclib
+package: pkg:deb/debian/phpseclib
 versions:
   - purl: pkg:deb/debian/phpseclib@0?distro=sid
     affected_by_vulnerabilities: []

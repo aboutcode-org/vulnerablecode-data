@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/netty
+package: pkg:deb/debian/netty
 versions:
   - purl: pkg:deb/debian/netty@0?distro=sid
     affected_by_vulnerabilities: []

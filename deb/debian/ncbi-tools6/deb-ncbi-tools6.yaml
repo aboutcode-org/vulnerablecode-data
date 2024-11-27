@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ncbi-tools6
+package: pkg:deb/debian/ncbi-tools6
 versions:
   - purl: pkg:deb/debian/ncbi-tools6@6.1.20080302-4?distro=sid
     affected_by_vulnerabilities: []

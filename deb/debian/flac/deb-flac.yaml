@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/flac
+package: pkg:deb/debian/flac
 versions:
   - purl: pkg:deb/debian/flac@1.2.1-1?distro=sid
     affected_by_vulnerabilities: []

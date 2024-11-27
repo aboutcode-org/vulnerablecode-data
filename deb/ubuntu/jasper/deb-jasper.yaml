@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/jasper
+package: pkg:deb/ubuntu/jasper
 versions:
   - purl: pkg:deb/ubuntu/jasper@1.700.2-1
     affected_by_vulnerabilities:

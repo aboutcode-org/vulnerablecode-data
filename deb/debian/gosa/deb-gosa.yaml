@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gosa
+package: pkg:deb/debian/gosa
 versions:
   - purl: pkg:deb/debian/gosa@2.3-1
     affected_by_vulnerabilities:

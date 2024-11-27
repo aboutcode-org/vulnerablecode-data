@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xapian-core
+package: pkg:deb/debian/xapian-core
 versions:
   - purl: pkg:deb/debian/xapian-core@1.4.11-1?distro=sid
     affected_by_vulnerabilities: []

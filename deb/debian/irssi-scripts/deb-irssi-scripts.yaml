@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/irssi-scripts
+package: pkg:deb/debian/irssi-scripts
 versions:
   - purl: pkg:deb/debian/irssi-scripts@20070925?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/puppetdb
+package: pkg:deb/debian/puppetdb
 versions:
   - purl: pkg:deb/debian/puppetdb@6.2.0-3
     affected_by_vulnerabilities:

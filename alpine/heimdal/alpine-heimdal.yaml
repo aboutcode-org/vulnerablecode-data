@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/heimdal
+package: pkg:alpine/heimdal
 versions:
   - purl: pkg:alpine/heimdal@1.6_rc2-r5?arch=armhf&distroversion=v3.3&reponame=main
     affected_by_vulnerabilities: []

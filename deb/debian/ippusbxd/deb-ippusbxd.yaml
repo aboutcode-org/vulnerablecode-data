@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ippusbxd
+package: pkg:deb/debian/ippusbxd
 versions:
   - purl: pkg:deb/debian/ippusbxd@1.22-1?distro=buster
     affected_by_vulnerabilities: []

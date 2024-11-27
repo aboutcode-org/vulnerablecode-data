@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/linkchecker
+package: pkg:deb/debian/linkchecker
 versions:
   - purl: pkg:deb/debian/linkchecker@10.0.1-2?distro=sid
     affected_by_vulnerabilities: []

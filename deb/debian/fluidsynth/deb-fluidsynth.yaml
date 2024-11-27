@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fluidsynth
+package: pkg:deb/debian/fluidsynth
 versions:
   - purl: pkg:deb/debian/fluidsynth@1.1.11-1%2Bdeb10u1?distro=sid
     affected_by_vulnerabilities: []

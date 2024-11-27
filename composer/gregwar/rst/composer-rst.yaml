@@ -1,4 +1,4 @@
-pacakge: pkg:composer/gregwar/rst
+package: pkg:composer/gregwar/rst
 versions:
   - purl: pkg:composer/gregwar/rst@1.0.0
     affected_by_vulnerabilities:

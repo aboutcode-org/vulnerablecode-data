@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/whois
+package: pkg:deb/debian/whois
 versions:
   - purl: pkg:deb/debian/whois@4.4.14
     affected_by_vulnerabilities:

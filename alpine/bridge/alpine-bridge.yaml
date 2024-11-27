@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/bridge
+package: pkg:alpine/bridge
 versions:
   - purl: pkg:alpine/bridge@0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

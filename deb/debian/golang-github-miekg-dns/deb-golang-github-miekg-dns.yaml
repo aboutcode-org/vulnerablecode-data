@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-miekg-dns
+package: pkg:deb/debian/golang-github-miekg-dns
 versions:
   - purl: pkg:deb/debian/golang-github-miekg-dns@0.0~git20161018.0.58f52c5-1?distro=stretch
     affected_by_vulnerabilities:

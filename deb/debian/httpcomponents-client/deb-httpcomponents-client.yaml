@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/httpcomponents-client
+package: pkg:deb/debian/httpcomponents-client
 versions:
   - purl: pkg:deb/debian/httpcomponents-client@4.1.1-1?distro=sid
     affected_by_vulnerabilities: []

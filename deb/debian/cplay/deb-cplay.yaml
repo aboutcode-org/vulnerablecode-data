@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cplay
+package: pkg:deb/debian/cplay
 versions:
   - purl: pkg:deb/debian/cplay@1.45-3
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sogo
+package: pkg:deb/debian/sogo
 versions:
   - purl: pkg:deb/debian/sogo@2.2.5-1?distro=sid
     affected_by_vulnerabilities: []

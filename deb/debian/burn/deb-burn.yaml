@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/burn
+package: pkg:deb/debian/burn
 versions:
   - purl: pkg:deb/debian/burn@0.4.5-1?distro=stretch
     affected_by_vulnerabilities: []

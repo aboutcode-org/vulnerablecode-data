@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/djangorestframework
+package: pkg:deb/debian/djangorestframework
 versions:
   - purl: pkg:deb/debian/djangorestframework@3.10.2-1?distro=sid
     affected_by_vulnerabilities: []

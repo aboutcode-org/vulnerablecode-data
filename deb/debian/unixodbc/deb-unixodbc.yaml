@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/unixodbc
+package: pkg:deb/debian/unixodbc
 versions:
   - purl: pkg:deb/debian/unixodbc@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ikiwiki
+package: pkg:deb/debian/ikiwiki
 versions:
   - purl: pkg:deb/debian/ikiwiki@2.31.1?distro=sid
     affected_by_vulnerabilities: []

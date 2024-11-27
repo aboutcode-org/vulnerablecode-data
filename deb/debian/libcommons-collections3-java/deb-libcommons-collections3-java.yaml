@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libcommons-collections3-java
+package: pkg:deb/debian/libcommons-collections3-java
 versions:
   - purl: pkg:deb/debian/libcommons-collections3-java@3.2.2-1?distro=sid
     affected_by_vulnerabilities: []

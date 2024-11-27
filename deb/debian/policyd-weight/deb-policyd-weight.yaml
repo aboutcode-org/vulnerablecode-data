@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/policyd-weight
+package: pkg:deb/debian/policyd-weight
 versions:
   - purl: pkg:deb/debian/policyd-weight@0.1.14.17-1?distro=sid
     affected_by_vulnerabilities: []

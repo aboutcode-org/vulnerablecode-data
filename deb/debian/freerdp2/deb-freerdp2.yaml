@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/freerdp2
+package: pkg:deb/debian/freerdp2
 versions:
   - purl: pkg:deb/debian/freerdp2@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/hylafax
+package: pkg:deb/debian/hylafax
 versions:
   - purl: pkg:deb/debian/hylafax@0?distro=sid
     affected_by_vulnerabilities: []

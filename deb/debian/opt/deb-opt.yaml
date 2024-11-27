@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/opt
+package: pkg:deb/debian/opt
 versions:
   - purl: pkg:deb/debian/opt@3.19?distro=sid
     affected_by_vulnerabilities: []

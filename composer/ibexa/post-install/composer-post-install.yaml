@@ -1,4 +1,4 @@
-pacakge: pkg:composer/ibexa/post-install
+package: pkg:composer/ibexa/post-install
 versions:
   - purl: pkg:composer/ibexa/post-install@1.0.0
     affected_by_vulnerabilities:

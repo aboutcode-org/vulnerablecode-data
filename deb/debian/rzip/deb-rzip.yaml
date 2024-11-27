@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rzip
+package: pkg:deb/debian/rzip
 versions:
   - purl: pkg:deb/debian/rzip@2.1-4.1?distro=sid
     affected_by_vulnerabilities: []

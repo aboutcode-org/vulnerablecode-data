@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-bl
+package: pkg:deb/debian/node-bl
 versions:
   - purl: pkg:deb/debian/node-bl@1.1.2-1?distro=stretch
     affected_by_vulnerabilities: []

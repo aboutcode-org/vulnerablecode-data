@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-ox
+package: pkg:deb/debian/ruby-ox
 versions:
   - purl: pkg:deb/debian/ruby-ox@2.10.0-1?distro=sid
     affected_by_vulnerabilities: []

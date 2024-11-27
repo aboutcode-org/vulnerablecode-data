@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/t1utils
+package: pkg:deb/debian/t1utils
 versions:
   - purl: pkg:deb/debian/t1utils@1.38-4?distro=sid
     affected_by_vulnerabilities: []

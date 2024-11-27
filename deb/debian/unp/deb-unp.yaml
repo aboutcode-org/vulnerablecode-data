@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/unp
+package: pkg:deb/debian/unp
 versions:
   - purl: pkg:deb/debian/unp@1.0.13?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/python3-tkinter
+package: pkg:alpine/python3-tkinter
 versions:
   - purl: pkg:alpine/python3-tkinter@3.6.8-r1?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

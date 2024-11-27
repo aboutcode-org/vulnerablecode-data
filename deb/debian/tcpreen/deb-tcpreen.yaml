@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tcpreen
+package: pkg:deb/debian/tcpreen
 versions:
   - purl: pkg:deb/debian/tcpreen@1.4.3-0.3?distro=sid
     affected_by_vulnerabilities: []

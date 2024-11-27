@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libdbd-mysql-perl
+package: pkg:deb/ubuntu/libdbd-mysql-perl
 versions:
   - purl: pkg:deb/ubuntu/libdbd-mysql-perl@2.9003-2ubuntu1
     affected_by_vulnerabilities:

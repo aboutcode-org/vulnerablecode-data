@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libcaca
+package: pkg:deb/ubuntu/libcaca
 versions:
   - purl: pkg:deb/ubuntu/libcaca@0.9-3
     affected_by_vulnerabilities:

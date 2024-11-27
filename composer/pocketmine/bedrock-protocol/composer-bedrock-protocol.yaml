@@ -1,4 +1,4 @@
-pacakge: pkg:composer/pocketmine/bedrock-protocol
+package: pkg:composer/pocketmine/bedrock-protocol
 versions:
   - purl: pkg:composer/pocketmine/bedrock-protocol@1.0.0%2Bbedrock-1.17.10
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pdsh
+package: pkg:deb/debian/pdsh
 versions:
   - purl: pkg:deb/debian/pdsh@0?distro=sid
     affected_by_vulnerabilities: []

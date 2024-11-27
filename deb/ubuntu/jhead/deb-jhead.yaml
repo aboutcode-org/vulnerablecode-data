@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/jhead
+package: pkg:deb/ubuntu/jhead
 versions:
   - purl: pkg:deb/ubuntu/jhead@1:2.88-1
     affected_by_vulnerabilities:

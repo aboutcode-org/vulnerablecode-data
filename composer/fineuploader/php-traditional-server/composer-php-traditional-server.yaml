@@ -1,4 +1,4 @@
-pacakge: pkg:composer/fineuploader/php-traditional-server
+package: pkg:composer/fineuploader/php-traditional-server
 versions:
   - purl: pkg:composer/fineuploader/php-traditional-server@0.1.0
     affected_by_vulnerabilities:

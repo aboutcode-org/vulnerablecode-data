@@ -1,4 +1,4 @@
-pacakge: pkg:composer/cakephp/database
+package: pkg:composer/cakephp/database
 versions:
   - purl: pkg:composer/cakephp/database@4.2.0
     affected_by_vulnerabilities:

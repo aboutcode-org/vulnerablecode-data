@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/chkrootkit
+package: pkg:deb/ubuntu/chkrootkit
 versions:
   - purl: pkg:deb/ubuntu/chkrootkit@0.43-1
     affected_by_vulnerabilities:

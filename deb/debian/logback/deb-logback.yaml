@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/logback
+package: pkg:deb/debian/logback
 versions:
   - purl: pkg:deb/debian/logback@1:1.1.9-3?distro=sid
     affected_by_vulnerabilities: []

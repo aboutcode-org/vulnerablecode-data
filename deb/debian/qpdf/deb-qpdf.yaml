@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/qpdf
+package: pkg:deb/debian/qpdf
 versions:
   - purl: pkg:deb/debian/qpdf@10.1.0-1?distro=sid
     affected_by_vulnerabilities: []

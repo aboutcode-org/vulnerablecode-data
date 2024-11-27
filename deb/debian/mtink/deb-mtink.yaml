@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mtink
+package: pkg:deb/debian/mtink
 versions:
   - purl: pkg:deb/debian/mtink@0?distro=sid
     affected_by_vulnerabilities: []

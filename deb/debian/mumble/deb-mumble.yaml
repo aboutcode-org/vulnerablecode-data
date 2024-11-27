@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mumble
+package: pkg:deb/debian/mumble
 versions:
   - purl: pkg:deb/debian/mumble@0?distro=stretch
     affected_by_vulnerabilities: []

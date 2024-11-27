@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nut
+package: pkg:deb/debian/nut
 versions:
   - purl: pkg:deb/debian/nut@2.6.4-1?distro=sid
     affected_by_vulnerabilities: []

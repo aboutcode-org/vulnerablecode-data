@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lmbench
+package: pkg:deb/debian/lmbench
 versions:
   - purl: pkg:deb/debian/lmbench@3.0-a9-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/kamailio
+package: pkg:alpine/kamailio
 versions:
   - purl: pkg:alpine/kamailio@4.4.0-r2?arch=armhf&distroversion=v3.4&reponame=main
     affected_by_vulnerabilities: []

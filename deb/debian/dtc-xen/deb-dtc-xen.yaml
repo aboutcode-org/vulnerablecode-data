@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dtc-xen
+package: pkg:deb/debian/dtc-xen
 versions:
   - purl: pkg:deb/debian/dtc-xen@0.5.17-1?distro=stretch
     affected_by_vulnerabilities: []

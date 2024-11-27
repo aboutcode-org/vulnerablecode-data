@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libice
+package: pkg:alpine/libice
 versions:
   - purl: pkg:alpine/libice@1.0.10-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

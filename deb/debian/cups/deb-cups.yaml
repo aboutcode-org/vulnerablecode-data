@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cups
+package: pkg:deb/debian/cups
 versions:
   - purl: pkg:deb/debian/cups@0?distro=sid
     affected_by_vulnerabilities: []

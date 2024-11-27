@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/grpc
+package: pkg:deb/ubuntu/grpc
 versions:
   - purl: pkg:deb/ubuntu/grpc@0.10.0-1
     affected_by_vulnerabilities:

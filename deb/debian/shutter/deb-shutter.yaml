@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/shutter
+package: pkg:deb/debian/shutter
 versions:
   - purl: pkg:deb/debian/shutter@0.93.1-1?distro=sid
     affected_by_vulnerabilities: []

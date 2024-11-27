@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nautilus-python
+package: pkg:deb/debian/nautilus-python
 versions:
   - purl: pkg:deb/debian/nautilus-python@0.4.3-3.2?distro=sid
     affected_by_vulnerabilities: []

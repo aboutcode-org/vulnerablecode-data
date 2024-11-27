@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/systemd
+package: pkg:deb/debian/systemd
 versions:
   - purl: pkg:deb/debian/systemd@0?distro=sid
     affected_by_vulnerabilities: []

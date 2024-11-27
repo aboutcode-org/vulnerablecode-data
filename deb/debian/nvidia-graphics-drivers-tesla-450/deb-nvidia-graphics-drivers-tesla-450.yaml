@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nvidia-graphics-drivers-tesla-450
+package: pkg:deb/debian/nvidia-graphics-drivers-tesla-450
 versions:
   - purl: pkg:deb/debian/nvidia-graphics-drivers-tesla-450@450.102.04-1?distro=sid
     affected_by_vulnerabilities: []

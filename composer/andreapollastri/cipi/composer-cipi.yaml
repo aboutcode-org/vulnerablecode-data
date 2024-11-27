@@ -1,4 +1,4 @@
-pacakge: pkg:composer/andreapollastri/cipi
+package: pkg:composer/andreapollastri/cipi
 versions:
   - purl: pkg:composer/andreapollastri/cipi@1.0
     affected_by_vulnerabilities:

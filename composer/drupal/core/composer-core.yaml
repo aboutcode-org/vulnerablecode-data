@@ -1,4 +1,4 @@
-pacakge: pkg:composer/drupal/core
+package: pkg:composer/drupal/core
 versions:
   - purl: pkg:composer/drupal/core@10.0.0-alpha1
     affected_by_vulnerabilities: []

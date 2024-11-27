@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-faye-websocket
+package: pkg:deb/debian/ruby-faye-websocket
 versions:
   - purl: pkg:deb/debian/ruby-faye-websocket@0.10.7-1?distro=sid
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/activemq
+package: pkg:deb/debian/activemq
 versions:
   - purl: pkg:deb/debian/activemq@0?distro=sid
     affected_by_vulnerabilities: []

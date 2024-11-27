@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/catimg
+package: pkg:deb/ubuntu/catimg
 versions:
   - purl: pkg:deb/ubuntu/catimg@2.2.1-1
     affected_by_vulnerabilities:

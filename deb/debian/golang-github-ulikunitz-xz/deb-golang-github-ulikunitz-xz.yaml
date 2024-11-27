@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-ulikunitz-xz
+package: pkg:deb/debian/golang-github-ulikunitz-xz
 versions:
   - purl: pkg:deb/debian/golang-github-ulikunitz-xz@0.5.6-2?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/cvs
+package: pkg:deb/ubuntu/cvs
 versions:
   - purl: pkg:deb/ubuntu/cvs@1:1.12.13-10
     affected_by_vulnerabilities:

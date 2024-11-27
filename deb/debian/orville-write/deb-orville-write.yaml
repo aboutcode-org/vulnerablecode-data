@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/orville-write
+package: pkg:deb/debian/orville-write
 versions:
   - purl: pkg:deb/debian/orville-write@2.53-4woody1
     affected_by_vulnerabilities:

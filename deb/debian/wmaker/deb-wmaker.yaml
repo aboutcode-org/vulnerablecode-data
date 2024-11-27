@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/wmaker
+package: pkg:deb/debian/wmaker
 versions:
   - purl: pkg:deb/debian/wmaker@0.14.1-7
     affected_by_vulnerabilities:

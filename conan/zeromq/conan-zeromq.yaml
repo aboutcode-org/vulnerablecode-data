@@ -1,4 +1,4 @@
-pacakge: pkg:conan/zeromq
+package: pkg:conan/zeromq
 versions:
   - purl: pkg:conan/zeromq@4.3.2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/weborf
+package: pkg:deb/debian/weborf
 versions:
   - purl: pkg:deb/debian/weborf@0.12.1-1?distro=sid
     affected_by_vulnerabilities: []

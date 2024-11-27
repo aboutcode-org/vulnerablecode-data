@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ed
+package: pkg:deb/debian/ed
 versions:
   - purl: pkg:deb/debian/ed@0?distro=sid
     affected_by_vulnerabilities: []

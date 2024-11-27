@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/suds
+package: pkg:deb/debian/suds
 versions:
   - purl: pkg:deb/debian/suds@0.4.1-8?distro=sid
     affected_by_vulnerabilities: []

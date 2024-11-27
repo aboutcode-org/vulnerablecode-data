@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ibutils
+package: pkg:deb/ubuntu/ibutils
 versions:
   - purl: pkg:deb/ubuntu/ibutils@1.2-OFED-1.4.2-1
     affected_by_vulnerabilities:

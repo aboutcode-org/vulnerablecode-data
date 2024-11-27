@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-doctrine-dbal
+package: pkg:deb/debian/php-doctrine-dbal
 versions:
   - purl: pkg:deb/debian/php-doctrine-dbal@0?distro=sid
     affected_by_vulnerabilities: []

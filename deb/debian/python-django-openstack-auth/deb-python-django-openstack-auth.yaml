@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-django-openstack-auth
+package: pkg:deb/debian/python-django-openstack-auth
 versions:
   - purl: pkg:deb/debian/python-django-openstack-auth@1.1.6-5?distro=stretch
     affected_by_vulnerabilities: []

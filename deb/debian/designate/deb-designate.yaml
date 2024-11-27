@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/designate
+package: pkg:deb/debian/designate
 versions:
   - purl: pkg:deb/debian/designate@1:11.0.0-2?distro=sid
     affected_by_vulnerabilities: []

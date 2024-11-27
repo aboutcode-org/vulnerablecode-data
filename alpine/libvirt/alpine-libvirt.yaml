@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libvirt
+package: pkg:alpine/libvirt
 versions:
   - purl: pkg:alpine/libvirt@2.5.0-r2?arch=aarch64&distroversion=v3.5&reponame=main
     affected_by_vulnerabilities: []

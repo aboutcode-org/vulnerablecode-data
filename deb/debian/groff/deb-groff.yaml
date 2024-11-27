@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/groff
+package: pkg:deb/debian/groff
 versions:
   - purl: pkg:deb/debian/groff@1.11a-2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/glewlwyd
+package: pkg:deb/debian/glewlwyd
 versions:
   - purl: pkg:deb/debian/glewlwyd@0?distro=sid
     affected_by_vulnerabilities: []

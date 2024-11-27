@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/qutebrowser
+package: pkg:deb/debian/qutebrowser
 versions:
   - purl: pkg:deb/debian/qutebrowser@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/studio-42/elfinder
+package: pkg:composer/studio-42/elfinder
 versions:
   - purl: pkg:composer/studio-42/elfinder@2.0.3
     affected_by_vulnerabilities:

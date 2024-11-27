@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tang
+package: pkg:deb/debian/tang
 versions:
   - purl: pkg:deb/debian/tang@0?distro=sid
     affected_by_vulnerabilities: []

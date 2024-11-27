@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-follow-redirects
+package: pkg:deb/debian/node-follow-redirects
 versions:
   - purl: pkg:deb/debian/node-follow-redirects@1.13.1-1%2Bdeb11u1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libappimage
+package: pkg:deb/debian/libappimage
 versions:
   - purl: pkg:deb/debian/libappimage@0.1.9%2Bdfsg-1
     affected_by_vulnerabilities:

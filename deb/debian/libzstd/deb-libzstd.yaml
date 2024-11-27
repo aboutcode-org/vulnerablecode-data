@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libzstd
+package: pkg:deb/debian/libzstd
 versions:
   - purl: pkg:deb/debian/libzstd@0?distro=stretch
     affected_by_vulnerabilities: []

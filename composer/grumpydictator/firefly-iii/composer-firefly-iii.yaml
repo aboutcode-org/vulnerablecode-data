@@ -1,4 +1,4 @@
-pacakge: pkg:composer/grumpydictator/firefly-iii
+package: pkg:composer/grumpydictator/firefly-iii
 versions:
   - purl: pkg:composer/grumpydictator/firefly-iii@3.0.0
     affected_by_vulnerabilities:

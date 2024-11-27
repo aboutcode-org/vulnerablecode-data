@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/confuse
+package: pkg:deb/debian/confuse
 versions:
   - purl: pkg:deb/debian/confuse@3.0%2Bdfsg-2%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

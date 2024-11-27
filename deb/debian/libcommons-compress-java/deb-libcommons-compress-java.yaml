@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libcommons-compress-java
+package: pkg:deb/debian/libcommons-compress-java
 versions:
   - purl: pkg:deb/debian/libcommons-compress-java@0?distro=stretch
     affected_by_vulnerabilities: []

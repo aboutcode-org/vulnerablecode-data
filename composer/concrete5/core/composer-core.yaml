@@ -1,4 +1,4 @@
-pacakge: pkg:composer/concrete5/core
+package: pkg:composer/concrete5/core
 versions:
   - purl: pkg:composer/concrete5/core@8.2.0
     affected_by_vulnerabilities:

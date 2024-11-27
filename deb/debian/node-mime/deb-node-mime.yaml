@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-mime
+package: pkg:deb/debian/node-mime
 versions:
   - purl: pkg:deb/debian/node-mime@1.3.4-1?distro=stretch
     affected_by_vulnerabilities:

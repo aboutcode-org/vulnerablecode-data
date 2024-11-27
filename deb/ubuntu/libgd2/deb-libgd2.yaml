@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libgd2
+package: pkg:deb/ubuntu/libgd2
 versions:
   - purl: pkg:deb/ubuntu/libgd2@2.0.23-2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/nautilus
+package: pkg:alpine/nautilus
 versions:
   - purl: pkg:alpine/nautilus@3.32.1?arch=aarch64&distroversion=v3.11&reponame=community
     affected_by_vulnerabilities: []

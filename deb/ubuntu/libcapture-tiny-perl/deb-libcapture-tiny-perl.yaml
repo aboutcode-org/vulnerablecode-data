@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libcapture-tiny-perl
+package: pkg:deb/ubuntu/libcapture-tiny-perl
 versions:
   - purl: pkg:deb/ubuntu/libcapture-tiny-perl@0.06-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:conan/brotli
+package: pkg:conan/brotli
 versions:
   - purl: pkg:conan/brotli@1.0.7
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/network-manager-vpnc
+package: pkg:deb/debian/network-manager-vpnc
 versions:
   - purl: pkg:deb/debian/network-manager-vpnc@1.2.4-4%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/processwire/processwire
+package: pkg:composer/processwire/processwire
 versions:
   - purl: pkg:composer/processwire/processwire@3.0.123
     affected_by_vulnerabilities:

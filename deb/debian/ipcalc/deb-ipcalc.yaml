@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ipcalc
+package: pkg:deb/debian/ipcalc
 versions:
   - purl: pkg:deb/debian/ipcalc@0.37-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libxstream-java
+package: pkg:deb/ubuntu/libxstream-java
 versions:
   - purl: pkg:deb/ubuntu/libxstream-java@1.2.2-1
     affected_by_vulnerabilities:

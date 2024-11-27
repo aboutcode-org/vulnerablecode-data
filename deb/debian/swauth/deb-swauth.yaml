@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/swauth
+package: pkg:deb/debian/swauth
 versions:
   - purl: pkg:deb/debian/swauth@1.2.0-2%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

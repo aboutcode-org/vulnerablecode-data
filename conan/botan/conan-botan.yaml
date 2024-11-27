@@ -1,4 +1,4 @@
-pacakge: pkg:conan/botan
+package: pkg:conan/botan
 versions:
   - purl: pkg:conan/botan@2.12.1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/backupninja
+package: pkg:deb/debian/backupninja
 versions:
   - purl: pkg:deb/debian/backupninja@0.5-3sarge1
     affected_by_vulnerabilities:

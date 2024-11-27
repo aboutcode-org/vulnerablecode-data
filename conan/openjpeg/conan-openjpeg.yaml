@@ -1,4 +1,4 @@
-pacakge: pkg:conan/openjpeg
+package: pkg:conan/openjpeg
 versions:
   - purl: pkg:conan/openjpeg@2.3.1
     affected_by_vulnerabilities:

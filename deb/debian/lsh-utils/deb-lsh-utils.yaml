@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lsh-utils
+package: pkg:deb/debian/lsh-utils
 versions:
   - purl: pkg:deb/debian/lsh-utils@1.2.5-2woody3
     affected_by_vulnerabilities:

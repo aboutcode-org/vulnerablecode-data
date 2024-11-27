@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/e2fsprogs
+package: pkg:alpine/e2fsprogs
 versions:
   - purl: pkg:alpine/e2fsprogs@1.43.7-r1?arch=aarch64&distroversion=v3.7&reponame=main
     affected_by_vulnerabilities: []

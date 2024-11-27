@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/isync
+package: pkg:deb/debian/isync
 versions:
   - purl: pkg:deb/debian/isync@0?distro=sid
     affected_by_vulnerabilities: []

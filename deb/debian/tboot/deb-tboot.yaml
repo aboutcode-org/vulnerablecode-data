@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tboot
+package: pkg:deb/debian/tboot
 versions:
   - purl: pkg:deb/debian/tboot@0?distro=sid
     affected_by_vulnerabilities: []

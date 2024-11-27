@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/datatables.js
+package: pkg:deb/debian/datatables.js
 versions:
   - purl: pkg:deb/debian/datatables.js@1.10.13%2Bdfsg-2?distro=stretch
     affected_by_vulnerabilities:

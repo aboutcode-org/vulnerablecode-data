@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/beaker
+package: pkg:deb/debian/beaker
 versions:
   - purl: pkg:deb/debian/beaker@1.10.0-1?distro=sid
     affected_by_vulnerabilities: []

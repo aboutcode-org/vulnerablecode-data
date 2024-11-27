@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-mdb2
+package: pkg:deb/debian/php-mdb2
 versions:
   - purl: pkg:deb/debian/php-mdb2@2.5.0b2-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/steam
+package: pkg:deb/debian/steam
 versions:
   - purl: pkg:deb/debian/steam@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-postcss
+package: pkg:deb/debian/node-postcss
 versions:
   - purl: pkg:deb/debian/node-postcss@0?distro=sid
     affected_by_vulnerabilities: []

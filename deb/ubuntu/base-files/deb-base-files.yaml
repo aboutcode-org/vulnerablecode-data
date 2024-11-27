@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/base-files
+package: pkg:deb/ubuntu/base-files
 versions:
   - purl: pkg:deb/ubuntu/base-files@10.1ubuntu1
     affected_by_vulnerabilities:

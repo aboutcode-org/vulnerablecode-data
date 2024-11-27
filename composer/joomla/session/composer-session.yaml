@@ -1,4 +1,4 @@
-pacakge: pkg:composer/joomla/session
+package: pkg:composer/joomla/session
 versions:
   - purl: pkg:composer/joomla/session@1.0
     affected_by_vulnerabilities:

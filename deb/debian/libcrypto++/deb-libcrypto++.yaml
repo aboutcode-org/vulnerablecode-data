@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libcrypto%2B%2B
+package: pkg:deb/debian/libcrypto%2B%2B
 versions:
   - purl: pkg:deb/debian/libcrypto%2B%2B@0?distro=sid
     affected_by_vulnerabilities: []

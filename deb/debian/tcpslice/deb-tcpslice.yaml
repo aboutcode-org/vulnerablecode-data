@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tcpslice
+package: pkg:deb/debian/tcpslice
 versions:
   - purl: pkg:deb/debian/tcpslice@1.2a3-4?distro=sid
     affected_by_vulnerabilities:

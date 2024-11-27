@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-ecdsa
+package: pkg:deb/debian/python-ecdsa
 versions:
   - purl: pkg:deb/debian/python-ecdsa@0.13-2%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

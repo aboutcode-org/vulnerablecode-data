@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ipmitool
+package: pkg:deb/debian/ipmitool
 versions:
   - purl: pkg:deb/debian/ipmitool@1.8.11-5?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/chicken
+package: pkg:deb/debian/chicken
 versions:
   - purl: pkg:deb/debian/chicken@0?distro=sid
     affected_by_vulnerabilities: []

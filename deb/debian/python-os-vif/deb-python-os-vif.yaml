@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-os-vif
+package: pkg:deb/debian/python-os-vif
 versions:
   - purl: pkg:deb/debian/python-os-vif@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gcab
+package: pkg:deb/ubuntu/gcab
 versions:
   - purl: pkg:deb/ubuntu/gcab@0.4-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/simplesamlphp/simplesamlphp-module-infocard
+package: pkg:composer/simplesamlphp/simplesamlphp-module-infocard
 versions:
   - purl: pkg:composer/simplesamlphp/simplesamlphp-module-infocard@1.0
     affected_by_vulnerabilities:

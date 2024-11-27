@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/flightcrew
+package: pkg:deb/ubuntu/flightcrew
 versions:
   - purl: pkg:deb/ubuntu/flightcrew@0.7.2%2Bdfsg-1
     affected_by_vulnerabilities:

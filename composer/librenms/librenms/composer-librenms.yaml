@@ -1,4 +1,4 @@
-pacakge: pkg:composer/librenms/librenms
+package: pkg:composer/librenms/librenms
 versions:
   - purl: pkg:composer/librenms/librenms@1.19
     affected_by_vulnerabilities:

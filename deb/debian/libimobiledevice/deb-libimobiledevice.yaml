@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libimobiledevice
+package: pkg:deb/debian/libimobiledevice
 versions:
   - purl: pkg:deb/debian/libimobiledevice@1.1.5-0.1?distro=sid
     affected_by_vulnerabilities: []

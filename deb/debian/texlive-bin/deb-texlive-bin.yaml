@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/texlive-bin
+package: pkg:deb/debian/texlive-bin
 versions:
   - purl: pkg:deb/debian/texlive-bin@0?distro=sid
     affected_by_vulnerabilities: []

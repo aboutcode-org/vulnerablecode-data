@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-scciclient
+package: pkg:deb/debian/python-scciclient
 versions:
   - purl: pkg:deb/debian/python-scciclient@0.12.3-2?distro=sid
     affected_by_vulnerabilities: []

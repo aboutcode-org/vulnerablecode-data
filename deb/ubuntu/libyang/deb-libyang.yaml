@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libyang
+package: pkg:deb/ubuntu/libyang
 versions:
   - purl: pkg:deb/ubuntu/libyang@0.16.105-1
     affected_by_vulnerabilities:

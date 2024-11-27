@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/orca
+package: pkg:alpine/orca
 versions:
   - purl: pkg:alpine/orca@0?arch=aarch64&distroversion=v3.13&reponame=community
     affected_by_vulnerabilities: []

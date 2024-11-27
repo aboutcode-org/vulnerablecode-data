@@ -1,4 +1,4 @@
-pacakge: pkg:composer/zendframework/zend-mail
+package: pkg:composer/zendframework/zend-mail
 versions:
   - purl: pkg:composer/zendframework/zend-mail@1.12.12
     affected_by_vulnerabilities: []

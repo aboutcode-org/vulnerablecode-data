@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lasso
+package: pkg:deb/debian/lasso
 versions:
   - purl: pkg:deb/debian/lasso@2.2.1-2?distro=sid
     affected_by_vulnerabilities: []

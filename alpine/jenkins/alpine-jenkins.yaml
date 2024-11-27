@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/jenkins
+package: pkg:alpine/jenkins
 versions:
   - purl: pkg:alpine/jenkins@2.164.2-r0?arch=aarch64&distroversion=v3.9&reponame=community
     affected_by_vulnerabilities: []

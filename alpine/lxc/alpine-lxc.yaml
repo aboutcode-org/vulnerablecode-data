@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/lxc
+package: pkg:alpine/lxc
 versions:
   - purl: pkg:alpine/lxc@2.0.9-r1?arch=aarch64&distroversion=v3.6&reponame=main
     affected_by_vulnerabilities: []

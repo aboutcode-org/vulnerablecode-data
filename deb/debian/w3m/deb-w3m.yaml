@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/w3m
+package: pkg:deb/debian/w3m
 versions:
   - purl: pkg:deb/debian/w3m@0.1.10%2B0.1.11pre%2Bkokb23-4
     affected_by_vulnerabilities:

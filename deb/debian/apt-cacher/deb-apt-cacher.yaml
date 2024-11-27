@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/apt-cacher
+package: pkg:deb/debian/apt-cacher
 versions:
   - purl: pkg:deb/debian/apt-cacher@0.9.10?distro=sid
     affected_by_vulnerabilities: []

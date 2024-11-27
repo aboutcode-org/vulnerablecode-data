@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/incron
+package: pkg:deb/debian/incron
 versions:
   - purl: pkg:deb/debian/incron@0.5.10-3?distro=stretch
     affected_by_vulnerabilities: []

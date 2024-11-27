@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tcp-wrappers
+package: pkg:deb/debian/tcp-wrappers
 versions:
   - purl: pkg:deb/debian/tcp-wrappers@7.6.dbs-12?distro=sid
     affected_by_vulnerabilities: []

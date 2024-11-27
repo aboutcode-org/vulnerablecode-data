@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/open-vm-tools
+package: pkg:alpine/open-vm-tools
 versions:
   - purl: pkg:alpine/open-vm-tools@11.2.5-r1?arch=aarch64&distroversion=v3.14&reponame=community
     affected_by_vulnerabilities: []

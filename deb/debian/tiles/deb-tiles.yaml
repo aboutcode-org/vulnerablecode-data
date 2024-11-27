@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tiles
+package: pkg:deb/debian/tiles
 versions:
   - purl: pkg:deb/debian/tiles@2.2.0-1?distro=sid
     affected_by_vulnerabilities: []

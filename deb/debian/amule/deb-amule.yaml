@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/amule
+package: pkg:deb/debian/amule
 versions:
   - purl: pkg:deb/debian/amule@0?distro=sid
     affected_by_vulnerabilities: []

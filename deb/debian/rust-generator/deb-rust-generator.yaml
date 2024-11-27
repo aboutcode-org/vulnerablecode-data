@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-generator
+package: pkg:deb/debian/rust-generator
 versions:
   - purl: pkg:deb/debian/rust-generator@0.6.20-2?distro=sid
     affected_by_vulnerabilities:

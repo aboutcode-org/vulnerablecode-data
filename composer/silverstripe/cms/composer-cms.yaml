@@ -1,4 +1,4 @@
-pacakge: pkg:composer/silverstripe/cms
+package: pkg:composer/silverstripe/cms
 versions:
   - purl: pkg:composer/silverstripe/cms@2.4.10
     affected_by_vulnerabilities:

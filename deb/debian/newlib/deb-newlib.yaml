@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/newlib
+package: pkg:deb/debian/newlib
 versions:
   - purl: pkg:deb/debian/newlib@2.0.0-1?distro=sid
     affected_by_vulnerabilities: []

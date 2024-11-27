@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby2.3
+package: pkg:deb/debian/ruby2.3
 versions:
   - purl: pkg:deb/debian/ruby2.3@0?distro=stretch
     affected_by_vulnerabilities: []

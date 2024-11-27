@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-tzinfo
+package: pkg:deb/debian/ruby-tzinfo
 versions:
   - purl: pkg:deb/debian/ruby-tzinfo@1.2.5-1?distro=sid
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/minissdpd
+package: pkg:deb/debian/minissdpd
 versions:
   - purl: pkg:deb/debian/minissdpd@1.2.20130907-3.2?distro=sid
     affected_by_vulnerabilities: []

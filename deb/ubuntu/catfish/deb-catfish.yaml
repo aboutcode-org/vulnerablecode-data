@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/catfish
+package: pkg:deb/ubuntu/catfish
 versions:
   - purl: pkg:deb/ubuntu/catfish@0.1-0ubuntu1
     affected_by_vulnerabilities:

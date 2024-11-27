@@ -1,4 +1,4 @@
-pacakge: pkg:composer/mustache/mustache
+package: pkg:composer/mustache/mustache
 versions:
   - purl: pkg:composer/mustache/mustache@2.0.0
     affected_by_vulnerabilities:

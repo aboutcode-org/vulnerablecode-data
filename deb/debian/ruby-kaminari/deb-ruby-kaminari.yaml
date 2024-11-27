@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-kaminari
+package: pkg:deb/debian/ruby-kaminari
 versions:
   - purl: pkg:deb/debian/ruby-kaminari@0.17.0-3?distro=stretch
     affected_by_vulnerabilities: []

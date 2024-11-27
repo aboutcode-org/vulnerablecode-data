@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libhtml-stripscripts-perl
+package: pkg:deb/debian/libhtml-stripscripts-perl
 versions:
   - purl: pkg:deb/debian/libhtml-stripscripts-perl@1.06-1?distro=sid
     affected_by_vulnerabilities:

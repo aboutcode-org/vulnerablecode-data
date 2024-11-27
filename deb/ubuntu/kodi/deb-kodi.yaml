@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/kodi
+package: pkg:deb/ubuntu/kodi
 versions:
   - purl: pkg:deb/ubuntu/kodi@14.2%2Bdfsg1-2
     affected_by_vulnerabilities:

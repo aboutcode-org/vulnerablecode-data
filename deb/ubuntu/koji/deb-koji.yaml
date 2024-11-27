@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/koji
+package: pkg:deb/ubuntu/koji
 versions:
   - purl: pkg:deb/ubuntu/koji@1.10.0-1
     affected_by_vulnerabilities:

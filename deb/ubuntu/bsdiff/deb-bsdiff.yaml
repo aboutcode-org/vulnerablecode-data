@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/bsdiff
+package: pkg:deb/ubuntu/bsdiff
 versions:
   - purl: pkg:deb/ubuntu/bsdiff@4.3-1
     affected_by_vulnerabilities:

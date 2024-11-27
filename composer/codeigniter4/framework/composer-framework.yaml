@@ -1,4 +1,4 @@
-pacakge: pkg:composer/codeigniter4/framework
+package: pkg:composer/codeigniter4/framework
 versions:
   - purl: pkg:composer/codeigniter4/framework@3.1.11
     affected_by_vulnerabilities:

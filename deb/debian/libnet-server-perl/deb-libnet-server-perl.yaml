@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libnet-server-perl
+package: pkg:deb/debian/libnet-server-perl
 versions:
   - purl: pkg:deb/debian/libnet-server-perl@0.87-3sarge1
     affected_by_vulnerabilities:

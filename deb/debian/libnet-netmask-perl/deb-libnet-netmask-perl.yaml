@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libnet-netmask-perl
+package: pkg:deb/debian/libnet-netmask-perl
 versions:
   - purl: pkg:deb/debian/libnet-netmask-perl@1.9022-1?distro=stretch
     affected_by_vulnerabilities:

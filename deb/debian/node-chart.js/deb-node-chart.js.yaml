@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-chart.js
+package: pkg:deb/debian/node-chart.js
 versions:
   - purl: pkg:deb/debian/node-chart.js@2.7.3%2Bdfsg-5?distro=sid
     affected_by_vulnerabilities:

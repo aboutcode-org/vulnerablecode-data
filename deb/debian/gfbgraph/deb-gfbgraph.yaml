@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gfbgraph
+package: pkg:deb/debian/gfbgraph
 versions:
   - purl: pkg:deb/debian/gfbgraph@0.2.3-1?distro=stretch
     affected_by_vulnerabilities:

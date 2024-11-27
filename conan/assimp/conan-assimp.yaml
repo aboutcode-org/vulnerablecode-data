@@ -1,4 +1,4 @@
-pacakge: pkg:conan/assimp
+package: pkg:conan/assimp
 versions:
   - purl: pkg:conan/assimp@5.1.0
     affected_by_vulnerabilities:

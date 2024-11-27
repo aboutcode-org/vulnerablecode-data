@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/zip4j
+package: pkg:deb/debian/zip4j
 versions:
   - purl: pkg:deb/debian/zip4j@0?distro=sid
     affected_by_vulnerabilities: []

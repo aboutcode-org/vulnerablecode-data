@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gst-rtsp-server1.0
+package: pkg:deb/ubuntu/gst-rtsp-server1.0
 versions:
   - purl: pkg:deb/ubuntu/gst-rtsp-server1.0@1.10.0-1
     affected_by_vulnerabilities:

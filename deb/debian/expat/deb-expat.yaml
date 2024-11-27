@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/expat
+package: pkg:deb/debian/expat
 versions:
   - purl: pkg:deb/debian/expat@0?distro=sid
     affected_by_vulnerabilities: []

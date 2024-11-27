@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/iortcw
+package: pkg:deb/ubuntu/iortcw
 versions:
   - purl: pkg:deb/ubuntu/iortcw@1.42d%2Bdfsg1-3
     affected_by_vulnerabilities:

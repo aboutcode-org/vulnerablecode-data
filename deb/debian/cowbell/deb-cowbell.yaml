@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cowbell
+package: pkg:deb/debian/cowbell
 versions:
   - purl: pkg:deb/debian/cowbell@0?distro=sid
     affected_by_vulnerabilities: []

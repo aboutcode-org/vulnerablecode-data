@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/grilo
+package: pkg:deb/ubuntu/grilo
 versions:
   - purl: pkg:deb/ubuntu/grilo@0.1.17-1
     affected_by_vulnerabilities:

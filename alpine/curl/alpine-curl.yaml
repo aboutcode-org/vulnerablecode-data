@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/curl
+package: pkg:alpine/curl
 versions:
   - purl: pkg:alpine/curl@0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

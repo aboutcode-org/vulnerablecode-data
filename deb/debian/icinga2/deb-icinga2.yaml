@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/icinga2
+package: pkg:deb/debian/icinga2
 versions:
   - purl: pkg:deb/debian/icinga2@0?distro=stretch
     affected_by_vulnerabilities: []

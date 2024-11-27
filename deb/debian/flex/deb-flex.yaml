@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/flex
+package: pkg:deb/debian/flex
 versions:
   - purl: pkg:deb/debian/flex@2.5.31-31sarge1
     affected_by_vulnerabilities:

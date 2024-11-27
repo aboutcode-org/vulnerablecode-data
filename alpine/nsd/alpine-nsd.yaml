@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/nsd
+package: pkg:alpine/nsd
 versions:
   - purl: pkg:alpine/nsd@4.3.4-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

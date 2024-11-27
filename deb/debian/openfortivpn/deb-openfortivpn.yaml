@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openfortivpn
+package: pkg:deb/debian/openfortivpn
 versions:
   - purl: pkg:deb/debian/openfortivpn@1.12.0-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/haskell-tls
+package: pkg:deb/debian/haskell-tls
 versions:
   - purl: pkg:deb/debian/haskell-tls@1.2.9-2?distro=sid
     affected_by_vulnerabilities: []

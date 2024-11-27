@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/stardict
+package: pkg:deb/debian/stardict
 versions:
   - purl: pkg:deb/debian/stardict@3.0.1-5?distro=sid
     affected_by_vulnerabilities: []

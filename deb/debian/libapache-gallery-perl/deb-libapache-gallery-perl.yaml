@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libapache-gallery-perl
+package: pkg:deb/debian/libapache-gallery-perl
 versions:
   - purl: pkg:deb/debian/libapache-gallery-perl@0.7?distro=sid
     affected_by_vulnerabilities: []

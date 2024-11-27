@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/crun
+package: pkg:deb/debian/crun
 versions:
   - purl: pkg:deb/debian/crun@0?distro=sid
     affected_by_vulnerabilities: []

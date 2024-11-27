@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/halibut
+package: pkg:deb/debian/halibut
 versions:
   - purl: pkg:deb/debian/halibut@1.1-4?distro=stretch
     affected_by_vulnerabilities:

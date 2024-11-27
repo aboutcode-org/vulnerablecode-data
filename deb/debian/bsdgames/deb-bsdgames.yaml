@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bsdgames
+package: pkg:deb/debian/bsdgames
 versions:
   - purl: pkg:deb/debian/bsdgames@2.13-7
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libmysofa
+package: pkg:deb/ubuntu/libmysofa
 versions:
   - purl: pkg:deb/ubuntu/libmysofa@0.6~dfsg0-1
     affected_by_vulnerabilities:

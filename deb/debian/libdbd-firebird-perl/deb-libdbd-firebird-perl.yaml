@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libdbd-firebird-perl
+package: pkg:deb/debian/libdbd-firebird-perl
 versions:
   - purl: pkg:deb/debian/libdbd-firebird-perl@1.18-2?distro=sid
     affected_by_vulnerabilities: []

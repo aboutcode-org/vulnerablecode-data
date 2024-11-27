@@ -1,4 +1,4 @@
-pacakge: pkg:composer/kitodo/presentation
+package: pkg:composer/kitodo/presentation
 versions:
   - purl: pkg:composer/kitodo/presentation@2.3.0
     affected_by_vulnerabilities:

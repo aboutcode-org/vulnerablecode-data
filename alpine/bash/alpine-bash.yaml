@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/bash
+package: pkg:alpine/bash
 versions:
   - purl: pkg:alpine/bash@4.3.33-r2?arch=armhf&distroversion=v3.2&reponame=main
     affected_by_vulnerabilities: []

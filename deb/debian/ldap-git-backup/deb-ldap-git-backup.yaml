@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ldap-git-backup
+package: pkg:deb/debian/ldap-git-backup
 versions:
   - purl: pkg:deb/debian/ldap-git-backup@1.0.4-1?distro=sid
     affected_by_vulnerabilities: []

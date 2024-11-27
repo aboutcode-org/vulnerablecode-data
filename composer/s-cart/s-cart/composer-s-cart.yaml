@@ -1,4 +1,4 @@
-pacakge: pkg:composer/s-cart/s-cart
+package: pkg:composer/s-cart/s-cart
 versions:
   - purl: pkg:composer/s-cart/s-cart@1.0.0
     affected_by_vulnerabilities:

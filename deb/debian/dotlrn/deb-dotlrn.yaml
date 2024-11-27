@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dotlrn
+package: pkg:deb/debian/dotlrn
 versions:
   - purl: pkg:deb/debian/dotlrn@0?distro=stretch
     affected_by_vulnerabilities: []

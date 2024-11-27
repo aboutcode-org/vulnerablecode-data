@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libcrypt-openssl-dsa-perl
+package: pkg:deb/debian/libcrypt-openssl-dsa-perl
 versions:
   - purl: pkg:deb/debian/libcrypt-openssl-dsa-perl@0.13-4?distro=sid
     affected_by_vulnerabilities: []

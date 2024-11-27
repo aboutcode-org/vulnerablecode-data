@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-miow
+package: pkg:deb/debian/rust-miow
 versions:
   - purl: pkg:deb/debian/rust-miow@0.3.1-1?distro=sid
     affected_by_vulnerabilities:

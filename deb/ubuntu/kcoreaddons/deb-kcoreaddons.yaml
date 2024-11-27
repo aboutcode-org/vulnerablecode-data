@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/kcoreaddons
+package: pkg:deb/ubuntu/kcoreaddons
 versions:
   - purl: pkg:deb/ubuntu/kcoreaddons@5.0.0-0ubuntu1
     affected_by_vulnerabilities:

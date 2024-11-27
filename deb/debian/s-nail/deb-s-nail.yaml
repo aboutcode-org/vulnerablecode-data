@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/s-nail
+package: pkg:deb/debian/s-nail
 versions:
   - purl: pkg:deb/debian/s-nail@14.8.16-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/qtwebsockets-opensource-src
+package: pkg:deb/debian/qtwebsockets-opensource-src
 versions:
   - purl: pkg:deb/debian/qtwebsockets-opensource-src@5.11.3-5?distro=sid
     affected_by_vulnerabilities:

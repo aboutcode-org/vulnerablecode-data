@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/vigor
+package: pkg:deb/debian/vigor
 versions:
   - purl: pkg:deb/debian/vigor@0.016-24?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ipython
+package: pkg:deb/debian/ipython
 versions:
   - purl: pkg:deb/debian/ipython@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libofx
+package: pkg:deb/ubuntu/libofx
 versions:
   - purl: pkg:deb/ubuntu/libofx@0.6.6-1
     affected_by_vulnerabilities:

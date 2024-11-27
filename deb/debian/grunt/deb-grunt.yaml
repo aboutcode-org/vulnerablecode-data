@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/grunt
+package: pkg:deb/debian/grunt
 versions:
   - purl: pkg:deb/debian/grunt@1.0.1-5?distro=stretch
     affected_by_vulnerabilities:

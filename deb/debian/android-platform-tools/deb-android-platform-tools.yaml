@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/android-platform-tools
+package: pkg:deb/debian/android-platform-tools
 versions:
   - purl: pkg:deb/debian/android-platform-tools@29.0.6-22?distro=sid
     affected_by_vulnerabilities:

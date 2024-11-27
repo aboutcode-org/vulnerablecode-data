@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/dulwich
+package: pkg:deb/ubuntu/dulwich
 versions:
   - purl: pkg:deb/ubuntu/dulwich@0.10.1-1
     affected_by_vulnerabilities:

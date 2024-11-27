@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/spice
+package: pkg:deb/debian/spice
 versions:
   - purl: pkg:deb/debian/spice@0?distro=sid
     affected_by_vulnerabilities: []

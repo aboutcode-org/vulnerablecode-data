@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gatos
+package: pkg:deb/debian/gatos
 versions:
   - purl: pkg:deb/debian/gatos@0.0.4-3
     affected_by_vulnerabilities:

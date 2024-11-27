@@ -1,4 +1,4 @@
-pacakge: pkg:composer/swiftmailer/swiftmailer
+package: pkg:composer/swiftmailer/swiftmailer
 versions:
   - purl: pkg:composer/swiftmailer/swiftmailer@4.0.0
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/fuseiso
+package: pkg:deb/ubuntu/fuseiso
 versions:
   - purl: pkg:deb/ubuntu/fuseiso@20060107-0ubuntu1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libnss-db
+package: pkg:deb/debian/libnss-db
 versions:
   - purl: pkg:deb/debian/libnss-db@2.2.3pre1-3.2?distro=sid
     affected_by_vulnerabilities: []

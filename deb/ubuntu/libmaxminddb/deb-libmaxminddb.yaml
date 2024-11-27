@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libmaxminddb
+package: pkg:deb/ubuntu/libmaxminddb
 versions:
   - purl: pkg:deb/ubuntu/libmaxminddb@1.0.4-1
     affected_by_vulnerabilities:

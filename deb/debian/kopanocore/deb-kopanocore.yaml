@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kopanocore
+package: pkg:deb/debian/kopanocore
 versions:
   - purl: pkg:deb/debian/kopanocore@0?distro=sid
     affected_by_vulnerabilities: []

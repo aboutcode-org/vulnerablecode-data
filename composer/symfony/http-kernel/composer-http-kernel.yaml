@@ -1,4 +1,4 @@
-pacakge: pkg:composer/symfony/http-kernel
+package: pkg:composer/symfony/http-kernel
 versions:
   - purl: pkg:composer/symfony/http-kernel@2.0.0
     affected_by_vulnerabilities:

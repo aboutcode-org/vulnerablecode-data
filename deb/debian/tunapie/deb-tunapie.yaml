@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tunapie
+package: pkg:deb/debian/tunapie
 versions:
   - purl: pkg:deb/debian/tunapie@2.1.17-1?distro=buster
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jawn
+package: pkg:deb/debian/jawn
 versions:
   - purl: pkg:deb/debian/jawn@0?distro=sid
     affected_by_vulnerabilities: []

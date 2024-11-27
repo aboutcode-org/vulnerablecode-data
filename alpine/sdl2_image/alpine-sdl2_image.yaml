@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/sdl2_image
+package: pkg:alpine/sdl2_image
 versions:
   - purl: pkg:alpine/sdl2_image@2.0.1-r2?arch=aarch64&distroversion=v3.5&reponame=main
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-loofah
+package: pkg:deb/debian/ruby-loofah
 versions:
   - purl: pkg:deb/debian/ruby-loofah@2.0.3-2%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

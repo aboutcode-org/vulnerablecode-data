@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ibus
+package: pkg:deb/ubuntu/ibus
 versions:
   - purl: pkg:deb/ubuntu/ibus@0.1.1.20081023-0ubuntu1
     affected_by_vulnerabilities:

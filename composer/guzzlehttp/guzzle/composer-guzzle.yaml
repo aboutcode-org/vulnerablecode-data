@@ -1,4 +1,4 @@
-pacakge: pkg:composer/guzzlehttp/guzzle
+package: pkg:composer/guzzlehttp/guzzle
 versions:
   - purl: pkg:composer/guzzlehttp/guzzle@1.0.3
     affected_by_vulnerabilities:

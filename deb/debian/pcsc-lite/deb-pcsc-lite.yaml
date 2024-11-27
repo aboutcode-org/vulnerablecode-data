@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pcsc-lite
+package: pkg:deb/debian/pcsc-lite
 versions:
   - purl: pkg:deb/debian/pcsc-lite@0?distro=sid
     affected_by_vulnerabilities: []

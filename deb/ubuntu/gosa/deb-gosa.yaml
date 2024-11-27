@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gosa
+package: pkg:deb/ubuntu/gosa
 versions:
   - purl: pkg:deb/ubuntu/gosa@2.1.1-2
     affected_by_vulnerabilities:

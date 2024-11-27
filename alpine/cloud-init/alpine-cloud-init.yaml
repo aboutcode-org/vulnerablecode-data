@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/cloud-init
+package: pkg:alpine/cloud-init
 versions:
   - purl: pkg:alpine/cloud-init@20.4.1-r1?arch=aarch64&distroversion=v3.13&reponame=community
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/silverstripe/framework
+package: pkg:composer/silverstripe/framework
 versions:
   - purl: pkg:composer/silverstripe/framework@1.0.0
     affected_by_vulnerabilities:

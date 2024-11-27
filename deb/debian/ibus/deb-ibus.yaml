@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ibus
+package: pkg:deb/debian/ibus
 versions:
   - purl: pkg:deb/debian/ibus@1.5.14-3%2Bdeb9u2?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gtk-vnc
+package: pkg:deb/ubuntu/gtk-vnc
 versions:
   - purl: pkg:deb/ubuntu/gtk-vnc@0.2.0-0ubuntu3
     affected_by_vulnerabilities:

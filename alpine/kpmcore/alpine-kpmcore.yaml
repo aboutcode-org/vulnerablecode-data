@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/kpmcore
+package: pkg:alpine/kpmcore
 versions:
   - purl: pkg:alpine/kpmcore@4.1.0-r0?arch=aarch64&distroversion=v3.12&reponame=community
     affected_by_vulnerabilities: []

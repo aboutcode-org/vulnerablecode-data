@@ -1,4 +1,4 @@
-pacakge: pkg:composer/tastyigniter/tastyigniter
+package: pkg:composer/tastyigniter/tastyigniter
 versions:
   - purl: pkg:composer/tastyigniter/tastyigniter@0.5.0
     affected_by_vulnerabilities:

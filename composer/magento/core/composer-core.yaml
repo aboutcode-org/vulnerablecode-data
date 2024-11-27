@@ -1,4 +1,4 @@
-pacakge: pkg:composer/magento/core
+package: pkg:composer/magento/core
 versions:
   - purl: pkg:composer/magento/core@1.5.0%2B0
     affected_by_vulnerabilities:

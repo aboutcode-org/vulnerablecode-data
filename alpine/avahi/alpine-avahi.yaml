@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/avahi
+package: pkg:alpine/avahi
 versions:
   - purl: pkg:alpine/avahi@0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

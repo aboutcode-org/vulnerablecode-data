@@ -1,4 +1,4 @@
-pacakge: pkg:composer/brotkrueml/typo3-matomo-integration
+package: pkg:composer/brotkrueml/typo3-matomo-integration
 versions:
   - purl: pkg:composer/brotkrueml/typo3-matomo-integration@1.0.0
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-docutils
+package: pkg:deb/debian/python-docutils
 versions:
   - purl: pkg:deb/debian/python-docutils@0.13.1%2Bdfsg-2?distro=stretch
     affected_by_vulnerabilities: []

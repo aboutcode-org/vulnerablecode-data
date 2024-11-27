@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-vbatts-tar-split
+package: pkg:deb/debian/golang-github-vbatts-tar-split
 versions:
   - purl: pkg:deb/debian/golang-github-vbatts-tar-split@0.10.2-1?distro=sid
     affected_by_vulnerabilities: []

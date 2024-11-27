@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/beep
+package: pkg:deb/ubuntu/beep
 versions:
   - purl: pkg:deb/ubuntu/beep@1.2.2-13
     affected_by_vulnerabilities:

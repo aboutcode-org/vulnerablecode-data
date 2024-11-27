@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/davfs2
+package: pkg:deb/debian/davfs2
 versions:
   - purl: pkg:deb/debian/davfs2@0.2.4-1?distro=sid
     affected_by_vulnerabilities: []

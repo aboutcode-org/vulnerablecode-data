@@ -1,4 +1,4 @@
-pacakge: pkg:composer/livehelperchat/livehelperchat
+package: pkg:composer/livehelperchat/livehelperchat
 versions:
   - purl: pkg:composer/livehelperchat/livehelperchat@3.91.0
     affected_by_vulnerabilities:

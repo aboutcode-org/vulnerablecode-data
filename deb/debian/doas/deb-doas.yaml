@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/doas
+package: pkg:deb/debian/doas
 versions:
   - purl: pkg:deb/debian/doas@0?distro=bullseye
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/globus-gridftp-server
+package: pkg:deb/debian/globus-gridftp-server
 versions:
   - purl: pkg:deb/debian/globus-gridftp-server@11.8-1?distro=stretch
     affected_by_vulnerabilities: []

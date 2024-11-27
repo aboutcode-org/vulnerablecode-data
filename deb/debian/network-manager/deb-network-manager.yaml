@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/network-manager
+package: pkg:deb/debian/network-manager
 versions:
   - purl: pkg:deb/debian/network-manager@0?distro=sid
     affected_by_vulnerabilities: []

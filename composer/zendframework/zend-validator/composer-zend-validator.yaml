@@ -1,4 +1,4 @@
-pacakge: pkg:composer/zendframework/zend-validator
+package: pkg:composer/zendframework/zend-validator
 versions:
   - purl: pkg:composer/zendframework/zend-validator@2.3.0
     affected_by_vulnerabilities:

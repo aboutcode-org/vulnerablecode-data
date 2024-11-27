@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jruby
+package: pkg:deb/debian/jruby
 versions:
   - purl: pkg:deb/debian/jruby@0?distro=sid
     affected_by_vulnerabilities: []

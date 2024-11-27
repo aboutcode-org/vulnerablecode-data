@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ledger
+package: pkg:deb/ubuntu/ledger
 versions:
   - purl: pkg:deb/ubuntu/ledger@2.6.1-1
     affected_by_vulnerabilities:

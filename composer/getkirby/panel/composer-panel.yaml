@@ -1,4 +1,4 @@
-pacakge: pkg:composer/getkirby/panel
+package: pkg:composer/getkirby/panel
 versions:
   - purl: pkg:composer/getkirby/panel@2.4.0
     affected_by_vulnerabilities:

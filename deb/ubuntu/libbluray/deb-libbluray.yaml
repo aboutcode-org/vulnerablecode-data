@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libbluray
+package: pkg:deb/ubuntu/libbluray
 versions:
   - purl: pkg:deb/ubuntu/libbluray@0.2~git20110213.20739ed-0ubuntu1
     affected_by_vulnerabilities:

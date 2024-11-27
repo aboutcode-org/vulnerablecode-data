@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/hoteldruid
+package: pkg:deb/ubuntu/hoteldruid
 versions:
   - purl: pkg:deb/ubuntu/hoteldruid@2.0.1-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/freesweep
+package: pkg:deb/debian/freesweep
 versions:
   - purl: pkg:deb/debian/freesweep@0.87-6
     affected_by_vulnerabilities:

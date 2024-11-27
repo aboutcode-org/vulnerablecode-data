@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/reportbug-ng
+package: pkg:deb/debian/reportbug-ng
 versions:
   - purl: pkg:deb/debian/reportbug-ng@0.2008.03.28?distro=stretch
     affected_by_vulnerabilities: []

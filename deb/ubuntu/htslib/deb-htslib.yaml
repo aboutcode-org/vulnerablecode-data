@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/htslib
+package: pkg:deb/ubuntu/htslib
 versions:
   - purl: pkg:deb/ubuntu/htslib@0.2.0~rc3-1
     affected_by_vulnerabilities:

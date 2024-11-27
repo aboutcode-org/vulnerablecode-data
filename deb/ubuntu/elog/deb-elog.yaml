@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/elog
+package: pkg:deb/ubuntu/elog
 versions:
   - purl: pkg:deb/ubuntu/elog@2.5.2-1
     affected_by_vulnerabilities:

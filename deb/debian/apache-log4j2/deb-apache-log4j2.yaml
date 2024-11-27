@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/apache-log4j2
+package: pkg:deb/debian/apache-log4j2
 versions:
   - purl: pkg:deb/debian/apache-log4j2@0?distro=stretch
     affected_by_vulnerabilities: []

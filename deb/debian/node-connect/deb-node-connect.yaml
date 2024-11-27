@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-connect
+package: pkg:deb/debian/node-connect
 versions:
   - purl: pkg:deb/debian/node-connect@0?distro=sid
     affected_by_vulnerabilities: []

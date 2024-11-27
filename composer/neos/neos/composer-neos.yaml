@@ -1,4 +1,4 @@
-pacakge: pkg:composer/neos/neos
+package: pkg:composer/neos/neos
 versions:
   - purl: pkg:composer/neos/neos@3.3.0
     affected_by_vulnerabilities:

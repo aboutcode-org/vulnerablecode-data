@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-smallvec
+package: pkg:deb/debian/rust-smallvec
 versions:
   - purl: pkg:deb/debian/rust-smallvec@0?distro=sid
     affected_by_vulnerabilities: []

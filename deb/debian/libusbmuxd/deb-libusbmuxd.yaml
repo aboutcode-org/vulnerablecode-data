@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libusbmuxd
+package: pkg:deb/debian/libusbmuxd
 versions:
   - purl: pkg:deb/debian/libusbmuxd@1.0.10-3?distro=sid
     affected_by_vulnerabilities: []

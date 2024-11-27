@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnome-subtitles
+package: pkg:deb/debian/gnome-subtitles
 versions:
   - purl: pkg:deb/debian/gnome-subtitles@1.0-2?distro=sid
     affected_by_vulnerabilities: []

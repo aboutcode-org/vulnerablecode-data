@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/horizon
+package: pkg:deb/ubuntu/horizon
 versions:
   - purl: pkg:deb/ubuntu/horizon@1:2013.1-0ubuntu1
     affected_by_vulnerabilities:

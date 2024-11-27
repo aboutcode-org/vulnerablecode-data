@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libconfig-model-perl
+package: pkg:deb/ubuntu/libconfig-model-perl
 versions:
   - purl: pkg:deb/ubuntu/libconfig-model-perl@0.635-1
     affected_by_vulnerabilities:

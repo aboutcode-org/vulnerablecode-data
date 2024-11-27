@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libndp
+package: pkg:deb/ubuntu/libndp
 versions:
   - purl: pkg:deb/ubuntu/libndp@1.2-4
     affected_by_vulnerabilities:

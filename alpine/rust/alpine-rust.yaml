@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/rust
+package: pkg:alpine/rust
 versions:
   - purl: pkg:alpine/rust@1.26.0-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

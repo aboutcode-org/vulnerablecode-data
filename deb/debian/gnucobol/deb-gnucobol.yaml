@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnucobol
+package: pkg:deb/debian/gnucobol
 versions:
   - purl: pkg:deb/debian/gnucobol@2.2-5?distro=sid
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/freeimage
+package: pkg:deb/ubuntu/freeimage
 versions:
   - purl: pkg:deb/ubuntu/freeimage@3.10.0-1
     affected_by_vulnerabilities:

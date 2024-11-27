@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ayttm
+package: pkg:deb/ubuntu/ayttm
 versions:
   - purl: pkg:deb/ubuntu/ayttm@0.4.6-2
     affected_by_vulnerabilities:

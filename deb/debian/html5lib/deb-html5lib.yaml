@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/html5lib
+package: pkg:deb/debian/html5lib
 versions:
   - purl: pkg:deb/debian/html5lib@0.999999999-1?distro=sid
     affected_by_vulnerabilities: []

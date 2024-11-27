@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/http-parser
+package: pkg:deb/debian/http-parser
 versions:
   - purl: pkg:deb/debian/http-parser@2.1-2?distro=stretch
     affected_by_vulnerabilities:

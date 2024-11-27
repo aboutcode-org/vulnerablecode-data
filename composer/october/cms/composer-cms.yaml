@@ -1,4 +1,4 @@
-pacakge: pkg:composer/october/cms
+package: pkg:composer/october/cms
 versions:
   - purl: pkg:composer/october/cms@1.0.319
     affected_by_vulnerabilities:

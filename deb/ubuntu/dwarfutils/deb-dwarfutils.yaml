@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/dwarfutils
+package: pkg:deb/ubuntu/dwarfutils
 versions:
   - purl: pkg:deb/ubuntu/dwarfutils@20080409-2
     affected_by_vulnerabilities:

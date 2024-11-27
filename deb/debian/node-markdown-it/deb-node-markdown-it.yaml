@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-markdown-it
+package: pkg:deb/debian/node-markdown-it
 versions:
   - purl: pkg:deb/debian/node-markdown-it@10.0.0%2Bdfsg-2%2Bdeb11u1?distro=sid
     affected_by_vulnerabilities: []

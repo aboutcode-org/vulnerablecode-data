@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nagios-nrpe
+package: pkg:deb/debian/nagios-nrpe
 versions:
   - purl: pkg:deb/debian/nagios-nrpe@2.13-3?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-ssri
+package: pkg:deb/debian/node-ssri
 versions:
   - purl: pkg:deb/debian/node-ssri@5.2.4-1?distro=sid
     affected_by_vulnerabilities: []

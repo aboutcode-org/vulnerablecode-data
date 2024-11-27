@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-getobject
+package: pkg:deb/debian/node-getobject
 versions:
   - purl: pkg:deb/debian/node-getobject@0.1.0-2?distro=stretch
     affected_by_vulnerabilities:

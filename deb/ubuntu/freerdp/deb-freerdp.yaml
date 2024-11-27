@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/freerdp
+package: pkg:deb/ubuntu/freerdp
 versions:
   - purl: pkg:deb/ubuntu/freerdp@0.7.2-1
     affected_by_vulnerabilities:

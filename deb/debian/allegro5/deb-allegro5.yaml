@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/allegro5
+package: pkg:deb/debian/allegro5
 versions:
   - purl: pkg:deb/debian/allegro5@2:5.2.4.0-3?distro=sid
     affected_by_vulnerabilities:

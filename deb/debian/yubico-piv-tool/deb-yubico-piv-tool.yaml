@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/yubico-piv-tool
+package: pkg:deb/debian/yubico-piv-tool
 versions:
   - purl: pkg:deb/debian/yubico-piv-tool@0?distro=stretch
     affected_by_vulnerabilities: []

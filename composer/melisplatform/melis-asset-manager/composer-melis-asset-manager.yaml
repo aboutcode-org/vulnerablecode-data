@@ -1,4 +1,4 @@
-pacakge: pkg:composer/melisplatform/melis-asset-manager
+package: pkg:composer/melisplatform/melis-asset-manager
 versions:
   - purl: pkg:composer/melisplatform/melis-asset-manager@2.1
     affected_by_vulnerabilities:

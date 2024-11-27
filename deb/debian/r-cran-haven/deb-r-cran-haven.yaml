@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/r-cran-haven
+package: pkg:deb/debian/r-cran-haven
 versions:
   - purl: pkg:deb/debian/r-cran-haven@1.1.1-1?distro=sid
     affected_by_vulnerabilities: []

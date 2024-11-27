@@ -1,4 +1,4 @@
-pacakge: pkg:conan/shapelib
+package: pkg:conan/shapelib
 versions:
   - purl: pkg:conan/shapelib@1.5.0
     affected_by_vulnerabilities:

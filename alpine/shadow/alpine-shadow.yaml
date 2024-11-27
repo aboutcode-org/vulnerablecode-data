@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/shadow
+package: pkg:alpine/shadow
 versions:
   - purl: pkg:alpine/shadow@4.2.1-r11?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

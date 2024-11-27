@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/swi-prolog
+package: pkg:deb/debian/swi-prolog
 versions:
   - purl: pkg:deb/debian/swi-prolog@5.10.4-5?distro=sid
     affected_by_vulnerabilities: []

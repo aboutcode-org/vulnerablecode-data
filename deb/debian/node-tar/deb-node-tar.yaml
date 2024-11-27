@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-tar
+package: pkg:deb/debian/node-tar
 versions:
   - purl: pkg:deb/debian/node-tar@0?distro=sid
     affected_by_vulnerabilities: []

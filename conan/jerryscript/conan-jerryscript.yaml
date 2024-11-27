@@ -1,4 +1,4 @@
-pacakge: pkg:conan/jerryscript
+package: pkg:conan/jerryscript
 versions:
   - purl: pkg:conan/jerryscript@2.2.0
     affected_by_vulnerabilities:

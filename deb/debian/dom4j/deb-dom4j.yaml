@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dom4j
+package: pkg:deb/debian/dom4j
 versions:
   - purl: pkg:deb/debian/dom4j@1.6.1%2Bdfsg.3-2%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities:

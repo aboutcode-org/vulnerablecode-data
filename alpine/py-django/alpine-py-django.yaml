@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/py-django
+package: pkg:alpine/py-django
 versions:
   - purl: pkg:alpine/py-django@1.10.7-r0?arch=aarch64&distroversion=v3.10&reponame=main
     affected_by_vulnerabilities: []

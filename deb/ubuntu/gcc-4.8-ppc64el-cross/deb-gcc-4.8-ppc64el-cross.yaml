@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gcc-4.8-ppc64el-cross
+package: pkg:deb/ubuntu/gcc-4.8-ppc64el-cross
 versions:
   - purl: pkg:deb/ubuntu/gcc-4.8-ppc64el-cross@0.2
     affected_by_vulnerabilities:

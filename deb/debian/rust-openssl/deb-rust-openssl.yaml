@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-openssl
+package: pkg:deb/debian/rust-openssl
 versions:
   - purl: pkg:deb/debian/rust-openssl@0?distro=sid
     affected_by_vulnerabilities: []

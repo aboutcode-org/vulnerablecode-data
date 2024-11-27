@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lbreakout2
+package: pkg:deb/debian/lbreakout2
 versions:
   - purl: pkg:deb/debian/lbreakout2@2.2.2-1woody1
     affected_by_vulnerabilities:

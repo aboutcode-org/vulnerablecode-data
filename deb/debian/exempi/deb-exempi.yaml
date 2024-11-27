@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/exempi
+package: pkg:deb/debian/exempi
 versions:
   - purl: pkg:deb/debian/exempi@2.4.1-1?distro=stretch
     affected_by_vulnerabilities:

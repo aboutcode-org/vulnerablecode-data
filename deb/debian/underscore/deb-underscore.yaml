@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/underscore
+package: pkg:deb/debian/underscore
 versions:
   - purl: pkg:deb/debian/underscore@1.13.3~dfsg%2B~1.11.4-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-mixlib-archive
+package: pkg:deb/debian/ruby-mixlib-archive
 versions:
   - purl: pkg:deb/debian/ruby-mixlib-archive@0.2.0-1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

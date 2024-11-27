@@ -1,4 +1,4 @@
-pacakge: pkg:composer/terminal42/contao-tablelookupwizard
+package: pkg:composer/terminal42/contao-tablelookupwizard
 versions:
   - purl: pkg:composer/terminal42/contao-tablelookupwizard@2.0.1
     affected_by_vulnerabilities:

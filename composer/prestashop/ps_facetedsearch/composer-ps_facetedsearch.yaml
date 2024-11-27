@@ -1,4 +1,4 @@
-pacakge: pkg:composer/prestashop/ps_facetedsearch
+package: pkg:composer/prestashop/ps_facetedsearch
 versions:
   - purl: pkg:composer/prestashop/ps_facetedsearch@1.0.1
     affected_by_vulnerabilities:

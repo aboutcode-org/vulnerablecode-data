@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libxvmc
+package: pkg:deb/debian/libxvmc
 versions:
   - purl: pkg:deb/debian/libxvmc@2:1.0.10-1?distro=sid
     affected_by_vulnerabilities: []

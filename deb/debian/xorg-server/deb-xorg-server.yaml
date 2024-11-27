@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xorg-server
+package: pkg:deb/debian/xorg-server
 versions:
   - purl: pkg:deb/debian/xorg-server@0?distro=sid
     affected_by_vulnerabilities: []

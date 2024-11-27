@@ -1,4 +1,4 @@
-pacakge: pkg:composer/pear/pear
+package: pkg:composer/pear/pear
 versions:
   - purl: pkg:composer/pear/pear@1.10.1
     affected_by_vulnerabilities:

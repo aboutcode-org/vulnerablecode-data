@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ark
+package: pkg:deb/ubuntu/ark
 versions:
   - purl: pkg:deb/ubuntu/ark@4:14.11.97-0ubuntu1
     affected_by_vulnerabilities:

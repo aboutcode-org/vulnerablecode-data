@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mat
+package: pkg:deb/debian/mat
 versions:
   - purl: pkg:deb/debian/mat@0.6.1-4?distro=stretch
     affected_by_vulnerabilities: []

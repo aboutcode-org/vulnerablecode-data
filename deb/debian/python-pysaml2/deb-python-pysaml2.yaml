@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-pysaml2
+package: pkg:deb/debian/python-pysaml2
 versions:
   - purl: pkg:deb/debian/python-pysaml2@3.0.0-5?distro=sid
     affected_by_vulnerabilities: []

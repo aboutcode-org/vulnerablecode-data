@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mhc
+package: pkg:deb/debian/mhc
 versions:
   - purl: pkg:deb/debian/mhc@0.25.1%2B20050120-1
     affected_by_vulnerabilities: []

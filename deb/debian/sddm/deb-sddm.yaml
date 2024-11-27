@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sddm
+package: pkg:deb/debian/sddm
 versions:
   - purl: pkg:deb/debian/sddm@0?distro=stretch
     affected_by_vulnerabilities: []

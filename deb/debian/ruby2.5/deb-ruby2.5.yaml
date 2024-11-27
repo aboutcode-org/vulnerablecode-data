@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby2.5
+package: pkg:deb/debian/ruby2.5
 versions:
   - purl: pkg:deb/debian/ruby2.5@0?distro=buster
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cockpit
+package: pkg:deb/debian/cockpit
 versions:
   - purl: pkg:deb/debian/cockpit@0?distro=sid
     affected_by_vulnerabilities: []

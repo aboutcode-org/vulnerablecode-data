@@ -1,4 +1,4 @@
-pacakge: pkg:composer/tobiasbg/tablepress
+package: pkg:composer/tobiasbg/tablepress
 versions:
   - purl: pkg:composer/tobiasbg/tablepress@1.10.0
     affected_by_vulnerabilities:

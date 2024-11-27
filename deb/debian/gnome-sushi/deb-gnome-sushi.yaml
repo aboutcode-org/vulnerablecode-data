@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnome-sushi
+package: pkg:deb/debian/gnome-sushi
 versions:
   - purl: pkg:deb/debian/gnome-sushi@3.30.0-2
     affected_by_vulnerabilities:

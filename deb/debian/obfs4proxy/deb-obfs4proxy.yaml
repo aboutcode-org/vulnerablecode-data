@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/obfs4proxy
+package: pkg:deb/debian/obfs4proxy
 versions:
   - purl: pkg:deb/debian/obfs4proxy@0.0.7-1?distro=stretch
     affected_by_vulnerabilities: []

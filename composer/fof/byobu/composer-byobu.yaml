@@ -1,4 +1,4 @@
-pacakge: pkg:composer/fof/byobu
+package: pkg:composer/fof/byobu
 versions:
   - purl: pkg:composer/fof/byobu@0.3.0
     affected_by_vulnerabilities:

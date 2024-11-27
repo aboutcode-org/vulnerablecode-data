@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/argyll
+package: pkg:deb/ubuntu/argyll
 versions:
   - purl: pkg:deb/ubuntu/argyll@1.0.3%2Bdfsg1-1
     affected_by_vulnerabilities:

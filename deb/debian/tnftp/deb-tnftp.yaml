@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tnftp
+package: pkg:deb/debian/tnftp
 versions:
   - purl: pkg:deb/debian/tnftp@20050625-0.1?distro=sid
     affected_by_vulnerabilities: []

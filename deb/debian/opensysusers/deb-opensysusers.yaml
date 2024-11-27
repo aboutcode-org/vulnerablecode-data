@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/opensysusers
+package: pkg:deb/debian/opensysusers
 versions:
   - purl: pkg:deb/debian/opensysusers@0.6-2?distro=sid
     affected_by_vulnerabilities:

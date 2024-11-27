@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gst-plugins-ugly1.0
+package: pkg:deb/debian/gst-plugins-ugly1.0
 versions:
   - purl: pkg:deb/debian/gst-plugins-ugly1.0@1.10.3-1?distro=sid
     affected_by_vulnerabilities: []

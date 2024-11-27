@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/apktool
+package: pkg:deb/debian/apktool
 versions:
   - purl: pkg:deb/debian/apktool@2.2.1%2Bdfsg-2?distro=stretch
     affected_by_vulnerabilities:

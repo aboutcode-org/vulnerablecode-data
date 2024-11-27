@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/mrxvt
+package: pkg:alpine/mrxvt
 versions:
   - purl: pkg:alpine/mrxvt@0.5.4-r8?arch=aarch64&distroversion=v3.10&reponame=main
     affected_by_vulnerabilities: []

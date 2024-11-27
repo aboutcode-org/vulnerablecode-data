@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xml-light
+package: pkg:deb/debian/xml-light
 versions:
   - purl: pkg:deb/debian/xml-light@2.2-15?distro=sid
     affected_by_vulnerabilities: []

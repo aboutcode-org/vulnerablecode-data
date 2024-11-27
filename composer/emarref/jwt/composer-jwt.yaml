@@ -1,4 +1,4 @@
-pacakge: pkg:composer/emarref/jwt
+package: pkg:composer/emarref/jwt
 versions:
   - purl: pkg:composer/emarref/jwt@3.4.0
     affected_by_vulnerabilities:

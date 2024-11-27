@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/fish
+package: pkg:alpine/fish
 versions:
   - purl: pkg:alpine/fish@3.4.0-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

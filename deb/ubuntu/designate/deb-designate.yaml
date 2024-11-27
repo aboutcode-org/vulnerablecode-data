@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/designate
+package: pkg:deb/ubuntu/designate
 versions:
   - purl: pkg:deb/ubuntu/designate@1:1.0.0-0ubuntu1
     affected_by_vulnerabilities:

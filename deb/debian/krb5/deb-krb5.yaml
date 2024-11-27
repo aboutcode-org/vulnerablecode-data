@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/krb5
+package: pkg:deb/debian/krb5
 versions:
   - purl: pkg:deb/debian/krb5@0?distro=sid
     affected_by_vulnerabilities: []

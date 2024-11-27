@@ -1,4 +1,4 @@
-pacakge: pkg:composer/munkireport/managedinstalls
+package: pkg:composer/munkireport/managedinstalls
 versions:
   - purl: pkg:composer/munkireport/managedinstalls@1.1
     affected_by_vulnerabilities:

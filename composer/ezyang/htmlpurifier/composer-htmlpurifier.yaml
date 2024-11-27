@@ -1,4 +1,4 @@
-pacakge: pkg:composer/ezyang/htmlpurifier
+package: pkg:composer/ezyang/htmlpurifier
 versions:
   - purl: pkg:composer/ezyang/htmlpurifier@4.5.0
     affected_by_vulnerabilities: []

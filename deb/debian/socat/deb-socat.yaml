@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/socat
+package: pkg:deb/debian/socat
 versions:
   - purl: pkg:deb/debian/socat@1.4.0.3-1?distro=sid
     affected_by_vulnerabilities: []

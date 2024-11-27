@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/ffmpeg4
+package: pkg:alpine/ffmpeg4
 versions:
   - purl: pkg:alpine/ffmpeg4@3.3.4-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

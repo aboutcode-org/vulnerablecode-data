@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gettext
+package: pkg:deb/ubuntu/gettext
 versions:
   - purl: pkg:deb/ubuntu/gettext@0.14.1-2
     affected_by_vulnerabilities:

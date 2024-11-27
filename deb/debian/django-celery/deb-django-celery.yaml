@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/django-celery
+package: pkg:deb/debian/django-celery
 versions:
   - purl: pkg:deb/debian/django-celery@0?distro=stretch
     affected_by_vulnerabilities: []

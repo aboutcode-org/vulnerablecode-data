@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/phppgadmin
+package: pkg:deb/debian/phppgadmin
 versions:
   - purl: pkg:deb/debian/phppgadmin@0?distro=sid
     affected_by_vulnerabilities: []

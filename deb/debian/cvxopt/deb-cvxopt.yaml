@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cvxopt
+package: pkg:deb/debian/cvxopt
 versions:
   - purl: pkg:deb/debian/cvxopt@1.1.4-1.5%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities:

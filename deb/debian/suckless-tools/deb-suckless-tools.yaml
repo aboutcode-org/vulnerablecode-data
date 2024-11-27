@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/suckless-tools
+package: pkg:deb/debian/suckless-tools
 versions:
   - purl: pkg:deb/debian/suckless-tools@39-1?distro=sid
     affected_by_vulnerabilities: []

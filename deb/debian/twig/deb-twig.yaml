@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/twig
+package: pkg:deb/debian/twig
 versions:
   - purl: pkg:deb/debian/twig@0?distro=buster
     affected_by_vulnerabilities: []

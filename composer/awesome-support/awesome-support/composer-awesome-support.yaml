@@ -1,4 +1,4 @@
-pacakge: pkg:composer/awesome-support/awesome-support
+package: pkg:composer/awesome-support/awesome-support
 versions:
   - purl: pkg:composer/awesome-support/awesome-support@3.0.0
     affected_by_vulnerabilities:

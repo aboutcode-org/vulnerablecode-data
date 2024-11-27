@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ignition
+package: pkg:deb/debian/ignition
 versions:
   - purl: pkg:deb/debian/ignition@2.13.0%2Bds1-4?distro=sid
     affected_by_vulnerabilities:

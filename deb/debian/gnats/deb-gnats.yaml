@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnats
+package: pkg:deb/debian/gnats
 versions:
   - purl: pkg:deb/debian/gnats@4.0?distro=stretch
     affected_by_vulnerabilities: []

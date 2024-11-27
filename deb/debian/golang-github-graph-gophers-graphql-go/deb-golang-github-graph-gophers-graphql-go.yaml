@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-graph-gophers-graphql-go
+package: pkg:deb/debian/golang-github-graph-gophers-graphql-go
 versions:
   - purl: pkg:deb/debian/golang-github-graph-gophers-graphql-go@0.0~git20180609.bb97385-2?distro=sid
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/asterisk
+package: pkg:deb/debian/asterisk
 versions:
   - purl: pkg:deb/debian/asterisk@0?distro=sid
     affected_by_vulnerabilities: []

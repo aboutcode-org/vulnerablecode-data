@@ -1,4 +1,4 @@
-pacakge: pkg:composer/cartalyst/sentry
+package: pkg:composer/cartalyst/sentry
 versions:
   - purl: pkg:composer/cartalyst/sentry@2.0.0
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nodejs
+package: pkg:deb/debian/nodejs
 versions:
   - purl: pkg:deb/debian/nodejs@0?distro=sid
     affected_by_vulnerabilities: []

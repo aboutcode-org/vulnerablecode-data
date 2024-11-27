@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rdflib
+package: pkg:deb/debian/rdflib
 versions:
   - purl: pkg:deb/debian/rdflib@4.2.1-2?distro=stretch
     affected_by_vulnerabilities: []

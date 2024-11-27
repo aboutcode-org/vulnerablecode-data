@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-trim-newlines
+package: pkg:deb/debian/node-trim-newlines
 versions:
   - purl: pkg:deb/debian/node-trim-newlines@1.0.0-1?distro=sid
     affected_by_vulnerabilities:

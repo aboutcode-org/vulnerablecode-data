@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/exim4
+package: pkg:deb/ubuntu/exim4
 versions:
   - purl: pkg:deb/ubuntu/exim4@4.34-10
     affected_by_vulnerabilities:

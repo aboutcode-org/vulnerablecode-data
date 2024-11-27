@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/thunderbird
+package: pkg:deb/debian/thunderbird
 versions:
   - purl: pkg:deb/debian/thunderbird@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/prosody-modules
+package: pkg:deb/debian/prosody-modules
 versions:
   - purl: pkg:deb/debian/prosody-modules@0.0~hg20170123.3ed504b944e5%2Bdfsg-1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

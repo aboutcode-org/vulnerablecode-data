@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gpac
+package: pkg:deb/debian/gpac
 versions:
   - purl: pkg:deb/debian/gpac@0?distro=sid
     affected_by_vulnerabilities: []

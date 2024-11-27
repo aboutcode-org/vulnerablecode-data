@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php7.4
+package: pkg:deb/debian/php7.4
 versions:
   - purl: pkg:deb/debian/php7.4@0?distro=bullseye
     affected_by_vulnerabilities: []

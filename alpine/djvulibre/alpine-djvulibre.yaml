@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/djvulibre
+package: pkg:alpine/djvulibre
 versions:
   - purl: pkg:alpine/djvulibre@3.5.28-r1?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

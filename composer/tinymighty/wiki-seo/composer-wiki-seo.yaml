@@ -1,4 +1,4 @@
-pacakge: pkg:composer/tinymighty/wiki-seo
+package: pkg:composer/tinymighty/wiki-seo
 versions:
   - purl: pkg:composer/tinymighty/wiki-seo@1.2.0
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-got
+package: pkg:deb/debian/node-got
 versions:
   - purl: pkg:deb/debian/node-got@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ccextractor
+package: pkg:deb/debian/ccextractor
 versions:
   - purl: pkg:deb/debian/ccextractor@0?distro=sid
     affected_by_vulnerabilities: []

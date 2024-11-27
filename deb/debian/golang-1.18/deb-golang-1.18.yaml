@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-1.18
+package: pkg:deb/debian/golang-1.18
 versions:
   - purl: pkg:deb/debian/golang-1.18@0?distro=sid
     affected_by_vulnerabilities: []

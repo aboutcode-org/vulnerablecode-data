@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libpng1.6
+package: pkg:deb/debian/libpng1.6
 versions:
   - purl: pkg:deb/debian/libpng1.6@0?distro=stretch
     affected_by_vulnerabilities: []

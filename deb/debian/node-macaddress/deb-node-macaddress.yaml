@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-macaddress
+package: pkg:deb/debian/node-macaddress
 versions:
   - purl: pkg:deb/debian/node-macaddress@0.2.9-1?distro=sid
     affected_by_vulnerabilities: []

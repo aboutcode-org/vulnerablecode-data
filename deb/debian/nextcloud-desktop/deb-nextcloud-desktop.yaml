@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nextcloud-desktop
+package: pkg:deb/debian/nextcloud-desktop
 versions:
   - purl: pkg:deb/debian/nextcloud-desktop@0?distro=sid
     affected_by_vulnerabilities: []

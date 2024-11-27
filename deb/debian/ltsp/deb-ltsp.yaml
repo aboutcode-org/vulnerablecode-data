@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ltsp
+package: pkg:deb/debian/ltsp
 versions:
   - purl: pkg:deb/debian/ltsp@21.01-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/debian-lan-config
+package: pkg:deb/debian/debian-lan-config
 versions:
   - purl: pkg:deb/debian/debian-lan-config@0.23%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

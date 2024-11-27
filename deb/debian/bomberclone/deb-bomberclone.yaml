@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bomberclone
+package: pkg:deb/debian/bomberclone
 versions:
   - purl: pkg:deb/debian/bomberclone@0.11.5-1sarge2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libpar-packer-perl
+package: pkg:deb/debian/libpar-packer-perl
 versions:
   - purl: pkg:deb/debian/libpar-packer-perl@1.012-1?distro=sid
     affected_by_vulnerabilities: []

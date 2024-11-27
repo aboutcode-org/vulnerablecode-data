@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ircd-ratbox
+package: pkg:deb/ubuntu/ircd-ratbox
 versions:
   - purl: pkg:deb/ubuntu/ircd-ratbox@2.2.6.dfsg-1
     affected_by_vulnerabilities:

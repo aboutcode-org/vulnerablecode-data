@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/h2o
+package: pkg:deb/debian/h2o
 versions:
   - purl: pkg:deb/debian/h2o@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/wims
+package: pkg:deb/debian/wims
 versions:
   - purl: pkg:deb/debian/wims@1:4.13c~dfsg1-2?distro=stretch
     affected_by_vulnerabilities: []

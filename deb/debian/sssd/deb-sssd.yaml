@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sssd
+package: pkg:deb/debian/sssd
 versions:
   - purl: pkg:deb/debian/sssd@0?distro=sid
     affected_by_vulnerabilities: []

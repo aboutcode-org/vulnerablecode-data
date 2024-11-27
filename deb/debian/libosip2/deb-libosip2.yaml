@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libosip2
+package: pkg:deb/debian/libosip2
 versions:
   - purl: pkg:deb/debian/libosip2@4.1.0-2.1?distro=sid
     affected_by_vulnerabilities: []

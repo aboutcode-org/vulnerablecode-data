@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/atheme-services
+package: pkg:deb/ubuntu/atheme-services
 versions:
   - purl: pkg:deb/ubuntu/atheme-services@3.0.3-1
     affected_by_vulnerabilities:

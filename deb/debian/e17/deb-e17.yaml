@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/e17
+package: pkg:deb/debian/e17
 versions:
   - purl: pkg:deb/debian/e17@0.17.3-3?distro=sid
     affected_by_vulnerabilities: []

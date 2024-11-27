@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/collabtive
+package: pkg:deb/ubuntu/collabtive
 versions:
   - purl: pkg:deb/ubuntu/collabtive@0.6.5-5
     affected_by_vulnerabilities:

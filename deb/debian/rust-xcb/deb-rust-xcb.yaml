@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-xcb
+package: pkg:deb/debian/rust-xcb
 versions:
   - purl: pkg:deb/debian/rust-xcb@1.1.1-1?distro=sid
     affected_by_vulnerabilities: []

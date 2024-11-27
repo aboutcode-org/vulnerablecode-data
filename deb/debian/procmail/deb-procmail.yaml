@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/procmail
+package: pkg:deb/debian/procmail
 versions:
   - purl: pkg:deb/debian/procmail@3.22-22?distro=sid
     affected_by_vulnerabilities: []

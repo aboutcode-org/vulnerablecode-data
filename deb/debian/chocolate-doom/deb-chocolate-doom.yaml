@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/chocolate-doom
+package: pkg:deb/debian/chocolate-doom
 versions:
   - purl: pkg:deb/debian/chocolate-doom@2.3.0-3?distro=stretch
     affected_by_vulnerabilities:

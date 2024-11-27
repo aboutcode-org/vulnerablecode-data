@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-1.15
+package: pkg:deb/debian/golang-1.15
 versions:
   - purl: pkg:deb/debian/golang-1.15@0?distro=bullseye
     affected_by_vulnerabilities: []

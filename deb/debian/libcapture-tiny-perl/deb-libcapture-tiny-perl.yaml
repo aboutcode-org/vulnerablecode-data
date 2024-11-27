@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libcapture-tiny-perl
+package: pkg:deb/debian/libcapture-tiny-perl
 versions:
   - purl: pkg:deb/debian/libcapture-tiny-perl@0.24-1?distro=sid
     affected_by_vulnerabilities: []

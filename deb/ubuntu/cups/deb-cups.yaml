@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/cups
+package: pkg:deb/ubuntu/cups
 versions:
   - purl: pkg:deb/ubuntu/cups@1.3.10-2
     affected_by_vulnerabilities:

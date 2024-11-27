@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/heat
+package: pkg:deb/ubuntu/heat
 versions:
   - purl: pkg:deb/ubuntu/heat@1:5.0.0.0rc1-0ubuntu1
     affected_by_vulnerabilities:

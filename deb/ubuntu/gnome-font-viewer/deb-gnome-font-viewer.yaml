@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gnome-font-viewer
+package: pkg:deb/ubuntu/gnome-font-viewer
 versions:
   - purl: pkg:deb/ubuntu/gnome-font-viewer@3.12.0-1
     affected_by_vulnerabilities:

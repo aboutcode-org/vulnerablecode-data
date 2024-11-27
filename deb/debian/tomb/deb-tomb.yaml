@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tomb
+package: pkg:deb/debian/tomb
 versions:
   - purl: pkg:deb/debian/tomb@0?distro=sid
     affected_by_vulnerabilities: []

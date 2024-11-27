@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/audiofile
+package: pkg:deb/debian/audiofile
 versions:
   - purl: pkg:deb/debian/audiofile@0.2.6-7.1?distro=sid
     affected_by_vulnerabilities: []

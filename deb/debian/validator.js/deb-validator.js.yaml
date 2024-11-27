@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/validator.js
+package: pkg:deb/debian/validator.js
 versions:
   - purl: pkg:deb/debian/validator.js@0?distro=stretch
     affected_by_vulnerabilities: []

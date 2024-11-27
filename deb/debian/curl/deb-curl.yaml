@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/curl
+package: pkg:deb/debian/curl
 versions:
   - purl: pkg:deb/debian/curl@0?distro=sid
     affected_by_vulnerabilities: []

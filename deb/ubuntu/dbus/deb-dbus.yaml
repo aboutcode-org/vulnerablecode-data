@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/dbus
+package: pkg:deb/ubuntu/dbus
 versions:
   - purl: pkg:deb/ubuntu/dbus@0.22-1ubuntu2
     affected_by_vulnerabilities:

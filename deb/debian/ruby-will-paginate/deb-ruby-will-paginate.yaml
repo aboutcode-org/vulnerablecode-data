@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-will-paginate
+package: pkg:deb/debian/ruby-will-paginate
 versions:
   - purl: pkg:deb/debian/ruby-will-paginate@3.0.5-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/prestashop/contactform
+package: pkg:composer/prestashop/contactform
 versions:
   - purl: pkg:composer/prestashop/contactform@1.0.1
     affected_by_vulnerabilities:

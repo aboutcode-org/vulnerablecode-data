@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libde265
+package: pkg:deb/debian/libde265
 versions:
   - purl: pkg:deb/debian/libde265@0?distro=sid
     affected_by_vulnerabilities: []

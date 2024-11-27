@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libkdcraw
+package: pkg:deb/debian/libkdcraw
 versions:
   - purl: pkg:deb/debian/libkdcraw@0?distro=stretch
     affected_by_vulnerabilities: []

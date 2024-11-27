@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gimp
+package: pkg:deb/ubuntu/gimp
 versions:
   - purl: pkg:deb/ubuntu/gimp@2.0.2-3ubuntu5
     affected_by_vulnerabilities:

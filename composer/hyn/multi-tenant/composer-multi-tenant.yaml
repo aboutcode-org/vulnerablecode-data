@@ -1,4 +1,4 @@
-pacakge: pkg:composer/hyn/multi-tenant
+package: pkg:composer/hyn/multi-tenant
 versions:
   - purl: pkg:composer/hyn/multi-tenant@5.6.0
     affected_by_vulnerabilities:

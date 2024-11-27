@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libfcgi
+package: pkg:deb/debian/libfcgi
 versions:
   - purl: pkg:deb/debian/libfcgi@2.4.0-10?distro=sid
     affected_by_vulnerabilities: []

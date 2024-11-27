@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/connman
+package: pkg:alpine/connman
 versions:
   - purl: pkg:alpine/connman@1.38-r4?arch=aarch64&distroversion=v3.13&reponame=community
     affected_by_vulnerabilities: []

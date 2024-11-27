@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/cinnamon
+package: pkg:deb/ubuntu/cinnamon
 versions:
   - purl: pkg:deb/ubuntu/cinnamon@1.6.2-1
     affected_by_vulnerabilities:

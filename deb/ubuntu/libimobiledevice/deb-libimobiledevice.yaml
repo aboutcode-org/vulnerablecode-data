@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libimobiledevice
+package: pkg:deb/ubuntu/libimobiledevice
 versions:
   - purl: pkg:deb/ubuntu/libimobiledevice@0.9.7-1
     affected_by_vulnerabilities:

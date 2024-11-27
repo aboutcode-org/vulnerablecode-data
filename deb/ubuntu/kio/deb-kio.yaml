@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/kio
+package: pkg:deb/ubuntu/kio
 versions:
   - purl: pkg:deb/ubuntu/kio@5.0.0a-0ubuntu1
     affected_by_vulnerabilities:

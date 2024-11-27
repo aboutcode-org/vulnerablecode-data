@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-hashicorp-go-getter
+package: pkg:deb/debian/golang-github-hashicorp-go-getter
 versions:
   - purl: pkg:deb/debian/golang-github-hashicorp-go-getter@0?distro=sid
     affected_by_vulnerabilities: []

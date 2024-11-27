@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libphp-snoopy
+package: pkg:deb/ubuntu/libphp-snoopy
 versions:
   - purl: pkg:deb/ubuntu/libphp-snoopy@1.2.3-1
     affected_by_vulnerabilities:

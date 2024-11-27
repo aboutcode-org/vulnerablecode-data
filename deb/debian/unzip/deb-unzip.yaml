@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/unzip
+package: pkg:deb/debian/unzip
 versions:
   - purl: pkg:deb/debian/unzip@0?distro=sid
     affected_by_vulnerabilities: []

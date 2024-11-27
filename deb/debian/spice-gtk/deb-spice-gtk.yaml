@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/spice-gtk
+package: pkg:deb/debian/spice-gtk
 versions:
   - purl: pkg:deb/debian/spice-gtk@0.12-5?distro=sid
     affected_by_vulnerabilities: []

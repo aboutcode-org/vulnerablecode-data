@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/heirloom-mailx
+package: pkg:deb/ubuntu/heirloom-mailx
 versions:
   - purl: pkg:deb/ubuntu/heirloom-mailx@12.3-4
     affected_by_vulnerabilities:

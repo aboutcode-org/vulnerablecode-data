@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/loggerhead
+package: pkg:deb/debian/loggerhead
 versions:
   - purl: pkg:deb/debian/loggerhead@0?distro=sid
     affected_by_vulnerabilities: []

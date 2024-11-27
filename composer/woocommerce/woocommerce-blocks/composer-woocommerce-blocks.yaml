@@ -1,4 +1,4 @@
-pacakge: pkg:composer/woocommerce/woocommerce-blocks
+package: pkg:composer/woocommerce/woocommerce-blocks
 versions:
   - purl: pkg:composer/woocommerce/woocommerce-blocks@2.5.0
     affected_by_vulnerabilities:

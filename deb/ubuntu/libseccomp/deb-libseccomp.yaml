@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libseccomp
+package: pkg:deb/ubuntu/libseccomp
 versions:
   - purl: pkg:deb/ubuntu/libseccomp@0.0.0~20120605-1
     affected_by_vulnerabilities:

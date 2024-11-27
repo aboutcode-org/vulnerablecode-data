@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tuxpaint
+package: pkg:deb/debian/tuxpaint
 versions:
   - purl: pkg:deb/debian/tuxpaint@1:0.9.14-2sarge0
     affected_by_vulnerabilities:

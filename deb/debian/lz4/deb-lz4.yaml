@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lz4
+package: pkg:deb/debian/lz4
 versions:
   - purl: pkg:deb/debian/lz4@0.0~r119-1?distro=sid
     affected_by_vulnerabilities: []

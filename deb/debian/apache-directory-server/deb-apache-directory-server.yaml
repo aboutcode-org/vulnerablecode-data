@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/apache-directory-server
+package: pkg:deb/debian/apache-directory-server
 versions:
   - purl: pkg:deb/debian/apache-directory-server@0?distro=sid
     affected_by_vulnerabilities: []

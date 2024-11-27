@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sleuthkit
+package: pkg:deb/debian/sleuthkit
 versions:
   - purl: pkg:deb/debian/sleuthkit@2.09-1?distro=sid
     affected_by_vulnerabilities: []

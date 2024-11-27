@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ack-grep
+package: pkg:deb/ubuntu/ack-grep
 versions:
   - purl: pkg:deb/ubuntu/ack-grep@1.68-2
     affected_by_vulnerabilities:

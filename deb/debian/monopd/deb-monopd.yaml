@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/monopd
+package: pkg:deb/debian/monopd
 versions:
   - purl: pkg:deb/debian/monopd@0.10.2-2?distro=stretch
     affected_by_vulnerabilities: []

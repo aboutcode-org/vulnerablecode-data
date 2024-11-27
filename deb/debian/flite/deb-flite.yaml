@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/flite
+package: pkg:deb/debian/flite
 versions:
   - purl: pkg:deb/debian/flite@1.4-release-8?distro=sid
     affected_by_vulnerabilities: []

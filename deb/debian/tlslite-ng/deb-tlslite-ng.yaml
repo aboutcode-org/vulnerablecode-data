@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tlslite-ng
+package: pkg:deb/debian/tlslite-ng
 versions:
   - purl: pkg:deb/debian/tlslite-ng@0.6.0-1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/miller
+package: pkg:deb/debian/miller
 versions:
   - purl: pkg:deb/debian/miller@0?distro=sid
     affected_by_vulnerabilities: []

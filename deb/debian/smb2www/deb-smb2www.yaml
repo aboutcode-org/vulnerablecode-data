@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/smb2www
+package: pkg:deb/debian/smb2www
 versions:
   - purl: pkg:deb/debian/smb2www@980804-16.1
     affected_by_vulnerabilities:

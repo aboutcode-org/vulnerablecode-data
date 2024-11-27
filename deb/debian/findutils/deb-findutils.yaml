@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/findutils
+package: pkg:deb/debian/findutils
 versions:
   - purl: pkg:deb/debian/findutils@4.1.20-6
     affected_by_vulnerabilities:

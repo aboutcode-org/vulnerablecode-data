@@ -1,4 +1,4 @@
-pacakge: pkg:composer/ibexa/graphql
+package: pkg:composer/ibexa/graphql
 versions:
   - purl: pkg:composer/ibexa/graphql@4.2.0
     affected_by_vulnerabilities:

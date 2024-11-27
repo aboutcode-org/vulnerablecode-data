@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/abiword
+package: pkg:deb/debian/abiword
 versions:
   - purl: pkg:deb/debian/abiword@0.7.7-1
     affected_by_vulnerabilities:

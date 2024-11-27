@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/file
+package: pkg:alpine/file
 versions:
   - purl: pkg:alpine/file@5.32-r1?arch=aarch64&distroversion=v3.7&reponame=main
     affected_by_vulnerabilities: []

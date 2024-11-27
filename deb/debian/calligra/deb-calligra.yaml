@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/calligra
+package: pkg:deb/debian/calligra
 versions:
   - purl: pkg:deb/debian/calligra@1:2.4.3-2?distro=sid
     affected_by_vulnerabilities: []

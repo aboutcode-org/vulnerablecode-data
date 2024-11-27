@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gssproxy
+package: pkg:deb/debian/gssproxy
 versions:
   - purl: pkg:deb/debian/gssproxy@0.5.1-2?distro=stretch
     affected_by_vulnerabilities: []

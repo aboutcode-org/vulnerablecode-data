@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/plptools
+package: pkg:deb/debian/plptools
 versions:
   - purl: pkg:deb/debian/plptools@0.10-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/buddypress/buddypress
+package: pkg:composer/buddypress/buddypress
 versions:
   - purl: pkg:composer/buddypress/buddypress@1.9.2
     affected_by_vulnerabilities:

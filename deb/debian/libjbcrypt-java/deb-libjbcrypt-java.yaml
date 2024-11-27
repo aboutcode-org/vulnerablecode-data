@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libjbcrypt-java
+package: pkg:deb/debian/libjbcrypt-java
 versions:
   - purl: pkg:deb/debian/libjbcrypt-java@0.4-1?distro=sid
     affected_by_vulnerabilities: []

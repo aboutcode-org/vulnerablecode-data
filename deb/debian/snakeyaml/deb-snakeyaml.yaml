@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/snakeyaml
+package: pkg:deb/debian/snakeyaml
 versions:
   - purl: pkg:deb/debian/snakeyaml@1.17-1?distro=stretch
     affected_by_vulnerabilities:

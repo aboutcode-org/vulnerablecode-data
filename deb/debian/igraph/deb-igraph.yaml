@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/igraph
+package: pkg:deb/debian/igraph
 versions:
   - purl: pkg:deb/debian/igraph@0.10.2%2Bds-2?distro=sid
     affected_by_vulnerabilities: []

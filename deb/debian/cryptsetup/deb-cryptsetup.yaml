@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cryptsetup
+package: pkg:deb/debian/cryptsetup
 versions:
   - purl: pkg:deb/debian/cryptsetup@0?distro=sid
     affected_by_vulnerabilities: []

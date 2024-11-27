@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/uwsgi
+package: pkg:deb/debian/uwsgi
 versions:
   - purl: pkg:deb/debian/uwsgi@2.0.14%2B20161117-3%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

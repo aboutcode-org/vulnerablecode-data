@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lame
+package: pkg:deb/debian/lame
 versions:
   - purl: pkg:deb/debian/lame@3.100-1?distro=sid
     affected_by_vulnerabilities: []

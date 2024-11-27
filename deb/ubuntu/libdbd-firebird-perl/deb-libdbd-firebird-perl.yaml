@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libdbd-firebird-perl
+package: pkg:deb/ubuntu/libdbd-firebird-perl
 versions:
   - purl: pkg:deb/ubuntu/libdbd-firebird-perl@0.80-1
     affected_by_vulnerabilities:

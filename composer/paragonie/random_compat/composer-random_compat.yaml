@@ -1,4 +1,4 @@
-pacakge: pkg:composer/paragonie/random_compat
+package: pkg:composer/paragonie/random_compat
 versions:
   - purl: pkg:composer/paragonie/random_compat@0.9.0
     affected_by_vulnerabilities:

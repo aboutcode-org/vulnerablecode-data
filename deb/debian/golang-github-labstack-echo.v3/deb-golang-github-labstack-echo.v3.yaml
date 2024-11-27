@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-labstack-echo.v3
+package: pkg:deb/debian/golang-github-labstack-echo.v3
 versions:
   - purl: pkg:deb/debian/golang-github-labstack-echo.v3@0?distro=sid
     affected_by_vulnerabilities: []

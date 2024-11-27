@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/grep
+package: pkg:deb/debian/grep
 versions:
   - purl: pkg:deb/debian/grep@2.11-1?distro=sid
     affected_by_vulnerabilities: []

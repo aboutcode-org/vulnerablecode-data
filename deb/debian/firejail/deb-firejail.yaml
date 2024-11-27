@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/firejail
+package: pkg:deb/debian/firejail
 versions:
   - purl: pkg:deb/debian/firejail@0?distro=stretch
     affected_by_vulnerabilities: []

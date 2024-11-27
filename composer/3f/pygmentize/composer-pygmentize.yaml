@@ -1,4 +1,4 @@
-pacakge: pkg:composer/3f/pygmentize
+package: pkg:composer/3f/pygmentize
 versions:
   - purl: pkg:composer/3f/pygmentize@1.0
     affected_by_vulnerabilities:

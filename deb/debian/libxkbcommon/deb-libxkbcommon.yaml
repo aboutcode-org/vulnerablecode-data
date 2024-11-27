@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libxkbcommon
+package: pkg:deb/debian/libxkbcommon
 versions:
   - purl: pkg:deb/debian/libxkbcommon@0.7.1-2~deb9u1?distro=stretch
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/bacula-web/bacula-web
+package: pkg:composer/bacula-web/bacula-web
 versions:
   - purl: pkg:composer/bacula-web/bacula-web@7.4.0
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/citadel
+package: pkg:deb/debian/citadel
 versions:
   - purl: pkg:deb/debian/citadel@7.37-3?distro=buster
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/amd64-microcode
+package: pkg:deb/ubuntu/amd64-microcode
 versions:
   - purl: pkg:deb/ubuntu/amd64-microcode@0.20120117-1
     affected_by_vulnerabilities:

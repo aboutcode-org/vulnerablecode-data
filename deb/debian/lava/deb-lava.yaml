@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lava
+package: pkg:deb/debian/lava
 versions:
   - purl: pkg:deb/debian/lava@0?distro=sid
     affected_by_vulnerabilities: []

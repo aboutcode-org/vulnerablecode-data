@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fdclone
+package: pkg:deb/debian/fdclone
 versions:
   - purl: pkg:deb/debian/fdclone@2.00a-1woody3
     affected_by_vulnerabilities:

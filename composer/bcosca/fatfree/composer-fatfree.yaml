@@ -1,4 +1,4 @@
-pacakge: pkg:composer/bcosca/fatfree
+package: pkg:composer/bcosca/fatfree
 versions:
   - purl: pkg:composer/bcosca/fatfree@3.7.1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/git-lfs2
+package: pkg:alpine/git-lfs2
 versions:
   - purl: pkg:alpine/git-lfs2@0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

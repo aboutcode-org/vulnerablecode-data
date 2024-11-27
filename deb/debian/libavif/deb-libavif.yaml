@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libavif
+package: pkg:deb/debian/libavif
 versions:
   - purl: pkg:deb/debian/libavif@0.10.1-1?distro=sid
     affected_by_vulnerabilities: []

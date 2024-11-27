@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-log4js
+package: pkg:deb/debian/node-log4js
 versions:
   - purl: pkg:deb/debian/node-log4js@0.6.18-1?distro=stretch
     affected_by_vulnerabilities:

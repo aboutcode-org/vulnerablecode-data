@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/firebird3.0
+package: pkg:deb/ubuntu/firebird3.0
 versions:
   - purl: pkg:deb/ubuntu/firebird3.0@3.0.1.32609.ds4-10
     affected_by_vulnerabilities:

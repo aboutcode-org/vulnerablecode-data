@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/wine
+package: pkg:deb/debian/wine
 versions:
   - purl: pkg:deb/debian/wine@0.0.20000109-3
     affected_by_vulnerabilities:

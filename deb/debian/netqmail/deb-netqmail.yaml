@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/netqmail
+package: pkg:deb/debian/netqmail
 versions:
   - purl: pkg:deb/debian/netqmail@0?distro=buster
     affected_by_vulnerabilities: []

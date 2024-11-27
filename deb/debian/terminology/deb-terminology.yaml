@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/terminology
+package: pkg:deb/debian/terminology
 versions:
   - purl: pkg:deb/debian/terminology@0.7.0-2?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/polipo
+package: pkg:deb/debian/polipo
 versions:
   - purl: pkg:deb/debian/polipo@0.9.12-1
     affected_by_vulnerabilities: []

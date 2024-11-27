@@ -1,4 +1,4 @@
-pacakge: pkg:composer/sulu/sulu
+package: pkg:composer/sulu/sulu
 versions:
   - purl: pkg:composer/sulu/sulu@0.1.0
     affected_by_vulnerabilities:

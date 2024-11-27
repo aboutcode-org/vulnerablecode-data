@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/leafnode
+package: pkg:deb/debian/leafnode
 versions:
   - purl: pkg:deb/debian/leafnode@0?distro=sid
     affected_by_vulnerabilities: []

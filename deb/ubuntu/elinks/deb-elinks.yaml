@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/elinks
+package: pkg:deb/ubuntu/elinks
 versions:
   - purl: pkg:deb/ubuntu/elinks@0.10.4-7ubuntu1
     affected_by_vulnerabilities:

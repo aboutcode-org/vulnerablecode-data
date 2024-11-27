@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/plib
+package: pkg:deb/debian/plib
 versions:
   - purl: pkg:deb/debian/plib@1.8.5-10?distro=sid
     affected_by_vulnerabilities: []

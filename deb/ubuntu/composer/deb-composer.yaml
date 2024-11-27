@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/composer
+package: pkg:deb/ubuntu/composer
 versions:
   - purl: pkg:deb/ubuntu/composer@1.0.0~alpha10%2B20150511-1
     affected_by_vulnerabilities:

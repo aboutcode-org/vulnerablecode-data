@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/exif
+package: pkg:deb/ubuntu/exif
 versions:
   - purl: pkg:deb/ubuntu/exif@0.6.15-1
     affected_by_vulnerabilities:

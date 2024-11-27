@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/didiwiki
+package: pkg:deb/debian/didiwiki
 versions:
   - purl: pkg:deb/debian/didiwiki@0.5-12?distro=sid
     affected_by_vulnerabilities: []

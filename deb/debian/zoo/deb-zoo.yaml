@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/zoo
+package: pkg:deb/debian/zoo
 versions:
   - purl: pkg:deb/debian/zoo@2.10-17?distro=stretch
     affected_by_vulnerabilities: []

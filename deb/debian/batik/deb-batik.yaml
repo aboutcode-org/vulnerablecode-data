@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/batik
+package: pkg:deb/debian/batik
 versions:
   - purl: pkg:deb/debian/batik@1.10-1?distro=sid
     affected_by_vulnerabilities: []

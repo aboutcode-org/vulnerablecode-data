@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/seatd
+package: pkg:alpine/seatd
 versions:
   - purl: pkg:alpine/seatd@0.6.2-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

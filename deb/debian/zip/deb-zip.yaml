@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/zip
+package: pkg:deb/debian/zip
 versions:
   - purl: pkg:deb/debian/zip@2.20-2
     affected_by_vulnerabilities:

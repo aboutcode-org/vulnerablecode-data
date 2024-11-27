@@ -1,4 +1,4 @@
-pacakge: pkg:composer/phpfastcache/phpfastcache
+package: pkg:composer/phpfastcache/phpfastcache
 versions:
   - purl: pkg:composer/phpfastcache/phpfastcache@2.4.2
     affected_by_vulnerabilities:

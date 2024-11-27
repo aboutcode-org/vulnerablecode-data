@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/boinc
+package: pkg:deb/debian/boinc
 versions:
   - purl: pkg:deb/debian/boinc@6.13.6%2Bdfsg-1?distro=sid
     affected_by_vulnerabilities: []

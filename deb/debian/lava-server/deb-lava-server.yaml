@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lava-server
+package: pkg:deb/debian/lava-server
 versions:
   - purl: pkg:deb/debian/lava-server@0?distro=stretch
     affected_by_vulnerabilities: []

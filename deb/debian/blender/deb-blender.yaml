@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/blender
+package: pkg:deb/debian/blender
 versions:
   - purl: pkg:deb/debian/blender@0?distro=sid
     affected_by_vulnerabilities: []

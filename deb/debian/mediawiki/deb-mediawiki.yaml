@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mediawiki
+package: pkg:deb/debian/mediawiki
 versions:
   - purl: pkg:deb/debian/mediawiki@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lldpd
+package: pkg:deb/debian/lldpd
 versions:
   - purl: pkg:deb/debian/lldpd@0.7.19-1?distro=sid
     affected_by_vulnerabilities: []

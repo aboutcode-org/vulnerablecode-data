@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/glusterfs
+package: pkg:deb/debian/glusterfs
 versions:
   - purl: pkg:deb/debian/glusterfs@0?distro=sid
     affected_by_vulnerabilities: []

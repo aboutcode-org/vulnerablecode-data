@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/requests
+package: pkg:deb/debian/requests
 versions:
   - purl: pkg:deb/debian/requests@2.12.4-1?distro=stretch
     affected_by_vulnerabilities:

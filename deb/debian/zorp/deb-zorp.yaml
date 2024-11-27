@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/zorp
+package: pkg:deb/debian/zorp
 versions:
   - purl: pkg:deb/debian/zorp@3.9.2-1?distro=sid
     affected_by_vulnerabilities: []

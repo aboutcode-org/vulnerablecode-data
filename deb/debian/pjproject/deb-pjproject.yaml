@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pjproject
+package: pkg:deb/debian/pjproject
 versions:
   - purl: pkg:deb/debian/pjproject@0?distro=stretch
     affected_by_vulnerabilities: []

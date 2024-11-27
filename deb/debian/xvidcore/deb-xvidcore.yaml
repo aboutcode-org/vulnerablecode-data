@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xvidcore
+package: pkg:deb/debian/xvidcore
 versions:
   - purl: pkg:deb/debian/xvidcore@0?distro=sid
     affected_by_vulnerabilities: []

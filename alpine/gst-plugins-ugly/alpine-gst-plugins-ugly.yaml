@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/gst-plugins-ugly
+package: pkg:alpine/gst-plugins-ugly
 versions:
   - purl: pkg:alpine/gst-plugins-ugly@1.10.4-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

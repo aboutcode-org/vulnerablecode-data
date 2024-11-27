@@ -1,4 +1,4 @@
-pacakge: pkg:composer/anchorcms/anchor-cms
+package: pkg:composer/anchorcms/anchor-cms
 versions:
   - purl: pkg:composer/anchorcms/anchor-cms@0.11
     affected_by_vulnerabilities:

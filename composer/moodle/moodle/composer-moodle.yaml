@@ -1,4 +1,4 @@
-pacakge: pkg:composer/moodle/moodle
+package: pkg:composer/moodle/moodle
 versions:
   - purl: pkg:composer/moodle/moodle@2.3.10
     affected_by_vulnerabilities:

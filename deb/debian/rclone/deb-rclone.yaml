@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rclone
+package: pkg:deb/debian/rclone
 versions:
   - purl: pkg:deb/debian/rclone@0?distro=sid
     affected_by_vulnerabilities: []

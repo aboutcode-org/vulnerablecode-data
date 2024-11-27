@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jsoup
+package: pkg:deb/debian/jsoup
 versions:
   - purl: pkg:deb/debian/jsoup@1.10.2-1?distro=stretch
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gocr
+package: pkg:deb/debian/gocr
 versions:
   - purl: pkg:deb/debian/gocr@0.3.4-10
     affected_by_vulnerabilities:

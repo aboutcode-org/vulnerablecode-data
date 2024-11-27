@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/runit
+package: pkg:deb/debian/runit
 versions:
   - purl: pkg:deb/debian/runit@1.0.5-3
     affected_by_vulnerabilities:

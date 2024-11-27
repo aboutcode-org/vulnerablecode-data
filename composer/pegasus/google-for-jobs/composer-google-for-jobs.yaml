@@ -1,4 +1,4 @@
-pacakge: pkg:composer/pegasus/google-for-jobs
+package: pkg:composer/pegasus/google-for-jobs
 versions:
   - purl: pkg:composer/pegasus/google-for-jobs@1.1.0
     affected_by_vulnerabilities:

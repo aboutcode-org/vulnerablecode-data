@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libreswan
+package: pkg:deb/debian/libreswan
 versions:
   - purl: pkg:deb/debian/libreswan@0?distro=sid
     affected_by_vulnerabilities: []

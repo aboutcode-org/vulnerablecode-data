@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libcaca
+package: pkg:deb/debian/libcaca
 versions:
   - purl: pkg:deb/debian/libcaca@0.99.beta19-2.1?distro=sid
     affected_by_vulnerabilities:

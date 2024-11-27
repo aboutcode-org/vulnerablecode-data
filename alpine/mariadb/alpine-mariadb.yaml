@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/mariadb
+package: pkg:alpine/mariadb
 versions:
   - purl: pkg:alpine/mariadb@10.1.17-r0?arch=armhf&distroversion=v3.3&reponame=main
     affected_by_vulnerabilities: []

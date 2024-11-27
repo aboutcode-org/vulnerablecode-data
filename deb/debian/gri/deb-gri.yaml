@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gri
+package: pkg:deb/debian/gri
 versions:
   - purl: pkg:deb/debian/gri@2.12.18-1?distro=sid
     affected_by_vulnerabilities: []

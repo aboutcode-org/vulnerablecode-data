@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/syslog-ng
+package: pkg:deb/debian/syslog-ng
 versions:
   - purl: pkg:deb/debian/syslog-ng@1.4.0rc3-3
     affected_by_vulnerabilities:

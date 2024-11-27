@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openarena
+package: pkg:deb/debian/openarena
 versions:
   - purl: pkg:deb/debian/openarena@0?distro=sid
     affected_by_vulnerabilities: []

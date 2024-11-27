@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sysstat
+package: pkg:deb/debian/sysstat
 versions:
   - purl: pkg:deb/debian/sysstat@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/havp
+package: pkg:deb/debian/havp
 versions:
   - purl: pkg:deb/debian/havp@0.88-1.1?distro=buster
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libgwenhywfar
+package: pkg:deb/debian/libgwenhywfar
 versions:
   - purl: pkg:deb/debian/libgwenhywfar@4.12.0beta-3?distro=sid
     affected_by_vulnerabilities: []

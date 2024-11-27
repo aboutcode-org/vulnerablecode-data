@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/openssl1.1-compat
+package: pkg:alpine/openssl1.1-compat
 versions:
   - purl: pkg:alpine/openssl1.1-compat@0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

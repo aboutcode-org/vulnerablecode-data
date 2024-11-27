@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/setuptools
+package: pkg:deb/debian/setuptools
 versions:
   - purl: pkg:deb/debian/setuptools@52.0.0-4?distro=sid
     affected_by_vulnerabilities:

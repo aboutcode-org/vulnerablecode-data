@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/zeromq
+package: pkg:alpine/zeromq
 versions:
   - purl: pkg:alpine/zeromq@4.2.5-r0?arch=aarch64&distroversion=v3.6&reponame=main
     affected_by_vulnerabilities: []

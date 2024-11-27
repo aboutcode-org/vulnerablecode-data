@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/freeswitch
+package: pkg:alpine/freeswitch
 versions:
   - purl: pkg:alpine/freeswitch@1.10.7-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

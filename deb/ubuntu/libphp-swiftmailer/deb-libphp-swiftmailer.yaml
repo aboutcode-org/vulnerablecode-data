@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libphp-swiftmailer
+package: pkg:deb/ubuntu/libphp-swiftmailer
 versions:
   - purl: pkg:deb/ubuntu/libphp-swiftmailer@4.0.6-1
     affected_by_vulnerabilities:

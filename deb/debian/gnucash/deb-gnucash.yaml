@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnucash
+package: pkg:deb/debian/gnucash
 versions:
   - purl: pkg:deb/debian/gnucash@1:2.6.15-1?distro=stretch
     affected_by_vulnerabilities: []

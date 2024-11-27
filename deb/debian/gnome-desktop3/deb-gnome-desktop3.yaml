@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnome-desktop3
+package: pkg:deb/debian/gnome-desktop3
 versions:
   - purl: pkg:deb/debian/gnome-desktop3@0?distro=stretch
     affected_by_vulnerabilities: []

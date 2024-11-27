@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gimp
+package: pkg:deb/debian/gimp
 versions:
   - purl: pkg:deb/debian/gimp@1.0.0-1
     affected_by_vulnerabilities:

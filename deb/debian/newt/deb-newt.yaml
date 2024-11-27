@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/newt
+package: pkg:deb/debian/newt
 versions:
   - purl: pkg:deb/debian/newt@0.52.10-4.1?distro=sid
     affected_by_vulnerabilities: []

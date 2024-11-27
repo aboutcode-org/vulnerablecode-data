@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/util-linux
+package: pkg:alpine/util-linux
 versions:
   - purl: pkg:alpine/util-linux@2.37.2-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

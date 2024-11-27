@@ -1,4 +1,4 @@
-pacakge: pkg:composer/typo3/html-sanitizer
+package: pkg:composer/typo3/html-sanitizer
 versions:
   - purl: pkg:composer/typo3/html-sanitizer@1.0.0
     affected_by_vulnerabilities:

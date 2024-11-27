@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/apache-directory-api
+package: pkg:deb/debian/apache-directory-api
 versions:
   - purl: pkg:deb/debian/apache-directory-api@1.0.0-1?distro=sid
     affected_by_vulnerabilities: []

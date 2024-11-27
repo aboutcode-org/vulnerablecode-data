@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dump
+package: pkg:deb/debian/dump
 versions:
   - purl: pkg:deb/debian/dump@0.4b25-0.potato.1
     affected_by_vulnerabilities:

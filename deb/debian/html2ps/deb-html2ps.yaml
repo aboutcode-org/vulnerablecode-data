@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/html2ps
+package: pkg:deb/debian/html2ps
 versions:
   - purl: pkg:deb/debian/html2ps@1.0b1-6
     affected_by_vulnerabilities:

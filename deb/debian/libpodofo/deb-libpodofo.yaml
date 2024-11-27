@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libpodofo
+package: pkg:deb/debian/libpodofo
 versions:
   - purl: pkg:deb/debian/libpodofo@0.9.4-1?distro=sid
     affected_by_vulnerabilities: []

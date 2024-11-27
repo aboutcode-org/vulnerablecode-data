@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-object-path
+package: pkg:deb/debian/node-object-path
 versions:
   - purl: pkg:deb/debian/node-object-path@0.11.3-1?distro=stretch
     affected_by_vulnerabilities:

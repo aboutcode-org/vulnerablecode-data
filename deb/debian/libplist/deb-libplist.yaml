@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libplist
+package: pkg:deb/debian/libplist
 versions:
   - purl: pkg:deb/debian/libplist@1.12%2Bgit%2B1%2Be37ca00-0.1?distro=sid
     affected_by_vulnerabilities: []

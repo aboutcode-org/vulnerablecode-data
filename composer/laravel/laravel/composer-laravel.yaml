@@ -1,4 +1,4 @@
-pacakge: pkg:composer/laravel/laravel
+package: pkg:composer/laravel/laravel
 versions:
   - purl: pkg:composer/laravel/laravel@4.0.0
     affected_by_vulnerabilities:

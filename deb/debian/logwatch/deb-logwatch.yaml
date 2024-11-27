@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/logwatch
+package: pkg:deb/debian/logwatch
 versions:
   - purl: pkg:deb/debian/logwatch@5.0-1?distro=sid
     affected_by_vulnerabilities: []

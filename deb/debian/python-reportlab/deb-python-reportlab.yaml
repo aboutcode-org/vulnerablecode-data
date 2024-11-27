@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-reportlab
+package: pkg:deb/debian/python-reportlab
 versions:
   - purl: pkg:deb/debian/python-reportlab@3.3.0-2%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

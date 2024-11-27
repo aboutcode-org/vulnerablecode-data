@@ -1,4 +1,4 @@
-pacakge: pkg:conan/folly
+package: pkg:conan/folly
 versions:
   - purl: pkg:conan/folly@2019.10.21.00
     affected_by_vulnerabilities:

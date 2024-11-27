@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/bcron
+package: pkg:deb/ubuntu/bcron
 versions:
   - purl: pkg:deb/ubuntu/bcron@0.09-10
     affected_by_vulnerabilities:

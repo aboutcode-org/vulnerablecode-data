@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-xterm
+package: pkg:deb/debian/node-xterm
 versions:
   - purl: pkg:deb/debian/node-xterm@3.8.1-1?distro=sid
     affected_by_vulnerabilities: []

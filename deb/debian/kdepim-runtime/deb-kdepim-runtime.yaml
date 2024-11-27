@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kdepim-runtime
+package: pkg:deb/debian/kdepim-runtime
 versions:
   - purl: pkg:deb/debian/kdepim-runtime@4:16.04.2-2?distro=stretch
     affected_by_vulnerabilities: []

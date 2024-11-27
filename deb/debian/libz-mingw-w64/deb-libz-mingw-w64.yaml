@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libz-mingw-w64
+package: pkg:deb/debian/libz-mingw-w64
 versions:
   - purl: pkg:deb/debian/libz-mingw-w64@1.2.11%2Bdfsg-1?distro=stretch
     affected_by_vulnerabilities: []

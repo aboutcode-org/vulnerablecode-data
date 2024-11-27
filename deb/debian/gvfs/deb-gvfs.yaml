@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gvfs
+package: pkg:deb/debian/gvfs
 versions:
   - purl: pkg:deb/debian/gvfs@1.30.4-1?distro=stretch
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/axiom
+package: pkg:deb/ubuntu/axiom
 versions:
   - purl: pkg:deb/ubuntu/axiom@0.20040128-4
     affected_by_vulnerabilities:

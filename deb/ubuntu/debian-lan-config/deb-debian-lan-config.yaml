@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/debian-lan-config
+package: pkg:deb/ubuntu/debian-lan-config
 versions:
   - purl: pkg:deb/ubuntu/debian-lan-config@0.10
     affected_by_vulnerabilities:

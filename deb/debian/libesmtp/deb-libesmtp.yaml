@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libesmtp
+package: pkg:deb/debian/libesmtp
 versions:
   - purl: pkg:deb/debian/libesmtp@0.8.11-1?distro=sid
     affected_by_vulnerabilities: []

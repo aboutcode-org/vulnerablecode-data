@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xterm
+package: pkg:deb/debian/xterm
 versions:
   - purl: pkg:deb/debian/xterm@0?distro=sid
     affected_by_vulnerabilities: []

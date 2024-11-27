@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gcc-4.9
+package: pkg:deb/ubuntu/gcc-4.9
 versions:
   - purl: pkg:deb/ubuntu/gcc-4.9@4.9.0-10ubuntu1
     affected_by_vulnerabilities:

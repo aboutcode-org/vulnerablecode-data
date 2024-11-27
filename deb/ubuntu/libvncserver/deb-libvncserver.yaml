@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libvncserver
+package: pkg:deb/ubuntu/libvncserver
 versions:
   - purl: pkg:deb/ubuntu/libvncserver@0.6-2
     affected_by_vulnerabilities:

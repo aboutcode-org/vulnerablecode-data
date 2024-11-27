@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/spip
+package: pkg:deb/debian/spip
 versions:
   - purl: pkg:deb/debian/spip@0?distro=stretch
     affected_by_vulnerabilities: []

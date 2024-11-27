@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/firejail
+package: pkg:deb/ubuntu/firejail
 versions:
   - purl: pkg:deb/ubuntu/firejail@0.9.24-1
     affected_by_vulnerabilities:

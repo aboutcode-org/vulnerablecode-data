@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sniffit
+package: pkg:deb/debian/sniffit
 versions:
   - purl: pkg:deb/debian/sniffit@0.3.7.beta-20?distro=sid
     affected_by_vulnerabilities: []

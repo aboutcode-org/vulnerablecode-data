@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/freeciv
+package: pkg:deb/ubuntu/freeciv
 versions:
   - purl: pkg:deb/ubuntu/freeciv@1.14.1-2
     affected_by_vulnerabilities:

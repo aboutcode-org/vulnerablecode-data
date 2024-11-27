@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/charybdis
+package: pkg:deb/ubuntu/charybdis
 versions:
   - purl: pkg:deb/ubuntu/charybdis@3.3.0-7
     affected_by_vulnerabilities:

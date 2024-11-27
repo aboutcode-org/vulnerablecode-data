@@ -1,4 +1,4 @@
-pacakge: pkg:composer/zfr/zfr-oauth2-server-module
+package: pkg:composer/zfr/zfr-oauth2-server-module
 versions:
   - purl: pkg:composer/zfr/zfr-oauth2-server-module@0.1.0
     affected_by_vulnerabilities:

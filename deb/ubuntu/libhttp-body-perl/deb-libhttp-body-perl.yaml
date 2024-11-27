@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libhttp-body-perl
+package: pkg:deb/ubuntu/libhttp-body-perl
 versions:
   - purl: pkg:deb/ubuntu/libhttp-body-perl@0.5-1
     affected_by_vulnerabilities:

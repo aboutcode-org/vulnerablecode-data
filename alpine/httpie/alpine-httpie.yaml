@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/httpie
+package: pkg:alpine/httpie
 versions:
   - purl: pkg:alpine/httpie@1.0.3-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

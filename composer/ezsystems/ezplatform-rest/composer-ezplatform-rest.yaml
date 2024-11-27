@@ -1,4 +1,4 @@
-pacakge: pkg:composer/ezsystems/ezplatform-rest
+package: pkg:composer/ezsystems/ezplatform-rest
 versions:
   - purl: pkg:composer/ezsystems/ezplatform-rest@1.2.0
     affected_by_vulnerabilities:

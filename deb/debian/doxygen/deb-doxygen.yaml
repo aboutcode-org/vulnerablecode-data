@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/doxygen
+package: pkg:deb/debian/doxygen
 versions:
   - purl: pkg:deb/debian/doxygen@1.8.12-1?distro=sid
     affected_by_vulnerabilities: []

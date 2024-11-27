@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libhibernate-validator4-java
+package: pkg:deb/debian/libhibernate-validator4-java
 versions:
   - purl: pkg:deb/debian/libhibernate-validator4-java@0?distro=sid
     affected_by_vulnerabilities: []

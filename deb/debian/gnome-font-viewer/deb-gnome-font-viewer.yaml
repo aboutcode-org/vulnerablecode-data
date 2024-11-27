@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnome-font-viewer
+package: pkg:deb/debian/gnome-font-viewer
 versions:
   - purl: pkg:deb/debian/gnome-font-viewer@3.22.0-1?distro=stretch
     affected_by_vulnerabilities:

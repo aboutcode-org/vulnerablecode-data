@@ -1,4 +1,4 @@
-pacakge: pkg:conan/wasmtime
+package: pkg:conan/wasmtime
 versions:
   - purl: pkg:conan/wasmtime@0.29.0
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kate
+package: pkg:deb/debian/kate
 versions:
   - purl: pkg:deb/debian/kate@4:16.08.3-1?distro=stretch
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cpanminus
+package: pkg:deb/debian/cpanminus
 versions:
   - purl: pkg:deb/debian/cpanminus@1.7042-2?distro=stretch
     affected_by_vulnerabilities:

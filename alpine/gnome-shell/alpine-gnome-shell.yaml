@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/gnome-shell
+package: pkg:alpine/gnome-shell
 versions:
   - purl: pkg:alpine/gnome-shell@0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/gitea
+package: pkg:alpine/gitea
 versions:
   - purl: pkg:alpine/gitea@1.11.2-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

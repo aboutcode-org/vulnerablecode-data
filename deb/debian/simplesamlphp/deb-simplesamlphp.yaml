@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/simplesamlphp
+package: pkg:deb/debian/simplesamlphp
 versions:
   - purl: pkg:deb/debian/simplesamlphp@0?distro=sid
     affected_by_vulnerabilities: []

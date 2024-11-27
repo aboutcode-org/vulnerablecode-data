@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/gst-plugins-base1
+package: pkg:alpine/gst-plugins-base1
 versions:
   - purl: pkg:alpine/gst-plugins-base1@1.8.3-r0?arch=aarch64&distroversion=v3.5&reponame=main
     affected_by_vulnerabilities: []

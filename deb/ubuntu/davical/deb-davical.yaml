@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/davical
+package: pkg:deb/ubuntu/davical
 versions:
   - purl: pkg:deb/ubuntu/davical@0.9.6.1
     affected_by_vulnerabilities:

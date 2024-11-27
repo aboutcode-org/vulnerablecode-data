@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libmatio
+package: pkg:deb/debian/libmatio
 versions:
   - purl: pkg:deb/debian/libmatio@0?distro=sid
     affected_by_vulnerabilities: []

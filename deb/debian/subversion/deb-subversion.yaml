@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/subversion
+package: pkg:deb/debian/subversion
 versions:
   - purl: pkg:deb/debian/subversion@0?distro=sid
     affected_by_vulnerabilities: []

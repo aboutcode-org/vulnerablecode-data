@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ardour
+package: pkg:deb/debian/ardour
 versions:
   - purl: pkg:deb/debian/ardour@1:2.1-1.1?distro=sid
     affected_by_vulnerabilities: []

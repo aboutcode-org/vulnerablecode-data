@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/django-tastypie
+package: pkg:deb/debian/django-tastypie
 versions:
   - purl: pkg:deb/debian/django-tastypie@0.13.3-1?distro=sid
     affected_by_vulnerabilities: []

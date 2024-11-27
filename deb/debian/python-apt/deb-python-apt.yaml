@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-apt
+package: pkg:deb/debian/python-apt
 versions:
   - purl: pkg:deb/debian/python-apt@1.4.1?distro=stretch
     affected_by_vulnerabilities: []

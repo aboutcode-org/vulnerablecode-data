@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/neovim
+package: pkg:deb/debian/neovim
 versions:
   - purl: pkg:deb/debian/neovim@0.1.6-4?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ppp
+package: pkg:deb/debian/ppp
 versions:
   - purl: pkg:deb/debian/ppp@0?distro=sid
     affected_by_vulnerabilities: []

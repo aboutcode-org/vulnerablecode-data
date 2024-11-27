@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-serde-cbor
+package: pkg:deb/debian/rust-serde-cbor
 versions:
   - purl: pkg:deb/debian/rust-serde-cbor@0?distro=sid
     affected_by_vulnerabilities: []

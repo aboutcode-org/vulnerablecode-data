@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lwip
+package: pkg:deb/debian/lwip
 versions:
   - purl: pkg:deb/debian/lwip@2.0.3-3%2Bdeb10u1?distro=sid
     affected_by_vulnerabilities:

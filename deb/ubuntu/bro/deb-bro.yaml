@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/bro
+package: pkg:deb/ubuntu/bro
 versions:
   - purl: pkg:deb/ubuntu/bro@2.3.2%2Bdfsg-1
     affected_by_vulnerabilities:

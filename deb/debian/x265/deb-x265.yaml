@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/x265
+package: pkg:deb/debian/x265
 versions:
   - purl: pkg:deb/debian/x265@0?distro=sid
     affected_by_vulnerabilities: []

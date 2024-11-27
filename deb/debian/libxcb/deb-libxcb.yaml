@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libxcb
+package: pkg:deb/debian/libxcb
 versions:
   - purl: pkg:deb/debian/libxcb@1.12-1?distro=stretch
     affected_by_vulnerabilities: []

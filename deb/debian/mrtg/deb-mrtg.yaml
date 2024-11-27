@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mrtg
+package: pkg:deb/debian/mrtg
 versions:
   - purl: pkg:deb/debian/mrtg@0?distro=sid
     affected_by_vulnerabilities: []

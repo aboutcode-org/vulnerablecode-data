@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libidn
+package: pkg:deb/debian/libidn
 versions:
   - purl: pkg:deb/debian/libidn@0?distro=sid
     affected_by_vulnerabilities: []

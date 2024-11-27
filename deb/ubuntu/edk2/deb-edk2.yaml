@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/edk2
+package: pkg:deb/ubuntu/edk2
 versions:
   - purl: pkg:deb/ubuntu/edk2@0~20121205.edae8d2d-0ubuntu1
     affected_by_vulnerabilities:

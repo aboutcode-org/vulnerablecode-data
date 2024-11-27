@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libgit2-0.27
+package: pkg:alpine/libgit2-0.27
 versions:
   - purl: pkg:alpine/libgit2-0.27@0.24.3-r0?arch=aarch64&distroversion=v3.10&reponame=community
     affected_by_vulnerabilities: []

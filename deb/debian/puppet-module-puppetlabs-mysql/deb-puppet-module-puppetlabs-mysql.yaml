@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/puppet-module-puppetlabs-mysql
+package: pkg:deb/debian/puppet-module-puppetlabs-mysql
 versions:
   - purl: pkg:deb/debian/puppet-module-puppetlabs-mysql@3.10.0-1?distro=stretch
     affected_by_vulnerabilities: []

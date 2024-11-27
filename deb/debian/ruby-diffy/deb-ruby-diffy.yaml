@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-diffy
+package: pkg:deb/debian/ruby-diffy
 versions:
   - purl: pkg:deb/debian/ruby-diffy@0?distro=sid
     affected_by_vulnerabilities: []

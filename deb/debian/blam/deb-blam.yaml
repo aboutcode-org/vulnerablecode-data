@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/blam
+package: pkg:deb/debian/blam
 versions:
   - purl: pkg:deb/debian/blam@1.8.4-1?distro=stretch
     affected_by_vulnerabilities: []

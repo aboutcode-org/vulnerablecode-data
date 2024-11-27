@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pygresql
+package: pkg:deb/debian/pygresql
 versions:
   - purl: pkg:deb/debian/pygresql@1:4.0-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ckeditor
+package: pkg:deb/debian/ckeditor
 versions:
   - purl: pkg:deb/debian/ckeditor@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jquery-jplayer
+package: pkg:deb/debian/jquery-jplayer
 versions:
   - purl: pkg:deb/debian/jquery-jplayer@2.1.0-2?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gnupg1
+package: pkg:deb/ubuntu/gnupg1
 versions:
   - purl: pkg:deb/ubuntu/gnupg1@1.4.20-7
     affected_by_vulnerabilities:

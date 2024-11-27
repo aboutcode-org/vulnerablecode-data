@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pypdf2
+package: pkg:deb/debian/pypdf2
 versions:
   - purl: pkg:deb/debian/pypdf2@1.26.0-2?distro=sid
     affected_by_vulnerabilities:

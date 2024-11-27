@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pgpdump
+package: pkg:deb/debian/pgpdump
 versions:
   - purl: pkg:deb/debian/pgpdump@0.31-0.1?distro=sid
     affected_by_vulnerabilities: []

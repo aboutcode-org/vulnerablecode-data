@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/widelands
+package: pkg:deb/debian/widelands
 versions:
   - purl: pkg:deb/debian/widelands@1:15-3?distro=sid
     affected_by_vulnerabilities: []

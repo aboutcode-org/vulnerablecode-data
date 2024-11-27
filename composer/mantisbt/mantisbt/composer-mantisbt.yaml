@@ -1,4 +1,4 @@
-pacakge: pkg:composer/mantisbt/mantisbt
+package: pkg:composer/mantisbt/mantisbt
 versions:
   - purl: pkg:composer/mantisbt/mantisbt@2.10.0
     affected_by_vulnerabilities:

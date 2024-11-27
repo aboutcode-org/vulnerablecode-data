@@ -1,4 +1,4 @@
-pacakge: pkg:composer/amazing/media2click
+package: pkg:composer/amazing/media2click
 versions:
   - purl: pkg:composer/amazing/media2click@1.0.0
     affected_by_vulnerabilities:

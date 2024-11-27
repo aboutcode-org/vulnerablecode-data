@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/botan
+package: pkg:deb/ubuntu/botan
 versions:
   - purl: pkg:deb/ubuntu/botan@1.6.2-2
     affected_by_vulnerabilities:

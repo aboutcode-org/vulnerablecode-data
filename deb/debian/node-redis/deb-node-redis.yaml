@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-redis
+package: pkg:deb/debian/node-redis
 versions:
   - purl: pkg:deb/debian/node-redis@2.8.0-1%2Bdeb10u1?distro=sid
     affected_by_vulnerabilities: []

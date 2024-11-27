@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nvidia-graphics-drivers
+package: pkg:deb/debian/nvidia-graphics-drivers
 versions:
   - purl: pkg:deb/debian/nvidia-graphics-drivers@0?distro=sid
     affected_by_vulnerabilities: []

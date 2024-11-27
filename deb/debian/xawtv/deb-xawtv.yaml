@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xawtv
+package: pkg:deb/debian/xawtv
 versions:
   - purl: pkg:deb/debian/xawtv@3.103-4?distro=stretch
     affected_by_vulnerabilities:

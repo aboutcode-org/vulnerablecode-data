@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/swift-plugin-s3
+package: pkg:deb/debian/swift-plugin-s3
 versions:
   - purl: pkg:deb/debian/swift-plugin-s3@1.11-2?distro=stretch
     affected_by_vulnerabilities: []

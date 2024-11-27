@@ -1,4 +1,4 @@
-pacakge: pkg:composer/zetacomponents/mail
+package: pkg:composer/zetacomponents/mail
 versions:
   - purl: pkg:composer/zetacomponents/mail@1.1
     affected_by_vulnerabilities:

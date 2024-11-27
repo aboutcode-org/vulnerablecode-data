@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/latex2rtf
+package: pkg:deb/debian/latex2rtf
 versions:
   - purl: pkg:deb/debian/latex2rtf@1.1-6
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/mpv
+package: pkg:alpine/mpv
 versions:
   - purl: pkg:alpine/mpv@0.27.0-r2?arch=aarch64&distroversion=v3.7&reponame=community
     affected_by_vulnerabilities: []

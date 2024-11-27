@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python3.11
+package: pkg:deb/debian/python3.11
 versions:
   - purl: pkg:deb/debian/python3.11@3.11.0-1?distro=sid
     affected_by_vulnerabilities:

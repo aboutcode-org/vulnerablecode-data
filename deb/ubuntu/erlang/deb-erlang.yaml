@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/erlang
+package: pkg:deb/ubuntu/erlang
 versions:
   - purl: pkg:deb/ubuntu/erlang@1:10.b.10-2
     affected_by_vulnerabilities:

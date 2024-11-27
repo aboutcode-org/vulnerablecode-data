@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/ntpsec
+package: pkg:alpine/ntpsec
 versions:
   - purl: pkg:alpine/ntpsec@1.1.3-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/autofs
+package: pkg:deb/ubuntu/autofs
 versions:
   - purl: pkg:deb/ubuntu/autofs@3.9.99-4.0.0pre10-16ubuntu1
     affected_by_vulnerabilities:

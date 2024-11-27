@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tre
+package: pkg:deb/debian/tre
 versions:
   - purl: pkg:deb/debian/tre@0.8.0-5?distro=sid
     affected_by_vulnerabilities: []

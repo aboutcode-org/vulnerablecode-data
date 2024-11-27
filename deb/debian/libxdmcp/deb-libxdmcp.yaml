@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libxdmcp
+package: pkg:deb/debian/libxdmcp
 versions:
   - purl: pkg:deb/debian/libxdmcp@1:1.1.2-2?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libapache2-mod-rpaf
+package: pkg:deb/debian/libapache2-mod-rpaf
 versions:
   - purl: pkg:deb/debian/libapache2-mod-rpaf@0.6-1?distro=sid
     affected_by_vulnerabilities: []

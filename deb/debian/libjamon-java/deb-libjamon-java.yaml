@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libjamon-java
+package: pkg:deb/debian/libjamon-java
 versions:
   - purl: pkg:deb/debian/libjamon-java@0?distro=sid
     affected_by_vulnerabilities: []

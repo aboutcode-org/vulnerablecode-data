@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mate-screensaver
+package: pkg:deb/debian/mate-screensaver
 versions:
   - purl: pkg:deb/debian/mate-screensaver@1.16.1-1?distro=stretch
     affected_by_vulnerabilities:

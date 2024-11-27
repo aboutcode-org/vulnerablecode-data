@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/phpliteadmin
+package: pkg:deb/debian/phpliteadmin
 versions:
   - purl: pkg:deb/debian/phpliteadmin@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/heartbeat
+package: pkg:deb/debian/heartbeat
 versions:
   - purl: pkg:deb/debian/heartbeat@0.4.9.0l-7.2
     affected_by_vulnerabilities:

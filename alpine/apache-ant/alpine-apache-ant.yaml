@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/apache-ant
+package: pkg:alpine/apache-ant
 versions:
   - purl: pkg:alpine/apache-ant@1.10.11-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

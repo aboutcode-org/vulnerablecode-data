@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/exo
+package: pkg:deb/debian/exo
 versions:
   - purl: pkg:deb/debian/exo@0.10.7-1?distro=stretch
     affected_by_vulnerabilities: []

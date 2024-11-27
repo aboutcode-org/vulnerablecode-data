@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xrootd
+package: pkg:deb/debian/xrootd
 versions:
   - purl: pkg:deb/debian/xrootd@0?distro=sid
     affected_by_vulnerabilities: []

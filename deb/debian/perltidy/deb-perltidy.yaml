@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/perltidy
+package: pkg:deb/debian/perltidy
 versions:
   - purl: pkg:deb/debian/perltidy@20130922-1?distro=sid
     affected_by_vulnerabilities: []

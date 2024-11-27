@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/opensmtpd
+package: pkg:deb/debian/opensmtpd
 versions:
   - purl: pkg:deb/debian/opensmtpd@0?distro=stretch
     affected_by_vulnerabilities: []

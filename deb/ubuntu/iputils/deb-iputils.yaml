@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/iputils
+package: pkg:deb/ubuntu/iputils
 versions:
   - purl: pkg:deb/ubuntu/iputils@3:20020927-2
     affected_by_vulnerabilities:

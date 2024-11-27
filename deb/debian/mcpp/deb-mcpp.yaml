@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mcpp
+package: pkg:deb/debian/mcpp
 versions:
   - purl: pkg:deb/debian/mcpp@2.7.2-4?distro=sid
     affected_by_vulnerabilities:

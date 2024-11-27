@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-loader-utils
+package: pkg:deb/debian/node-loader-utils
 versions:
   - purl: pkg:deb/debian/node-loader-utils@0?distro=sid
     affected_by_vulnerabilities: []

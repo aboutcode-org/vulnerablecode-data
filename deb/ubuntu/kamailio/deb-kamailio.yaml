@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/kamailio
+package: pkg:deb/ubuntu/kamailio
 versions:
   - purl: pkg:deb/ubuntu/kamailio@3.3.0-1
     affected_by_vulnerabilities:

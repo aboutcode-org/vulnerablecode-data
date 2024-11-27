@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/phonefsod
+package: pkg:deb/debian/phonefsod
 versions:
   - purl: pkg:deb/debian/phonefsod@0.1%2Bgit20121018-2?distro=stretch
     affected_by_vulnerabilities: []

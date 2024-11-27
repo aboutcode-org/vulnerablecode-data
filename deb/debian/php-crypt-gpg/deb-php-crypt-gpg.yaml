@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-crypt-gpg
+package: pkg:deb/debian/php-crypt-gpg
 versions:
   - purl: pkg:deb/debian/php-crypt-gpg@1.6.4-2%2Bdeb11u1?distro=sid
     affected_by_vulnerabilities: []

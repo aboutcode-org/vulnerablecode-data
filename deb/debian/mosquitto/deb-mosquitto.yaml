@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mosquitto
+package: pkg:deb/debian/mosquitto
 versions:
   - purl: pkg:deb/debian/mosquitto@0?distro=sid
     affected_by_vulnerabilities: []

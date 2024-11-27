@@ -1,4 +1,4 @@
-pacakge: pkg:alpm/archlinux/libwmf
+package: pkg:alpm/archlinux/libwmf
 versions:
   - purl: pkg:alpm/archlinux/libwmf@0.2.8.4-13
     affected_by_vulnerabilities:

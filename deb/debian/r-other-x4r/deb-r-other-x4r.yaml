@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/r-other-x4r
+package: pkg:deb/debian/r-other-x4r
 versions:
   - purl: pkg:deb/debian/r-other-x4r@1.0.1%2Bgit20150806.c6bd9bd-2?distro=sid
     affected_by_vulnerabilities: []

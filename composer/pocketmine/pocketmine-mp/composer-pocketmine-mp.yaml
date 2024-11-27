@@ -1,4 +1,4 @@
-pacakge: pkg:composer/pocketmine/pocketmine-mp
+package: pkg:composer/pocketmine/pocketmine-mp
 versions:
   - purl: pkg:composer/pocketmine/pocketmine-mp@3.0.0
     affected_by_vulnerabilities:

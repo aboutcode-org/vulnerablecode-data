@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gcc-4.8-powerpc-cross
+package: pkg:deb/ubuntu/gcc-4.8-powerpc-cross
 versions:
   - purl: pkg:deb/ubuntu/gcc-4.8-powerpc-cross@0.10
     affected_by_vulnerabilities:

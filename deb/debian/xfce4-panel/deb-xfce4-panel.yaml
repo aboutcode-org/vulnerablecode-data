@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xfce4-panel
+package: pkg:deb/debian/xfce4-panel
 versions:
   - purl: pkg:deb/debian/xfce4-panel@4.12.1-2?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/arc
+package: pkg:deb/debian/arc
 versions:
   - purl: pkg:deb/debian/arc@5.21l-1sarge1
     affected_by_vulnerabilities:

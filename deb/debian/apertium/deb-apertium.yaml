@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/apertium
+package: pkg:deb/debian/apertium
 versions:
   - purl: pkg:deb/debian/apertium@3.0.7%2B1-1.1?distro=sid
     affected_by_vulnerabilities: []

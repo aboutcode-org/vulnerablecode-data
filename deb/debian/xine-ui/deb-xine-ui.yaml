@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xine-ui
+package: pkg:deb/debian/xine-ui
 versions:
   - purl: pkg:deb/debian/xine-ui@0.9.8-5.1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/ipython
+package: pkg:alpine/ipython
 versions:
   - purl: pkg:alpine/ipython@7.31.1-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

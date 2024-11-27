@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/expat
+package: pkg:alpine/expat
 versions:
   - purl: pkg:alpine/expat@2.1.1-r1?arch=armhf&distroversion=v3.4&reponame=main
     affected_by_vulnerabilities: []

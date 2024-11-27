@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gcc-6
+package: pkg:deb/ubuntu/gcc-6
 versions:
   - purl: pkg:deb/ubuntu/gcc-6@6.0.1-2ubuntu11
     affected_by_vulnerabilities:

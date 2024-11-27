@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/git-extras
+package: pkg:deb/ubuntu/git-extras
 versions:
   - purl: pkg:deb/ubuntu/git-extras@1.7.0-1
     affected_by_vulnerabilities:

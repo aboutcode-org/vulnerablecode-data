@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jbig2dec
+package: pkg:deb/debian/jbig2dec
 versions:
   - purl: pkg:deb/debian/jbig2dec@0?distro=sid
     affected_by_vulnerabilities: []

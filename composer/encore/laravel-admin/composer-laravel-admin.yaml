@@ -1,4 +1,4 @@
-pacakge: pkg:composer/encore/laravel-admin
+package: pkg:composer/encore/laravel-admin
 versions:
   - purl: pkg:composer/encore/laravel-admin@1.1.6
     affected_by_vulnerabilities:

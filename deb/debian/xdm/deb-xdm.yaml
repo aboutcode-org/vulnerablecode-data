@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xdm
+package: pkg:deb/debian/xdm
 versions:
   - purl: pkg:deb/debian/xdm@0?distro=sid
     affected_by_vulnerabilities: []

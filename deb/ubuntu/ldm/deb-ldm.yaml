@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ldm
+package: pkg:deb/ubuntu/ldm
 versions:
   - purl: pkg:deb/ubuntu/ldm@2:2.0.12-0ubuntu1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ssldump
+package: pkg:deb/debian/ssldump
 versions:
   - purl: pkg:deb/debian/ssldump@0.9b3?distro=sid
     affected_by_vulnerabilities: []

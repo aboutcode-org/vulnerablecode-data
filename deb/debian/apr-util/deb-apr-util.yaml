@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/apr-util
+package: pkg:deb/debian/apr-util
 versions:
   - purl: pkg:deb/debian/apr-util@0?distro=sid
     affected_by_vulnerabilities: []

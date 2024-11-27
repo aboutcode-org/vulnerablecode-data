@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/linux-ftpd-ssl
+package: pkg:deb/debian/linux-ftpd-ssl
 versions:
   - purl: pkg:deb/debian/linux-ftpd-ssl@0.17.12%2B0.3-2
     affected_by_vulnerabilities:

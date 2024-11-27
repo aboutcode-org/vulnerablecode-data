@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/octavia
+package: pkg:deb/debian/octavia
 versions:
   - purl: pkg:deb/debian/octavia@0?distro=sid
     affected_by_vulnerabilities: []

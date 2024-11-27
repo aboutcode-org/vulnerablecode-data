@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/bitlbee
+package: pkg:deb/ubuntu/bitlbee
 versions:
   - purl: pkg:deb/ubuntu/bitlbee@0.90-1
     affected_by_vulnerabilities:

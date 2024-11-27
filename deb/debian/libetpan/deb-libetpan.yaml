@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libetpan
+package: pkg:deb/debian/libetpan
 versions:
   - purl: pkg:deb/debian/libetpan@1.6-3?distro=sid
     affected_by_vulnerabilities: []

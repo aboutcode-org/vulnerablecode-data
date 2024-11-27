@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/htmldoc
+package: pkg:deb/debian/htmldoc
 versions:
   - purl: pkg:deb/debian/htmldoc@1.8.27-4.1?distro=sid
     affected_by_vulnerabilities: []

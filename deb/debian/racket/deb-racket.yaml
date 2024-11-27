@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/racket
+package: pkg:deb/debian/racket
 versions:
   - purl: pkg:deb/debian/racket@5.0.2-1?distro=sid
     affected_by_vulnerabilities: []

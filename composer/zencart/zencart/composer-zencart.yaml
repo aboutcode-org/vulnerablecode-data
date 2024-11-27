@@ -1,4 +1,4 @@
-pacakge: pkg:composer/zencart/zencart
+package: pkg:composer/zencart/zencart
 versions:
   - purl: pkg:composer/zencart/zencart@1.5.5
     affected_by_vulnerabilities:

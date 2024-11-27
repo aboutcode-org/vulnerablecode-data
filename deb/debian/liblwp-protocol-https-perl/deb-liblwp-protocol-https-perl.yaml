@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/liblwp-protocol-https-perl
+package: pkg:deb/debian/liblwp-protocol-https-perl
 versions:
   - purl: pkg:deb/debian/liblwp-protocol-https-perl@6.04-3?distro=sid
     affected_by_vulnerabilities: []

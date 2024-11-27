@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ulfius
+package: pkg:deb/debian/ulfius
 versions:
   - purl: pkg:deb/debian/ulfius@2.5.2-4%2Bdeb10u1?distro=sid
     affected_by_vulnerabilities: []

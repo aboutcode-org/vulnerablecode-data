@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lua5.4
+package: pkg:deb/debian/lua5.4
 versions:
   - purl: pkg:deb/debian/lua5.4@5.4.0-2?distro=sid
     affected_by_vulnerabilities: []

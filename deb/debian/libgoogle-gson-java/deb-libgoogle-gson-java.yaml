@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libgoogle-gson-java
+package: pkg:deb/debian/libgoogle-gson-java
 versions:
   - purl: pkg:deb/debian/libgoogle-gson-java@2.10-1?distro=sid
     affected_by_vulnerabilities: []

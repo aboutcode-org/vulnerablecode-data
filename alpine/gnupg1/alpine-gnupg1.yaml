@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/gnupg1
+package: pkg:alpine/gnupg1
 versions:
   - purl: pkg:alpine/gnupg1@1.4.22-r1?arch=aarch64&distroversion=v3.13&reponame=community
     affected_by_vulnerabilities: []

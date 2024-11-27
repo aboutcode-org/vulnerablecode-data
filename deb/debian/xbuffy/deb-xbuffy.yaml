@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xbuffy
+package: pkg:deb/debian/xbuffy
 versions:
   - purl: pkg:deb/debian/xbuffy@3.3.bl.3.dfsg-10?distro=sid
     affected_by_vulnerabilities: []

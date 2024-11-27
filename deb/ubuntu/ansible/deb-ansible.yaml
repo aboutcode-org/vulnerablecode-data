@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ansible
+package: pkg:deb/ubuntu/ansible
 versions:
   - purl: pkg:deb/ubuntu/ansible@1.1%2Bdfsg-1
     affected_by_vulnerabilities:

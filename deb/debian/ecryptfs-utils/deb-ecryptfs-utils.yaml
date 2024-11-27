@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ecryptfs-utils
+package: pkg:deb/debian/ecryptfs-utils
 versions:
   - purl: pkg:deb/debian/ecryptfs-utils@0?distro=sid
     affected_by_vulnerabilities: []

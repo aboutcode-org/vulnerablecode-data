@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fai
+package: pkg:deb/debian/fai
 versions:
   - purl: pkg:deb/debian/fai@2.3.1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-scrapy
+package: pkg:deb/debian/python-scrapy
 versions:
   - purl: pkg:deb/debian/python-scrapy@1.0.3-2?distro=stretch
     affected_by_vulnerabilities: []

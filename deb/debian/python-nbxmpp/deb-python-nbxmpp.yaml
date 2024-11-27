@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-nbxmpp
+package: pkg:deb/debian/python-nbxmpp
 versions:
   - purl: pkg:deb/debian/python-nbxmpp@0?distro=sid
     affected_by_vulnerabilities: []

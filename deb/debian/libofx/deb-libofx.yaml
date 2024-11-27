@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libofx
+package: pkg:deb/debian/libofx
 versions:
   - purl: pkg:deb/debian/libofx@1:0.10.3-1?distro=sid
     affected_by_vulnerabilities: []

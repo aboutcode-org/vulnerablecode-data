@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/webcit
+package: pkg:deb/debian/webcit
 versions:
   - purl: pkg:deb/debian/webcit@0?distro=buster
     affected_by_vulnerabilities: []

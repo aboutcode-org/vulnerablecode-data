@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libpam-ssh
+package: pkg:deb/debian/libpam-ssh
 versions:
   - purl: pkg:deb/debian/libpam-ssh@1.91.0-9
     affected_by_vulnerabilities:

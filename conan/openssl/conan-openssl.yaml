@@ -1,4 +1,4 @@
-pacakge: pkg:conan/openssl
+package: pkg:conan/openssl
 versions:
   - purl: pkg:conan/openssl@1.0.2s
     affected_by_vulnerabilities:

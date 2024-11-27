@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/postgresql
+package: pkg:alpine/postgresql
 versions:
   - purl: pkg:alpine/postgresql@10.10-r0?arch=aarch64&distroversion=v3.7&reponame=main
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tryton-proteus
+package: pkg:deb/debian/tryton-proteus
 versions:
   - purl: pkg:deb/debian/tryton-proteus@4.2.0-1?distro=stretch
     affected_by_vulnerabilities: []

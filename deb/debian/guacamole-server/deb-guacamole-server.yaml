@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/guacamole-server
+package: pkg:deb/debian/guacamole-server
 versions:
   - purl: pkg:deb/debian/guacamole-server@0.9.9-2?distro=stretch
     affected_by_vulnerabilities: []

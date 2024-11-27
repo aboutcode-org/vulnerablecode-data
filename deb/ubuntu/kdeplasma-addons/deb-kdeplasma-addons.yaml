@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/kdeplasma-addons
+package: pkg:deb/ubuntu/kdeplasma-addons
 versions:
   - purl: pkg:deb/ubuntu/kdeplasma-addons@4:4.0.98-0ubuntu1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/condor
+package: pkg:deb/ubuntu/condor
 versions:
   - purl: pkg:deb/ubuntu/condor@7.2.4-0ubuntu1
     affected_by_vulnerabilities:

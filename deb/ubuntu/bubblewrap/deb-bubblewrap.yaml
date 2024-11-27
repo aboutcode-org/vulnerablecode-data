@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/bubblewrap
+package: pkg:deb/ubuntu/bubblewrap
 versions:
   - purl: pkg:deb/ubuntu/bubblewrap@0.1.0-1
     affected_by_vulnerabilities:

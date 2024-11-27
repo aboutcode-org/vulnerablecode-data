@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libphp-adodb
+package: pkg:deb/debian/libphp-adodb
 versions:
   - purl: pkg:deb/debian/libphp-adodb@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/otrs2
+package: pkg:deb/debian/otrs2
 versions:
   - purl: pkg:deb/debian/otrs2@0?distro=buster
     affected_by_vulnerabilities: []

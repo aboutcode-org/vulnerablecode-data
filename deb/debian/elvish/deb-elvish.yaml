@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/elvish
+package: pkg:deb/debian/elvish
 versions:
   - purl: pkg:deb/debian/elvish@0.12%2Bds1-2?distro=sid
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/rudloff/alltube
+package: pkg:composer/rudloff/alltube
 versions:
   - purl: pkg:composer/rudloff/alltube@0.10.0
     affected_by_vulnerabilities:

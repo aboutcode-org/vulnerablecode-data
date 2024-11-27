@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fso-usaged
+package: pkg:deb/debian/fso-usaged
 versions:
   - purl: pkg:deb/debian/fso-usaged@0.12.0-3?distro=stretch
     affected_by_vulnerabilities: []

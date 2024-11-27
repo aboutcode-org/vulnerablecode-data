@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/hhvm
+package: pkg:deb/ubuntu/hhvm
 versions:
   - purl: pkg:deb/ubuntu/hhvm@3.11.0%2Bdfsg-1
     affected_by_vulnerabilities:

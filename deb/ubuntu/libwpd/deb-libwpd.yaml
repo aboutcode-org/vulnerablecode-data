@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libwpd
+package: pkg:deb/ubuntu/libwpd
 versions:
   - purl: pkg:deb/ubuntu/libwpd@0.10.0-1
     affected_by_vulnerabilities:

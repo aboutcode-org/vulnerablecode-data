@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/g810-led
+package: pkg:deb/debian/g810-led
 versions:
   - purl: pkg:deb/debian/g810-led@0.3.3-2?distro=sid
     affected_by_vulnerabilities: []

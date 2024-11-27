@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-dgrijalva-jwt-go
+package: pkg:deb/debian/golang-github-dgrijalva-jwt-go
 versions:
   - purl: pkg:deb/debian/golang-github-dgrijalva-jwt-go@0?distro=sid
     affected_by_vulnerabilities: []

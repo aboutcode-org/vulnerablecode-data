@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/vsftpd
+package: pkg:deb/debian/vsftpd
 versions:
   - purl: pkg:deb/debian/vsftpd@0?distro=sid
     affected_by_vulnerabilities: []

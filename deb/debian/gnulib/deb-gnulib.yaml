@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnulib
+package: pkg:deb/debian/gnulib
 versions:
   - purl: pkg:deb/debian/gnulib@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libbsd
+package: pkg:deb/debian/libbsd
 versions:
   - purl: pkg:deb/debian/libbsd@0.10.0-1?distro=sid
     affected_by_vulnerabilities: []

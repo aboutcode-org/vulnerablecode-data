@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lcms2
+package: pkg:deb/debian/lcms2
 versions:
   - purl: pkg:deb/debian/lcms2@0?distro=sid
     affected_by_vulnerabilities: []

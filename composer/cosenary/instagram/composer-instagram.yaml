@@ -1,4 +1,4 @@
-pacakge: pkg:composer/cosenary/instagram
+package: pkg:composer/cosenary/instagram
 versions:
   - purl: pkg:composer/cosenary/instagram@2.2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/apache-log4j1.2
+package: pkg:deb/debian/apache-log4j1.2
 versions:
   - purl: pkg:deb/debian/apache-log4j1.2@0?distro=sid
     affected_by_vulnerabilities: []

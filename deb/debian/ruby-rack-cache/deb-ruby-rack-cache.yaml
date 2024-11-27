@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-rack-cache
+package: pkg:deb/debian/ruby-rack-cache
 versions:
   - purl: pkg:deb/debian/ruby-rack-cache@1.2-1?distro=sid
     affected_by_vulnerabilities: []

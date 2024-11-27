@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gpp
+package: pkg:deb/debian/gpp
 versions:
   - purl: pkg:deb/debian/gpp@2.24-3?distro=stretch
     affected_by_vulnerabilities:

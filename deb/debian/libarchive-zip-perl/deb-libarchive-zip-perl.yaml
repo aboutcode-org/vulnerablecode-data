@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libarchive-zip-perl
+package: pkg:deb/debian/libarchive-zip-perl
 versions:
   - purl: pkg:deb/debian/libarchive-zip-perl@0.11-1
     affected_by_vulnerabilities:

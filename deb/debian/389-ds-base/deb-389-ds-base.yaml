@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/389-ds-base
+package: pkg:deb/debian/389-ds-base
 versions:
   - purl: pkg:deb/debian/389-ds-base@0?distro=sid
     affected_by_vulnerabilities: []

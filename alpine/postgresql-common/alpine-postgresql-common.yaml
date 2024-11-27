@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/postgresql-common
+package: pkg:alpine/postgresql-common
 versions:
   - purl: pkg:alpine/postgresql-common@0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

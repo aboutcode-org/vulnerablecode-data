@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/udunits
+package: pkg:deb/debian/udunits
 versions:
   - purl: pkg:deb/debian/udunits@2.1.8-4?distro=sid
     affected_by_vulnerabilities: []

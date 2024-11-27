@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libvncserver
+package: pkg:deb/debian/libvncserver
 versions:
   - purl: pkg:deb/debian/libvncserver@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/flatpak
+package: pkg:deb/debian/flatpak
 versions:
   - purl: pkg:deb/debian/flatpak@0?distro=stretch
     affected_by_vulnerabilities: []

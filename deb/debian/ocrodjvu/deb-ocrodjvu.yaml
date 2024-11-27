@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ocrodjvu
+package: pkg:deb/debian/ocrodjvu
 versions:
   - purl: pkg:deb/debian/ocrodjvu@0.10.1-1?distro=stretch
     affected_by_vulnerabilities: []

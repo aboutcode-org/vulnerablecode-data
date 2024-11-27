@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/icedtea-web
+package: pkg:deb/debian/icedtea-web
 versions:
   - purl: pkg:deb/debian/icedtea-web@1.1-1?distro=sid
     affected_by_vulnerabilities: []

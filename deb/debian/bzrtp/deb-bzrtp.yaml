@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bzrtp
+package: pkg:deb/debian/bzrtp
 versions:
   - purl: pkg:deb/debian/bzrtp@1.0.2-1.2?distro=sid
     affected_by_vulnerabilities: []

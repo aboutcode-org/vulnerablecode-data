@@ -1,4 +1,4 @@
-pacakge: pkg:composer/fenom/fenom
+package: pkg:composer/fenom/fenom
 versions:
   - purl: pkg:composer/fenom/fenom@1.4.9
     affected_by_vulnerabilities:

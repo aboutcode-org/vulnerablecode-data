@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libjgroups-java
+package: pkg:deb/ubuntu/libjgroups-java
 versions:
   - purl: pkg:deb/ubuntu/libjgroups-java@2.12.2.Final-2
     affected_by_vulnerabilities:

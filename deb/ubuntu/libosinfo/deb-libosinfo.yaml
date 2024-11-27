@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libosinfo
+package: pkg:deb/ubuntu/libosinfo
 versions:
   - purl: pkg:deb/ubuntu/libosinfo@0.1.0-0ubuntu1
     affected_by_vulnerabilities:

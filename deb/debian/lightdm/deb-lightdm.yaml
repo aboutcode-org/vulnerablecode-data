@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lightdm
+package: pkg:deb/debian/lightdm
 versions:
   - purl: pkg:deb/debian/lightdm@0?distro=sid
     affected_by_vulnerabilities: []

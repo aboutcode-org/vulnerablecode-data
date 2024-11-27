@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/newsbeuter
+package: pkg:alpine/newsbeuter
 versions:
   - purl: pkg:alpine/newsbeuter@2.9-r4?arch=aarch64&distroversion=v3.5&reponame=main
     affected_by_vulnerabilities: []

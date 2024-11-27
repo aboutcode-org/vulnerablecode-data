@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/varnish
+package: pkg:alpine/varnish
 versions:
   - purl: pkg:alpine/varnish@4.1.2-r2?arch=armhf&distroversion=v3.3&reponame=main
     affected_by_vulnerabilities: []

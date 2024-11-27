@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/wireshark
+package: pkg:alpine/wireshark
 versions:
   - purl: pkg:alpine/wireshark@2.0.5-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

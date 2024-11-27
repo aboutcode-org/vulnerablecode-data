@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/less
+package: pkg:deb/ubuntu/less
 versions:
   - purl: pkg:deb/ubuntu/less@381-3
     affected_by_vulnerabilities:

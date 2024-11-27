@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pam
+package: pkg:deb/debian/pam
 versions:
   - purl: pkg:deb/debian/pam@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-nix
+package: pkg:deb/debian/rust-nix
 versions:
   - purl: pkg:deb/debian/rust-nix@0?distro=sid
     affected_by_vulnerabilities: []

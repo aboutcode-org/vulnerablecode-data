@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gnome-exe-thumbnailer
+package: pkg:deb/ubuntu/gnome-exe-thumbnailer
 versions:
   - purl: pkg:deb/ubuntu/gnome-exe-thumbnailer@0.1
     affected_by_vulnerabilities:

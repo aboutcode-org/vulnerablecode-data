@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libxkbcommon
+package: pkg:deb/ubuntu/libxkbcommon
 versions:
   - purl: pkg:deb/ubuntu/libxkbcommon@0.1.0~0-1ubuntu1
     affected_by_vulnerabilities:

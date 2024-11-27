@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/v4l2loopback
+package: pkg:deb/debian/v4l2loopback
 versions:
   - purl: pkg:deb/debian/v4l2loopback@0.12.1-1?distro=sid
     affected_by_vulnerabilities:

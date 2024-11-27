@@ -1,4 +1,4 @@
-pacakge: pkg:conan/thrift
+package: pkg:conan/thrift
 versions:
   - purl: pkg:conan/thrift@0.13.0
     affected_by_vulnerabilities:

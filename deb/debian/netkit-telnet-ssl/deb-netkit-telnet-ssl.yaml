@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/netkit-telnet-ssl
+package: pkg:deb/debian/netkit-telnet-ssl
 versions:
   - purl: pkg:deb/debian/netkit-telnet-ssl@0.17.17%2B0.1-2woody3?distro=sid
     affected_by_vulnerabilities: []

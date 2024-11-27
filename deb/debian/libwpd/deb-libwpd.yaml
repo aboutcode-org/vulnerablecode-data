@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libwpd
+package: pkg:deb/debian/libwpd
 versions:
   - purl: pkg:deb/debian/libwpd@0.10.1-5%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities:

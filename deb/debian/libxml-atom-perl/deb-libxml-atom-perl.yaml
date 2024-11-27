@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libxml-atom-perl
+package: pkg:deb/debian/libxml-atom-perl
 versions:
   - purl: pkg:deb/debian/libxml-atom-perl@0.39-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/amarok
+package: pkg:deb/debian/amarok
 versions:
   - purl: pkg:deb/debian/amarok@1.4.10-1?distro=stretch
     affected_by_vulnerabilities: []

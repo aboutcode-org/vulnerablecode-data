@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/chmlib
+package: pkg:deb/debian/chmlib
 versions:
   - purl: pkg:deb/debian/chmlib@0.35-6sarge3
     affected_by_vulnerabilities:

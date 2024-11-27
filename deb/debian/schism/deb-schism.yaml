@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/schism
+package: pkg:deb/debian/schism
 versions:
   - purl: pkg:deb/debian/schism@2:20160521-1?distro=stretch
     affected_by_vulnerabilities:

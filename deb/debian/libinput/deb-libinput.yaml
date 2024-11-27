@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libinput
+package: pkg:deb/debian/libinput
 versions:
   - purl: pkg:deb/debian/libinput@0?distro=stretch
     affected_by_vulnerabilities: []

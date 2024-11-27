@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xzgv
+package: pkg:deb/debian/xzgv
 versions:
   - purl: pkg:deb/debian/xzgv@0.7-6woody2
     affected_by_vulnerabilities:

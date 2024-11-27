@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xz-utils
+package: pkg:deb/debian/xz-utils
 versions:
   - purl: pkg:deb/debian/xz-utils@0?distro=sid
     affected_by_vulnerabilities: []

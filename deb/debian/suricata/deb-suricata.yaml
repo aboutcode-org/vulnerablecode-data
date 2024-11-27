@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/suricata
+package: pkg:deb/debian/suricata
 versions:
   - purl: pkg:deb/debian/suricata@1:4.0.0-1?distro=sid
     affected_by_vulnerabilities: []

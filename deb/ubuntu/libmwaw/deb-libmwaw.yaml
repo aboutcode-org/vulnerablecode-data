@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libmwaw
+package: pkg:deb/ubuntu/libmwaw
 versions:
   - purl: pkg:deb/ubuntu/libmwaw@0.1.10-1
     affected_by_vulnerabilities:

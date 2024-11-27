@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/dpdk
+package: pkg:deb/ubuntu/dpdk
 versions:
   - purl: pkg:deb/ubuntu/dpdk@16.07-0ubuntu1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/inn2
+package: pkg:deb/debian/inn2
 versions:
   - purl: pkg:deb/debian/inn2@0?distro=sid
     affected_by_vulnerabilities: []

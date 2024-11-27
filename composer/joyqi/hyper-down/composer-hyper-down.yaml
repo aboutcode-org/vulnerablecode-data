@@ -1,4 +1,4 @@
-pacakge: pkg:composer/joyqi/hyper-down
+package: pkg:composer/joyqi/hyper-down
 versions:
   - purl: pkg:composer/joyqi/hyper-down@2.4.10
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libcompress-raw-bzip2-perl
+package: pkg:deb/debian/libcompress-raw-bzip2-perl
 versions:
   - purl: pkg:deb/debian/libcompress-raw-bzip2-perl@2.018-1?distro=sid
     affected_by_vulnerabilities: []

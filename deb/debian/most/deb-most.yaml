@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/most
+package: pkg:deb/debian/most
 versions:
   - purl: pkg:deb/debian/most@5.0.0a-3?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/privatebin/privatebin
+package: pkg:composer/privatebin/privatebin
 versions:
   - purl: pkg:composer/privatebin/privatebin@0.21.0
     affected_by_vulnerabilities:

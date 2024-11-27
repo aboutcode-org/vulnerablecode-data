@@ -1,4 +1,4 @@
-pacakge: pkg:composer/ezsystems/ezpublish-legacy
+package: pkg:composer/ezsystems/ezpublish-legacy
 versions:
   - purl: pkg:composer/ezsystems/ezpublish-legacy@2011.0.0
     affected_by_vulnerabilities:

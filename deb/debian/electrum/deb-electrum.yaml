@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/electrum
+package: pkg:deb/debian/electrum
 versions:
   - purl: pkg:deb/debian/electrum@3.0.5-1?distro=sid
     affected_by_vulnerabilities: []

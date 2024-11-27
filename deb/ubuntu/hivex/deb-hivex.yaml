@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/hivex
+package: pkg:deb/ubuntu/hivex
 versions:
   - purl: pkg:deb/ubuntu/hivex@1.2.2%2Bgit20100712-2
     affected_by_vulnerabilities:

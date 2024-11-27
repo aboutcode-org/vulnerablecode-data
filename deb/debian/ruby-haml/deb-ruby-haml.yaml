@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-haml
+package: pkg:deb/debian/ruby-haml
 versions:
   - purl: pkg:deb/debian/ruby-haml@4.0.7-1?distro=stretch
     affected_by_vulnerabilities: []

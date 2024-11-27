@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libjs-handlebars
+package: pkg:deb/debian/libjs-handlebars
 versions:
   - purl: pkg:deb/debian/libjs-handlebars@0?distro=stretch
     affected_by_vulnerabilities: []

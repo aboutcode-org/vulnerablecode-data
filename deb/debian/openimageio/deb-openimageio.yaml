@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openimageio
+package: pkg:deb/debian/openimageio
 versions:
   - purl: pkg:deb/debian/openimageio@2.0.5~dfsg0-1?distro=sid
     affected_by_vulnerabilities:

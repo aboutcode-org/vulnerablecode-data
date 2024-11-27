@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/debian-edu-config
+package: pkg:deb/debian/debian-edu-config
 versions:
   - purl: pkg:deb/debian/debian-edu-config@1.929%2Bdeb9u4?distro=stretch
     affected_by_vulnerabilities: []

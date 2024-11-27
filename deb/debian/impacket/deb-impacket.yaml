@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/impacket
+package: pkg:deb/debian/impacket
 versions:
   - purl: pkg:deb/debian/impacket@0.10.0-2?distro=sid
     affected_by_vulnerabilities: []

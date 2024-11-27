@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libcgi-session-perl
+package: pkg:deb/debian/libcgi-session-perl
 versions:
   - purl: pkg:deb/debian/libcgi-session-perl@3.95-2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:conan/lief
+package: pkg:conan/lief
 versions:
   - purl: pkg:conan/lief@0.10.1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gitaly
+package: pkg:deb/debian/gitaly
 versions:
   - purl: pkg:deb/debian/gitaly@13.3.9-1?distro=sid
     affected_by_vulnerabilities: []

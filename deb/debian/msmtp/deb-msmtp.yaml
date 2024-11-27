@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/msmtp
+package: pkg:deb/debian/msmtp
 versions:
   - purl: pkg:deb/debian/msmtp@0?distro=sid
     affected_by_vulnerabilities: []

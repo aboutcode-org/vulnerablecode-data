@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/claws-mail
+package: pkg:deb/debian/claws-mail
 versions:
   - purl: pkg:deb/debian/claws-mail@2.9.1-1?distro=sid
     affected_by_vulnerabilities: []

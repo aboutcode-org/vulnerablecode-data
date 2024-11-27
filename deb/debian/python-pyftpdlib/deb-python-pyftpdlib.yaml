@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-pyftpdlib
+package: pkg:deb/debian/python-pyftpdlib
 versions:
   - purl: pkg:deb/debian/python-pyftpdlib@0?distro=sid
     affected_by_vulnerabilities: []

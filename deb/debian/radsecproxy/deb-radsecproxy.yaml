@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/radsecproxy
+package: pkg:deb/debian/radsecproxy
 versions:
   - purl: pkg:deb/debian/radsecproxy@1.6.2-1?distro=sid
     affected_by_vulnerabilities: []

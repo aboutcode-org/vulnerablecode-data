@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libvirt
+package: pkg:deb/ubuntu/libvirt
 versions:
   - purl: pkg:deb/ubuntu/libvirt@0.1.8-0ubuntu1
     affected_by_vulnerabilities:

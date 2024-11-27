@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/apport
+package: pkg:deb/ubuntu/apport
 versions:
   - purl: pkg:deb/ubuntu/apport@0.1
     affected_by_vulnerabilities:

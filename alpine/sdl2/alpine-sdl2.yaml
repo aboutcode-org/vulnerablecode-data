@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/sdl2
+package: pkg:alpine/sdl2
 versions:
   - purl: pkg:alpine/sdl2@2.0.10-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

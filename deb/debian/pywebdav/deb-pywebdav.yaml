@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pywebdav
+package: pkg:deb/debian/pywebdav
 versions:
   - purl: pkg:deb/debian/pywebdav@0.10.0-1?distro=sid
     affected_by_vulnerabilities: []

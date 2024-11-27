@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kismet
+package: pkg:deb/debian/kismet
 versions:
   - purl: pkg:deb/debian/kismet@1.4.2-4
     affected_by_vulnerabilities:

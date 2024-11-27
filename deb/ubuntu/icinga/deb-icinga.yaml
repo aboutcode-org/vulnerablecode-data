@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/icinga
+package: pkg:deb/ubuntu/icinga
 versions:
   - purl: pkg:deb/ubuntu/icinga@1.0.1-3
     affected_by_vulnerabilities:

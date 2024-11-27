@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gajim
+package: pkg:deb/ubuntu/gajim
 versions:
   - purl: pkg:deb/ubuntu/gajim@0.10-0ubuntu1
     affected_by_vulnerabilities:

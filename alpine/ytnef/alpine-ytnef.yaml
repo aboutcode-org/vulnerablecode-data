@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/ytnef
+package: pkg:alpine/ytnef
 versions:
   - purl: pkg:alpine/ytnef@1.9.3-r1?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

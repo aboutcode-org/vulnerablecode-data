@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libpod
+package: pkg:deb/debian/libpod
 versions:
   - purl: pkg:deb/debian/libpod@0?distro=sid
     affected_by_vulnerabilities: []

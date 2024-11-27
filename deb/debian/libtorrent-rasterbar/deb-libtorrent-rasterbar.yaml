@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libtorrent-rasterbar
+package: pkg:deb/debian/libtorrent-rasterbar
 versions:
   - purl: pkg:deb/debian/libtorrent-rasterbar@0.14.4-1?distro=sid
     affected_by_vulnerabilities: []

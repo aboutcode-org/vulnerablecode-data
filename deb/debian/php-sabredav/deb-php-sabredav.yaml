@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-sabredav
+package: pkg:deb/debian/php-sabredav
 versions:
   - purl: pkg:deb/debian/php-sabredav@0?distro=sid
     affected_by_vulnerabilities: []

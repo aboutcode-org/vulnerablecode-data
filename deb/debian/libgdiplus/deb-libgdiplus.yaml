@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libgdiplus
+package: pkg:deb/debian/libgdiplus
 versions:
   - purl: pkg:deb/debian/libgdiplus@2.6.7-2?distro=sid
     affected_by_vulnerabilities: []

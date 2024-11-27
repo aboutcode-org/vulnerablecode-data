@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ident2
+package: pkg:deb/debian/ident2
 versions:
   - purl: pkg:deb/debian/ident2@1.03-3woody1
     affected_by_vulnerabilities:

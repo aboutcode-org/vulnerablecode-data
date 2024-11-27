@@ -1,4 +1,4 @@
-pacakge: pkg:composer/yoast-seo-for-typo3/yoast_seo
+package: pkg:composer/yoast-seo-for-typo3/yoast_seo
 versions:
   - purl: pkg:composer/yoast-seo-for-typo3/yoast_seo@1.0
     affected_by_vulnerabilities:

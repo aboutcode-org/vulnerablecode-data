@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnugk
+package: pkg:deb/debian/gnugk
 versions:
   - purl: pkg:deb/debian/gnugk@2:3.0.2-3?distro=stretch
     affected_by_vulnerabilities: []

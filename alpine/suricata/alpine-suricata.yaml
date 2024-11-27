@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/suricata
+package: pkg:alpine/suricata
 versions:
   - purl: pkg:alpine/suricata@6.0.3-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

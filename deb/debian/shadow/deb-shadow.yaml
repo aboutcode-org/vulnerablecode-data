@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/shadow
+package: pkg:deb/debian/shadow
 versions:
   - purl: pkg:deb/debian/shadow@0?distro=sid
     affected_by_vulnerabilities: []

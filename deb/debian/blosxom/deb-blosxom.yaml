@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/blosxom
+package: pkg:deb/debian/blosxom
 versions:
   - purl: pkg:deb/debian/blosxom@2.1.2-1?distro=sid
     affected_by_vulnerabilities: []

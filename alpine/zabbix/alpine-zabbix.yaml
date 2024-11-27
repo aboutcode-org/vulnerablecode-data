@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/zabbix
+package: pkg:alpine/zabbix
 versions:
   - purl: pkg:alpine/zabbix@3.0.4-r0?arch=aarch64&distroversion=v3.11&reponame=community
     affected_by_vulnerabilities: []

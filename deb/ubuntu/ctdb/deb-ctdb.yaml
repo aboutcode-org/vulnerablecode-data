@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ctdb
+package: pkg:deb/ubuntu/ctdb
 versions:
   - purl: pkg:deb/ubuntu/ctdb@1.0.103-1
     affected_by_vulnerabilities:

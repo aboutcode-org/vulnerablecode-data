@@ -1,4 +1,4 @@
-pacakge: pkg:composer/fluidtypo3/vhs
+package: pkg:composer/fluidtypo3/vhs
 versions:
   - purl: pkg:composer/fluidtypo3/vhs@1.8.3
     affected_by_vulnerabilities:

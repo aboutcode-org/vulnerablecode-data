@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/snack
+package: pkg:deb/debian/snack
 versions:
   - purl: pkg:deb/debian/snack@2.2.10.20090623-dfsg-10?distro=sid
     affected_by_vulnerabilities: []

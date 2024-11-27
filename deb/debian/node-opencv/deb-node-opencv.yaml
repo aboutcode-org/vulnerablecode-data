@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-opencv
+package: pkg:deb/debian/node-opencv
 versions:
   - purl: pkg:deb/debian/node-opencv@6.0.0%2Bgit20180416.cfc96ba0-3?distro=sid
     affected_by_vulnerabilities: []

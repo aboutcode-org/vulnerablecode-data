@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libnet-dns-perl
+package: pkg:deb/debian/libnet-dns-perl
 versions:
   - purl: pkg:deb/debian/libnet-dns-perl@0.60-1?distro=sid
     affected_by_vulnerabilities: []

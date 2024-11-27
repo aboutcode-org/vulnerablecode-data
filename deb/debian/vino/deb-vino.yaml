@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/vino
+package: pkg:deb/debian/vino
 versions:
   - purl: pkg:deb/debian/vino@2.28.2-3?distro=sid
     affected_by_vulnerabilities: []

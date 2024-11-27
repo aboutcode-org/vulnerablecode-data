@@ -1,4 +1,4 @@
-pacakge: pkg:composer/icecoder/icecoder
+package: pkg:composer/icecoder/icecoder
 versions:
   - purl: pkg:composer/icecoder/icecoder@8.0
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/cuyz/valinor
+package: pkg:composer/cuyz/valinor
 versions:
   - purl: pkg:composer/cuyz/valinor@0.1.0
     affected_by_vulnerabilities:

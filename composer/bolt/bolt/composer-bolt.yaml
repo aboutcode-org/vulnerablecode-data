@@ -1,4 +1,4 @@
-pacakge: pkg:composer/bolt/bolt
+package: pkg:composer/bolt/bolt
 versions:
   - purl: pkg:composer/bolt/bolt@0.8.4
     affected_by_vulnerabilities:

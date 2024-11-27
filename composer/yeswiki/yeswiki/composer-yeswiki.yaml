@@ -1,4 +1,4 @@
-pacakge: pkg:composer/yeswiki/yeswiki
+package: pkg:composer/yeswiki/yeswiki
 versions:
   - purl: pkg:composer/yeswiki/yeswiki@4.0.0-rc.1
     affected_by_vulnerabilities:

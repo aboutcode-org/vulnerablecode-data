@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/maelstrom
+package: pkg:deb/debian/maelstrom
 versions:
   - purl: pkg:deb/debian/maelstrom@0?distro=sid
     affected_by_vulnerabilities: []

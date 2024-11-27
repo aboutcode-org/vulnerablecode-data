@@ -1,4 +1,4 @@
-pacakge: pkg:composer/sabre/dav
+package: pkg:composer/sabre/dav
 versions:
   - purl: pkg:composer/sabre/dav@1.6.0
     affected_by_vulnerabilities:

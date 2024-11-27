@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/i2pd
+package: pkg:deb/debian/i2pd
 versions:
   - purl: pkg:deb/debian/i2pd@0?distro=sid
     affected_by_vulnerabilities: []

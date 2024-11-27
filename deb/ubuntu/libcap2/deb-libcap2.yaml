@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libcap2
+package: pkg:deb/ubuntu/libcap2
 versions:
   - purl: pkg:deb/ubuntu/libcap2@0.cvs.20010529-4
     affected_by_vulnerabilities:

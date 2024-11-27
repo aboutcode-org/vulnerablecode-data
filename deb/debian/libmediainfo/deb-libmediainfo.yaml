@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libmediainfo
+package: pkg:deb/debian/libmediainfo
 versions:
   - purl: pkg:deb/debian/libmediainfo@0.7.91-1?distro=stretch
     affected_by_vulnerabilities: []

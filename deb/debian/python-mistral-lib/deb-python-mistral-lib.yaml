@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-mistral-lib
+package: pkg:deb/debian/python-mistral-lib
 versions:
   - purl: pkg:deb/debian/python-mistral-lib@1.0.0-1?distro=sid
     affected_by_vulnerabilities:

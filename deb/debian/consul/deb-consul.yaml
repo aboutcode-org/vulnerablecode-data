@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/consul
+package: pkg:deb/debian/consul
 versions:
   - purl: pkg:deb/debian/consul@0?distro=sid
     affected_by_vulnerabilities: []

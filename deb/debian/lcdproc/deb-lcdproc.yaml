@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lcdproc
+package: pkg:deb/debian/lcdproc
 versions:
   - purl: pkg:deb/debian/lcdproc@0.3.4-2
     affected_by_vulnerabilities:

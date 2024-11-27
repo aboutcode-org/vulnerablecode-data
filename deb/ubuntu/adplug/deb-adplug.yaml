@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/adplug
+package: pkg:deb/ubuntu/adplug
 versions:
   - purl: pkg:deb/ubuntu/adplug@1.5.1-2
     affected_by_vulnerabilities:

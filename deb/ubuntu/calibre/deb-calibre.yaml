@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/calibre
+package: pkg:deb/ubuntu/calibre
 versions:
   - purl: pkg:deb/ubuntu/calibre@0.4.125%2Bdfsg-0ubuntu1
     affected_by_vulnerabilities:

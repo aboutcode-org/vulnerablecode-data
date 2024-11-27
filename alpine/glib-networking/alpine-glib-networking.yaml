@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/glib-networking
+package: pkg:alpine/glib-networking
 versions:
   - purl: pkg:alpine/glib-networking@2.64.3-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

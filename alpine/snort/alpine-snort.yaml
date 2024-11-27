@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/snort
+package: pkg:alpine/snort
 versions:
   - purl: pkg:alpine/snort@2.9.18-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

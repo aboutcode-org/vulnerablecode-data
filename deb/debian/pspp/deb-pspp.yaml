@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pspp
+package: pkg:deb/debian/pspp
 versions:
   - purl: pkg:deb/debian/pspp@0.10.2-1?distro=stretch
     affected_by_vulnerabilities:

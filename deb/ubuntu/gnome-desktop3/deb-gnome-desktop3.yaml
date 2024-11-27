@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gnome-desktop3
+package: pkg:deb/ubuntu/gnome-desktop3
 versions:
   - purl: pkg:deb/ubuntu/gnome-desktop3@2.91.0-0ubuntu1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/guile-2.0
+package: pkg:deb/ubuntu/guile-2.0
 versions:
   - purl: pkg:deb/ubuntu/guile-2.0@2.0.11%2B1-1
     affected_by_vulnerabilities:

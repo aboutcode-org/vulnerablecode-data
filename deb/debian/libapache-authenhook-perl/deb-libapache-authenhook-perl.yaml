@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libapache-authenhook-perl
+package: pkg:deb/debian/libapache-authenhook-perl
 versions:
   - purl: pkg:deb/debian/libapache-authenhook-perl@2.00-04%2Bpristine-2?distro=sid
     affected_by_vulnerabilities: []

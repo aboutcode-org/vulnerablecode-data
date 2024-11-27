@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rmysql
+package: pkg:deb/debian/rmysql
 versions:
   - purl: pkg:deb/debian/rmysql@0.10.16-1?distro=sid
     affected_by_vulnerabilities:

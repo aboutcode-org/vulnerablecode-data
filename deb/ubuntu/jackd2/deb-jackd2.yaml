@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/jackd2
+package: pkg:deb/ubuntu/jackd2
 versions:
   - purl: pkg:deb/ubuntu/jackd2@1.9.10%2B20140610git97e0e80b~dfsg-1
     affected_by_vulnerabilities:

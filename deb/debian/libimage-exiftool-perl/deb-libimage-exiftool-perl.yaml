@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libimage-exiftool-perl
+package: pkg:deb/debian/libimage-exiftool-perl
 versions:
   - purl: pkg:deb/debian/libimage-exiftool-perl@10.40-1?distro=stretch
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/glance
+package: pkg:deb/ubuntu/glance
 versions:
   - purl: pkg:deb/ubuntu/glance@0.1.3pre~bzr39-0ubuntu1
     affected_by_vulnerabilities:

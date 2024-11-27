@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/iucode-tool
+package: pkg:deb/ubuntu/iucode-tool
 versions:
   - purl: pkg:deb/ubuntu/iucode-tool@0.8-1
     affected_by_vulnerabilities:

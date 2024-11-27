@@ -1,4 +1,4 @@
-pacakge: pkg:composer/webtales/rubedo
+package: pkg:composer/webtales/rubedo
 versions:
   - purl: pkg:composer/webtales/rubedo@0.9.1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/iscsitarget
+package: pkg:deb/ubuntu/iscsitarget
 versions:
   - purl: pkg:deb/ubuntu/iscsitarget@0.4.15-2
     affected_by_vulnerabilities:

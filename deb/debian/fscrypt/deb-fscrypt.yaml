@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fscrypt
+package: pkg:deb/debian/fscrypt
 versions:
   - purl: pkg:deb/debian/fscrypt@0.2.4-1?distro=sid
     affected_by_vulnerabilities: []

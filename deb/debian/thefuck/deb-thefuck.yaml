@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/thefuck
+package: pkg:deb/debian/thefuck
 versions:
   - purl: pkg:deb/debian/thefuck@3.11-2.1?distro=sid
     affected_by_vulnerabilities:

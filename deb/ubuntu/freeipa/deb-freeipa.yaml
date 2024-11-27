@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/freeipa
+package: pkg:deb/ubuntu/freeipa
 versions:
   - purl: pkg:deb/ubuntu/freeipa@2.1.4-0ubuntu1
     affected_by_vulnerabilities:

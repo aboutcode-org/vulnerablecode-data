@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/civicrm
+package: pkg:deb/debian/civicrm
 versions:
   - purl: pkg:deb/debian/civicrm@0?distro=sid
     affected_by_vulnerabilities: []

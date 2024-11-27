@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/coin3
+package: pkg:deb/ubuntu/coin3
 versions:
   - purl: pkg:deb/ubuntu/coin3@3.0.0-1
     affected_by_vulnerabilities:

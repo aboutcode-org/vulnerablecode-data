@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/software-properties
+package: pkg:deb/debian/software-properties
 versions:
   - purl: pkg:deb/debian/software-properties@0.76.7debian2%2Bnmu2?distro=sid
     affected_by_vulnerabilities: []

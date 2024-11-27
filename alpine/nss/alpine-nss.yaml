@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/nss
+package: pkg:alpine/nss
 versions:
   - purl: pkg:alpine/nss@3.23-r1?arch=armhf&distroversion=v3.3&reponame=main
     affected_by_vulnerabilities: []

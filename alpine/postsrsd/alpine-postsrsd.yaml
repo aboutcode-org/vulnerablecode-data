@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/postsrsd
+package: pkg:alpine/postsrsd
 versions:
   - purl: pkg:alpine/postsrsd@1.6-r4?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

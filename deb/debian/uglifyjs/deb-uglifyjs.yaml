@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/uglifyjs
+package: pkg:deb/debian/uglifyjs
 versions:
   - purl: pkg:deb/debian/uglifyjs@2.7.4-1?distro=sid
     affected_by_vulnerabilities: []

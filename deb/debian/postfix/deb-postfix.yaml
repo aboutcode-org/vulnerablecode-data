@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/postfix
+package: pkg:deb/debian/postfix
 versions:
   - purl: pkg:deb/debian/postfix@0?distro=sid
     affected_by_vulnerabilities: []

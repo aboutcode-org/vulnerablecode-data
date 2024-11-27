@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ncftp
+package: pkg:deb/debian/ncftp
 versions:
   - purl: pkg:deb/debian/ncftp@1:2.4.3-4
     affected_by_vulnerabilities:

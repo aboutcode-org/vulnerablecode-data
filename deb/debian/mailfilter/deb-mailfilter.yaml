@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mailfilter
+package: pkg:deb/debian/mailfilter
 versions:
   - purl: pkg:deb/debian/mailfilter@0.3.3-1
     affected_by_vulnerabilities:

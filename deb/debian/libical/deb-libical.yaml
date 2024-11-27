@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libical
+package: pkg:deb/debian/libical
 versions:
   - purl: pkg:deb/debian/libical@1.0-1?distro=stretch
     affected_by_vulnerabilities: []

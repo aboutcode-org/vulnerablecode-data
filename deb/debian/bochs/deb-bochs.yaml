@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bochs
+package: pkg:deb/debian/bochs
 versions:
   - purl: pkg:deb/debian/bochs@0?distro=sid
     affected_by_vulnerabilities: []

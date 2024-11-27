@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/puppetserver
+package: pkg:deb/debian/puppetserver
 versions:
   - purl: pkg:deb/debian/puppetserver@0?distro=sid
     affected_by_vulnerabilities: []

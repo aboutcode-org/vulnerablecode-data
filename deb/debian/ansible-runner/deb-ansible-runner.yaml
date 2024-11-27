@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ansible-runner
+package: pkg:deb/debian/ansible-runner
 versions:
   - purl: pkg:deb/debian/ansible-runner@0?distro=sid
     affected_by_vulnerabilities: []

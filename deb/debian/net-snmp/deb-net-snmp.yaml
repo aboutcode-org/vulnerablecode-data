@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/net-snmp
+package: pkg:deb/debian/net-snmp
 versions:
   - purl: pkg:deb/debian/net-snmp@0?distro=sid
     affected_by_vulnerabilities: []

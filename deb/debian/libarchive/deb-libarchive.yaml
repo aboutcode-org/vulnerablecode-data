@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libarchive
+package: pkg:deb/debian/libarchive
 versions:
   - purl: pkg:deb/debian/libarchive@0?distro=sid
     affected_by_vulnerabilities: []

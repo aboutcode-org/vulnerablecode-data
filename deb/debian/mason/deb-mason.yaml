@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mason
+package: pkg:deb/debian/mason
 versions:
   - purl: pkg:deb/debian/mason@0.13.0.92-2
     affected_by_vulnerabilities:

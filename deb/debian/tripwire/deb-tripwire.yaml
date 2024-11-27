@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tripwire
+package: pkg:deb/debian/tripwire
 versions:
   - purl: pkg:deb/debian/tripwire@1.2-14
     affected_by_vulnerabilities:

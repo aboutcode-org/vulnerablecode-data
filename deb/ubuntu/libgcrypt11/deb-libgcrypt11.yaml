@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libgcrypt11
+package: pkg:deb/ubuntu/libgcrypt11
 versions:
   - purl: pkg:deb/ubuntu/libgcrypt11@1.2.0-11
     affected_by_vulnerabilities:

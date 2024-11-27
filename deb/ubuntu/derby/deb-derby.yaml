@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/derby
+package: pkg:deb/ubuntu/derby
 versions:
   - purl: pkg:deb/ubuntu/derby@10.10.1.1-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/netty-3.9
+package: pkg:deb/debian/netty-3.9
 versions:
   - purl: pkg:deb/debian/netty-3.9@0?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libjpeg9
+package: pkg:deb/ubuntu/libjpeg9
 versions:
   - purl: pkg:deb/ubuntu/libjpeg9@1:9a-2
     affected_by_vulnerabilities:

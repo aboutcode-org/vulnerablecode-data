@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libextractor
+package: pkg:deb/debian/libextractor
 versions:
   - purl: pkg:deb/debian/libextractor@0.4.2-2sarge6
     affected_by_vulnerabilities:

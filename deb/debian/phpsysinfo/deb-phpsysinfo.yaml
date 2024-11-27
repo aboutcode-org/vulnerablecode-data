@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/phpsysinfo
+package: pkg:deb/debian/phpsysinfo
 versions:
   - purl: pkg:deb/debian/phpsysinfo@2.0-3woody2
     affected_by_vulnerabilities:

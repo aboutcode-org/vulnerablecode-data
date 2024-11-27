@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/maildrop
+package: pkg:deb/debian/maildrop
 versions:
   - purl: pkg:deb/debian/maildrop@0.54a-2
     affected_by_vulnerabilities:

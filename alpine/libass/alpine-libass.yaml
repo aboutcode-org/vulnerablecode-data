@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libass
+package: pkg:alpine/libass
 versions:
   - purl: pkg:alpine/libass@0.13.4-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

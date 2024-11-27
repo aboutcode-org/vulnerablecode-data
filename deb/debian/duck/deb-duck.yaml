@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/duck
+package: pkg:deb/debian/duck
 versions:
   - purl: pkg:deb/debian/duck@0.10?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libhtml-prototype-perl
+package: pkg:deb/debian/libhtml-prototype-perl
 versions:
   - purl: pkg:deb/debian/libhtml-prototype-perl@1.48-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lemonldap-ng
+package: pkg:deb/debian/lemonldap-ng
 versions:
   - purl: pkg:deb/debian/lemonldap-ng@0?distro=sid
     affected_by_vulnerabilities: []

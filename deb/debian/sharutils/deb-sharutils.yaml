@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sharutils
+package: pkg:deb/debian/sharutils
 versions:
   - purl: pkg:deb/debian/sharutils@1:4.15.2-2%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

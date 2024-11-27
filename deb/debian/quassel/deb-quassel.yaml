@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/quassel
+package: pkg:deb/debian/quassel
 versions:
   - purl: pkg:deb/debian/quassel@0.10.0-2.1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ikiwiki-hosting
+package: pkg:deb/debian/ikiwiki-hosting
 versions:
   - purl: pkg:deb/debian/ikiwiki-hosting@0.20131025?distro=sid
     affected_by_vulnerabilities: []

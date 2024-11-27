@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-russellhaering-goxmldsig
+package: pkg:deb/debian/golang-github-russellhaering-goxmldsig
 versions:
   - purl: pkg:deb/debian/golang-github-russellhaering-goxmldsig@0.0~git20170911.b7efc62-1?distro=sid
     affected_by_vulnerabilities:

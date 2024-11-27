@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/privoxy
+package: pkg:deb/debian/privoxy
 versions:
   - purl: pkg:deb/debian/privoxy@0?distro=sid
     affected_by_vulnerabilities: []

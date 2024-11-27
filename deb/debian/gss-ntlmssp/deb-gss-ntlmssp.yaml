@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gss-ntlmssp
+package: pkg:deb/debian/gss-ntlmssp
 versions:
   - purl: pkg:deb/debian/gss-ntlmssp@0.7.0-4?distro=sid
     affected_by_vulnerabilities:

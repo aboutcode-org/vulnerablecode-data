@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/m2crypto
+package: pkg:deb/debian/m2crypto
 versions:
   - purl: pkg:deb/debian/m2crypto@0.31.0-4%2Bdeb10u2?distro=sid
     affected_by_vulnerabilities:

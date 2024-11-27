@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ublock-origin
+package: pkg:deb/debian/ublock-origin
 versions:
   - purl: pkg:deb/debian/ublock-origin@1.22.2%2Bdfsg-1~deb9u1?distro=stretch
     affected_by_vulnerabilities:

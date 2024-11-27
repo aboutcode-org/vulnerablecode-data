@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/jruby
+package: pkg:deb/ubuntu/jruby
 versions:
   - purl: pkg:deb/ubuntu/jruby@1.4.0-2
     affected_by_vulnerabilities:

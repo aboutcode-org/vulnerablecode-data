@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/zoneminder
+package: pkg:deb/debian/zoneminder
 versions:
   - purl: pkg:deb/debian/zoneminder@0?distro=sid
     affected_by_vulnerabilities: []

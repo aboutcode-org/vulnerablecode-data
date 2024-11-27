@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libkiwix
+package: pkg:deb/debian/libkiwix
 versions:
   - purl: pkg:deb/debian/libkiwix@0?distro=sid
     affected_by_vulnerabilities: []

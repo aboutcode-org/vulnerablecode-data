@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/kgb
+package: pkg:deb/ubuntu/kgb
 versions:
   - purl: pkg:deb/ubuntu/kgb@1.0b4-3
     affected_by_vulnerabilities:

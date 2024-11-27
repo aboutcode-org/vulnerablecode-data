@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-rgb
+package: pkg:deb/debian/rust-rgb
 versions:
   - purl: pkg:deb/debian/rust-rgb@0.8.11-1
     affected_by_vulnerabilities:

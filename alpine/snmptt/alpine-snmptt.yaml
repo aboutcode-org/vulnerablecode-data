@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/snmptt
+package: pkg:alpine/snmptt
 versions:
   - purl: pkg:alpine/snmptt@1.4.2-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

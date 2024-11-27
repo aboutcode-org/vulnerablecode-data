@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/mruby
+package: pkg:alpine/mruby
 versions:
   - purl: pkg:alpine/mruby@2.1.2-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

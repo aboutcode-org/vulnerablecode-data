@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/borgbackup
+package: pkg:deb/ubuntu/borgbackup
 versions:
   - purl: pkg:deb/ubuntu/borgbackup@0.28.1-1
     affected_by_vulnerabilities:

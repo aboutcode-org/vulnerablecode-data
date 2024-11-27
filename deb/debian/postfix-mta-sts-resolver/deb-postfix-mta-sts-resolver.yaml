@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/postfix-mta-sts-resolver
+package: pkg:deb/debian/postfix-mta-sts-resolver
 versions:
   - purl: pkg:deb/debian/postfix-mta-sts-resolver@0?distro=sid
     affected_by_vulnerabilities: []

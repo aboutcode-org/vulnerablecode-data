@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nbdkit
+package: pkg:deb/debian/nbdkit
 versions:
   - purl: pkg:deb/debian/nbdkit@0?distro=sid
     affected_by_vulnerabilities: []

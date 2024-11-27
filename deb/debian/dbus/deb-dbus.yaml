@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dbus
+package: pkg:deb/debian/dbus
 versions:
   - purl: pkg:deb/debian/dbus@0.22?distro=sid
     affected_by_vulnerabilities: []

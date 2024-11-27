@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-ldap
+package: pkg:deb/debian/python-ldap
 versions:
   - purl: pkg:deb/debian/python-ldap@2.4.28-0.1?distro=stretch
     affected_by_vulnerabilities:

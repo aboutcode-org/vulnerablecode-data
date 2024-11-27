@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/openssl
+package: pkg:alpine/openssl
 versions:
   - purl: pkg:alpine/openssl@0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

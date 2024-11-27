@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/info2www
+package: pkg:deb/debian/info2www
 versions:
   - purl: pkg:deb/debian/info2www@1.2.2.9-10
     affected_by_vulnerabilities:

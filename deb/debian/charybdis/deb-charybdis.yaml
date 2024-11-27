@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/charybdis
+package: pkg:deb/debian/charybdis
 versions:
   - purl: pkg:deb/debian/charybdis@3.3.0-7.1?distro=buster
     affected_by_vulnerabilities: []

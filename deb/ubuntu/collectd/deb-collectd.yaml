@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/collectd
+package: pkg:deb/ubuntu/collectd
 versions:
   - purl: pkg:deb/ubuntu/collectd@3.10.3-1
     affected_by_vulnerabilities:

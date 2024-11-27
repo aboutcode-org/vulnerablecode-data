@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/hyperkitty
+package: pkg:deb/debian/hyperkitty
 versions:
   - purl: pkg:deb/debian/hyperkitty@0?distro=sid
     affected_by_vulnerabilities: []

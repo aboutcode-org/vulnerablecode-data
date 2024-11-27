@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-hawk
+package: pkg:deb/debian/node-hawk
 versions:
   - purl: pkg:deb/debian/node-hawk@6.0.1%2Bdfsg-1?distro=sid
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-horde-form
+package: pkg:deb/debian/php-horde-form
 versions:
   - purl: pkg:deb/debian/php-horde-form@2.0.15-1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

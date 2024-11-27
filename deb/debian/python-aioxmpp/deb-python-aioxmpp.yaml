@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-aioxmpp
+package: pkg:deb/debian/python-aioxmpp
 versions:
   - purl: pkg:deb/debian/python-aioxmpp@0.10.3-1?distro=sid
     affected_by_vulnerabilities: []

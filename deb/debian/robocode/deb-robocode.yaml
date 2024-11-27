@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/robocode
+package: pkg:deb/debian/robocode
 versions:
   - purl: pkg:deb/debian/robocode@1.6.0~beta2-1?distro=sid
     affected_by_vulnerabilities: []

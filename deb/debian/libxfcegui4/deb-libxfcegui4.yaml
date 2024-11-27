@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libxfcegui4
+package: pkg:deb/debian/libxfcegui4
 versions:
   - purl: pkg:deb/debian/libxfcegui4@4.10.0-3?distro=stretch
     affected_by_vulnerabilities: []

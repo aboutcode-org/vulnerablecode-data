@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/latd
+package: pkg:deb/ubuntu/latd
 versions:
   - purl: pkg:deb/ubuntu/latd@1.21
     affected_by_vulnerabilities:

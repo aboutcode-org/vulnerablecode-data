@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/john
+package: pkg:deb/ubuntu/john
 versions:
   - purl: pkg:deb/ubuntu/john@1.6-27ubuntu1
     affected_by_vulnerabilities:

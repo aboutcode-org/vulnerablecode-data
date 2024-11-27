@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/caribou
+package: pkg:deb/ubuntu/caribou
 versions:
   - purl: pkg:deb/ubuntu/caribou@0.3.92-0ubuntu1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mesa
+package: pkg:deb/debian/mesa
 versions:
   - purl: pkg:deb/debian/mesa@13.0.6-1?distro=stretch
     affected_by_vulnerabilities:

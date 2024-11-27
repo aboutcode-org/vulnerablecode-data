@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mock
+package: pkg:deb/debian/mock
 versions:
   - purl: pkg:deb/debian/mock@1.3.2-1?distro=buster
     affected_by_vulnerabilities: []

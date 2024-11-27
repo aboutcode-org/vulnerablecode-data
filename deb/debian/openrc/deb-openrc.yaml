@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openrc
+package: pkg:deb/debian/openrc
 versions:
   - purl: pkg:deb/debian/openrc@0?distro=sid
     affected_by_vulnerabilities: []

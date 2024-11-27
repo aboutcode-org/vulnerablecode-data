@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/puppet-module-swift
+package: pkg:deb/debian/puppet-module-swift
 versions:
   - purl: pkg:deb/debian/puppet-module-swift@13.1.0-4?distro=sid
     affected_by_vulnerabilities: []

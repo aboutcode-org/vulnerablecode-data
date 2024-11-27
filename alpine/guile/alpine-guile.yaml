@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/guile
+package: pkg:alpine/guile
 versions:
   - purl: pkg:alpine/guile@2.0.11-r3?arch=armhf&distroversion=v3.4&reponame=main
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fex
+package: pkg:deb/debian/fex
 versions:
   - purl: pkg:deb/debian/fex@20110610-1?distro=sid
     affected_by_vulnerabilities: []

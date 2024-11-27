@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/elasticsearch
+package: pkg:deb/ubuntu/elasticsearch
 versions:
   - purl: pkg:deb/ubuntu/elasticsearch@1.0.3%2Bdfsg-4
     affected_by_vulnerabilities:

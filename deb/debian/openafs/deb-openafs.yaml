@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openafs
+package: pkg:deb/debian/openafs
 versions:
   - purl: pkg:deb/debian/openafs@0?distro=sid
     affected_by_vulnerabilities: []

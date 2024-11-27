@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/cgmanager
+package: pkg:deb/ubuntu/cgmanager
 versions:
   - purl: pkg:deb/ubuntu/cgmanager@0.16-0ubuntu1
     affected_by_vulnerabilities:

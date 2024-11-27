@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/librabbitmq
+package: pkg:deb/ubuntu/librabbitmq
 versions:
   - purl: pkg:deb/ubuntu/librabbitmq@0.0.1.hg216-0ubuntu1
     affected_by_vulnerabilities:

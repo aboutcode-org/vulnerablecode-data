@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/powerpc-utils
+package: pkg:deb/debian/powerpc-utils
 versions:
   - purl: pkg:deb/debian/powerpc-utils@0?distro=sid
     affected_by_vulnerabilities: []

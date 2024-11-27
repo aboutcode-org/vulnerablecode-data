@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/opensc
+package: pkg:deb/debian/opensc
 versions:
   - purl: pkg:deb/debian/opensc@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/file-roller
+package: pkg:alpine/file-roller
 versions:
   - purl: pkg:alpine/file-roller@3.38.0-r1?arch=aarch64&distroversion=v3.13&reponame=community
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/lame
+package: pkg:deb/ubuntu/lame
 versions:
   - purl: pkg:deb/ubuntu/lame@3.100-2
     affected_by_vulnerabilities: []

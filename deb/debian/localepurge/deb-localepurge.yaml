@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/localepurge
+package: pkg:deb/debian/localepurge
 versions:
   - purl: pkg:deb/debian/localepurge@0.7.3.10?distro=sid
     affected_by_vulnerabilities: []

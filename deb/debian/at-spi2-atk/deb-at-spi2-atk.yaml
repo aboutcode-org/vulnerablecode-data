@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/at-spi2-atk
+package: pkg:deb/debian/at-spi2-atk
 versions:
   - purl: pkg:deb/debian/at-spi2-atk@2.22.0-2?distro=stretch
     affected_by_vulnerabilities: []

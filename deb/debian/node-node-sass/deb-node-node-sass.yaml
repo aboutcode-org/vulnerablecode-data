@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-node-sass
+package: pkg:deb/debian/node-node-sass
 versions:
   - purl: pkg:deb/debian/node-node-sass@4.14.1%2Bgit20200512.e1fc158%2Bdfsg-4?distro=sid
     affected_by_vulnerabilities:

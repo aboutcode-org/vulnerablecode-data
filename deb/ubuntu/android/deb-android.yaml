@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/android
+package: pkg:deb/ubuntu/android
 versions:
   - purl: pkg:deb/ubuntu/android@0.20130722-0ubuntu8
     affected_by_vulnerabilities:

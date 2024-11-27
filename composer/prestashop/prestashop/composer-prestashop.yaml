@@ -1,4 +1,4 @@
-pacakge: pkg:composer/prestashop/prestashop
+package: pkg:composer/prestashop/prestashop
 versions:
   - purl: pkg:composer/prestashop/prestashop@1.6.0%2B10
     affected_by_vulnerabilities:

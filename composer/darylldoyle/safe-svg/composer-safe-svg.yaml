@@ -1,4 +1,4 @@
-pacakge: pkg:composer/darylldoyle/safe-svg
+package: pkg:composer/darylldoyle/safe-svg
 versions:
   - purl: pkg:composer/darylldoyle/safe-svg@1.9.10
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/py3-psutil
+package: pkg:alpine/py3-psutil
 versions:
   - purl: pkg:alpine/py3-psutil@5.6.7-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

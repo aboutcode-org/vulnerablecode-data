@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lynx
+package: pkg:deb/debian/lynx
 versions:
   - purl: pkg:deb/debian/lynx@0?distro=sid
     affected_by_vulnerabilities: []

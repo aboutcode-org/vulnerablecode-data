@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gedit
+package: pkg:deb/debian/gedit
 versions:
   - purl: pkg:deb/debian/gedit@0.5.4-1
     affected_by_vulnerabilities:

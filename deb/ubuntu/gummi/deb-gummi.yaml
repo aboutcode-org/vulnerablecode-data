@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gummi
+package: pkg:deb/ubuntu/gummi
 versions:
   - purl: pkg:deb/ubuntu/gummi@0.5.8-1
     affected_by_vulnerabilities:

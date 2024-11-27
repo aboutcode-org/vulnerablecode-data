@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/three.js
+package: pkg:deb/debian/three.js
 versions:
   - purl: pkg:deb/debian/three.js@0?distro=sid
     affected_by_vulnerabilities: []

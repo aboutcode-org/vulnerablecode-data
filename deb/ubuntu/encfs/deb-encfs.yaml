@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/encfs
+package: pkg:deb/ubuntu/encfs
 versions:
   - purl: pkg:deb/ubuntu/encfs@1.2.0-3
     affected_by_vulnerabilities:

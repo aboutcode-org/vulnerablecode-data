@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/pango
+package: pkg:alpine/pango
 versions:
   - purl: pkg:alpine/pango@1.40.14-r1?arch=aarch64&distroversion=v3.7&reponame=main
     affected_by_vulnerabilities: []

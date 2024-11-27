@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kinit
+package: pkg:deb/debian/kinit
 versions:
   - purl: pkg:deb/debian/kinit@5.100.0-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/librsvg
+package: pkg:deb/debian/librsvg
 versions:
   - purl: pkg:deb/debian/librsvg@0?distro=sid
     affected_by_vulnerabilities: []

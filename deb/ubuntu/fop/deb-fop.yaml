@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/fop
+package: pkg:deb/ubuntu/fop
 versions:
   - purl: pkg:deb/ubuntu/fop@1:0.20.5-4
     affected_by_vulnerabilities:

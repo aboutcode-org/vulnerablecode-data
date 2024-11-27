@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pidgin
+package: pkg:deb/debian/pidgin
 versions:
   - purl: pkg:deb/debian/pidgin@0?distro=sid
     affected_by_vulnerabilities: []

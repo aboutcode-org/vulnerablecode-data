@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tomcat-native
+package: pkg:deb/debian/tomcat-native
 versions:
   - purl: pkg:deb/debian/tomcat-native@1.1.18-1?distro=sid
     affected_by_vulnerabilities: []

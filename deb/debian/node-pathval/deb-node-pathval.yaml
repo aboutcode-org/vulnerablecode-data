@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-pathval
+package: pkg:deb/debian/node-pathval
 versions:
   - purl: pkg:deb/debian/node-pathval@1.1.0-3%2Bdeb10u1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libemail-address-perl
+package: pkg:deb/ubuntu/libemail-address-perl
 versions:
   - purl: pkg:deb/ubuntu/libemail-address-perl@1.80-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/resiprocate
+package: pkg:deb/debian/resiprocate
 versions:
   - purl: pkg:deb/debian/resiprocate@1:1.11.0~beta1-3%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

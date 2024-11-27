@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openjdk-11
+package: pkg:deb/debian/openjdk-11
 versions:
   - purl: pkg:deb/debian/openjdk-11@0?distro=sid
     affected_by_vulnerabilities: []

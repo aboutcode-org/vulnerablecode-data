@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/miniupnpc
+package: pkg:alpine/miniupnpc
 versions:
   - purl: pkg:alpine/miniupnpc@2.0-r1?arch=aarch64&distroversion=v3.6&reponame=community
     affected_by_vulnerabilities: []

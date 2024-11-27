@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/crmsh
+package: pkg:deb/debian/crmsh
 versions:
   - purl: pkg:deb/debian/crmsh@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/zziplib
+package: pkg:deb/debian/zziplib
 versions:
   - purl: pkg:deb/debian/zziplib@0.12.83-4
     affected_by_vulnerabilities:

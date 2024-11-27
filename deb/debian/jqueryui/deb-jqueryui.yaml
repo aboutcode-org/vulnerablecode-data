@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jqueryui
+package: pkg:deb/debian/jqueryui
 versions:
   - purl: pkg:deb/debian/jqueryui@1.10.1%2Bdfsg-1?distro=sid
     affected_by_vulnerabilities: []

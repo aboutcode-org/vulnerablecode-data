@@ -1,4 +1,4 @@
-pacakge: pkg:composer/gree/jose
+package: pkg:composer/gree/jose
 versions:
   - purl: pkg:composer/gree/jose@0.1.0
     affected_by_vulnerabilities:

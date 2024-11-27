@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pgpool2
+package: pkg:deb/debian/pgpool2
 versions:
   - purl: pkg:deb/debian/pgpool2@4.0.2-1?distro=sid
     affected_by_vulnerabilities:

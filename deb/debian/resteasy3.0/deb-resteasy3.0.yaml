@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/resteasy3.0
+package: pkg:deb/debian/resteasy3.0
 versions:
   - purl: pkg:deb/debian/resteasy3.0@0?distro=sid
     affected_by_vulnerabilities: []

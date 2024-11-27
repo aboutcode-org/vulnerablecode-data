@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/amd64-microcode
+package: pkg:deb/debian/amd64-microcode
 versions:
   - purl: pkg:deb/debian/amd64-microcode@3.20160316.3?distro=stretch
     affected_by_vulnerabilities:

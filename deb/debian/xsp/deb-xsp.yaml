@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xsp
+package: pkg:deb/debian/xsp
 versions:
   - purl: pkg:deb/debian/xsp@1.1.15-1?distro=sid
     affected_by_vulnerabilities: []

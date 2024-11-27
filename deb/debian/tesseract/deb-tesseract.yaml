@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tesseract
+package: pkg:deb/debian/tesseract
 versions:
   - purl: pkg:deb/debian/tesseract@2.04-2.1?distro=sid
     affected_by_vulnerabilities: []

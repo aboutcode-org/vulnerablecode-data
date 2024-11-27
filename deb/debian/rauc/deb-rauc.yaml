@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rauc
+package: pkg:deb/debian/rauc
 versions:
   - purl: pkg:deb/debian/rauc@1.5-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/iortcw
+package: pkg:deb/debian/iortcw
 versions:
   - purl: pkg:deb/debian/iortcw@1.50a%2Bdfsg1-3?distro=sid
     affected_by_vulnerabilities: []

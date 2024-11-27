@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/r-base
+package: pkg:deb/debian/r-base
 versions:
   - purl: pkg:deb/debian/r-base@2.7.2-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/zsh
+package: pkg:deb/debian/zsh
 versions:
   - purl: pkg:deb/debian/zsh@4.3.4-dev-3-2?distro=sid
     affected_by_vulnerabilities: []

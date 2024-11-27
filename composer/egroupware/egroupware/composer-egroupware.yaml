@@ -1,4 +1,4 @@
-pacakge: pkg:composer/egroupware/egroupware
+package: pkg:composer/egroupware/egroupware
 versions:
   - purl: pkg:composer/egroupware/egroupware@14.2.20150121
     affected_by_vulnerabilities:

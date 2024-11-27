@@ -1,4 +1,4 @@
-pacakge: pkg:composer/adodb/adodb-php
+package: pkg:composer/adodb/adodb-php
 versions:
   - purl: pkg:composer/adodb/adodb-php@5.0.0
     affected_by_vulnerabilities:

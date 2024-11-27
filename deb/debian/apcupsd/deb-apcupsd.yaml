@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/apcupsd
+package: pkg:deb/debian/apcupsd
 versions:
   - purl: pkg:deb/debian/apcupsd@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libarchive
+package: pkg:alpine/libarchive
 versions:
   - purl: pkg:alpine/libarchive@3.2.0-r0?arch=armhf&distroversion=v3.4&reponame=main
     affected_by_vulnerabilities: []

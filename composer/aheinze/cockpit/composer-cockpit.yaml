@@ -1,4 +1,4 @@
-pacakge: pkg:composer/aheinze/cockpit
+package: pkg:composer/aheinze/cockpit
 versions:
   - purl: pkg:composer/aheinze/cockpit@0.10.0
     affected_by_vulnerabilities:

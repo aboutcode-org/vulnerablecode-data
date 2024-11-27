@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/openvswitch
+package: pkg:alpine/openvswitch
 versions:
   - purl: pkg:alpine/openvswitch@2.12.1-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/movingbytes/social-network
+package: pkg:composer/movingbytes/social-network
 versions:
   - purl: pkg:composer/movingbytes/social-network@1.2.1
     affected_by_vulnerabilities:

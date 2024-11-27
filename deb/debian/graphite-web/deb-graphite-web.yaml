@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/graphite-web
+package: pkg:deb/debian/graphite-web
 versions:
   - purl: pkg:deb/debian/graphite-web@0.9.12%2Bdebian-1?distro=sid
     affected_by_vulnerabilities: []

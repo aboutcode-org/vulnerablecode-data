@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/zutils
+package: pkg:deb/debian/zutils
 versions:
   - purl: pkg:deb/debian/zutils@1.10-1?distro=sid
     affected_by_vulnerabilities: []

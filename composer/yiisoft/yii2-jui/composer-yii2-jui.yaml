@@ -1,4 +1,4 @@
-pacakge: pkg:composer/yiisoft/yii2-jui
+package: pkg:composer/yiisoft/yii2-jui
 versions:
   - purl: pkg:composer/yiisoft/yii2-jui@2.0.0
     affected_by_vulnerabilities:

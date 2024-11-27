@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cairo
+package: pkg:deb/debian/cairo
 versions:
   - purl: pkg:deb/debian/cairo@0?distro=stretch
     affected_by_vulnerabilities: []

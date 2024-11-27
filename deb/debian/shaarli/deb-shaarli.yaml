@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/shaarli
+package: pkg:deb/debian/shaarli
 versions:
   - purl: pkg:deb/debian/shaarli@0?distro=sid
     affected_by_vulnerabilities: []

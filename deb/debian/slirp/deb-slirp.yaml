@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/slirp
+package: pkg:deb/debian/slirp
 versions:
   - purl: pkg:deb/debian/slirp@1:1.0.17-10?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sympa
+package: pkg:deb/debian/sympa
 versions:
   - purl: pkg:deb/debian/sympa@0?distro=stretch
     affected_by_vulnerabilities: []

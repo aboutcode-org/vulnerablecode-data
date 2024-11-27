@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/samurai
+package: pkg:alpine/samurai
 versions:
   - purl: pkg:alpine/samurai@1.2-r1?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

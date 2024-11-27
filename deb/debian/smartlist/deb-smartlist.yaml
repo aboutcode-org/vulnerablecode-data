@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/smartlist
+package: pkg:deb/debian/smartlist
 versions:
   - purl: pkg:deb/debian/smartlist@3.10.7-5
     affected_by_vulnerabilities:

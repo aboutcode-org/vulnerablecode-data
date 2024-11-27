@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pypy
+package: pkg:deb/debian/pypy
 versions:
   - purl: pkg:deb/debian/pypy@5.6.0%2Bdfsg-4?distro=stretch
     affected_by_vulnerabilities:

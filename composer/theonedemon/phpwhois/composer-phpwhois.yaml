@@ -1,4 +1,4 @@
-pacakge: pkg:composer/theonedemon/phpwhois
+package: pkg:composer/theonedemon/phpwhois
 versions:
   - purl: pkg:composer/theonedemon/phpwhois@4.2.3
     affected_by_vulnerabilities:

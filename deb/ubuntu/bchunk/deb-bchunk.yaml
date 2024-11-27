@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/bchunk
+package: pkg:deb/ubuntu/bchunk
 versions:
   - purl: pkg:deb/ubuntu/bchunk@1.1.1-2
     affected_by_vulnerabilities:

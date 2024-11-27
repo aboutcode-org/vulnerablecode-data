@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/jython
+package: pkg:deb/ubuntu/jython
 versions:
   - purl: pkg:deb/ubuntu/jython@2.1.0-17
     affected_by_vulnerabilities:

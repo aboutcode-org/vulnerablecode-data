@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libhibernate3-java
+package: pkg:deb/debian/libhibernate3-java
 versions:
   - purl: pkg:deb/debian/libhibernate3-java@0?distro=sid
     affected_by_vulnerabilities: []

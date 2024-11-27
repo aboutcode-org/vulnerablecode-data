@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/acpid
+package: pkg:deb/debian/acpid
 versions:
   - purl: pkg:deb/debian/acpid@0?distro=sid
     affected_by_vulnerabilities: []

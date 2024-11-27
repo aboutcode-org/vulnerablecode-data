@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libcdio
+package: pkg:deb/ubuntu/libcdio
 versions:
   - purl: pkg:deb/ubuntu/libcdio@0.68-2
     affected_by_vulnerabilities:

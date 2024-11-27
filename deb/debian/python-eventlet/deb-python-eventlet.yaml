@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-eventlet
+package: pkg:deb/debian/python-eventlet
 versions:
   - purl: pkg:deb/debian/python-eventlet@0.19.0-6?distro=stretch
     affected_by_vulnerabilities:

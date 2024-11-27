@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-diesel
+package: pkg:deb/debian/rust-diesel
 versions:
   - purl: pkg:deb/debian/rust-diesel@2.0.3-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/k4dirstat
+package: pkg:deb/ubuntu/k4dirstat
 versions:
   - purl: pkg:deb/ubuntu/k4dirstat@2.7.0~git20101011-1
     affected_by_vulnerabilities:

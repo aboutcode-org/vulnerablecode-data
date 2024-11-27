@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/docker-registry
+package: pkg:deb/debian/docker-registry
 versions:
   - purl: pkg:deb/debian/docker-registry@2.6.2~ds1-1?distro=sid
     affected_by_vulnerabilities: []

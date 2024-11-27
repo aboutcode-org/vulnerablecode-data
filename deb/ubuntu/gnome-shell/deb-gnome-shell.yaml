@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gnome-shell
+package: pkg:deb/ubuntu/gnome-shell
 versions:
   - purl: pkg:deb/ubuntu/gnome-shell@0.0.1~git20090702-0ubuntu0.2
     affected_by_vulnerabilities:

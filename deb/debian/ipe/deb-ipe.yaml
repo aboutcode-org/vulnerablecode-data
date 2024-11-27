@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ipe
+package: pkg:deb/debian/ipe
 versions:
   - purl: pkg:deb/debian/ipe@0?distro=sid
     affected_by_vulnerabilities: []

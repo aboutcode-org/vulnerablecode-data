@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ircii
+package: pkg:deb/debian/ircii
 versions:
   - purl: pkg:deb/debian/ircii@20030315-1?distro=sid
     affected_by_vulnerabilities: []

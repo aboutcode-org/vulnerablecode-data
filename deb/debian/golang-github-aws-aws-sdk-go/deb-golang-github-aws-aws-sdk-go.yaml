@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-aws-aws-sdk-go
+package: pkg:deb/debian/golang-github-aws-aws-sdk-go
 versions:
   - purl: pkg:deb/debian/golang-github-aws-aws-sdk-go@1.16.18%2Bdfsg-1?distro=sid
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cbrpager
+package: pkg:deb/debian/cbrpager
 versions:
   - purl: pkg:deb/debian/cbrpager@0.9.17-1?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/minicom
+package: pkg:deb/debian/minicom
 versions:
   - purl: pkg:deb/debian/minicom@2.7-1.1?distro=sid
     affected_by_vulnerabilities: []

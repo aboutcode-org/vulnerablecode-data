@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libxstream-java
+package: pkg:deb/debian/libxstream-java
 versions:
   - purl: pkg:deb/debian/libxstream-java@0?distro=stretch
     affected_by_vulnerabilities: []

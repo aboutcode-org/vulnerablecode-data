@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/glib-networking
+package: pkg:deb/debian/glib-networking
 versions:
   - purl: pkg:deb/debian/glib-networking@2.50.0-1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

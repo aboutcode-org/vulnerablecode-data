@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mecab
+package: pkg:deb/debian/mecab
 versions:
   - purl: pkg:deb/debian/mecab@0.95-1.1?distro=sid
     affected_by_vulnerabilities: []

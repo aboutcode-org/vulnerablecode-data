@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/flite
+package: pkg:deb/ubuntu/flite
 versions:
   - purl: pkg:deb/ubuntu/flite@1.2-release-2
     affected_by_vulnerabilities:

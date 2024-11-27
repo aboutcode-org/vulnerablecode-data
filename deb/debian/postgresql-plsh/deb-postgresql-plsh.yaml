@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/postgresql-plsh
+package: pkg:deb/debian/postgresql-plsh
 versions:
   - purl: pkg:deb/debian/postgresql-plsh@1.20140221-1?distro=sid
     affected_by_vulnerabilities: []

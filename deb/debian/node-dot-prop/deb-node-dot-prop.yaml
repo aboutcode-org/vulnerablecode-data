@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-dot-prop
+package: pkg:deb/debian/node-dot-prop
 versions:
   - purl: pkg:deb/debian/node-dot-prop@4.1.1-1%2Bdeb10u1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/freeradius
+package: pkg:deb/ubuntu/freeradius
 versions:
   - purl: pkg:deb/ubuntu/freeradius@0.9.3-1
     affected_by_vulnerabilities:

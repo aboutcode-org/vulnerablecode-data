@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fluxbox
+package: pkg:deb/debian/fluxbox
 versions:
   - purl: pkg:deb/debian/fluxbox@0.1.7-3
     affected_by_vulnerabilities:

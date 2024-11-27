@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-oslo.middleware
+package: pkg:deb/debian/python-oslo.middleware
 versions:
   - purl: pkg:deb/debian/python-oslo.middleware@3.19.0-3?distro=sid
     affected_by_vulnerabilities: []

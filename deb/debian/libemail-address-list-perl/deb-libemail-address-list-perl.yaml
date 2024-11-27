@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libemail-address-list-perl
+package: pkg:deb/debian/libemail-address-list-perl
 versions:
   - purl: pkg:deb/debian/libemail-address-list-perl@0.03-1?distro=sid
     affected_by_vulnerabilities: []

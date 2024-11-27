@@ -1,4 +1,4 @@
-pacakge: pkg:apache/httpd
+package: pkg:apache/httpd
 versions:
   - purl: pkg:apache/httpd@1.3
     affected_by_vulnerabilities:

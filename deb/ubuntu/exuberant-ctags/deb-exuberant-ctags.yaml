@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/exuberant-ctags
+package: pkg:deb/ubuntu/exuberant-ctags
 versions:
   - purl: pkg:deb/ubuntu/exuberant-ctags@1:5.5.4-1
     affected_by_vulnerabilities:

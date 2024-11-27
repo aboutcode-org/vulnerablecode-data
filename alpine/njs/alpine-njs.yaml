@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/njs
+package: pkg:alpine/njs
 versions:
   - purl: pkg:alpine/njs@0.7.1-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

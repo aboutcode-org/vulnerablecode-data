@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/perl
+package: pkg:alpine/perl
 versions:
   - purl: pkg:alpine/perl@5.22.3-r0?arch=armhf&distroversion=v3.3&reponame=main
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ktorrent
+package: pkg:deb/debian/ktorrent
 versions:
   - purl: pkg:deb/debian/ktorrent@2.0.3%2Bdfsg1-2.1?distro=sid
     affected_by_vulnerabilities: []

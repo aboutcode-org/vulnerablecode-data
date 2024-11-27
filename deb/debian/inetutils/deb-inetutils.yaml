@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/inetutils
+package: pkg:deb/debian/inetutils
 versions:
   - purl: pkg:deb/debian/inetutils@0?distro=sid
     affected_by_vulnerabilities: []

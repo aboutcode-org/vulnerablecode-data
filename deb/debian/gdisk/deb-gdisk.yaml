@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gdisk
+package: pkg:deb/debian/gdisk
 versions:
   - purl: pkg:deb/debian/gdisk@1.0.1-1?distro=stretch
     affected_by_vulnerabilities: []

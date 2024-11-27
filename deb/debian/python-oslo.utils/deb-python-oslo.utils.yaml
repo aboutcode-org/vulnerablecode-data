@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-oslo.utils
+package: pkg:deb/debian/python-oslo.utils
 versions:
   - purl: pkg:deb/debian/python-oslo.utils@0.2.0-1?distro=sid
     affected_by_vulnerabilities: []

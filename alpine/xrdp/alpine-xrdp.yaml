@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/xrdp
+package: pkg:alpine/xrdp
 versions:
   - purl: pkg:alpine/xrdp@0.9.11-r1?arch=aarch64&distroversion=v3.11&reponame=main
     affected_by_vulnerabilities: []

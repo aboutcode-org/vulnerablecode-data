@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python3.5
+package: pkg:deb/debian/python3.5
 versions:
   - purl: pkg:deb/debian/python3.5@0?distro=stretch
     affected_by_vulnerabilities: []

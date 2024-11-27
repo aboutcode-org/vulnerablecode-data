@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nsd
+package: pkg:deb/debian/nsd
 versions:
   - purl: pkg:deb/debian/nsd@2.3.7-3?distro=sid
     affected_by_vulnerabilities: []

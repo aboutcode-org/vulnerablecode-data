@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-uuid
+package: pkg:deb/debian/node-uuid
 versions:
   - purl: pkg:deb/debian/node-uuid@1.4.0-1?distro=stretch
     affected_by_vulnerabilities:

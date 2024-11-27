@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/liblouis
+package: pkg:deb/debian/liblouis
 versions:
   - purl: pkg:deb/debian/liblouis@0?distro=sid
     affected_by_vulnerabilities: []

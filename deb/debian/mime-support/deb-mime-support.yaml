@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mime-support
+package: pkg:deb/debian/mime-support
 versions:
   - purl: pkg:deb/debian/mime-support@2.17-1
     affected_by_vulnerabilities:

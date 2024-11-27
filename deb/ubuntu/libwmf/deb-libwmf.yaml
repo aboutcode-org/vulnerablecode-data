@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libwmf
+package: pkg:deb/ubuntu/libwmf
 versions:
   - purl: pkg:deb/ubuntu/libwmf@0.2.8-1.1
     affected_by_vulnerabilities:

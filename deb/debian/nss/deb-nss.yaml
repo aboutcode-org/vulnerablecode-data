@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nss
+package: pkg:deb/debian/nss
 versions:
   - purl: pkg:deb/debian/nss@0?distro=stretch
     affected_by_vulnerabilities: []

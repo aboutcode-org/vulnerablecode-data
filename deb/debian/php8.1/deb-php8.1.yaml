@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php8.1
+package: pkg:deb/debian/php8.1
 versions:
   - purl: pkg:deb/debian/php8.1@8.1.0-1?distro=sid
     affected_by_vulnerabilities: []

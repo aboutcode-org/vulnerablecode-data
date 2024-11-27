@@ -1,4 +1,4 @@
-pacakge: pkg:conan/pcre2
+package: pkg:conan/pcre2
 versions:
   - purl: pkg:conan/pcre2@10.32
     affected_by_vulnerabilities:

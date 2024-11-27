@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/advi
+package: pkg:deb/debian/advi
 versions:
   - purl: pkg:deb/debian/advi@1.10.2-3?distro=stretch
     affected_by_vulnerabilities: []

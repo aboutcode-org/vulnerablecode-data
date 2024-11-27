@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/links2
+package: pkg:deb/ubuntu/links2
 versions:
   - purl: pkg:deb/ubuntu/links2@2.10-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-htmlpurifier
+package: pkg:deb/debian/php-htmlpurifier
 versions:
   - purl: pkg:deb/debian/php-htmlpurifier@4.10.0-1?distro=sid
     affected_by_vulnerabilities: []

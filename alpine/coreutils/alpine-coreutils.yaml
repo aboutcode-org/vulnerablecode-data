@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/coreutils
+package: pkg:alpine/coreutils
 versions:
   - purl: pkg:alpine/coreutils@8.28-r0?arch=aarch64&distroversion=v3.7&reponame=main
     affected_by_vulnerabilities: []

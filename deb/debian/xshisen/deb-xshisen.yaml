@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xshisen
+package: pkg:deb/debian/xshisen
 versions:
   - purl: pkg:deb/debian/xshisen@1:1.51-5?distro=stretch
     affected_by_vulnerabilities: []

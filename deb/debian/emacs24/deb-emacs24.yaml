@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/emacs24
+package: pkg:deb/debian/emacs24
 versions:
   - purl: pkg:deb/debian/emacs24@24.2%2B1-1?distro=stretch
     affected_by_vulnerabilities: []

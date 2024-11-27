@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rhonabwy
+package: pkg:deb/debian/rhonabwy
 versions:
   - purl: pkg:deb/debian/rhonabwy@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jabref
+package: pkg:deb/debian/jabref
 versions:
   - purl: pkg:deb/debian/jabref@3.8.1%2Bds-3%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/undertow
+package: pkg:deb/debian/undertow
 versions:
   - purl: pkg:deb/debian/undertow@0?distro=sid
     affected_by_vulnerabilities: []

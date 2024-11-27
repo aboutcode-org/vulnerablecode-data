@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libiptables-parse-perl
+package: pkg:deb/ubuntu/libiptables-parse-perl
 versions:
   - purl: pkg:deb/ubuntu/libiptables-parse-perl@0.6-1
     affected_by_vulnerabilities:

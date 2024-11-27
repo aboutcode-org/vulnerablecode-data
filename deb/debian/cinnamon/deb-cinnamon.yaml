@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cinnamon
+package: pkg:deb/debian/cinnamon
 versions:
   - purl: pkg:deb/debian/cinnamon@2.2.14-1?distro=sid
     affected_by_vulnerabilities: []

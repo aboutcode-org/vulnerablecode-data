@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libmailtools-perl
+package: pkg:deb/debian/libmailtools-perl
 versions:
   - purl: pkg:deb/debian/libmailtools-perl@1.44-1woody2
     affected_by_vulnerabilities:

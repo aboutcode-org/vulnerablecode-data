@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jss
+package: pkg:deb/debian/jss
 versions:
   - purl: pkg:deb/debian/jss@0?distro=sid
     affected_by_vulnerabilities: []

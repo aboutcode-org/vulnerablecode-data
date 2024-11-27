@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-untrusted
+package: pkg:deb/debian/rust-untrusted
 versions:
   - purl: pkg:deb/debian/rust-untrusted@0?distro=sid
     affected_by_vulnerabilities: []

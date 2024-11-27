@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xcftools
+package: pkg:deb/debian/xcftools
 versions:
   - purl: pkg:deb/debian/xcftools@1.0.7-1?distro=buster
     affected_by_vulnerabilities: []

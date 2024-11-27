@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-libflate
+package: pkg:deb/debian/rust-libflate
 versions:
   - purl: pkg:deb/debian/rust-libflate@0.1.19-1?distro=sid
     affected_by_vulnerabilities:

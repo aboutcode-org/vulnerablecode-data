@@ -1,4 +1,4 @@
-pacakge: pkg:conan/libsndfile
+package: pkg:conan/libsndfile
 versions:
   - purl: pkg:conan/libsndfile@1.0.30
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/skktools
+package: pkg:deb/debian/skktools
 versions:
   - purl: pkg:deb/debian/skktools@1.2%2B0.20061004-3?distro=sid
     affected_by_vulnerabilities: []

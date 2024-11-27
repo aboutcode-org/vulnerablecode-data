@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libcroco
+package: pkg:deb/ubuntu/libcroco
 versions:
   - purl: pkg:deb/ubuntu/libcroco@0.6.0-2
     affected_by_vulnerabilities:

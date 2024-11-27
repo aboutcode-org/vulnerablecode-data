@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/openjdk16
+package: pkg:alpine/openjdk16
 versions:
   - purl: pkg:alpine/openjdk16@16.0.2_p7-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

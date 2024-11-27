@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-twig
+package: pkg:deb/debian/php-twig
 versions:
   - purl: pkg:deb/debian/php-twig@2.14.3-1?distro=sid
     affected_by_vulnerabilities: []

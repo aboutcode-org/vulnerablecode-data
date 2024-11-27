@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/awffull
+package: pkg:deb/debian/awffull
 versions:
   - purl: pkg:deb/debian/awffull@3.10.2-4%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

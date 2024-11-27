@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/velocity-tools
+package: pkg:deb/debian/velocity-tools
 versions:
   - purl: pkg:deb/debian/velocity-tools@2.0-6?distro=stretch
     affected_by_vulnerabilities: []

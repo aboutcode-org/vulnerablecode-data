@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/maven-shared-utils
+package: pkg:deb/debian/maven-shared-utils
 versions:
   - purl: pkg:deb/debian/maven-shared-utils@3.0.0-1?distro=stretch
     affected_by_vulnerabilities:

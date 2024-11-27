@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-exotel
+package: pkg:deb/debian/python-exotel
 versions:
   - purl: pkg:deb/debian/python-exotel@0?distro=sid
     affected_by_vulnerabilities: []

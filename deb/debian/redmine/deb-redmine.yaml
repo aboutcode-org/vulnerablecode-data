@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/redmine
+package: pkg:deb/debian/redmine
 versions:
   - purl: pkg:deb/debian/redmine@0?distro=sid
     affected_by_vulnerabilities: []

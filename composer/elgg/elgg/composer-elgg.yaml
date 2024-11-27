@@ -1,4 +1,4 @@
-pacakge: pkg:composer/elgg/elgg
+package: pkg:composer/elgg/elgg
 versions:
   - purl: pkg:composer/elgg/elgg@1.10.0
     affected_by_vulnerabilities:

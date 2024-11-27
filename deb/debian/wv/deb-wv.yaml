@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/wv
+package: pkg:deb/debian/wv
 versions:
   - purl: pkg:deb/debian/wv@0.7.1%2Brvt-2woody3
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-opencontainers-selinux
+package: pkg:deb/debian/golang-github-opencontainers-selinux
 versions:
   - purl: pkg:deb/debian/golang-github-opencontainers-selinux@1.0.0~rc1%2Bgit20170621.5.4a2974b-1?distro=sid
     affected_by_vulnerabilities:

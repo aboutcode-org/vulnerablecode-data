@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libx11
+package: pkg:deb/ubuntu/libx11
 versions:
   - purl: pkg:deb/ubuntu/libx11@1:6.2.1%2Bcvs.20050722-8
     affected_by_vulnerabilities:

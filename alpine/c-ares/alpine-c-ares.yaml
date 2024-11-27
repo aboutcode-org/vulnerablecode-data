@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/c-ares
+package: pkg:alpine/c-ares
 versions:
   - purl: pkg:alpine/c-ares@1.12.0-r0?arch=aarch64&distroversion=v3.5&reponame=main
     affected_by_vulnerabilities: []

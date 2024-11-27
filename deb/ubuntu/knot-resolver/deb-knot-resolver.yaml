@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/knot-resolver
+package: pkg:deb/ubuntu/knot-resolver
 versions:
   - purl: pkg:deb/ubuntu/knot-resolver@1.0.0-1
     affected_by_vulnerabilities:

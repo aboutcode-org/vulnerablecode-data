@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cgal
+package: pkg:deb/debian/cgal
 versions:
   - purl: pkg:deb/debian/cgal@4.13-1?distro=sid
     affected_by_vulnerabilities:

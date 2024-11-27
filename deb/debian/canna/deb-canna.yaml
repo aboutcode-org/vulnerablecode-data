@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/canna
+package: pkg:deb/debian/canna
 versions:
   - purl: pkg:deb/debian/canna@3.5b2-14
     affected_by_vulnerabilities:

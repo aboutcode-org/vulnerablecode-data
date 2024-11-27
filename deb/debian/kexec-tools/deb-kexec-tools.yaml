@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kexec-tools
+package: pkg:deb/debian/kexec-tools
 versions:
   - purl: pkg:deb/debian/kexec-tools@0?distro=sid
     affected_by_vulnerabilities: []

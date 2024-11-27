@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-crossbeam-epoch
+package: pkg:deb/debian/rust-crossbeam-epoch
 versions:
   - purl: pkg:deb/debian/rust-crossbeam-epoch@0?distro=sid
     affected_by_vulnerabilities: []

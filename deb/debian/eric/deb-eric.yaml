@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/eric
+package: pkg:deb/debian/eric
 versions:
   - purl: pkg:deb/debian/eric@17.01-1?distro=stretch
     affected_by_vulnerabilities: []

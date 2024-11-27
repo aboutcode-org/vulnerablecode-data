@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/getmail4
+package: pkg:deb/debian/getmail4
 versions:
   - purl: pkg:deb/debian/getmail4@4.44.0-1?distro=stretch
     affected_by_vulnerabilities: []

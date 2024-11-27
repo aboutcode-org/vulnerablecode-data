@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cpio
+package: pkg:deb/debian/cpio
 versions:
   - purl: pkg:deb/debian/cpio@2.11-1?distro=sid
     affected_by_vulnerabilities: []

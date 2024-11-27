@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/irssi
+package: pkg:deb/ubuntu/irssi
 versions:
   - purl: pkg:deb/ubuntu/irssi@0.8.10-1
     affected_by_vulnerabilities:

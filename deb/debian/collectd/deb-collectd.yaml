@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/collectd
+package: pkg:deb/debian/collectd
 versions:
   - purl: pkg:deb/debian/collectd@0?distro=sid
     affected_by_vulnerabilities: []

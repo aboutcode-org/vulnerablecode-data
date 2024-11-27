@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libcgroup
+package: pkg:deb/debian/libcgroup
 versions:
   - purl: pkg:deb/debian/libcgroup@0.37.1-1?distro=sid
     affected_by_vulnerabilities: []

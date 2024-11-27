@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/samba
+package: pkg:deb/debian/samba
 versions:
   - purl: pkg:deb/debian/samba@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libproc-processtable-perl
+package: pkg:deb/debian/libproc-processtable-perl
 versions:
   - purl: pkg:deb/debian/libproc-processtable-perl@0.45-6?distro=sid
     affected_by_vulnerabilities: []

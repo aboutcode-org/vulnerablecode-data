@@ -1,4 +1,4 @@
-pacakge: pkg:composer/wpcloud/wp-stateless
+package: pkg:composer/wpcloud/wp-stateless
 versions:
   - purl: pkg:composer/wpcloud/wp-stateless@1.5
     affected_by_vulnerabilities:

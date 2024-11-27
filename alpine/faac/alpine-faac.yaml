@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/faac
+package: pkg:alpine/faac
 versions:
   - purl: pkg:alpine/faac@1.30-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

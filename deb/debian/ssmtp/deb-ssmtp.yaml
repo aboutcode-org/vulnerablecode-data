@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ssmtp
+package: pkg:deb/debian/ssmtp
 versions:
   - purl: pkg:deb/debian/ssmtp@2.27-2
     affected_by_vulnerabilities:

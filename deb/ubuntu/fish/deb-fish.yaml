@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/fish
+package: pkg:deb/ubuntu/fish
 versions:
   - purl: pkg:deb/ubuntu/fish@1.11.1-2
     affected_by_vulnerabilities:

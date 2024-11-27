@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/389-admin
+package: pkg:deb/ubuntu/389-admin
 versions:
   - purl: pkg:deb/ubuntu/389-admin@1.1.27-0ubuntu1
     affected_by_vulnerabilities:

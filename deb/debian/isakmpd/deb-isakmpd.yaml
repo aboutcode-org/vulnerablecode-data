@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/isakmpd
+package: pkg:deb/debian/isakmpd
 versions:
   - purl: pkg:deb/debian/isakmpd@20041012-10?distro=sid
     affected_by_vulnerabilities: []

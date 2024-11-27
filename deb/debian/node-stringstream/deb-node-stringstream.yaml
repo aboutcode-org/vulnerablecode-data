@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-stringstream
+package: pkg:deb/debian/node-stringstream
 versions:
   - purl: pkg:deb/debian/node-stringstream@0.0.6-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/salt
+package: pkg:deb/debian/salt
 versions:
   - purl: pkg:deb/debian/salt@0?distro=sid
     affected_by_vulnerabilities: []

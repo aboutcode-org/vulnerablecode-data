@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/godot
+package: pkg:deb/debian/godot
 versions:
   - purl: pkg:deb/debian/godot@0?distro=sid
     affected_by_vulnerabilities: []

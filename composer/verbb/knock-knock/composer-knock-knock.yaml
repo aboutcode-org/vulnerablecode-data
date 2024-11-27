@@ -1,4 +1,4 @@
-pacakge: pkg:composer/verbb/knock-knock
+package: pkg:composer/verbb/knock-knock
 versions:
   - purl: pkg:composer/verbb/knock-knock@1.0.0
     affected_by_vulnerabilities:

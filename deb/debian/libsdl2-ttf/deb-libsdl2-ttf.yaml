@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libsdl2-ttf
+package: pkg:deb/debian/libsdl2-ttf
 versions:
   - purl: pkg:deb/debian/libsdl2-ttf@0?distro=sid
     affected_by_vulnerabilities: []

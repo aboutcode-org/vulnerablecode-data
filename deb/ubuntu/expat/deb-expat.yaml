@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/expat
+package: pkg:deb/ubuntu/expat
 versions:
   - purl: pkg:deb/ubuntu/expat@1.95.6-8
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/shibboleth-sp
+package: pkg:deb/debian/shibboleth-sp
 versions:
   - purl: pkg:deb/debian/shibboleth-sp@0?distro=sid
     affected_by_vulnerabilities: []

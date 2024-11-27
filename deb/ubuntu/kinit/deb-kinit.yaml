@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/kinit
+package: pkg:deb/ubuntu/kinit
 versions:
   - purl: pkg:deb/ubuntu/kinit@5.0.0-0ubuntu1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/zlib
+package: pkg:alpine/zlib
 versions:
   - purl: pkg:alpine/zlib@1.2.11-r0?arch=aarch64&distroversion=v3.5&reponame=main
     affected_by_vulnerabilities: []

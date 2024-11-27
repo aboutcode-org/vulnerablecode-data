@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/linkchecker
+package: pkg:deb/ubuntu/linkchecker
 versions:
   - purl: pkg:deb/ubuntu/linkchecker@1.12.3-1
     affected_by_vulnerabilities:

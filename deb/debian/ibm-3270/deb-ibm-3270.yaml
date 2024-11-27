@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ibm-3270
+package: pkg:deb/debian/ibm-3270
 versions:
   - purl: pkg:deb/debian/ibm-3270@3.3.14ga11-1?distro=sid
     affected_by_vulnerabilities: []

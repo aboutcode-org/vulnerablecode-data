@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ganglia
+package: pkg:deb/ubuntu/ganglia
 versions:
   - purl: pkg:deb/ubuntu/ganglia@3.1.2-2
     affected_by_vulnerabilities:

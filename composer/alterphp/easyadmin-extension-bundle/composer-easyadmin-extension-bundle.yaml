@@ -1,4 +1,4 @@
-pacakge: pkg:composer/alterphp/easyadmin-extension-bundle
+package: pkg:composer/alterphp/easyadmin-extension-bundle
 versions:
   - purl: pkg:composer/alterphp/easyadmin-extension-bundle@1.2
     affected_by_vulnerabilities:

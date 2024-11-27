@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kcoreaddons
+package: pkg:deb/debian/kcoreaddons
 versions:
   - purl: pkg:deb/debian/kcoreaddons@5.100.0-1?distro=sid
     affected_by_vulnerabilities: []

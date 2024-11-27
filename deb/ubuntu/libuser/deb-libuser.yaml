@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libuser
+package: pkg:deb/ubuntu/libuser
 versions:
   - purl: pkg:deb/ubuntu/libuser@0.54.dfsg.1-1
     affected_by_vulnerabilities:

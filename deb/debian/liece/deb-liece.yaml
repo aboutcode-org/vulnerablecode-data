@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/liece
+package: pkg:deb/debian/liece
 versions:
   - purl: pkg:deb/debian/liece@1.4.1.0.20000107-2
     affected_by_vulnerabilities:

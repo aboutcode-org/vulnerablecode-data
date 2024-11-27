@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nfdump
+package: pkg:deb/debian/nfdump
 versions:
   - purl: pkg:deb/debian/nfdump@1.6.15-3?distro=stretch
     affected_by_vulnerabilities: []

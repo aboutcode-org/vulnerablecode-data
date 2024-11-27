@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ndpi
+package: pkg:deb/debian/ndpi
 versions:
   - purl: pkg:deb/debian/ndpi@0?distro=sid
     affected_by_vulnerabilities: []

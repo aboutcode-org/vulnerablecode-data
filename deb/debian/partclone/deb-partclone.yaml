@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/partclone
+package: pkg:deb/debian/partclone
 versions:
   - purl: pkg:deb/debian/partclone@0.2.88-1?distro=sid
     affected_by_vulnerabilities: []

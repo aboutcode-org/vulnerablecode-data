@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ajaxterm
+package: pkg:deb/debian/ajaxterm
 versions:
   - purl: pkg:deb/debian/ajaxterm@0.10-13?distro=buster
     affected_by_vulnerabilities: []

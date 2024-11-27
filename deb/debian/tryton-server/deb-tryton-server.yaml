@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tryton-server
+package: pkg:deb/debian/tryton-server
 versions:
   - purl: pkg:deb/debian/tryton-server@0?distro=sid
     affected_by_vulnerabilities: []

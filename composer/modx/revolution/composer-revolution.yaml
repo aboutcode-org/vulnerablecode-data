@@ -1,4 +1,4 @@
-pacakge: pkg:composer/modx/revolution
+package: pkg:composer/modx/revolution
 versions:
   - purl: pkg:composer/modx/revolution@2.0.0
     affected_by_vulnerabilities:

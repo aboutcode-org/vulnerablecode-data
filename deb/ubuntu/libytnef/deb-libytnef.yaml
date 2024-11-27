@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libytnef
+package: pkg:deb/ubuntu/libytnef
 versions:
   - purl: pkg:deb/ubuntu/libytnef@1.5-1
     affected_by_vulnerabilities:

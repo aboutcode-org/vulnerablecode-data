@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-http-signature
+package: pkg:deb/debian/node-http-signature
 versions:
   - purl: pkg:deb/debian/node-http-signature@0?distro=sid
     affected_by_vulnerabilities: []

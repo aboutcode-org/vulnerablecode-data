@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-mqtt
+package: pkg:deb/debian/node-mqtt
 versions:
   - purl: pkg:deb/debian/node-mqtt@0?distro=sid
     affected_by_vulnerabilities: []

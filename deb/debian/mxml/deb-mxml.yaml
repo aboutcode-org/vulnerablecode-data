@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mxml
+package: pkg:deb/debian/mxml
 versions:
   - purl: pkg:deb/debian/mxml@2.10-1?distro=stretch
     affected_by_vulnerabilities:

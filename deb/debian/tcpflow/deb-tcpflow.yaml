@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tcpflow
+package: pkg:deb/debian/tcpflow
 versions:
   - purl: pkg:deb/debian/tcpflow@1.4.4%2Brepack1-3%2Bdeb8u1?distro=stretch
     affected_by_vulnerabilities: []

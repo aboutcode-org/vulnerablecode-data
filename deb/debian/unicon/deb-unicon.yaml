@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/unicon
+package: pkg:deb/debian/unicon
 versions:
   - purl: pkg:deb/debian/unicon@3.0.4-11
     affected_by_vulnerabilities:

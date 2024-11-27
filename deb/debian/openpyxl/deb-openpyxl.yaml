@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openpyxl
+package: pkg:deb/debian/openpyxl
 versions:
   - purl: pkg:deb/debian/openpyxl@2.3.0-3?distro=sid
     affected_by_vulnerabilities: []

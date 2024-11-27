@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libvpx
+package: pkg:deb/debian/libvpx
 versions:
   - purl: pkg:deb/debian/libvpx@0?distro=sid
     affected_by_vulnerabilities: []

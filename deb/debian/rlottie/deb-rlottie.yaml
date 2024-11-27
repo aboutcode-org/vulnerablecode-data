@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rlottie
+package: pkg:deb/debian/rlottie
 versions:
   - purl: pkg:deb/debian/rlottie@0?distro=sid
     affected_by_vulnerabilities: []

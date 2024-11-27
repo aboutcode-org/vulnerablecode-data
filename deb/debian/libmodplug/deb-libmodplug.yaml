@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libmodplug
+package: pkg:deb/debian/libmodplug
 versions:
   - purl: pkg:deb/debian/libmodplug@1:0.7-4
     affected_by_vulnerabilities:

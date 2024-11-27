@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lrzsz
+package: pkg:deb/debian/lrzsz
 versions:
   - purl: pkg:deb/debian/lrzsz@0.12.21-10?distro=sid
     affected_by_vulnerabilities: []

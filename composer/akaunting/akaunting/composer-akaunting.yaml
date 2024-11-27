@@ -1,4 +1,4 @@
-pacakge: pkg:composer/akaunting/akaunting
+package: pkg:composer/akaunting/akaunting
 versions:
   - purl: pkg:composer/akaunting/akaunting@1.0.0
     affected_by_vulnerabilities:

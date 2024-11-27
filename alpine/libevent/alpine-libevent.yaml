@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libevent
+package: pkg:alpine/libevent
 versions:
   - purl: pkg:alpine/libevent@2.0.22-r1?arch=armhf&distroversion=v3.2&reponame=main
     affected_by_vulnerabilities: []

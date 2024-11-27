@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/grub2-signed
+package: pkg:deb/ubuntu/grub2-signed
 versions:
   - purl: pkg:deb/ubuntu/grub2-signed@1.0
     affected_by_vulnerabilities:

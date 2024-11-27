@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pngquant
+package: pkg:deb/debian/pngquant
 versions:
   - purl: pkg:deb/debian/pngquant@2.12.2-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/expect
+package: pkg:deb/debian/expect
 versions:
   - purl: pkg:deb/debian/expect@0?distro=sid
     affected_by_vulnerabilities: []

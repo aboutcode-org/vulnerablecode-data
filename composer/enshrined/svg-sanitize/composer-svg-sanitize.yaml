@@ -1,4 +1,4 @@
-pacakge: pkg:composer/enshrined/svg-sanitize
+package: pkg:composer/enshrined/svg-sanitize
 versions:
   - purl: pkg:composer/enshrined/svg-sanitize@0.1.0
     affected_by_vulnerabilities:

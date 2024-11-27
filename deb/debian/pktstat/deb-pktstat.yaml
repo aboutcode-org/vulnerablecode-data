@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pktstat
+package: pkg:deb/debian/pktstat
 versions:
   - purl: pkg:deb/debian/pktstat@1.8.5-3?distro=sid
     affected_by_vulnerabilities: []

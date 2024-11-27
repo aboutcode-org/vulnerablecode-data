@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libslf4j-java
+package: pkg:deb/ubuntu/libslf4j-java
 versions:
   - purl: pkg:deb/ubuntu/libslf4j-java@1.5.0-2
     affected_by_vulnerabilities:

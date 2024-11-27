@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/git
+package: pkg:deb/ubuntu/git
 versions:
   - purl: pkg:deb/ubuntu/git@1:1.7.10-1
     affected_by_vulnerabilities:

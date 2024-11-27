@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-gnupg
+package: pkg:deb/debian/python-gnupg
 versions:
   - purl: pkg:deb/debian/python-gnupg@0.3.6-1?distro=sid
     affected_by_vulnerabilities: []

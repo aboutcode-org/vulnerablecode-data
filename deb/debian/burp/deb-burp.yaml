@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/burp
+package: pkg:deb/debian/burp
 versions:
   - purl: pkg:deb/debian/burp@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/arc/web
+package: pkg:composer/arc/web
 versions:
   - purl: pkg:composer/arc/web@1.0
     affected_by_vulnerabilities:

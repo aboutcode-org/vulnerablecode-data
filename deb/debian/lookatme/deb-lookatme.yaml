@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lookatme
+package: pkg:deb/debian/lookatme
 versions:
   - purl: pkg:deb/debian/lookatme@2.3.0-1?distro=sid
     affected_by_vulnerabilities: []

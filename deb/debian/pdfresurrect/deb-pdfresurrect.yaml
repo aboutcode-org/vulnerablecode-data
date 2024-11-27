@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pdfresurrect
+package: pkg:deb/debian/pdfresurrect
 versions:
   - purl: pkg:deb/debian/pdfresurrect@0.12-6?distro=stretch
     affected_by_vulnerabilities:

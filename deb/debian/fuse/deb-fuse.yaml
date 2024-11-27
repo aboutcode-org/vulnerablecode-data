@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fuse
+package: pkg:deb/debian/fuse
 versions:
   - purl: pkg:deb/debian/fuse@2.2.1-4sarge2
     affected_by_vulnerabilities:

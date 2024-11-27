@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libpodofo
+package: pkg:deb/ubuntu/libpodofo
 versions:
   - purl: pkg:deb/ubuntu/libpodofo@0.9.0-1
     affected_by_vulnerabilities:

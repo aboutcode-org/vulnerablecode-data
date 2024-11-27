@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-ini
+package: pkg:deb/debian/node-ini
 versions:
   - purl: pkg:deb/debian/node-ini@1.1.0-1?distro=stretch
     affected_by_vulnerabilities: []

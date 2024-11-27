@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-growl
+package: pkg:deb/debian/node-growl
 versions:
   - purl: pkg:deb/debian/node-growl@1.10.5-1?distro=sid
     affected_by_vulnerabilities: []

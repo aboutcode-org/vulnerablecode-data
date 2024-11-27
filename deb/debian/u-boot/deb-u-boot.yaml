@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/u-boot
+package: pkg:deb/debian/u-boot
 versions:
   - purl: pkg:deb/debian/u-boot@0?distro=sid
     affected_by_vulnerabilities: []

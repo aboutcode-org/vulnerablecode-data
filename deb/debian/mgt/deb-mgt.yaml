@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mgt
+package: pkg:deb/debian/mgt
 versions:
   - purl: pkg:deb/debian/mgt@2.31-6?distro=sid
     affected_by_vulnerabilities: []

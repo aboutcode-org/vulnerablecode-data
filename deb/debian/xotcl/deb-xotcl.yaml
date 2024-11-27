@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xotcl
+package: pkg:deb/debian/xotcl
 versions:
   - purl: pkg:deb/debian/xotcl@0?distro=sid
     affected_by_vulnerabilities: []

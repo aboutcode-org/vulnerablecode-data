@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ioquake3
+package: pkg:deb/ubuntu/ioquake3
 versions:
   - purl: pkg:deb/ubuntu/ioquake3@1.36%2Bsvn1788j-2
     affected_by_vulnerabilities:

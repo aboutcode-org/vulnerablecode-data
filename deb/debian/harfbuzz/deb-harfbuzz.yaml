@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/harfbuzz
+package: pkg:deb/debian/harfbuzz
 versions:
   - purl: pkg:deb/debian/harfbuzz@0?distro=sid
     affected_by_vulnerabilities: []

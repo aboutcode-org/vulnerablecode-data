@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-bleach
+package: pkg:deb/debian/python-bleach
 versions:
   - purl: pkg:deb/debian/python-bleach@0?distro=stretch
     affected_by_vulnerabilities: []

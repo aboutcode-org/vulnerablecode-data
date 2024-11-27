@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/dokuwiki
+package: pkg:deb/ubuntu/dokuwiki
 versions:
   - purl: pkg:deb/ubuntu/dokuwiki@0.0.20050218-6
     affected_by_vulnerabilities:

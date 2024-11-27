@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-serve-index
+package: pkg:deb/debian/node-serve-index
 versions:
   - purl: pkg:deb/debian/node-serve-index@1.4.0-1?distro=stretch
     affected_by_vulnerabilities:

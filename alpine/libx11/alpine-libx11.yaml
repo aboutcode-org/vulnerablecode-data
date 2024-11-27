@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libx11
+package: pkg:alpine/libx11
 versions:
   - purl: pkg:alpine/libx11@1.6.10-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

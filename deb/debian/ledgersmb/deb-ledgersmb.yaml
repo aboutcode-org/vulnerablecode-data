@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ledgersmb
+package: pkg:deb/debian/ledgersmb
 versions:
   - purl: pkg:deb/debian/ledgersmb@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lighttpd
+package: pkg:deb/debian/lighttpd
 versions:
   - purl: pkg:deb/debian/lighttpd@0?distro=sid
     affected_by_vulnerabilities: []

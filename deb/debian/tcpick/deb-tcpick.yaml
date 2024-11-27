@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tcpick
+package: pkg:deb/debian/tcpick
 versions:
   - purl: pkg:deb/debian/tcpick@0.2.1-1
     affected_by_vulnerabilities:

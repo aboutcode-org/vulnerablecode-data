@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/beagle
+package: pkg:deb/debian/beagle
 versions:
   - purl: pkg:deb/debian/beagle@0.2.12-1
     affected_by_vulnerabilities:

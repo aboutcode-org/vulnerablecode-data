@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/courier
+package: pkg:deb/debian/courier
 versions:
   - purl: pkg:deb/debian/courier@0.37.3-2.5
     affected_by_vulnerabilities:

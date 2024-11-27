@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/xscreensaver
+package: pkg:alpine/xscreensaver
 versions:
   - purl: pkg:alpine/xscreensaver@6.02-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/util-vserver
+package: pkg:deb/debian/util-vserver
 versions:
   - purl: pkg:deb/debian/util-vserver@0.30.204-5sarge3
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/cpio
+package: pkg:alpine/cpio
 versions:
   - purl: pkg:alpine/cpio@2.12-r3?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

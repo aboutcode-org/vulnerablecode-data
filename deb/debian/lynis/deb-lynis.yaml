@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lynis
+package: pkg:deb/debian/lynis
 versions:
   - purl: pkg:deb/debian/lynis@0?distro=sid
     affected_by_vulnerabilities: []

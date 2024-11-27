@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/vips
+package: pkg:deb/debian/vips
 versions:
   - purl: pkg:deb/debian/vips@0?distro=sid
     affected_by_vulnerabilities: []

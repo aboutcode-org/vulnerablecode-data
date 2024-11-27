@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/linux-grsec
+package: pkg:alpine/linux-grsec
 versions:
   - purl: pkg:alpine/linux-grsec@4.1.39-r0?arch=armhf&distroversion=v3.3&reponame=main
     affected_by_vulnerabilities: []

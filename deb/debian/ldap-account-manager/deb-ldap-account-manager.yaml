@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ldap-account-manager
+package: pkg:deb/debian/ldap-account-manager
 versions:
   - purl: pkg:deb/debian/ldap-account-manager@0.4.9-2sarge1
     affected_by_vulnerabilities:

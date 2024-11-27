@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-pear
+package: pkg:deb/debian/php-pear
 versions:
   - purl: pkg:deb/debian/php-pear@1:1.10.12%2Bsubmodules%2Bnotgz%2B20210212-1?distro=sid
     affected_by_vulnerabilities:

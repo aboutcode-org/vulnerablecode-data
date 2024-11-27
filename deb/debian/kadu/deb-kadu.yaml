@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kadu
+package: pkg:deb/debian/kadu
 versions:
   - purl: pkg:deb/debian/kadu@0.11.0-1?distro=buster
     affected_by_vulnerabilities: []

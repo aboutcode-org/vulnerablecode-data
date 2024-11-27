@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/logcheck
+package: pkg:deb/debian/logcheck
 versions:
   - purl: pkg:deb/debian/logcheck@1.1.1-13.1woody2
     affected_by_vulnerabilities:

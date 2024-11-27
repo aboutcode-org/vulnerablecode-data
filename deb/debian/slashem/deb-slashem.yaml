@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/slashem
+package: pkg:deb/debian/slashem
 versions:
   - purl: pkg:deb/debian/slashem@0.0.6E4F8-4.0woody3
     affected_by_vulnerabilities:

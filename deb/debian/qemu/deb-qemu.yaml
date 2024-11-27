@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/qemu
+package: pkg:deb/debian/qemu
 versions:
   - purl: pkg:deb/debian/qemu@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/riot-web
+package: pkg:alpine/riot-web
 versions:
   - purl: pkg:alpine/riot-web@1.11.4-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

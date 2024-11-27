@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/weechat
+package: pkg:alpine/weechat
 versions:
   - purl: pkg:alpine/weechat@1.2-r1?arch=armhf&distroversion=v3.2&reponame=main
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-os-brick
+package: pkg:deb/debian/python-os-brick
 versions:
   - purl: pkg:deb/debian/python-os-brick@1.6.1-2?distro=stretch
     affected_by_vulnerabilities:

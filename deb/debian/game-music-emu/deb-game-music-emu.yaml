@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/game-music-emu
+package: pkg:deb/debian/game-music-emu
 versions:
   - purl: pkg:deb/debian/game-music-emu@0.6.0-4?distro=sid
     affected_by_vulnerabilities: []

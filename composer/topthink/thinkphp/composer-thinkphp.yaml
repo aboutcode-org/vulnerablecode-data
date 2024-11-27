@@ -1,4 +1,4 @@
-pacakge: pkg:composer/topthink/thinkphp
+package: pkg:composer/topthink/thinkphp
 versions:
   - purl: pkg:composer/topthink/thinkphp@3.2.2
     affected_by_vulnerabilities:

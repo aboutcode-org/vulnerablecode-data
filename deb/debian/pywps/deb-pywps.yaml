@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pywps
+package: pkg:deb/debian/pywps
 versions:
   - purl: pkg:deb/debian/pywps@4.0.0-3?distro=stretch
     affected_by_vulnerabilities: []

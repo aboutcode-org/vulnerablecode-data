@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-minitar
+package: pkg:deb/debian/ruby-minitar
 versions:
   - purl: pkg:deb/debian/ruby-minitar@0.5.4-3.1?distro=sid
     affected_by_vulnerabilities: []

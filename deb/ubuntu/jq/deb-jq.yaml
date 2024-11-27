@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/jq
+package: pkg:deb/ubuntu/jq
 versions:
   - purl: pkg:deb/ubuntu/jq@1.2-8
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/miniupnpd
+package: pkg:deb/debian/miniupnpd
 versions:
   - purl: pkg:deb/debian/miniupnpd@0?distro=sid
     affected_by_vulnerabilities: []

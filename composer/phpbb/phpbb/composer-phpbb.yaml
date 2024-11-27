@@ -1,4 +1,4 @@
-pacakge: pkg:composer/phpbb/phpbb
+package: pkg:composer/phpbb/phpbb
 versions:
   - purl: pkg:composer/phpbb/phpbb@3.0.12
     affected_by_vulnerabilities:

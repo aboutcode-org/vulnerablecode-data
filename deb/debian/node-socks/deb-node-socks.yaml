@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-socks
+package: pkg:deb/debian/node-socks
 versions:
   - purl: pkg:deb/debian/node-socks@0?distro=sid
     affected_by_vulnerabilities: []

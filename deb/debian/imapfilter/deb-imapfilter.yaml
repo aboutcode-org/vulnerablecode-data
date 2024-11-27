@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/imapfilter
+package: pkg:deb/debian/imapfilter
 versions:
   - purl: pkg:deb/debian/imapfilter@1:2.6.10-1?distro=stretch
     affected_by_vulnerabilities:

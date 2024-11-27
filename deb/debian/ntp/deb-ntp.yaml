@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ntp
+package: pkg:deb/debian/ntp
 versions:
   - purl: pkg:deb/debian/ntp@0?distro=buster
     affected_by_vulnerabilities: []

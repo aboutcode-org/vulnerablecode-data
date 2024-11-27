@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mini-httpd
+package: pkg:deb/debian/mini-httpd
 versions:
   - purl: pkg:deb/debian/mini-httpd@1.21-1?distro=sid
     affected_by_vulnerabilities: []

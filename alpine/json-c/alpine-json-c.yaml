@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/json-c
+package: pkg:alpine/json-c
 versions:
   - purl: pkg:alpine/json-c@0.13.1-r1?arch=aarch64&distroversion=v3.10&reponame=main
     affected_by_vulnerabilities: []

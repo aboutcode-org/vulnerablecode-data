@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libhtml-scrubber-perl
+package: pkg:deb/debian/libhtml-scrubber-perl
 versions:
   - purl: pkg:deb/debian/libhtml-scrubber-perl@0.15-1?distro=sid
     affected_by_vulnerabilities: []

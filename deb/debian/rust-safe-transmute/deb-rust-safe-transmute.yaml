@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-safe-transmute
+package: pkg:deb/debian/rust-safe-transmute
 versions:
   - purl: pkg:deb/debian/rust-safe-transmute@0?distro=sid
     affected_by_vulnerabilities: []

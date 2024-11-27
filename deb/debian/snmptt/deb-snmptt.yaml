@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/snmptt
+package: pkg:deb/debian/snmptt
 versions:
   - purl: pkg:deb/debian/snmptt@1.4-1?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:conan/glib
+package: pkg:conan/glib
 versions:
   - purl: pkg:conan/glib@2.65.0
     affected_by_vulnerabilities:

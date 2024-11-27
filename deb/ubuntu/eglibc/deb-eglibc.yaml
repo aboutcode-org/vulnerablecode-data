@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/eglibc
+package: pkg:deb/ubuntu/eglibc
 versions:
   - purl: pkg:deb/ubuntu/eglibc@2.10.1-0ubuntu1
     affected_by_vulnerabilities:

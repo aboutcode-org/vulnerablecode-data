@@ -1,4 +1,4 @@
-pacakge: pkg:composer/vanilla/safecurl
+package: pkg:composer/vanilla/safecurl
 versions:
   - purl: pkg:composer/vanilla/safecurl@0.9
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gsasl
+package: pkg:deb/debian/gsasl
 versions:
   - purl: pkg:deb/debian/gsasl@1.10.0-4?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/trousers
+package: pkg:deb/debian/trousers
 versions:
   - purl: pkg:deb/debian/trousers@0.3.14%2Bfixed1-1?distro=sid
     affected_by_vulnerabilities:

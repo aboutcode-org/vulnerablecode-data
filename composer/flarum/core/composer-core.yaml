@@ -1,4 +1,4 @@
-pacakge: pkg:composer/flarum/core
+package: pkg:composer/flarum/core
 versions:
   - purl: pkg:composer/flarum/core@0.1.0-beta
     affected_by_vulnerabilities:

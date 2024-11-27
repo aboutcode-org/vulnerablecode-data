@@ -1,4 +1,4 @@
-pacakge: pkg:composer/dolibarr/dolibarr
+package: pkg:composer/dolibarr/dolibarr
 versions:
   - purl: pkg:composer/dolibarr/dolibarr@10.0.0
     affected_by_vulnerabilities:

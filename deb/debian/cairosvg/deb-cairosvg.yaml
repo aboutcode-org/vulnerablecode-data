@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cairosvg
+package: pkg:deb/debian/cairosvg
 versions:
   - purl: pkg:deb/debian/cairosvg@0?distro=sid
     affected_by_vulnerabilities: []

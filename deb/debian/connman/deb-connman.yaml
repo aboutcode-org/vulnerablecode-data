@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/connman
+package: pkg:deb/debian/connman
 versions:
   - purl: pkg:deb/debian/connman@1.0-1?distro=sid
     affected_by_vulnerabilities: []

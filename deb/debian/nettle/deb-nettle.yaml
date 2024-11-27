@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nettle
+package: pkg:deb/debian/nettle
 versions:
   - purl: pkg:deb/debian/nettle@3.2-1?distro=sid
     affected_by_vulnerabilities: []

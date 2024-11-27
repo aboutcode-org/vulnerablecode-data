@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-horde-image
+package: pkg:deb/debian/php-horde-image
 versions:
   - purl: pkg:deb/debian/php-horde-image@2.3.6-1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

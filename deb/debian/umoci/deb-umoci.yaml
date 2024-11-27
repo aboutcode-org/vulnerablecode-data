@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/umoci
+package: pkg:deb/debian/umoci
 versions:
   - purl: pkg:deb/debian/umoci@0.4.4%2Bdfsg-1?distro=sid
     affected_by_vulnerabilities:

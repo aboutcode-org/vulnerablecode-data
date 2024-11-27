@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pikepdf
+package: pkg:deb/debian/pikepdf
 versions:
   - purl: pkg:deb/debian/pikepdf@1.0.5%2Bdfsg-3~deb10u1?distro=sid
     affected_by_vulnerabilities:

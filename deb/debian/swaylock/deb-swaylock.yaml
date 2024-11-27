@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/swaylock
+package: pkg:deb/debian/swaylock
 versions:
   - purl: pkg:deb/debian/swaylock@1.6-1?distro=sid
     affected_by_vulnerabilities: []

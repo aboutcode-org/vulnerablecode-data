@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ceph
+package: pkg:deb/debian/ceph
 versions:
   - purl: pkg:deb/debian/ceph@0?distro=sid
     affected_by_vulnerabilities: []

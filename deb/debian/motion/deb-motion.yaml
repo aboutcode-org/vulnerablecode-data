@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/motion
+package: pkg:deb/debian/motion
 versions:
   - purl: pkg:deb/debian/motion@0?distro=sid
     affected_by_vulnerabilities: []

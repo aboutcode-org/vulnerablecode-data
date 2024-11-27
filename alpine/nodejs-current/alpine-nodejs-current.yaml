@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/nodejs-current
+package: pkg:alpine/nodejs-current
 versions:
   - purl: pkg:alpine/nodejs-current@11.10.1-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

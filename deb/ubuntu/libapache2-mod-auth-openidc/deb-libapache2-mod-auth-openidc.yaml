@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libapache2-mod-auth-openidc
+package: pkg:deb/ubuntu/libapache2-mod-auth-openidc
 versions:
   - purl: pkg:deb/ubuntu/libapache2-mod-auth-openidc@1.5.1-1
     affected_by_vulnerabilities:

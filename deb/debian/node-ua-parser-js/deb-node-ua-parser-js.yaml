@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-ua-parser-js
+package: pkg:deb/debian/node-ua-parser-js
 versions:
   - purl: pkg:deb/debian/node-ua-parser-js@0?distro=sid
     affected_by_vulnerabilities: []

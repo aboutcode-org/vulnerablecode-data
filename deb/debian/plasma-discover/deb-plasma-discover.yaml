@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/plasma-discover
+package: pkg:deb/debian/plasma-discover
 versions:
   - purl: pkg:deb/debian/plasma-discover@0?distro=sid
     affected_by_vulnerabilities: []

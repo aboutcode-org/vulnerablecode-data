@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/encfs
+package: pkg:deb/debian/encfs
 versions:
   - purl: pkg:deb/debian/encfs@1.7.2-1?distro=sid
     affected_by_vulnerabilities: []

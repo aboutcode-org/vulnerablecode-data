@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/murano
+package: pkg:deb/debian/murano
 versions:
   - purl: pkg:deb/debian/murano@1:10.0.0-1?distro=sid
     affected_by_vulnerabilities: []

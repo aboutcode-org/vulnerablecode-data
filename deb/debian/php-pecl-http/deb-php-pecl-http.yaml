@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-pecl-http
+package: pkg:deb/debian/php-pecl-http
 versions:
   - purl: pkg:deb/debian/php-pecl-http@3.0.1-0.1?distro=sid
     affected_by_vulnerabilities: []

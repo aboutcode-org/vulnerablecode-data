@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-clickhouse-driver
+package: pkg:deb/debian/python-clickhouse-driver
 versions:
   - purl: pkg:deb/debian/python-clickhouse-driver@0.2.0-1?distro=sid
     affected_by_vulnerabilities: []

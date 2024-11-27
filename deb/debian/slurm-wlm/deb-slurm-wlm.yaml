@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/slurm-wlm
+package: pkg:deb/debian/slurm-wlm
 versions:
   - purl: pkg:deb/debian/slurm-wlm@0?distro=sid
     affected_by_vulnerabilities: []

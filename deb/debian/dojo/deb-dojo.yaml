@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dojo
+package: pkg:deb/debian/dojo
 versions:
   - purl: pkg:deb/debian/dojo@0?distro=sid
     affected_by_vulnerabilities: []

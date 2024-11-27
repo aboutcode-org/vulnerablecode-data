@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/nfdump
+package: pkg:alpine/nfdump
 versions:
   - purl: pkg:alpine/nfdump@1.6.15-r1?arch=aarch64&distroversion=v3.7&reponame=main
     affected_by_vulnerabilities: []

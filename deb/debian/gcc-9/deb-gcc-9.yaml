@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gcc-9
+package: pkg:deb/debian/gcc-9
 versions:
   - purl: pkg:deb/debian/gcc-9@9.2.1-7?distro=sid
     affected_by_vulnerabilities: []

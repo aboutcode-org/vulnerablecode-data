@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libpng
+package: pkg:alpine/libpng
 versions:
   - purl: pkg:alpine/libpng@1.6.37-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

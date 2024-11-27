@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kino
+package: pkg:deb/debian/kino
 versions:
   - purl: pkg:deb/debian/kino@1.0.0-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xapian-omega
+package: pkg:deb/debian/xapian-omega
 versions:
   - purl: pkg:deb/debian/xapian-omega@1.0.15-2?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ntopng
+package: pkg:deb/debian/ntopng
 versions:
   - purl: pkg:deb/debian/ntopng@1.2.0%2Bdfsg1-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pywbem
+package: pkg:deb/debian/pywbem
 versions:
   - purl: pkg:deb/debian/pywbem@0.8.0~dev650-1?distro=buster
     affected_by_vulnerabilities: []

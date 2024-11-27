@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/eldav
+package: pkg:deb/debian/eldav
 versions:
   - purl: pkg:deb/debian/eldav@0.0.20020411-1woody1
     affected_by_vulnerabilities:

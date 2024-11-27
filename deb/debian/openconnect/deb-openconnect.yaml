@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openconnect
+package: pkg:deb/debian/openconnect
 versions:
   - purl: pkg:deb/debian/openconnect@1.40-1?distro=sid
     affected_by_vulnerabilities: []

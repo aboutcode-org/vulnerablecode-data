@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libpam-ldap
+package: pkg:deb/debian/libpam-ldap
 versions:
   - purl: pkg:deb/debian/libpam-ldap@140-1
     affected_by_vulnerabilities:

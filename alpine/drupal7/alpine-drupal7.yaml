@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/drupal7
+package: pkg:alpine/drupal7
 versions:
   - purl: pkg:alpine/drupal7@7.58-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

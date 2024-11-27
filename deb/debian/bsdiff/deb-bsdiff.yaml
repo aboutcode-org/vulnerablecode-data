@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bsdiff
+package: pkg:deb/debian/bsdiff
 versions:
   - purl: pkg:deb/debian/bsdiff@4.3-17?distro=sid
     affected_by_vulnerabilities: []

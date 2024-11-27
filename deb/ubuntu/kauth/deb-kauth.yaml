@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/kauth
+package: pkg:deb/ubuntu/kauth
 versions:
   - purl: pkg:deb/ubuntu/kauth@5.0.0-0ubuntu1
     affected_by_vulnerabilities:

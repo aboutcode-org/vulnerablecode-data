@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nvidia-graphics-drivers-tesla-460
+package: pkg:deb/debian/nvidia-graphics-drivers-tesla-460
 versions:
   - purl: pkg:deb/debian/nvidia-graphics-drivers-tesla-460@460.106.00-3?distro=sid
     affected_by_vulnerabilities: []

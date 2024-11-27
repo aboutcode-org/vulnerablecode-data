@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/facter
+package: pkg:deb/ubuntu/facter
 versions:
   - purl: pkg:deb/ubuntu/facter@1.3.3-1
     affected_by_vulnerabilities:

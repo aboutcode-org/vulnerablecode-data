@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lucene-solr
+package: pkg:deb/debian/lucene-solr
 versions:
   - purl: pkg:deb/debian/lucene-solr@0?distro=sid
     affected_by_vulnerabilities: []

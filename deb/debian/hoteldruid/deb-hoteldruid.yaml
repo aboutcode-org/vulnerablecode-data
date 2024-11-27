@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/hoteldruid
+package: pkg:deb/debian/hoteldruid
 versions:
   - purl: pkg:deb/debian/hoteldruid@2.2.0-1?distro=stretch
     affected_by_vulnerabilities:

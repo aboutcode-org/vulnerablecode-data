@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fte
+package: pkg:deb/debian/fte
 versions:
   - purl: pkg:deb/debian/fte@0.45-5
     affected_by_vulnerabilities:

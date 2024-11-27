@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/dotclear
+package: pkg:deb/ubuntu/dotclear
 versions:
   - purl: pkg:deb/ubuntu/dotclear@2.3.1%2Bdfsg-1
     affected_by_vulnerabilities:

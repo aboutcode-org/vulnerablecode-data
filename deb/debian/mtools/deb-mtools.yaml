@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mtools
+package: pkg:deb/debian/mtools
 versions:
   - purl: pkg:deb/debian/mtools@3.8-1
     affected_by_vulnerabilities:

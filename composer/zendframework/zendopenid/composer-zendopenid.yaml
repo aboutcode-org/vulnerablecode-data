@@ -1,4 +1,4 @@
-pacakge: pkg:composer/zendframework/zendopenid
+package: pkg:composer/zendframework/zendopenid
 versions:
   - purl: pkg:composer/zendframework/zendopenid@2.0.0
     affected_by_vulnerabilities:

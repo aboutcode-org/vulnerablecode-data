@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/cluster-glue
+package: pkg:deb/ubuntu/cluster-glue
 versions:
   - purl: pkg:deb/ubuntu/cluster-glue@1.0.10%2Bhg2722-1.1
     affected_by_vulnerabilities:

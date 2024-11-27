@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libcompface
+package: pkg:deb/debian/libcompface
 versions:
   - purl: pkg:deb/debian/libcompface@1:1.5.2-5?distro=sid
     affected_by_vulnerabilities: []

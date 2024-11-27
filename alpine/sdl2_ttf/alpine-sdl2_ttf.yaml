@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/sdl2_ttf
+package: pkg:alpine/sdl2_ttf
 versions:
   - purl: pkg:alpine/sdl2_ttf@2.20.0-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

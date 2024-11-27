@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libdbd-pg-perl
+package: pkg:deb/debian/libdbd-pg-perl
 versions:
   - purl: pkg:deb/debian/libdbd-pg-perl@2.1.3-1?distro=sid
     affected_by_vulnerabilities: []

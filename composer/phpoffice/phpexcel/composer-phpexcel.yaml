@@ -1,4 +1,4 @@
-pacakge: pkg:composer/phpoffice/phpexcel
+package: pkg:composer/phpoffice/phpexcel
 versions:
   - purl: pkg:composer/phpoffice/phpexcel@1.7.9
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/awl
+package: pkg:deb/debian/awl
 versions:
   - purl: pkg:deb/debian/awl@0.57-1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

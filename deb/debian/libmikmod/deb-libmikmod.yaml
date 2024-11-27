@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libmikmod
+package: pkg:deb/debian/libmikmod
 versions:
   - purl: pkg:deb/debian/libmikmod@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/krb5
+package: pkg:alpine/krb5
 versions:
   - purl: pkg:alpine/krb5@1.13.6-r0?arch=armhf&distroversion=v3.2&reponame=main
     affected_by_vulnerabilities: []

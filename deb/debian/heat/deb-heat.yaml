@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/heat
+package: pkg:deb/debian/heat
 versions:
   - purl: pkg:deb/debian/heat@0?distro=sid
     affected_by_vulnerabilities: []

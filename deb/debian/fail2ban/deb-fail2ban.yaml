@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fail2ban
+package: pkg:deb/debian/fail2ban
 versions:
   - purl: pkg:deb/debian/fail2ban@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libmojolicious-perl
+package: pkg:deb/debian/libmojolicious-perl
 versions:
   - purl: pkg:deb/debian/libmojolicious-perl@0?distro=sid
     affected_by_vulnerabilities: []

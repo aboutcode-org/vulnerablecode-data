@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dracut
+package: pkg:deb/debian/dracut
 versions:
   - purl: pkg:deb/debian/dracut@0?distro=sid
     affected_by_vulnerabilities: []

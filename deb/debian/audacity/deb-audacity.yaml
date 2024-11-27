@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/audacity
+package: pkg:deb/debian/audacity
 versions:
   - purl: pkg:deb/debian/audacity@0?distro=sid
     affected_by_vulnerabilities: []

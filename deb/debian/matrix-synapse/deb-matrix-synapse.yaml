@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/matrix-synapse
+package: pkg:deb/debian/matrix-synapse
 versions:
   - purl: pkg:deb/debian/matrix-synapse@0.28.1%2Bdfsg-1?distro=sid
     affected_by_vulnerabilities: []

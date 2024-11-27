@@ -1,4 +1,4 @@
-pacakge: pkg:composer/friendsofsymfony/user-bundle
+package: pkg:composer/friendsofsymfony/user-bundle
 versions:
   - purl: pkg:composer/friendsofsymfony/user-bundle@1.2.0
     affected_by_vulnerabilities:

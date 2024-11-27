@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rlpr
+package: pkg:deb/debian/rlpr
 versions:
   - purl: pkg:deb/debian/rlpr@1.51-3
     affected_by_vulnerabilities:

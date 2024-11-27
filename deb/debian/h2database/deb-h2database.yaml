@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/h2database
+package: pkg:deb/debian/h2database
 versions:
   - purl: pkg:deb/debian/h2database@0?distro=sid
     affected_by_vulnerabilities: []

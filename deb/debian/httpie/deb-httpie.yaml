@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/httpie
+package: pkg:deb/debian/httpie
 versions:
   - purl: pkg:deb/debian/httpie@0.9.8-1?distro=stretch
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/testng
+package: pkg:deb/debian/testng
 versions:
   - purl: pkg:deb/debian/testng@0?distro=sid
     affected_by_vulnerabilities: []

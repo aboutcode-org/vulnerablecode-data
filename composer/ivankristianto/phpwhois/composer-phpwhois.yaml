@@ -1,4 +1,4 @@
-pacakge: pkg:composer/ivankristianto/phpwhois
+package: pkg:composer/ivankristianto/phpwhois
 versions:
   - purl: pkg:composer/ivankristianto/phpwhois@4.2.2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/cabextract
+package: pkg:alpine/cabextract
 versions:
   - purl: pkg:alpine/cabextract@1.8-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

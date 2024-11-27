@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-once-cell
+package: pkg:deb/debian/rust-once-cell
 versions:
   - purl: pkg:deb/debian/rust-once-cell@0?distro=sid
     affected_by_vulnerabilities: []

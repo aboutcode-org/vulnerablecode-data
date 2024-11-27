@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/phamm
+package: pkg:deb/debian/phamm
 versions:
   - purl: pkg:deb/debian/phamm@0.6.5-1?distro=stretch
     affected_by_vulnerabilities:

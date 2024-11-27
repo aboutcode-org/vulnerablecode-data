@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libimager-perl
+package: pkg:deb/debian/libimager-perl
 versions:
   - purl: pkg:deb/debian/libimager-perl@0.44-1sarge1
     affected_by_vulnerabilities:

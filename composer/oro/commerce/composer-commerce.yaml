@@ -1,4 +1,4 @@
-pacakge: pkg:composer/oro/commerce
+package: pkg:composer/oro/commerce
 versions:
   - purl: pkg:composer/oro/commerce@4.1.0
     affected_by_vulnerabilities:

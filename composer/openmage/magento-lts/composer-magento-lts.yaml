@@ -1,4 +1,4 @@
-pacakge: pkg:composer/openmage/magento-lts
+package: pkg:composer/openmage/magento-lts
 versions:
   - purl: pkg:composer/openmage/magento-lts@1.9.1.1
     affected_by_vulnerabilities:

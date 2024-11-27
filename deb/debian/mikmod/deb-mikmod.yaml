@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mikmod
+package: pkg:deb/debian/mikmod
 versions:
   - purl: pkg:deb/debian/mikmod@2.14-3
     affected_by_vulnerabilities:

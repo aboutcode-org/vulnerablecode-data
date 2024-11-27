@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/eog
+package: pkg:deb/debian/eog
 versions:
   - purl: pkg:deb/debian/eog@0.6-6
     affected_by_vulnerabilities:

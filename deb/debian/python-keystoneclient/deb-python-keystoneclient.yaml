@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-keystoneclient
+package: pkg:deb/debian/python-keystoneclient
 versions:
   - purl: pkg:deb/debian/python-keystoneclient@1:0.10.1-2?distro=sid
     affected_by_vulnerabilities: []

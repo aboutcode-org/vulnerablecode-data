@@ -1,4 +1,4 @@
-pacakge: pkg:composer/miniorange/miniorange-saml
+package: pkg:composer/miniorange/miniorange-saml
 versions:
   - purl: pkg:composer/miniorange/miniorange-saml@1.1.2
     affected_by_vulnerabilities:

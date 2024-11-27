@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pypy3
+package: pkg:deb/debian/pypy3
 versions:
   - purl: pkg:deb/debian/pypy3@0?distro=sid
     affected_by_vulnerabilities: []

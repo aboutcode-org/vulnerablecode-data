@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/kdepim
+package: pkg:deb/ubuntu/kdepim
 versions:
   - purl: pkg:deb/ubuntu/kdepim@4:15.07.90-0ubuntu1
     affected_by_vulnerabilities:

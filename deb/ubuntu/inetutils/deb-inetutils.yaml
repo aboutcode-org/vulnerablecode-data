@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/inetutils
+package: pkg:deb/ubuntu/inetutils
 versions:
   - purl: pkg:deb/ubuntu/inetutils@2:1.4.2%2B20040207-2
     affected_by_vulnerabilities:

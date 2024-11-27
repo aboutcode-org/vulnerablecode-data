@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lurker
+package: pkg:deb/debian/lurker
 versions:
   - purl: pkg:deb/debian/lurker@1.2-5sarge1
     affected_by_vulnerabilities:

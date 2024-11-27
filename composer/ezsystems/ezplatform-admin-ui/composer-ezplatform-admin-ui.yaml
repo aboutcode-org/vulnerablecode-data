@@ -1,4 +1,4 @@
-pacakge: pkg:composer/ezsystems/ezplatform-admin-ui
+package: pkg:composer/ezsystems/ezplatform-admin-ui
 versions:
   - purl: pkg:composer/ezsystems/ezplatform-admin-ui@1.3.0
     affected_by_vulnerabilities:

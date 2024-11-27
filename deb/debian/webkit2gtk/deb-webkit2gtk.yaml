@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/webkit2gtk
+package: pkg:deb/debian/webkit2gtk
 versions:
   - purl: pkg:deb/debian/webkit2gtk@0?distro=sid
     affected_by_vulnerabilities: []

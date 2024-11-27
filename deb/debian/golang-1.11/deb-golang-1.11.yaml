@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-1.11
+package: pkg:deb/debian/golang-1.11
 versions:
   - purl: pkg:deb/debian/golang-1.11@0?distro=buster
     affected_by_vulnerabilities: []

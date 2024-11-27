@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nss-pam-ldapd
+package: pkg:deb/debian/nss-pam-ldapd
 versions:
   - purl: pkg:deb/debian/nss-pam-ldapd@0?distro=sid
     affected_by_vulnerabilities: []

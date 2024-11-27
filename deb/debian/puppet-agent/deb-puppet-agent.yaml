@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/puppet-agent
+package: pkg:deb/debian/puppet-agent
 versions:
   - purl: pkg:deb/debian/puppet-agent@0?distro=sid
     affected_by_vulnerabilities: []

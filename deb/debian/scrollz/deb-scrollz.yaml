@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/scrollz
+package: pkg:deb/debian/scrollz
 versions:
   - purl: pkg:deb/debian/scrollz@2.2.3-1?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/binpac
+package: pkg:deb/debian/binpac
 versions:
   - purl: pkg:deb/debian/binpac@0.43-1?distro=sid
     affected_by_vulnerabilities: []

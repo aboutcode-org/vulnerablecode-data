@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gifsicle
+package: pkg:deb/debian/gifsicle
 versions:
   - purl: pkg:deb/debian/gifsicle@1.88-3%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities:

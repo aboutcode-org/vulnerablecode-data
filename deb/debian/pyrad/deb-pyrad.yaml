@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pyrad
+package: pkg:deb/debian/pyrad
 versions:
   - purl: pkg:deb/debian/pyrad@2.0-2?distro=sid
     affected_by_vulnerabilities: []

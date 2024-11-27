@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ndiswrapper
+package: pkg:deb/debian/ndiswrapper
 versions:
   - purl: pkg:deb/debian/ndiswrapper@1.53-2?distro=buster
     affected_by_vulnerabilities: []

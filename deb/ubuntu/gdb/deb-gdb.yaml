@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gdb
+package: pkg:deb/ubuntu/gdb
 versions:
   - purl: pkg:deb/ubuntu/gdb@6.1-3
     affected_by_vulnerabilities:

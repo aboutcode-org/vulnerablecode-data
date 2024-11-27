@@ -1,4 +1,4 @@
-pacakge: pkg:composer/backpack/crud
+package: pkg:composer/backpack/crud
 versions:
   - purl: pkg:composer/backpack/crud@0.4.1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/netperf
+package: pkg:deb/debian/netperf
 versions:
   - purl: pkg:deb/debian/netperf@2.1pl3-1
     affected_by_vulnerabilities:

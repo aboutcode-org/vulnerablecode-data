@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/user-mode-linux
+package: pkg:deb/debian/user-mode-linux
 versions:
   - purl: pkg:deb/debian/user-mode-linux@2.4.17-9?distro=sid
     affected_by_vulnerabilities: []

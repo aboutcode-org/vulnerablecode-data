@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gunicorn
+package: pkg:deb/debian/gunicorn
 versions:
   - purl: pkg:deb/debian/gunicorn@19.5.0-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kannel
+package: pkg:deb/debian/kannel
 versions:
   - purl: pkg:deb/debian/kannel@0?distro=sid
     affected_by_vulnerabilities: []

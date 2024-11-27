@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/containerd
+package: pkg:alpine/containerd
 versions:
   - purl: pkg:alpine/containerd@1.2.6?arch=aarch64&distroversion=v3.9&reponame=community
     affected_by_vulnerabilities: []

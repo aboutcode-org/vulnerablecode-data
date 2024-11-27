@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gdnsd
+package: pkg:deb/debian/gdnsd
 versions:
   - purl: pkg:deb/debian/gdnsd@0?distro=sid
     affected_by_vulnerabilities: []

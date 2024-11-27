@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sma
+package: pkg:deb/debian/sma
 versions:
   - purl: pkg:deb/debian/sma@0?distro=sid
     affected_by_vulnerabilities: []

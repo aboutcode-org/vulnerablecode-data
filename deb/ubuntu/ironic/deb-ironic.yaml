@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ironic
+package: pkg:deb/ubuntu/ironic
 versions:
   - purl: pkg:deb/ubuntu/ironic@0.0~git20140117-0ubuntu1
     affected_by_vulnerabilities:

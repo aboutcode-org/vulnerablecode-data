@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libxxf86vm
+package: pkg:deb/debian/libxxf86vm
 versions:
   - purl: pkg:deb/debian/libxxf86vm@1:1.1.2-1%2Bdeb7u1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/texinfo
+package: pkg:deb/debian/texinfo
 versions:
   - purl: pkg:deb/debian/texinfo@3.12-0.1
     affected_by_vulnerabilities:

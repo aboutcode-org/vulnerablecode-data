@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xserver-xorg-video-qxl
+package: pkg:deb/debian/xserver-xorg-video-qxl
 versions:
   - purl: pkg:deb/debian/xserver-xorg-video-qxl@0.0.17-1?distro=sid
     affected_by_vulnerabilities: []

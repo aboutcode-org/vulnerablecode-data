@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rake
+package: pkg:deb/debian/rake
 versions:
   - purl: pkg:deb/debian/rake@10.5.0-2%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

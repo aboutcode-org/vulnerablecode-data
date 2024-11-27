@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dvipng
+package: pkg:deb/debian/dvipng
 versions:
   - purl: pkg:deb/debian/dvipng@1.13-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/mosquitto
+package: pkg:alpine/mosquitto
 versions:
   - purl: pkg:alpine/mosquitto@1.4.12-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

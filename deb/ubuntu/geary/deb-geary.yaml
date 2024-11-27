@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/geary
+package: pkg:deb/ubuntu/geary
 versions:
   - purl: pkg:deb/ubuntu/geary@0.2.0-0ubuntu1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ohcount
+package: pkg:deb/debian/ohcount
 versions:
   - purl: pkg:deb/debian/ohcount@3.0.0-8.3?distro=stretch
     affected_by_vulnerabilities:

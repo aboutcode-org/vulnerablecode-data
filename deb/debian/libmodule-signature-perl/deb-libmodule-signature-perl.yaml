@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libmodule-signature-perl
+package: pkg:deb/debian/libmodule-signature-perl
 versions:
   - purl: pkg:deb/debian/libmodule-signature-perl@0.73-1?distro=sid
     affected_by_vulnerabilities: []

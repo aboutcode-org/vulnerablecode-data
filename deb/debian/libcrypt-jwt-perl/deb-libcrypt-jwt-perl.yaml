@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libcrypt-jwt-perl
+package: pkg:deb/debian/libcrypt-jwt-perl
 versions:
   - purl: pkg:deb/debian/libcrypt-jwt-perl@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/freexl
+package: pkg:deb/debian/freexl
 versions:
   - purl: pkg:deb/debian/freexl@1.0.0g-1%2Bdeb8u1?distro=sid
     affected_by_vulnerabilities: []

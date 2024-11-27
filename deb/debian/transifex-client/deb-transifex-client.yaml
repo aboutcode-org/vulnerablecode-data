@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/transifex-client
+package: pkg:deb/debian/transifex-client
 versions:
   - purl: pkg:deb/debian/transifex-client@0.10-1?distro=buster
     affected_by_vulnerabilities: []

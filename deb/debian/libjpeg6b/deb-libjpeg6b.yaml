@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libjpeg6b
+package: pkg:deb/debian/libjpeg6b
 versions:
   - purl: pkg:deb/debian/libjpeg6b@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/git-hub
+package: pkg:deb/debian/git-hub
 versions:
   - purl: pkg:deb/debian/git-hub@0.10.2-2?distro=sid
     affected_by_vulnerabilities: []

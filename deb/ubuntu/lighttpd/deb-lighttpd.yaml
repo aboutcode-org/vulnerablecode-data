@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/lighttpd
+package: pkg:deb/ubuntu/lighttpd
 versions:
   - purl: pkg:deb/ubuntu/lighttpd@1.4.11-1ubuntu1
     affected_by_vulnerabilities:

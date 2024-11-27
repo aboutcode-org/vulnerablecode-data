@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/liblnk
+package: pkg:deb/debian/liblnk
 versions:
   - purl: pkg:deb/debian/liblnk@20170111-1?distro=stretch
     affected_by_vulnerabilities:

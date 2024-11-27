@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fence-agents
+package: pkg:deb/debian/fence-agents
 versions:
   - purl: pkg:deb/debian/fence-agents@4.0.17-1?distro=sid
     affected_by_vulnerabilities: []

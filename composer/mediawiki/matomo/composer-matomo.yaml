@@ -1,4 +1,4 @@
-pacakge: pkg:composer/mediawiki/matomo
+package: pkg:composer/mediawiki/matomo
 versions:
   - purl: pkg:composer/mediawiki/matomo@2.4.0
     affected_by_vulnerabilities:

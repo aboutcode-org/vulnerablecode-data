@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ceph
+package: pkg:deb/ubuntu/ceph
 versions:
   - purl: pkg:deb/ubuntu/ceph@0.21-0ubuntu1
     affected_by_vulnerabilities:

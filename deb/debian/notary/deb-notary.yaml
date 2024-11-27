@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/notary
+package: pkg:deb/debian/notary
 versions:
   - purl: pkg:deb/debian/notary@0.1~ds1-1?distro=sid
     affected_by_vulnerabilities: []

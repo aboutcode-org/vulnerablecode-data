@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tinyexr
+package: pkg:deb/debian/tinyexr
 versions:
   - purl: pkg:deb/debian/tinyexr@0?distro=sid
     affected_by_vulnerabilities: []

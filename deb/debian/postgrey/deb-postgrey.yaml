@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/postgrey
+package: pkg:deb/debian/postgrey
 versions:
   - purl: pkg:deb/debian/postgrey@1.21-1sarge1
     affected_by_vulnerabilities:

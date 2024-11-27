@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/isync
+package: pkg:alpine/isync
 versions:
   - purl: pkg:alpine/isync@1.3.5-r0?arch=aarch64&distroversion=v3.13&reponame=community
     affected_by_vulnerabilities: []

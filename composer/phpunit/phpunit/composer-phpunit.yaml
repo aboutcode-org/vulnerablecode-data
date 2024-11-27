@@ -1,4 +1,4 @@
-pacakge: pkg:composer/phpunit/phpunit
+package: pkg:composer/phpunit/phpunit
 versions:
   - purl: pkg:composer/phpunit/phpunit@3.7.0
     affected_by_vulnerabilities:

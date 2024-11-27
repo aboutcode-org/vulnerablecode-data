@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/global
+package: pkg:deb/ubuntu/global
 versions:
   - purl: pkg:deb/ubuntu/global@4.5-1.1
     affected_by_vulnerabilities:

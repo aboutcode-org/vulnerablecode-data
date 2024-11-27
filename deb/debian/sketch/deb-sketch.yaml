@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sketch
+package: pkg:deb/debian/sketch
 versions:
   - purl: pkg:deb/debian/sketch@0.6.13-1?distro=sid
     affected_by_vulnerabilities: []

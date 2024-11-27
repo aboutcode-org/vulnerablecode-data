@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/alpine
+package: pkg:deb/debian/alpine
 versions:
   - purl: pkg:deb/debian/alpine@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/barbican
+package: pkg:deb/debian/barbican
 versions:
   - purl: pkg:deb/debian/barbican@1:11.0.0-3?distro=sid
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/postsrsd
+package: pkg:deb/debian/postsrsd
 versions:
   - purl: pkg:deb/debian/postsrsd@1.10-1?distro=sid
     affected_by_vulnerabilities: []

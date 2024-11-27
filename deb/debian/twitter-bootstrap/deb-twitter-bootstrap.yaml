@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/twitter-bootstrap
+package: pkg:deb/debian/twitter-bootstrap
 versions:
   - purl: pkg:deb/debian/twitter-bootstrap@0?distro=stretch
     affected_by_vulnerabilities: []

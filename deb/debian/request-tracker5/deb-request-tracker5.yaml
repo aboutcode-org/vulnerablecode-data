@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/request-tracker5
+package: pkg:deb/debian/request-tracker5
 versions:
   - purl: pkg:deb/debian/request-tracker5@5.0.3%2Bdfsg-1?distro=sid
     affected_by_vulnerabilities: []

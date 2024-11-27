@@ -1,4 +1,4 @@
-pacakge: pkg:conan/wolfssl
+package: pkg:conan/wolfssl
 versions:
   - purl: pkg:conan/wolfssl@4.4.0
     affected_by_vulnerabilities:

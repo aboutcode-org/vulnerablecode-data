@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/exuberant-ctags
+package: pkg:deb/debian/exuberant-ctags
 versions:
   - purl: pkg:deb/debian/exuberant-ctags@1:5.9~svn20110310-11?distro=stretch
     affected_by_vulnerabilities: []

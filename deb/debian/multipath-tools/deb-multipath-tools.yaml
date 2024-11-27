@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/multipath-tools
+package: pkg:deb/debian/multipath-tools
 versions:
   - purl: pkg:deb/debian/multipath-tools@0.4.8-15?distro=sid
     affected_by_vulnerabilities: []

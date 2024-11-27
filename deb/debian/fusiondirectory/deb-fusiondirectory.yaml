@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fusiondirectory
+package: pkg:deb/debian/fusiondirectory
 versions:
   - purl: pkg:deb/debian/fusiondirectory@1.0.19-1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

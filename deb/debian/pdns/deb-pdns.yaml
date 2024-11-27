@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pdns
+package: pkg:deb/debian/pdns
 versions:
   - purl: pkg:deb/debian/pdns@0?distro=sid
     affected_by_vulnerabilities: []

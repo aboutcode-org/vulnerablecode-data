@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tigervnc
+package: pkg:deb/debian/tigervnc
 versions:
   - purl: pkg:deb/debian/tigervnc@0?distro=sid
     affected_by_vulnerabilities: []

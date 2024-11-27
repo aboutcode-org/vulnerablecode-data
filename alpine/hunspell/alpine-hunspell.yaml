@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/hunspell
+package: pkg:alpine/hunspell
 versions:
   - purl: pkg:alpine/hunspell@1.6.2-r2?arch=aarch64&distroversion=v3.8&reponame=main
     affected_by_vulnerabilities: []

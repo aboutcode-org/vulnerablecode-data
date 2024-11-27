@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gcc-5-cross
+package: pkg:deb/ubuntu/gcc-5-cross
 versions:
   - purl: pkg:deb/ubuntu/gcc-5-cross@1
     affected_by_vulnerabilities:

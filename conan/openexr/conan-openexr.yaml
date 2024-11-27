@@ -1,4 +1,4 @@
-pacakge: pkg:conan/openexr
+package: pkg:conan/openexr
 versions:
   - purl: pkg:conan/openexr@2.3.0
     affected_by_vulnerabilities:

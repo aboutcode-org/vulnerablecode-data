@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-pykmip
+package: pkg:deb/debian/python-pykmip
 versions:
   - purl: pkg:deb/debian/python-pykmip@0.10.0-3?distro=sid
     affected_by_vulnerabilities: []

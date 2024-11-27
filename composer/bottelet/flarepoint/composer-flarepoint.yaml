@@ -1,4 +1,4 @@
-pacakge: pkg:composer/bottelet/flarepoint
+package: pkg:composer/bottelet/flarepoint
 versions:
   - purl: pkg:composer/bottelet/flarepoint@1
     affected_by_vulnerabilities:

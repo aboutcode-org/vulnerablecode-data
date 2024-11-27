@@ -1,4 +1,4 @@
-pacakge: pkg:composer/shopware/shopware
+package: pkg:composer/shopware/shopware
 versions:
   - purl: pkg:composer/shopware/shopware@1.0.2
     affected_by_vulnerabilities:

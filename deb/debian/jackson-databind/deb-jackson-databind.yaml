@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jackson-databind
+package: pkg:deb/debian/jackson-databind
 versions:
   - purl: pkg:deb/debian/jackson-databind@2.10.0-1?distro=sid
     affected_by_vulnerabilities: []

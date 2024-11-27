@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-cleo
+package: pkg:deb/debian/python-cleo
 versions:
   - purl: pkg:deb/debian/python-cleo@0?distro=sid
     affected_by_vulnerabilities: []

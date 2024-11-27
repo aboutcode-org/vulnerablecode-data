@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/jetty
+package: pkg:deb/ubuntu/jetty
 versions:
   - purl: pkg:deb/ubuntu/jetty@4.2.19-1
     affected_by_vulnerabilities:

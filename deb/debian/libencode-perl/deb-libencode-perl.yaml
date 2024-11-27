@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libencode-perl
+package: pkg:deb/debian/libencode-perl
 versions:
   - purl: pkg:deb/debian/libencode-perl@0?distro=sid
     affected_by_vulnerabilities: []

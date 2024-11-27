@@ -1,4 +1,4 @@
-pacakge: pkg:composer/harvesthq/chosen
+package: pkg:composer/harvesthq/chosen
 versions:
   - purl: pkg:composer/harvesthq/chosen@1.8.6
     affected_by_vulnerabilities:

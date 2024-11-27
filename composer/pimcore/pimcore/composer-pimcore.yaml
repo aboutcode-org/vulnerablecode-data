@@ -1,4 +1,4 @@
-pacakge: pkg:composer/pimcore/pimcore
+package: pkg:composer/pimcore/pimcore
 versions:
   - purl: pkg:composer/pimcore/pimcore@10.0.0
     affected_by_vulnerabilities:

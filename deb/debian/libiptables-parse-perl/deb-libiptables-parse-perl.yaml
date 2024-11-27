@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libiptables-parse-perl
+package: pkg:deb/debian/libiptables-parse-perl
 versions:
   - purl: pkg:deb/debian/libiptables-parse-perl@1.6-1?distro=sid
     affected_by_vulnerabilities: []

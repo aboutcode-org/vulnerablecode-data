@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/biomaj-watcher
+package: pkg:deb/debian/biomaj-watcher
 versions:
   - purl: pkg:deb/debian/biomaj-watcher@1.2.2-1?distro=stretch
     affected_by_vulnerabilities: []

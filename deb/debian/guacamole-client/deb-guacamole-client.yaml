@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/guacamole-client
+package: pkg:deb/debian/guacamole-client
 versions:
   - purl: pkg:deb/debian/guacamole-client@0?distro=sid
     affected_by_vulnerabilities: []

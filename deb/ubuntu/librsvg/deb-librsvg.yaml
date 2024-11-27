@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/librsvg
+package: pkg:deb/ubuntu/librsvg
 versions:
   - purl: pkg:deb/ubuntu/librsvg@2.13.4-0ubuntu1
     affected_by_vulnerabilities:

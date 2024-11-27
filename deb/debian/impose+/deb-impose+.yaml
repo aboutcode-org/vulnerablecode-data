@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/impose%2B
+package: pkg:deb/debian/impose%2B
 versions:
   - purl: pkg:deb/debian/impose%2B@0.2-11.1?distro=sid
     affected_by_vulnerabilities: []

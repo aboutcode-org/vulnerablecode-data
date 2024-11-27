@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-crack
+package: pkg:deb/debian/ruby-crack
 versions:
   - purl: pkg:deb/debian/ruby-crack@0.3.2-1?distro=sid
     affected_by_vulnerabilities: []

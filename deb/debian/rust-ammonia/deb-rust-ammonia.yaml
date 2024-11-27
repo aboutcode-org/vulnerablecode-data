@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-ammonia
+package: pkg:deb/debian/rust-ammonia
 versions:
   - purl: pkg:deb/debian/rust-ammonia@0?distro=sid
     affected_by_vulnerabilities: []

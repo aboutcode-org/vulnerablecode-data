@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libreoffice
+package: pkg:deb/debian/libreoffice
 versions:
   - purl: pkg:deb/debian/libreoffice@0?distro=sid
     affected_by_vulnerabilities: []

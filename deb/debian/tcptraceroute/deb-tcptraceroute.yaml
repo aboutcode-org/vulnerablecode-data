@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tcptraceroute
+package: pkg:deb/debian/tcptraceroute
 versions:
   - purl: pkg:deb/debian/tcptraceroute@1.2-2
     affected_by_vulnerabilities:

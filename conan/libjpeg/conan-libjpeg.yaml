@@ -1,4 +1,4 @@
-pacakge: pkg:conan/libjpeg
+package: pkg:conan/libjpeg
 versions:
   - purl: pkg:conan/libjpeg@9c
     affected_by_vulnerabilities:

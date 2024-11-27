@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-socket2
+package: pkg:deb/debian/rust-socket2
 versions:
   - purl: pkg:deb/debian/rust-socket2@0.3.19-1?distro=sid
     affected_by_vulnerabilities: []

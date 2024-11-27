@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jabberd2
+package: pkg:deb/debian/jabberd2
 versions:
   - purl: pkg:deb/debian/jabberd2@0?distro=sid
     affected_by_vulnerabilities: []

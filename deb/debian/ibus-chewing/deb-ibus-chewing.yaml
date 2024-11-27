@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ibus-chewing
+package: pkg:deb/debian/ibus-chewing
 versions:
   - purl: pkg:deb/debian/ibus-chewing@1.4.3-4?distro=sid
     affected_by_vulnerabilities: []

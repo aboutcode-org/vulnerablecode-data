@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gdk-pixbuf
+package: pkg:deb/debian/gdk-pixbuf
 versions:
   - purl: pkg:deb/debian/gdk-pixbuf@0?distro=sid
     affected_by_vulnerabilities: []

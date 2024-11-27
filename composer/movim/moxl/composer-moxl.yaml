@@ -1,4 +1,4 @@
-pacakge: pkg:composer/movim/moxl
+package: pkg:composer/movim/moxl
 versions:
   - purl: pkg:composer/movim/moxl@0.10.0
     affected_by_vulnerabilities:

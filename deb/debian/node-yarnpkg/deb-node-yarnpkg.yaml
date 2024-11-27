@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-yarnpkg
+package: pkg:deb/debian/node-yarnpkg
 versions:
   - purl: pkg:deb/debian/node-yarnpkg@1.13.0-1%2Bdeb10u1?distro=sid
     affected_by_vulnerabilities:

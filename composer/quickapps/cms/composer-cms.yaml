@@ -1,4 +1,4 @@
-pacakge: pkg:composer/quickapps/cms
+package: pkg:composer/quickapps/cms
 versions:
   - purl: pkg:composer/quickapps/cms@1.1.2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/zutty
+package: pkg:deb/debian/zutty
 versions:
   - purl: pkg:deb/debian/zutty@0.13.0.20220910.112547%2Bdfsg1-1?distro=sid
     affected_by_vulnerabilities: []

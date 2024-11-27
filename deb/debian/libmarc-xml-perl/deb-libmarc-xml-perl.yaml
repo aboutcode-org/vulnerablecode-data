@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libmarc-xml-perl
+package: pkg:deb/debian/libmarc-xml-perl
 versions:
   - purl: pkg:deb/debian/libmarc-xml-perl@1.0.2-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/dolibarr
+package: pkg:deb/ubuntu/dolibarr
 versions:
   - purl: pkg:deb/ubuntu/dolibarr@3.3.4-1
     affected_by_vulnerabilities:

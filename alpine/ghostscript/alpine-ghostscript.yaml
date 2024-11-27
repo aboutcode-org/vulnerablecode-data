@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/ghostscript
+package: pkg:alpine/ghostscript
 versions:
   - purl: pkg:alpine/ghostscript@9.21-r0?arch=aarch64&distroversion=v3.5&reponame=main
     affected_by_vulnerabilities: []

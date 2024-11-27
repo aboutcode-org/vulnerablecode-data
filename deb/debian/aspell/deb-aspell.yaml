@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/aspell
+package: pkg:deb/debian/aspell
 versions:
   - purl: pkg:deb/debian/aspell@0.29.1-1
     affected_by_vulnerabilities:

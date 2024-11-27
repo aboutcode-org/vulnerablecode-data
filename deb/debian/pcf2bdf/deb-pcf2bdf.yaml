@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pcf2bdf
+package: pkg:deb/debian/pcf2bdf
 versions:
   - purl: pkg:deb/debian/pcf2bdf@1.05-1?distro=sid
     affected_by_vulnerabilities:

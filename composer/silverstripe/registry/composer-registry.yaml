@@ -1,4 +1,4 @@
-pacakge: pkg:composer/silverstripe/registry
+package: pkg:composer/silverstripe/registry
 versions:
   - purl: pkg:composer/silverstripe/registry@2.1.0
     affected_by_vulnerabilities:

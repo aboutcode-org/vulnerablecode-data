@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-buger-jsonparser
+package: pkg:deb/debian/golang-github-buger-jsonparser
 versions:
   - purl: pkg:deb/debian/golang-github-buger-jsonparser@0.0~git20170705.0.9addec9-2?distro=sid
     affected_by_vulnerabilities:

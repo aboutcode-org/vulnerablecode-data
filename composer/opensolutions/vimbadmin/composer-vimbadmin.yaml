@@ -1,4 +1,4 @@
-pacakge: pkg:composer/opensolutions/vimbadmin
+package: pkg:composer/opensolutions/vimbadmin
 versions:
   - purl: pkg:composer/opensolutions/vimbadmin@3.0.15
     affected_by_vulnerabilities:

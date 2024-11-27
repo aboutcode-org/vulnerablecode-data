@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/celery
+package: pkg:deb/debian/celery
 versions:
   - purl: pkg:deb/debian/celery@0?distro=sid
     affected_by_vulnerabilities: []

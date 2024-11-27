@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/blktrace
+package: pkg:deb/ubuntu/blktrace
 versions:
   - purl: pkg:deb/ubuntu/blktrace@0.99.3%2Bgit-20071207142532-1
     affected_by_vulnerabilities:

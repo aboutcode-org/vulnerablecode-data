@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-gon
+package: pkg:deb/debian/ruby-gon
 versions:
   - purl: pkg:deb/debian/ruby-gon@6.1.0-1?distro=stretch
     affected_by_vulnerabilities: []

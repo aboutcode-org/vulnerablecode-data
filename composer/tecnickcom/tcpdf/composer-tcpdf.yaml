@@ -1,4 +1,4 @@
-pacakge: pkg:composer/tecnickcom/tcpdf
+package: pkg:composer/tecnickcom/tcpdf
 versions:
   - purl: pkg:composer/tecnickcom/tcpdf@6.0.013
     affected_by_vulnerabilities:

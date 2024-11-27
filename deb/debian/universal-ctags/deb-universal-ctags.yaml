@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/universal-ctags
+package: pkg:deb/debian/universal-ctags
 versions:
   - purl: pkg:deb/debian/universal-ctags@0?distro=sid
     affected_by_vulnerabilities: []

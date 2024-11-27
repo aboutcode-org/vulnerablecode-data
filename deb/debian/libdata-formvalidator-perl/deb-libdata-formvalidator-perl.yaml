@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libdata-formvalidator-perl
+package: pkg:deb/debian/libdata-formvalidator-perl
 versions:
   - purl: pkg:deb/debian/libdata-formvalidator-perl@4.66-3?distro=sid
     affected_by_vulnerabilities: []

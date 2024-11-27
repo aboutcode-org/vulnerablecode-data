@@ -1,4 +1,4 @@
-pacakge: pkg:composer/islandora/islandora
+package: pkg:composer/islandora/islandora
 versions:
   - purl: pkg:composer/islandora/islandora@2.0.0
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/namazu2
+package: pkg:deb/debian/namazu2
 versions:
   - purl: pkg:deb/debian/namazu2@0?distro=sid
     affected_by_vulnerabilities: []

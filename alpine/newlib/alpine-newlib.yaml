@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/newlib
+package: pkg:alpine/newlib
 versions:
   - purl: pkg:alpine/newlib@4.1.0-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

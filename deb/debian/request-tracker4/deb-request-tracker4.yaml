@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/request-tracker4
+package: pkg:deb/debian/request-tracker4
 versions:
   - purl: pkg:deb/debian/request-tracker4@4.0.12-2?distro=sid
     affected_by_vulnerabilities: []

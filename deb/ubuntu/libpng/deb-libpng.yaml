@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libpng
+package: pkg:deb/ubuntu/libpng
 versions:
   - purl: pkg:deb/ubuntu/libpng@1.0.15-6
     affected_by_vulnerabilities:

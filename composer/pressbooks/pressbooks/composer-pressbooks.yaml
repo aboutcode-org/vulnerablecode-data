@@ -1,4 +1,4 @@
-pacakge: pkg:composer/pressbooks/pressbooks
+package: pkg:composer/pressbooks/pressbooks
 versions:
   - purl: pkg:composer/pressbooks/pressbooks@3.3.0
     affected_by_vulnerabilities:

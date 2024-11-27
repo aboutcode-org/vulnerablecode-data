@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnustep-base
+package: pkg:deb/debian/gnustep-base
 versions:
   - purl: pkg:deb/debian/gnustep-base@1.19.3-2?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/aide
+package: pkg:deb/debian/aide
 versions:
   - purl: pkg:deb/debian/aide@0.10-6.1.1?distro=sid
     affected_by_vulnerabilities: []

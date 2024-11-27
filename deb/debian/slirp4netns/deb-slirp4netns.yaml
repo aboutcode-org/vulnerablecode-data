@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/slirp4netns
+package: pkg:deb/debian/slirp4netns
 versions:
   - purl: pkg:deb/debian/slirp4netns@0.2.1-1?distro=sid
     affected_by_vulnerabilities: []

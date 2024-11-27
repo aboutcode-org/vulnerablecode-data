@@ -1,4 +1,4 @@
-pacakge: pkg:composer/symfony/cache
+package: pkg:composer/symfony/cache
 versions:
   - purl: pkg:composer/symfony/cache@3.1.0
     affected_by_vulnerabilities:

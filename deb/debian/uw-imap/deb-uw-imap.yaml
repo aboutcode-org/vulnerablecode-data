@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/uw-imap
+package: pkg:deb/debian/uw-imap
 versions:
   - purl: pkg:deb/debian/uw-imap@2007b~dfsg-1.1?distro=sid
     affected_by_vulnerabilities: []

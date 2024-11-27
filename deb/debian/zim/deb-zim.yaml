@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/zim
+package: pkg:deb/debian/zim
 versions:
   - purl: pkg:deb/debian/zim@0.65-4?distro=stretch
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-containers-storage
+package: pkg:deb/debian/golang-github-containers-storage
 versions:
   - purl: pkg:deb/debian/golang-github-containers-storage@1.24.8%2Bdfsg1-1?distro=sid
     affected_by_vulnerabilities:

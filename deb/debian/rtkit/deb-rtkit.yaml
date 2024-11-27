@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rtkit
+package: pkg:deb/debian/rtkit
 versions:
   - purl: pkg:deb/debian/rtkit@0.10-3?distro=sid
     affected_by_vulnerabilities: []

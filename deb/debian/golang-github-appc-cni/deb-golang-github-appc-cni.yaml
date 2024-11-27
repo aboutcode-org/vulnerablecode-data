@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-appc-cni
+package: pkg:deb/debian/golang-github-appc-cni
 versions:
   - purl: pkg:deb/debian/golang-github-appc-cni@0.3.0%2Bdfsg-1?distro=stretch
     affected_by_vulnerabilities:

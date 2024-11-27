@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/p11-kit
+package: pkg:alpine/p11-kit
 versions:
   - purl: pkg:alpine/p11-kit@0.23.16.1-r1?arch=aarch64&distroversion=v3.10&reponame=main
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ketm
+package: pkg:deb/debian/ketm
 versions:
   - purl: pkg:deb/debian/ketm@0.0.6-17sarge1?distro=sid
     affected_by_vulnerabilities: []

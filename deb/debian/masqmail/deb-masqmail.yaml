@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/masqmail
+package: pkg:deb/debian/masqmail
 versions:
   - purl: pkg:deb/debian/masqmail@0.2.15-1?distro=sid
     affected_by_vulnerabilities: []

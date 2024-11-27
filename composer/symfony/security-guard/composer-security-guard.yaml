@@ -1,4 +1,4 @@
-pacakge: pkg:composer/symfony/security-guard
+package: pkg:composer/symfony/security-guard
 versions:
   - purl: pkg:composer/symfony/security-guard@2.8.0
     affected_by_vulnerabilities:

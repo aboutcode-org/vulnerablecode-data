@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libpam-tacplus
+package: pkg:deb/debian/libpam-tacplus
 versions:
   - purl: pkg:deb/debian/libpam-tacplus@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/zendframework/zendframework
+package: pkg:composer/zendframework/zendframework
 versions:
   - purl: pkg:composer/zendframework/zendframework@1.12.19
     affected_by_vulnerabilities:

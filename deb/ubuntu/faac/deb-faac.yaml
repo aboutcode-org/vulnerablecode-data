@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/faac
+package: pkg:deb/ubuntu/faac
 versions:
   - purl: pkg:deb/ubuntu/faac@1.24-0.0
     affected_by_vulnerabilities:

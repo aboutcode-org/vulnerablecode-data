@@ -1,4 +1,4 @@
-pacakge: pkg:composer/asymmetricrypt/asymmetricrypt
+package: pkg:composer/asymmetricrypt/asymmetricrypt
 versions:
   - purl: pkg:composer/asymmetricrypt/asymmetricrypt@0.0.0
     affected_by_vulnerabilities:

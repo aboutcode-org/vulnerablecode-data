@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libcommons-fileupload-java
+package: pkg:deb/debian/libcommons-fileupload-java
 versions:
   - purl: pkg:deb/debian/libcommons-fileupload-java@1.3-1?distro=sid
     affected_by_vulnerabilities: []

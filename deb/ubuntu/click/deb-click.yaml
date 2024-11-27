@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/click
+package: pkg:deb/ubuntu/click
 versions:
   - purl: pkg:deb/ubuntu/click@0.1.3
     affected_by_vulnerabilities:

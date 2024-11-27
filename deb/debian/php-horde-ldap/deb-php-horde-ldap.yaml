@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-horde-ldap
+package: pkg:deb/debian/php-horde-ldap
 versions:
   - purl: pkg:deb/debian/php-horde-ldap@2.0.6-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/dweeves/magmi
+package: pkg:composer/dweeves/magmi
 versions:
   - purl: pkg:composer/dweeves/magmi@0.7.19
     affected_by_vulnerabilities:

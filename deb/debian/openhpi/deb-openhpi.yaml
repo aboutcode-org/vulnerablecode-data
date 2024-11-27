@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openhpi
+package: pkg:deb/debian/openhpi
 versions:
   - purl: pkg:deb/debian/openhpi@0?distro=sid
     affected_by_vulnerabilities: []

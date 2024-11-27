@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/strongswan
+package: pkg:alpine/strongswan
 versions:
   - purl: pkg:alpine/strongswan@5.3.5-r2?arch=armhf&distroversion=v3.2&reponame=main
     affected_by_vulnerabilities: []

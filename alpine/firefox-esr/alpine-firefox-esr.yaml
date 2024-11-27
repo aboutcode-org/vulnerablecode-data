@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/firefox-esr
+package: pkg:alpine/firefox-esr
 versions:
   - purl: pkg:alpine/firefox-esr@102.1.0-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

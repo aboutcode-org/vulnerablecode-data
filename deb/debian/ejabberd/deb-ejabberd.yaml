@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ejabberd
+package: pkg:deb/debian/ejabberd
 versions:
   - purl: pkg:deb/debian/ejabberd@0?distro=sid
     affected_by_vulnerabilities: []

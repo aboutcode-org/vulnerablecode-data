@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libproxy
+package: pkg:alpine/libproxy
 versions:
   - purl: pkg:alpine/libproxy@0.4.15-r7?arch=aarch64&distroversion=v3.12&reponame=community
     affected_by_vulnerabilities: []

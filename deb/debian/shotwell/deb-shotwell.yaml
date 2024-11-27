@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/shotwell
+package: pkg:deb/debian/shotwell
 versions:
   - purl: pkg:deb/debian/shotwell@0.22.0-3?distro=sid
     affected_by_vulnerabilities: []

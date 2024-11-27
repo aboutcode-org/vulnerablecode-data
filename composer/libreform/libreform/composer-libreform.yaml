@@ -1,4 +1,4 @@
-pacakge: pkg:composer/libreform/libreform
+package: pkg:composer/libreform/libreform
 versions:
   - purl: pkg:composer/libreform/libreform@2.0.0
     affected_by_vulnerabilities:

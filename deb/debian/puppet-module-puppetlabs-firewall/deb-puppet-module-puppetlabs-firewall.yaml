@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/puppet-module-puppetlabs-firewall
+package: pkg:deb/debian/puppet-module-puppetlabs-firewall
 versions:
   - purl: pkg:deb/debian/puppet-module-puppetlabs-firewall@1.12.0-1?distro=sid
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-containers-buildah
+package: pkg:deb/debian/golang-github-containers-buildah
 versions:
   - purl: pkg:deb/debian/golang-github-containers-buildah@1.11.6-2?distro=sid
     affected_by_vulnerabilities: []

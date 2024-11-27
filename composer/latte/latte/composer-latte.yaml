@@ -1,4 +1,4 @@
-pacakge: pkg:composer/latte/latte
+package: pkg:composer/latte/latte
 versions:
   - purl: pkg:composer/latte/latte@2.10.0
     affected_by_vulnerabilities:

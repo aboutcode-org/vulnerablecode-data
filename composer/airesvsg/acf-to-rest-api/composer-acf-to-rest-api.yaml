@@ -1,4 +1,4 @@
-pacakge: pkg:composer/airesvsg/acf-to-rest-api
+package: pkg:composer/airesvsg/acf-to-rest-api
 versions:
   - purl: pkg:composer/airesvsg/acf-to-rest-api@3.0.1-beta
     affected_by_vulnerabilities:

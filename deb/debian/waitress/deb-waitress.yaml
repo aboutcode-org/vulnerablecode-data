@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/waitress
+package: pkg:deb/debian/waitress
 versions:
   - purl: pkg:deb/debian/waitress@0?distro=sid
     affected_by_vulnerabilities: []

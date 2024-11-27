@@ -1,4 +1,4 @@
-pacakge: pkg:conan/libcurl
+package: pkg:conan/libcurl
 versions:
   - purl: pkg:conan/libcurl@7.64.1
     affected_by_vulnerabilities:

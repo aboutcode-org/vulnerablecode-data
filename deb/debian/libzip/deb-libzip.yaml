@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libzip
+package: pkg:deb/debian/libzip
 versions:
   - purl: pkg:deb/debian/libzip@0?distro=sid
     affected_by_vulnerabilities: []

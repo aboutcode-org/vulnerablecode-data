@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/crip
+package: pkg:deb/debian/crip
 versions:
   - purl: pkg:deb/debian/crip@3.5-1sarge2?distro=sid
     affected_by_vulnerabilities: []

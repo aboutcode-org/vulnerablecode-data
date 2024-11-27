@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pxz
+package: pkg:deb/debian/pxz
 versions:
   - purl: pkg:deb/debian/pxz@4.999.99~beta3%2Bgit659fc9b-3?distro=stretch
     affected_by_vulnerabilities: []

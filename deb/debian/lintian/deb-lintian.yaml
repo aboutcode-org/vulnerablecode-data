@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lintian
+package: pkg:deb/debian/lintian
 versions:
   - purl: pkg:deb/debian/lintian@0.9.3
     affected_by_vulnerabilities:

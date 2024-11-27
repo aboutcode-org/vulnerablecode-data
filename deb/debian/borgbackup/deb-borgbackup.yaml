@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/borgbackup
+package: pkg:deb/debian/borgbackup
 versions:
   - purl: pkg:deb/debian/borgbackup@0?distro=stretch
     affected_by_vulnerabilities: []

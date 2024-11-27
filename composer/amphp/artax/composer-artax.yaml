@@ -1,4 +1,4 @@
-pacakge: pkg:composer/amphp/artax
+package: pkg:composer/amphp/artax
 versions:
   - purl: pkg:composer/amphp/artax@0.1.0
     affected_by_vulnerabilities:

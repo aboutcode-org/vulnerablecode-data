@@ -1,4 +1,4 @@
-pacakge: pkg:conan/c-ares
+package: pkg:conan/c-ares
 versions:
   - purl: pkg:conan/c-ares@1.14.0
     affected_by_vulnerabilities:

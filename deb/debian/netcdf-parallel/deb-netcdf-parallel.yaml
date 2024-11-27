@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/netcdf-parallel
+package: pkg:deb/debian/netcdf-parallel
 versions:
   - purl: pkg:deb/debian/netcdf-parallel@1:4.6.2-1?distro=sid
     affected_by_vulnerabilities:

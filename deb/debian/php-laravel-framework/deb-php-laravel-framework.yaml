@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-laravel-framework
+package: pkg:deb/debian/php-laravel-framework
 versions:
   - purl: pkg:deb/debian/php-laravel-framework@0?distro=sid
     affected_by_vulnerabilities: []

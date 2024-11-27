@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/shibboleth-sp2
+package: pkg:deb/debian/shibboleth-sp2
 versions:
   - purl: pkg:deb/debian/shibboleth-sp2@2.2.1%2Bdfsg-1?distro=stretch
     affected_by_vulnerabilities: []

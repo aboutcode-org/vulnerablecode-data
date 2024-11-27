@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tcmu
+package: pkg:deb/debian/tcmu
 versions:
   - purl: pkg:deb/debian/tcmu@1.5.2-6?distro=sid
     affected_by_vulnerabilities: []

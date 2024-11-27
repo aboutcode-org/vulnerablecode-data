@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-jquery-rails
+package: pkg:deb/debian/ruby-jquery-rails
 versions:
   - purl: pkg:deb/debian/ruby-jquery-rails@4.0.4-1?distro=sid
     affected_by_vulnerabilities: []

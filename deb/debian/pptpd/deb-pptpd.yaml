@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pptpd
+package: pkg:deb/debian/pptpd
 versions:
   - purl: pkg:deb/debian/pptpd@1.1.2-1.4
     affected_by_vulnerabilities:

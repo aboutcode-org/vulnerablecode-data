@@ -1,4 +1,4 @@
-pacakge: pkg:composer/inter-mediator/inter-mediator
+package: pkg:composer/inter-mediator/inter-mediator
 versions:
   - purl: pkg:composer/inter-mediator/inter-mediator@5.5.0
     affected_by_vulnerabilities:

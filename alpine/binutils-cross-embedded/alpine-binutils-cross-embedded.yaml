@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/binutils-cross-embedded
+package: pkg:alpine/binutils-cross-embedded
 versions:
   - purl: pkg:alpine/binutils-cross-embedded@2.37-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

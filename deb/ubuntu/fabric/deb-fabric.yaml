@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/fabric
+package: pkg:deb/ubuntu/fabric
 versions:
   - purl: pkg:deb/ubuntu/fabric@0.0.9-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/usmanhalalit/pixie
+package: pkg:composer/usmanhalalit/pixie
 versions:
   - purl: pkg:composer/usmanhalalit/pixie@1.0.0
     affected_by_vulnerabilities:

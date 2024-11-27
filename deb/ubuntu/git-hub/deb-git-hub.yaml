@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/git-hub
+package: pkg:deb/ubuntu/git-hub
 versions:
   - purl: pkg:deb/ubuntu/git-hub@0.10-1
     affected_by_vulnerabilities:

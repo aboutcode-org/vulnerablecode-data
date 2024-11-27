@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/keepalived
+package: pkg:deb/debian/keepalived
 versions:
   - purl: pkg:deb/debian/keepalived@1:1.2.2-2?distro=sid
     affected_by_vulnerabilities: []

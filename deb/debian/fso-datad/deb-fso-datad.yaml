@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fso-datad
+package: pkg:deb/debian/fso-datad
 versions:
   - purl: pkg:deb/debian/fso-datad@0.12.0-3?distro=stretch
     affected_by_vulnerabilities: []

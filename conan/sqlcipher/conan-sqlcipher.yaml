@@ -1,4 +1,4 @@
-pacakge: pkg:conan/sqlcipher
+package: pkg:conan/sqlcipher
 versions:
   - purl: pkg:conan/sqlcipher@4.3.0
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libcgi-simple-perl
+package: pkg:deb/debian/libcgi-simple-perl
 versions:
   - purl: pkg:deb/debian/libcgi-simple-perl@1.111-2?distro=sid
     affected_by_vulnerabilities: []

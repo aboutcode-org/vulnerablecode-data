@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pithos
+package: pkg:deb/debian/pithos
 versions:
   - purl: pkg:deb/debian/pithos@0.3.5-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libphp-jpgraph
+package: pkg:deb/debian/libphp-jpgraph
 versions:
   - purl: pkg:deb/debian/libphp-jpgraph@0?distro=sid
     affected_by_vulnerabilities: []

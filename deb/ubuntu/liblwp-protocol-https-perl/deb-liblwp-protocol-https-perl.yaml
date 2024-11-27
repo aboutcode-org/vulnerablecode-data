@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/liblwp-protocol-https-perl
+package: pkg:deb/ubuntu/liblwp-protocol-https-perl
 versions:
   - purl: pkg:deb/ubuntu/liblwp-protocol-https-perl@6.02-1
     affected_by_vulnerabilities:

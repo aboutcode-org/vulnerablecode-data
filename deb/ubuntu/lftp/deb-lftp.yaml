@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/lftp
+package: pkg:deb/ubuntu/lftp
 versions:
   - purl: pkg:deb/ubuntu/lftp@3.0.13-1
     affected_by_vulnerabilities:

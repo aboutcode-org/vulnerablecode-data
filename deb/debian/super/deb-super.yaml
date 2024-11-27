@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/super
+package: pkg:deb/debian/super
 versions:
   - purl: pkg:deb/debian/super@3.11.6-1
     affected_by_vulnerabilities:

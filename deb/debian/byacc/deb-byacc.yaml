@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/byacc
+package: pkg:deb/debian/byacc
 versions:
   - purl: pkg:deb/debian/byacc@1:2.0.20220114-1?distro=sid
     affected_by_vulnerabilities: []

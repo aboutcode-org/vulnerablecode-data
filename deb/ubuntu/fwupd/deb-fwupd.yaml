@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/fwupd
+package: pkg:deb/ubuntu/fwupd
 versions:
   - purl: pkg:deb/ubuntu/fwupd@0.1.5-0ubuntu1
     affected_by_vulnerabilities:

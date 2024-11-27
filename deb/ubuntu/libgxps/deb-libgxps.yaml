@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libgxps
+package: pkg:deb/ubuntu/libgxps
 versions:
   - purl: pkg:deb/ubuntu/libgxps@0.2.2-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/osc
+package: pkg:deb/debian/osc
 versions:
   - purl: pkg:deb/debian/osc@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-sized-chunks
+package: pkg:deb/debian/rust-sized-chunks
 versions:
   - purl: pkg:deb/debian/rust-sized-chunks@0.6.2-1?distro=sid
     affected_by_vulnerabilities:

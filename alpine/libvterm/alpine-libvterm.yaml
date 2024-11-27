@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libvterm
+package: pkg:alpine/libvterm
 versions:
   - purl: pkg:alpine/libvterm@0.1.20190920-r1?arch=aarch64&distroversion=v3.14&reponame=community
     affected_by_vulnerabilities: []

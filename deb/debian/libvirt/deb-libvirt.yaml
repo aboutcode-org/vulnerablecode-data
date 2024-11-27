@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libvirt
+package: pkg:deb/debian/libvirt
 versions:
   - purl: pkg:deb/debian/libvirt@0?distro=sid
     affected_by_vulnerabilities: []

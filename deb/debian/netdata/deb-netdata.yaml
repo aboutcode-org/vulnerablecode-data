@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/netdata
+package: pkg:deb/debian/netdata
 versions:
   - purl: pkg:deb/debian/netdata@1.11.1%2Bdfsg-1?distro=sid
     affected_by_vulnerabilities: []

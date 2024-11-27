@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libmodule-metadata-perl
+package: pkg:deb/debian/libmodule-metadata-perl
 versions:
   - purl: pkg:deb/debian/libmodule-metadata-perl@1.000015-1?distro=sid
     affected_by_vulnerabilities: []

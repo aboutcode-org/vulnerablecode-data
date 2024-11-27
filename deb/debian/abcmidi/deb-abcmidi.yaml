@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/abcmidi
+package: pkg:deb/debian/abcmidi
 versions:
   - purl: pkg:deb/debian/abcmidi@1.5.1-1
     affected_by_vulnerabilities:

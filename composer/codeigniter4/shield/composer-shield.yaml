@@ -1,4 +1,4 @@
-pacakge: pkg:composer/codeigniter4/shield
+package: pkg:composer/codeigniter4/shield
 versions:
   - purl: pkg:composer/codeigniter4/shield@1.0.0-beta
     affected_by_vulnerabilities:

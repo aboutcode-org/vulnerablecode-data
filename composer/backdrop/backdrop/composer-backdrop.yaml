@@ -1,4 +1,4 @@
-pacakge: pkg:composer/backdrop/backdrop
+package: pkg:composer/backdrop/backdrop
 versions:
   - purl: pkg:composer/backdrop/backdrop@1.13.2-rc1
     affected_by_vulnerabilities:

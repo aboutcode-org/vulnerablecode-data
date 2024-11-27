@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libevt
+package: pkg:deb/debian/libevt
 versions:
   - purl: pkg:deb/debian/libevt@20170120-1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

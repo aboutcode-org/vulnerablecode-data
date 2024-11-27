@@ -1,4 +1,4 @@
-pacakge: pkg:composer/symfony/security
+package: pkg:composer/symfony/security
 versions:
   - purl: pkg:composer/symfony/security@2.0.0
     affected_by_vulnerabilities:

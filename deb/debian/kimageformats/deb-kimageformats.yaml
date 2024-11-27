@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kimageformats
+package: pkg:deb/debian/kimageformats
 versions:
   - purl: pkg:deb/debian/kimageformats@5.28.0-1?distro=stretch
     affected_by_vulnerabilities:

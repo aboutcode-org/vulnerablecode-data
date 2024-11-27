@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libpgobject-util-dbadmin-perl
+package: pkg:deb/debian/libpgobject-util-dbadmin-perl
 versions:
   - purl: pkg:deb/debian/libpgobject-util-dbadmin-perl@0.100.0-1?distro=stretch
     affected_by_vulnerabilities:

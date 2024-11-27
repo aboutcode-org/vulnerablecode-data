@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gsoap
+package: pkg:deb/ubuntu/gsoap
 versions:
   - purl: pkg:deb/ubuntu/gsoap@2.7.0d-2
     affected_by_vulnerabilities:

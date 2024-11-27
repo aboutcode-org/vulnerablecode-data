@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/screenie
+package: pkg:deb/debian/screenie
 versions:
   - purl: pkg:deb/debian/screenie@1.30.0-5.1?distro=sid
     affected_by_vulnerabilities: []

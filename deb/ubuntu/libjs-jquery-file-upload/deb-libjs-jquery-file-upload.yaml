@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libjs-jquery-file-upload
+package: pkg:deb/ubuntu/libjs-jquery-file-upload
 versions:
   - purl: pkg:deb/ubuntu/libjs-jquery-file-upload@9.19.1-1
     affected_by_vulnerabilities:

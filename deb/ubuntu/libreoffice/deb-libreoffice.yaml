@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libreoffice
+package: pkg:deb/ubuntu/libreoffice
 versions:
   - purl: pkg:deb/ubuntu/libreoffice@1:3.3.0-1ubuntu1
     affected_by_vulnerabilities:

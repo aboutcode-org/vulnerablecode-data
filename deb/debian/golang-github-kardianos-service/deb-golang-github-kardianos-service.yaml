@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-kardianos-service
+package: pkg:deb/debian/golang-github-kardianos-service
 versions:
   - purl: pkg:deb/debian/golang-github-kardianos-service@0?distro=sid
     affected_by_vulnerabilities: []

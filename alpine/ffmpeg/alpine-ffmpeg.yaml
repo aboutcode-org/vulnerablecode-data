@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/ffmpeg
+package: pkg:alpine/ffmpeg
 versions:
   - purl: pkg:alpine/ffmpeg@2.8.11-r0?arch=armhf&distroversion=v3.3&reponame=main
     affected_by_vulnerabilities: []

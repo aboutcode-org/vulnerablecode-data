@@ -1,4 +1,4 @@
-pacakge: pkg:conan/libjpeg-turbo
+package: pkg:conan/libjpeg-turbo
 versions:
   - purl: pkg:conan/libjpeg-turbo@2.0.2
     affected_by_vulnerabilities:

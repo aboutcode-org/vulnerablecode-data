@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/festival
+package: pkg:deb/ubuntu/festival
 versions:
   - purl: pkg:deb/ubuntu/festival@1:2.0.95~beta-2ubuntu1
     affected_by_vulnerabilities:

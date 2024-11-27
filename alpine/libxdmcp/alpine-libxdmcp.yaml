@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libxdmcp
+package: pkg:alpine/libxdmcp
 versions:
   - purl: pkg:alpine/libxdmcp@1.1.2-r3?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

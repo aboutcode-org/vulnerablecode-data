@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnunet
+package: pkg:deb/debian/gnunet
 versions:
   - purl: pkg:deb/debian/gnunet@0.10.1-4?distro=stretch
     affected_by_vulnerabilities: []

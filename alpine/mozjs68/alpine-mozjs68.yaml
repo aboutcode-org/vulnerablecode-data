@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/mozjs68
+package: pkg:alpine/mozjs68
 versions:
   - purl: pkg:alpine/mozjs68@60.7.2-r0?arch=aarch64&distroversion=v3.12&reponame=community
     affected_by_vulnerabilities: []

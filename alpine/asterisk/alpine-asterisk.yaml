@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/asterisk
+package: pkg:alpine/asterisk
 versions:
   - purl: pkg:alpine/asterisk@15.6.2-r0?arch=aarch64&distroversion=v3.7&reponame=main
     affected_by_vulnerabilities: []

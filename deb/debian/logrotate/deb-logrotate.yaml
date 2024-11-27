@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/logrotate
+package: pkg:deb/debian/logrotate
 versions:
   - purl: pkg:deb/debian/logrotate@0?distro=sid
     affected_by_vulnerabilities: []

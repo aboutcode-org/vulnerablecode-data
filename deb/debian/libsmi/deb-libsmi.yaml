@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libsmi
+package: pkg:deb/debian/libsmi
 versions:
   - purl: pkg:deb/debian/libsmi@0.4.8%2Bdfsg2-15?distro=stretch
     affected_by_vulnerabilities: []

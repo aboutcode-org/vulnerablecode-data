@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-nokogiri
+package: pkg:deb/debian/ruby-nokogiri
 versions:
   - purl: pkg:deb/debian/ruby-nokogiri@0?distro=sid
     affected_by_vulnerabilities: []

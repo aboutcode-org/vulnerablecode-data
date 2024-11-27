@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/sox
+package: pkg:alpine/sox
 versions:
   - purl: pkg:alpine/sox@14.4.2-r3?arch=aarch64&distroversion=v3.9&reponame=community
     affected_by_vulnerabilities: []

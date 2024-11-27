@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/sane
+package: pkg:alpine/sane
 versions:
   - purl: pkg:alpine/sane@1.0.30-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

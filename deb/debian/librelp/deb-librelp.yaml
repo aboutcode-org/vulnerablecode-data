@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/librelp
+package: pkg:deb/debian/librelp
 versions:
   - purl: pkg:deb/debian/librelp@1.10.0-1?distro=sid
     affected_by_vulnerabilities: []

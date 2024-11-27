@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tpm2-tools
+package: pkg:deb/debian/tpm2-tools
 versions:
   - purl: pkg:deb/debian/tpm2-tools@0?distro=sid
     affected_by_vulnerabilities: []

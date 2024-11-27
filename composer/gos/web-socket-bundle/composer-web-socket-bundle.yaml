@@ -1,4 +1,4 @@
-pacakge: pkg:composer/gos/web-socket-bundle
+package: pkg:composer/gos/web-socket-bundle
 versions:
   - purl: pkg:composer/gos/web-socket-bundle@1.0.0
     affected_by_vulnerabilities:

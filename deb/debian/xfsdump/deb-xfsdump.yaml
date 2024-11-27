@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xfsdump
+package: pkg:deb/debian/xfsdump
 versions:
   - purl: pkg:deb/debian/xfsdump@2.0.1-2
     affected_by_vulnerabilities:

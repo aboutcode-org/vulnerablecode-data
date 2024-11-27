@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/gvfs
+package: pkg:alpine/gvfs
 versions:
   - purl: pkg:alpine/gvfs@1.34.1-r1?arch=aarch64&distroversion=v3.7&reponame=main
     affected_by_vulnerabilities: []

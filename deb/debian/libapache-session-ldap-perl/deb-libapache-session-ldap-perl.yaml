@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libapache-session-ldap-perl
+package: pkg:deb/debian/libapache-session-ldap-perl
 versions:
   - purl: pkg:deb/debian/libapache-session-ldap-perl@0.4-1
     affected_by_vulnerabilities:

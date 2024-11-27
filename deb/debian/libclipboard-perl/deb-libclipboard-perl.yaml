@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libclipboard-perl
+package: pkg:deb/debian/libclipboard-perl
 versions:
   - purl: pkg:deb/debian/libclipboard-perl@0?distro=sid
     affected_by_vulnerabilities: []

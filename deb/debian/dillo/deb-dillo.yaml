@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dillo
+package: pkg:deb/debian/dillo
 versions:
   - purl: pkg:deb/debian/dillo@0.6.4-4
     affected_by_vulnerabilities:

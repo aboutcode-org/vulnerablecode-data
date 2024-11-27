@@ -1,4 +1,4 @@
-pacakge: pkg:composer/rmccue/requests
+package: pkg:composer/rmccue/requests
 versions:
   - purl: pkg:composer/rmccue/requests@1.6.0
     affected_by_vulnerabilities:

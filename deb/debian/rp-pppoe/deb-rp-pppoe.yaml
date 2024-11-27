@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rp-pppoe
+package: pkg:deb/debian/rp-pppoe
 versions:
   - purl: pkg:deb/debian/rp-pppoe@1.0-1
     affected_by_vulnerabilities:

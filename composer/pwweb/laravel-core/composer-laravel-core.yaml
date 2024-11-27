@@ -1,4 +1,4 @@
-pacakge: pkg:composer/pwweb/laravel-core
+package: pkg:composer/pwweb/laravel-core
 versions:
   - purl: pkg:composer/pwweb/laravel-core@0.1.0-beta
     affected_by_vulnerabilities:

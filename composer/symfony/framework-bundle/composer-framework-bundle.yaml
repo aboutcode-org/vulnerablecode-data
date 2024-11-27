@@ -1,4 +1,4 @@
-pacakge: pkg:composer/symfony/framework-bundle
+package: pkg:composer/symfony/framework-bundle
 versions:
   - purl: pkg:composer/symfony/framework-bundle@2.0.0
     affected_by_vulnerabilities:

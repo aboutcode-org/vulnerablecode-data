@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libpdfbox-java
+package: pkg:deb/debian/libpdfbox-java
 versions:
   - purl: pkg:deb/debian/libpdfbox-java@0?distro=sid
     affected_by_vulnerabilities: []

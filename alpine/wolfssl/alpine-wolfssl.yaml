@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/wolfssl
+package: pkg:alpine/wolfssl
 versions:
   - purl: pkg:alpine/wolfssl@5.4.0-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

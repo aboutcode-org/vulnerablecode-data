@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libapreq2
+package: pkg:deb/debian/libapreq2
 versions:
   - purl: pkg:deb/debian/libapreq2@2.07-1?distro=sid
     affected_by_vulnerabilities: []

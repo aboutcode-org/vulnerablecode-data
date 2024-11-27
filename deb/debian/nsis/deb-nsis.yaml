@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nsis
+package: pkg:deb/debian/nsis
 versions:
   - purl: pkg:deb/debian/nsis@2.50-1?distro=sid
     affected_by_vulnerabilities: []

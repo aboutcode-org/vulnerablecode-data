@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pam-shield
+package: pkg:deb/debian/pam-shield
 versions:
   - purl: pkg:deb/debian/pam-shield@0.9.2-3.3?distro=sid
     affected_by_vulnerabilities: []

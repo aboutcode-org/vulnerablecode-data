@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/audacity
+package: pkg:deb/ubuntu/audacity
 versions:
   - purl: pkg:deb/ubuntu/audacity@1.2.1-1
     affected_by_vulnerabilities:

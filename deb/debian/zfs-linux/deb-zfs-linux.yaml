@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/zfs-linux
+package: pkg:deb/debian/zfs-linux
 versions:
   - purl: pkg:deb/debian/zfs-linux@0?distro=sid
     affected_by_vulnerabilities: []

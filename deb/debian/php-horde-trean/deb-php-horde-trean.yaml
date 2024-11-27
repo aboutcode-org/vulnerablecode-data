@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-horde-trean
+package: pkg:deb/debian/php-horde-trean
 versions:
   - purl: pkg:deb/debian/php-horde-trean@1.1.10-1?distro=sid
     affected_by_vulnerabilities: []

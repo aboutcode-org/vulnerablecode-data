@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/x11vnc
+package: pkg:deb/debian/x11vnc
 versions:
   - purl: pkg:deb/debian/x11vnc@0.9.13-2%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dlt-daemon
+package: pkg:deb/debian/dlt-daemon
 versions:
   - purl: pkg:deb/debian/dlt-daemon@2.18.0-1?distro=sid
     affected_by_vulnerabilities:

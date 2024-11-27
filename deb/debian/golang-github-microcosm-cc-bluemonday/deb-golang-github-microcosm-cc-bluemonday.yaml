@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-microcosm-cc-bluemonday
+package: pkg:deb/debian/golang-github-microcosm-cc-bluemonday
 versions:
   - purl: pkg:deb/debian/golang-github-microcosm-cc-bluemonday@1.0.16-1?distro=sid
     affected_by_vulnerabilities: []

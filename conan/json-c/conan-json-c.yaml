@@ -1,4 +1,4 @@
-pacakge: pkg:conan/json-c
+package: pkg:conan/json-c
 versions:
   - purl: pkg:conan/json-c@0.13.1
     affected_by_vulnerabilities:

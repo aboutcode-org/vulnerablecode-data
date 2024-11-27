@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dompurify.js
+package: pkg:deb/debian/dompurify.js
 versions:
   - purl: pkg:deb/debian/dompurify.js@0.8.2~dfsg1-1?distro=stretch
     affected_by_vulnerabilities: []

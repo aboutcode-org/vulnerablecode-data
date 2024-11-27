@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/checkpw
+package: pkg:deb/ubuntu/checkpw
 versions:
   - purl: pkg:deb/ubuntu/checkpw@1.00-3
     affected_by_vulnerabilities:

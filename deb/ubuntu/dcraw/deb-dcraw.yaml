@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/dcraw
+package: pkg:deb/ubuntu/dcraw
 versions:
   - purl: pkg:deb/ubuntu/dcraw@5.43-1
     affected_by_vulnerabilities:

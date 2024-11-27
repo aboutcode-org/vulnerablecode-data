@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/advancecomp
+package: pkg:deb/ubuntu/advancecomp
 versions:
   - purl: pkg:deb/ubuntu/advancecomp@1.15-1
     affected_by_vulnerabilities:

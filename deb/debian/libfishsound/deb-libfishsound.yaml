@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libfishsound
+package: pkg:deb/debian/libfishsound
 versions:
   - purl: pkg:deb/debian/libfishsound@0.7.0-2.2?distro=sid
     affected_by_vulnerabilities: []

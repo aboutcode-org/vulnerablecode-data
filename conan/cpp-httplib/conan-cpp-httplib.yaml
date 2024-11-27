@@ -1,4 +1,4 @@
-pacakge: pkg:conan/cpp-httplib
+package: pkg:conan/cpp-httplib
 versions:
   - purl: pkg:conan/cpp-httplib@0.5.13
     affected_by_vulnerabilities: []

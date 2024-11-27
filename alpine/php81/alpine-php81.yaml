@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/php81
+package: pkg:alpine/php81
 versions:
   - purl: pkg:alpine/php81@8.1.0-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

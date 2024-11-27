@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ax25-tools
+package: pkg:deb/debian/ax25-tools
 versions:
   - purl: pkg:deb/debian/ax25-tools@0.0.10-rc4-1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

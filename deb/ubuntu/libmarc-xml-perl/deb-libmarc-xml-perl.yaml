@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libmarc-xml-perl
+package: pkg:deb/ubuntu/libmarc-xml-perl
 versions:
   - purl: pkg:deb/ubuntu/libmarc-xml-perl@0.85-1
     affected_by_vulnerabilities:

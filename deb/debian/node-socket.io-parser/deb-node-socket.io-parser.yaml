@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-socket.io-parser
+package: pkg:deb/debian/node-socket.io-parser
 versions:
   - purl: pkg:deb/debian/node-socket.io-parser@3.3.0-1?distro=sid
     affected_by_vulnerabilities:

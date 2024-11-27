@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/fwknop
+package: pkg:deb/ubuntu/fwknop
 versions:
   - purl: pkg:deb/ubuntu/fwknop@1.9.10-1
     affected_by_vulnerabilities:

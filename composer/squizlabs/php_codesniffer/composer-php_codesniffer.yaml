@@ -1,4 +1,4 @@
-pacakge: pkg:composer/squizlabs/php_codesniffer
+package: pkg:composer/squizlabs/php_codesniffer
 versions:
   - purl: pkg:composer/squizlabs/php_codesniffer@1.0.0
     affected_by_vulnerabilities:

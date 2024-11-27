@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pasdoc
+package: pkg:deb/debian/pasdoc
 versions:
   - purl: pkg:deb/debian/pasdoc@0.14.0-1?distro=stretch
     affected_by_vulnerabilities:

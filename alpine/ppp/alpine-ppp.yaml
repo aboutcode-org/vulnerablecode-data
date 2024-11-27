@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/ppp
+package: pkg:alpine/ppp
 versions:
   - purl: pkg:alpine/ppp@2.4.7-r7?arch=aarch64&distroversion=v3.10&reponame=main
     affected_by_vulnerabilities: []

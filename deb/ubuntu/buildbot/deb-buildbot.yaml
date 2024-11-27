@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/buildbot
+package: pkg:deb/ubuntu/buildbot
 versions:
   - purl: pkg:deb/ubuntu/buildbot@0.7.10p1-1
     affected_by_vulnerabilities:

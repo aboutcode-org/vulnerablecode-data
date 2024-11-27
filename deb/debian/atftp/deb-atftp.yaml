@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/atftp
+package: pkg:deb/debian/atftp
 versions:
   - purl: pkg:deb/debian/atftp@0?distro=sid
     affected_by_vulnerabilities: []

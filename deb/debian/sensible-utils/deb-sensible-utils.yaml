@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sensible-utils
+package: pkg:deb/debian/sensible-utils
 versions:
   - purl: pkg:deb/debian/sensible-utils@0.0.11?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gnustep-base
+package: pkg:deb/ubuntu/gnustep-base
 versions:
   - purl: pkg:deb/ubuntu/gnustep-base@1.10.1-2
     affected_by_vulnerabilities:

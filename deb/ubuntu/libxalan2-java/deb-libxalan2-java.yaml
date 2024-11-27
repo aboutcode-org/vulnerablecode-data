@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libxalan2-java
+package: pkg:deb/ubuntu/libxalan2-java
 versions:
   - purl: pkg:deb/ubuntu/libxalan2-java@2.6.0-1
     affected_by_vulnerabilities:

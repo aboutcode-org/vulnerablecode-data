@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/monkeysphere
+package: pkg:deb/debian/monkeysphere
 versions:
   - purl: pkg:deb/debian/monkeysphere@0.31-3?distro=sid
     affected_by_vulnerabilities: []

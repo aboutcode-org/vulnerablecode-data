@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-deep-extend
+package: pkg:deb/debian/node-deep-extend
 versions:
   - purl: pkg:deb/debian/node-deep-extend@0.4.1-1?distro=stretch
     affected_by_vulnerabilities:

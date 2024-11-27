@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/brotli
+package: pkg:deb/debian/brotli
 versions:
   - purl: pkg:deb/debian/brotli@0.3.0%2Bdfsg-3?distro=sid
     affected_by_vulnerabilities: []

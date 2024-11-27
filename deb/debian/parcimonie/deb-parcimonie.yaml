@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/parcimonie
+package: pkg:deb/debian/parcimonie
 versions:
   - purl: pkg:deb/debian/parcimonie@0.10.2-4?distro=stretch
     affected_by_vulnerabilities: []

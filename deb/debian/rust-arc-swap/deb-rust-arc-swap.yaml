@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-arc-swap
+package: pkg:deb/debian/rust-arc-swap
 versions:
   - purl: pkg:deb/debian/rust-arc-swap@0.3.7-1?distro=sid
     affected_by_vulnerabilities:

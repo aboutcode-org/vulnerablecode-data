@@ -1,4 +1,4 @@
-pacakge: pkg:composer/paypal/permissions-sdk-php
+package: pkg:composer/paypal/permissions-sdk-php
 versions:
   - purl: pkg:composer/paypal/permissions-sdk-php@2.2.98
     affected_by_vulnerabilities:

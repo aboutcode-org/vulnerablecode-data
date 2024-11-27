@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tcpdf
+package: pkg:deb/debian/tcpdf
 versions:
   - purl: pkg:deb/debian/tcpdf@6.2.12%2Bdfsg2-1?distro=sid
     affected_by_vulnerabilities: []

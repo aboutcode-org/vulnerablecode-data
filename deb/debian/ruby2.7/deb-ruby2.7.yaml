@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby2.7
+package: pkg:deb/debian/ruby2.7
 versions:
   - purl: pkg:deb/debian/ruby2.7@0?distro=bullseye
     affected_by_vulnerabilities: []

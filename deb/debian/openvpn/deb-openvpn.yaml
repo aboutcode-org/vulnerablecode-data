@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openvpn
+package: pkg:deb/debian/openvpn
 versions:
   - purl: pkg:deb/debian/openvpn@0?distro=sid
     affected_by_vulnerabilities: []

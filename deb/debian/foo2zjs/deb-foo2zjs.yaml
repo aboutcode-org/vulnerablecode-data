@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/foo2zjs
+package: pkg:deb/debian/foo2zjs
 versions:
   - purl: pkg:deb/debian/foo2zjs@20110722dfsg-1?distro=sid
     affected_by_vulnerabilities: []

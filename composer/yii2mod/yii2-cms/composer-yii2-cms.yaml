@@ -1,4 +1,4 @@
-pacakge: pkg:composer/yii2mod/yii2-cms
+package: pkg:composer/yii2mod/yii2-cms
 versions:
   - purl: pkg:composer/yii2mod/yii2-cms@1.0
     affected_by_vulnerabilities:

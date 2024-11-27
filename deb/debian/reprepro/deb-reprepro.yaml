@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/reprepro
+package: pkg:deb/debian/reprepro
 versions:
   - purl: pkg:deb/debian/reprepro@2.2.4-1?distro=sid
     affected_by_vulnerabilities: []

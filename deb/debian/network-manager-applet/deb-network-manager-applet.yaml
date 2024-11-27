@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/network-manager-applet
+package: pkg:deb/debian/network-manager-applet
 versions:
   - purl: pkg:deb/debian/network-manager-applet@0?distro=sid
     affected_by_vulnerabilities: []

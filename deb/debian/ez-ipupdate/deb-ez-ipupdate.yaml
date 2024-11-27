@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ez-ipupdate
+package: pkg:deb/debian/ez-ipupdate
 versions:
   - purl: pkg:deb/debian/ez-ipupdate@3.0.11b5-1woody2
     affected_by_vulnerabilities:

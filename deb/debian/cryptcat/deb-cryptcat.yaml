@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cryptcat
+package: pkg:deb/debian/cryptcat
 versions:
   - purl: pkg:deb/debian/cryptcat@20031202-2?distro=buster
     affected_by_vulnerabilities: []

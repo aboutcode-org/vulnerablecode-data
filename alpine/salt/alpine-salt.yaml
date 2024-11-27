@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/salt
+package: pkg:alpine/salt
 versions:
   - purl: pkg:alpine/salt@2016.11.2-r0?arch=aarch64&distroversion=v3.5&reponame=community
     affected_by_vulnerabilities: []

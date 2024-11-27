@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnumeric
+package: pkg:deb/debian/gnumeric
 versions:
   - purl: pkg:deb/debian/gnumeric@0.3-1
     affected_by_vulnerabilities:

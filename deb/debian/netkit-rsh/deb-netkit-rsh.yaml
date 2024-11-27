@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/netkit-rsh
+package: pkg:deb/debian/netkit-rsh
 versions:
   - purl: pkg:deb/debian/netkit-rsh@0.17-17?distro=stretch
     affected_by_vulnerabilities: []

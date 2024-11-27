@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libgxps
+package: pkg:deb/debian/libgxps
 versions:
   - purl: pkg:deb/debian/libgxps@0.2.4-1?distro=stretch
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/netpbm-free
+package: pkg:deb/debian/netpbm-free
 versions:
   - purl: pkg:deb/debian/netpbm-free@0?distro=sid
     affected_by_vulnerabilities: []

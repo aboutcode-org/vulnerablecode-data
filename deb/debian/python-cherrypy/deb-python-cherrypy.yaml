@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-cherrypy
+package: pkg:deb/debian/python-cherrypy
 versions:
   - purl: pkg:deb/debian/python-cherrypy@2.1.1-1?distro=buster
     affected_by_vulnerabilities: []

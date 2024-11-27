@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libcroco
+package: pkg:deb/debian/libcroco
 versions:
   - purl: pkg:deb/debian/libcroco@0.6.11-3?distro=buster
     affected_by_vulnerabilities: []

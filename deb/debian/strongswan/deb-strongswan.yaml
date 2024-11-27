@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/strongswan
+package: pkg:deb/debian/strongswan
 versions:
   - purl: pkg:deb/debian/strongswan@0?distro=sid
     affected_by_vulnerabilities: []

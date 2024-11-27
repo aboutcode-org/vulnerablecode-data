@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bitlbee
+package: pkg:deb/debian/bitlbee
 versions:
   - purl: pkg:deb/debian/bitlbee@1.2.2-1?distro=sid
     affected_by_vulnerabilities: []

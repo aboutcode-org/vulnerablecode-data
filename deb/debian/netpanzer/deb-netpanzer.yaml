@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/netpanzer
+package: pkg:deb/debian/netpanzer
 versions:
   - purl: pkg:deb/debian/netpanzer@0.8-1
     affected_by_vulnerabilities:

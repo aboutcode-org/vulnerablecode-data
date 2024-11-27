@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fabric
+package: pkg:deb/debian/fabric
 versions:
   - purl: pkg:deb/debian/fabric@1.1.2-1?distro=sid
     affected_by_vulnerabilities: []

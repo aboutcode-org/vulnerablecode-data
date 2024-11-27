@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ros-actionlib
+package: pkg:deb/debian/ros-actionlib
 versions:
   - purl: pkg:deb/debian/ros-actionlib@1.11.15-1%2Bdeb10u1?distro=sid
     affected_by_vulnerabilities: []

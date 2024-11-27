@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tenshi
+package: pkg:deb/debian/tenshi
 versions:
   - purl: pkg:deb/debian/tenshi@0.13-2.1?distro=sid
     affected_by_vulnerabilities: []

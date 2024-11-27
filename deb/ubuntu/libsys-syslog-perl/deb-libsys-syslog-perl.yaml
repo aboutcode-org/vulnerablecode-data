@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libsys-syslog-perl
+package: pkg:deb/ubuntu/libsys-syslog-perl
 versions:
   - purl: pkg:deb/ubuntu/libsys-syslog-perl@0.18-1
     affected_by_vulnerabilities:

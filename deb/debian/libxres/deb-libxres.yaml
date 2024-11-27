@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libxres
+package: pkg:deb/debian/libxres
 versions:
   - purl: pkg:deb/debian/libxres@2:1.0.6-1%2Bdeb7u1?distro=sid
     affected_by_vulnerabilities: []

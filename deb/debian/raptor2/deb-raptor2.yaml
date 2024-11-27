@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/raptor2
+package: pkg:deb/debian/raptor2
 versions:
   - purl: pkg:deb/debian/raptor2@2.0.14-1?distro=stretch
     affected_by_vulnerabilities: []

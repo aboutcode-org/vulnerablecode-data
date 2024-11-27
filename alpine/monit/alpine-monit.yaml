@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/monit
+package: pkg:alpine/monit
 versions:
   - purl: pkg:alpine/monit@5.24.0-r2?arch=aarch64&distroversion=v3.7&reponame=main
     affected_by_vulnerabilities: []

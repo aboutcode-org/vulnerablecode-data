@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bristol
+package: pkg:deb/debian/bristol
 versions:
   - purl: pkg:deb/debian/bristol@0.60.11-3?distro=sid
     affected_by_vulnerabilities: []

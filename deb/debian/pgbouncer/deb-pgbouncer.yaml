@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pgbouncer
+package: pkg:deb/debian/pgbouncer
 versions:
   - purl: pkg:deb/debian/pgbouncer@1.15.0-1?distro=sid
     affected_by_vulnerabilities:

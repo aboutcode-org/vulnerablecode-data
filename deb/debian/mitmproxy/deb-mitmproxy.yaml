@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mitmproxy
+package: pkg:deb/debian/mitmproxy
 versions:
   - purl: pkg:deb/debian/mitmproxy@0.18.2-6%2Bdeb9u2?distro=stretch
     affected_by_vulnerabilities:

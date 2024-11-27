@@ -1,4 +1,4 @@
-pacakge: pkg:composer/blueimp/jquery-file-upload
+package: pkg:composer/blueimp/jquery-file-upload
 versions:
   - purl: pkg:composer/blueimp/jquery-file-upload@6.4.4
     affected_by_vulnerabilities:

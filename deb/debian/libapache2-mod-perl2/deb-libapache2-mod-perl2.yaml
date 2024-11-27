@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libapache2-mod-perl2
+package: pkg:deb/debian/libapache2-mod-perl2
 versions:
   - purl: pkg:deb/debian/libapache2-mod-perl2@1.999.21-1
     affected_by_vulnerabilities:

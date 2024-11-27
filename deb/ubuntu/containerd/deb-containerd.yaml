@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/containerd
+package: pkg:deb/ubuntu/containerd
 versions:
   - purl: pkg:deb/ubuntu/containerd@0.2.1-0ubuntu1
     affected_by_vulnerabilities:

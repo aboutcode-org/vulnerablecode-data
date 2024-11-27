@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/axel
+package: pkg:deb/debian/axel
 versions:
   - purl: pkg:deb/debian/axel@1.0a-1woody1
     affected_by_vulnerabilities:

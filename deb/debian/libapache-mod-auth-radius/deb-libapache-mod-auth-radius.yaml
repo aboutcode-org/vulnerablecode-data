@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libapache-mod-auth-radius
+package: pkg:deb/debian/libapache-mod-auth-radius
 versions:
   - purl: pkg:deb/debian/libapache-mod-auth-radius@1.5.7-6?distro=sid
     affected_by_vulnerabilities: []

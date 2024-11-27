@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/efl
+package: pkg:deb/debian/efl
 versions:
   - purl: pkg:deb/debian/efl@0?distro=sid
     affected_by_vulnerabilities: []

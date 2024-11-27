@@ -1,4 +1,4 @@
-pacakge: pkg:composer/zendframework/zend-session
+package: pkg:composer/zendframework/zend-session
 versions:
   - purl: pkg:composer/zendframework/zend-session@2.0.0
     affected_by_vulnerabilities:

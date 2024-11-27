@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rootlesskit
+package: pkg:deb/debian/rootlesskit
 versions:
   - purl: pkg:deb/debian/rootlesskit@0.12.0-1?distro=sid
     affected_by_vulnerabilities: []

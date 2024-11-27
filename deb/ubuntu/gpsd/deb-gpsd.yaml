@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gpsd
+package: pkg:deb/ubuntu/gpsd
 versions:
   - purl: pkg:deb/ubuntu/gpsd@2.28-1ubuntu1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/apache2
+package: pkg:deb/ubuntu/apache2
 versions:
   - purl: pkg:deb/ubuntu/apache2@2.0.50-12ubuntu4
     affected_by_vulnerabilities:

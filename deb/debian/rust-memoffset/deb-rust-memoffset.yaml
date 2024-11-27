@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-memoffset
+package: pkg:deb/debian/rust-memoffset
 versions:
   - purl: pkg:deb/debian/rust-memoffset@0.2.1-1?distro=sid
     affected_by_vulnerabilities:

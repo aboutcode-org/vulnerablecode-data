@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/afflib
+package: pkg:deb/debian/afflib
 versions:
   - purl: pkg:deb/debian/afflib@3.7.15-1?distro=stretch
     affected_by_vulnerabilities:

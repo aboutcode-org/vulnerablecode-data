@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/json-c
+package: pkg:deb/ubuntu/json-c
 versions:
   - purl: pkg:deb/ubuntu/json-c@0.10-1.1
     affected_by_vulnerabilities:

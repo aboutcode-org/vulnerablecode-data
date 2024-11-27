@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/unace
+package: pkg:deb/debian/unace
 versions:
   - purl: pkg:deb/debian/unace@1.2b-12?distro=sid
     affected_by_vulnerabilities: []

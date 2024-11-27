@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lxdm
+package: pkg:deb/debian/lxdm
 versions:
   - purl: pkg:deb/debian/lxdm@0.5.3-1?distro=sid
     affected_by_vulnerabilities: []

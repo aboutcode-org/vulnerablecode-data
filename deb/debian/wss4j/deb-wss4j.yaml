@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/wss4j
+package: pkg:deb/debian/wss4j
 versions:
   - purl: pkg:deb/debian/wss4j@1.6.15-2?distro=sid
     affected_by_vulnerabilities: []

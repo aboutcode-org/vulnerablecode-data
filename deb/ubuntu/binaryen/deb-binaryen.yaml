@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/binaryen
+package: pkg:deb/ubuntu/binaryen
 versions:
   - purl: pkg:deb/ubuntu/binaryen@61-1
     affected_by_vulnerabilities:

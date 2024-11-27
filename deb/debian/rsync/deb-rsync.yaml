@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rsync
+package: pkg:deb/debian/rsync
 versions:
   - purl: pkg:deb/debian/rsync@0?distro=sid
     affected_by_vulnerabilities: []

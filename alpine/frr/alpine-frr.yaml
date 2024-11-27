@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/frr
+package: pkg:alpine/frr
 versions:
   - purl: pkg:alpine/frr@8.2.1-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

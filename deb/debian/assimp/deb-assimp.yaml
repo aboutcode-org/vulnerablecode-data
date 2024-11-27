@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/assimp
+package: pkg:deb/debian/assimp
 versions:
   - purl: pkg:deb/debian/assimp@0?distro=sid
     affected_by_vulnerabilities: []

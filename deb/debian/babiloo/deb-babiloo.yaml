@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/babiloo
+package: pkg:deb/debian/babiloo
 versions:
   - purl: pkg:deb/debian/babiloo@2.0.11-1?distro=buster
     affected_by_vulnerabilities: []

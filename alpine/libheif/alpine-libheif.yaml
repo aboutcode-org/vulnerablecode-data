@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libheif
+package: pkg:alpine/libheif
 versions:
   - purl: pkg:alpine/libheif@1.5.0-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

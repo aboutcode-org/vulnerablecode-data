@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/seafile
+package: pkg:deb/debian/seafile
 versions:
   - purl: pkg:deb/debian/seafile@0?distro=sid
     affected_by_vulnerabilities: []

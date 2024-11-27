@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nano
+package: pkg:deb/debian/nano
 versions:
   - purl: pkg:deb/debian/nano@2.2.4-1?distro=sid
     affected_by_vulnerabilities: []

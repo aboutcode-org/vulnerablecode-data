@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/backintime
+package: pkg:deb/ubuntu/backintime
 versions:
   - purl: pkg:deb/ubuntu/backintime@0.9.20-1
     affected_by_vulnerabilities:

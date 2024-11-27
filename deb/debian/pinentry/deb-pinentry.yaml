@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pinentry
+package: pkg:deb/debian/pinentry
 versions:
   - purl: pkg:deb/debian/pinentry@0?distro=sid
     affected_by_vulnerabilities: []

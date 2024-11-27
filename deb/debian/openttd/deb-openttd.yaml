@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openttd
+package: pkg:deb/debian/openttd
 versions:
   - purl: pkg:deb/debian/openttd@0.6.2-1?distro=sid
     affected_by_vulnerabilities: []

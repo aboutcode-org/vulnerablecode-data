@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/exfat-utils
+package: pkg:deb/ubuntu/exfat-utils
 versions:
   - purl: pkg:deb/ubuntu/exfat-utils@0.9.7-1
     affected_by_vulnerabilities:

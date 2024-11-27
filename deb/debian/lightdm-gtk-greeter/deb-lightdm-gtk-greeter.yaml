@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lightdm-gtk-greeter
+package: pkg:deb/debian/lightdm-gtk-greeter
 versions:
   - purl: pkg:deb/debian/lightdm-gtk-greeter@1.6.1-5?distro=sid
     affected_by_vulnerabilities: []

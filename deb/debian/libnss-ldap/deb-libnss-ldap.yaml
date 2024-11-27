@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libnss-ldap
+package: pkg:deb/debian/libnss-ldap
 versions:
   - purl: pkg:deb/debian/libnss-ldap@0?distro=buster
     affected_by_vulnerabilities: []

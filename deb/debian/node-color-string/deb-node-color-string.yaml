@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-color-string
+package: pkg:deb/debian/node-color-string
 versions:
   - purl: pkg:deb/debian/node-color-string@1.5.2-1?distro=sid
     affected_by_vulnerabilities:

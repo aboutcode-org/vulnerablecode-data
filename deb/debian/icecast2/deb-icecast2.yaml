@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/icecast2
+package: pkg:deb/debian/icecast2
 versions:
   - purl: pkg:deb/debian/icecast2@2.0.1.debian-1?distro=sid
     affected_by_vulnerabilities: []

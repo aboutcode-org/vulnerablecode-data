@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sql-ledger
+package: pkg:deb/debian/sql-ledger
 versions:
   - purl: pkg:deb/debian/sql-ledger@2.4.5-1?distro=sid
     affected_by_vulnerabilities: []

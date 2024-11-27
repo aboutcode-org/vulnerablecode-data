@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/glib2.0
+package: pkg:deb/debian/glib2.0
 versions:
   - purl: pkg:deb/debian/glib2.0@0?distro=sid
     affected_by_vulnerabilities: []

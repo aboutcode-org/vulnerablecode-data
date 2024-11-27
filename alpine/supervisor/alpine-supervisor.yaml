@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/supervisor
+package: pkg:alpine/supervisor
 versions:
   - purl: pkg:alpine/supervisor@3.1.4-r0?arch=armhf&distroversion=v3.3&reponame=main
     affected_by_vulnerabilities: []

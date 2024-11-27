@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/poppler
+package: pkg:alpine/poppler
 versions:
   - purl: pkg:alpine/poppler@0?arch=aarch64&distroversion=v3.13&reponame=main
     affected_by_vulnerabilities: []

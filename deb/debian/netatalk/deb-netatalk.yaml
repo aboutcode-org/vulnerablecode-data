@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/netatalk
+package: pkg:deb/debian/netatalk
 versions:
   - purl: pkg:deb/debian/netatalk@1.4b2%2Basun2.0a18.2-1
     affected_by_vulnerabilities:

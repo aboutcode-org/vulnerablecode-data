@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-getid3
+package: pkg:deb/debian/php-getid3
 versions:
   - purl: pkg:deb/debian/php-getid3@1.9.12%2Bdfsg-1?distro=stretch
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libevt
+package: pkg:deb/ubuntu/libevt
 versions:
   - purl: pkg:deb/ubuntu/libevt@20150706-1
     affected_by_vulnerabilities:

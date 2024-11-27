@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/nikto
+package: pkg:alpine/nikto
 versions:
   - purl: pkg:alpine/nikto@2.1.6-r2?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

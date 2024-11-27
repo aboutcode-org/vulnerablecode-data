@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/opus-tools
+package: pkg:deb/debian/opus-tools
 versions:
   - purl: pkg:deb/debian/opus-tools@0.1.10-1?distro=sid
     affected_by_vulnerabilities: []

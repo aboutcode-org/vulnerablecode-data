@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libapache2-mod-ruid2
+package: pkg:deb/ubuntu/libapache2-mod-ruid2
 versions:
   - purl: pkg:deb/ubuntu/libapache2-mod-ruid2@0.9.5-1
     affected_by_vulnerabilities:

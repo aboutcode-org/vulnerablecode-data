@@ -1,4 +1,4 @@
-pacakge: pkg:composer/lcobucci/jwt
+package: pkg:composer/lcobucci/jwt
 versions:
   - purl: pkg:composer/lcobucci/jwt@3.4.0
     affected_by_vulnerabilities:

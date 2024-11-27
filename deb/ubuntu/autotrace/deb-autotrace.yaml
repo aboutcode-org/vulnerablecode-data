@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/autotrace
+package: pkg:deb/ubuntu/autotrace
 versions:
   - purl: pkg:deb/ubuntu/autotrace@0.31.1-11
     affected_by_vulnerabilities:

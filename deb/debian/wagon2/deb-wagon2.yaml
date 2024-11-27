@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/wagon2
+package: pkg:deb/debian/wagon2
 versions:
   - purl: pkg:deb/debian/wagon2@2.10-6?distro=stretch
     affected_by_vulnerabilities: []

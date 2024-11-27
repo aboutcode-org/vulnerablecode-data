@@ -1,4 +1,4 @@
-pacakge: pkg:conan/libconfuse
+package: pkg:conan/libconfuse
 versions:
   - purl: pkg:conan/libconfuse@3.3
     affected_by_vulnerabilities:

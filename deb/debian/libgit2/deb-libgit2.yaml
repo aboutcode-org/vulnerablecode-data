@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libgit2
+package: pkg:deb/debian/libgit2
 versions:
   - purl: pkg:deb/debian/libgit2@0.21.3-1?distro=sid
     affected_by_vulnerabilities: []

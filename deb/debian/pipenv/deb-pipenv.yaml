@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pipenv
+package: pkg:deb/debian/pipenv
 versions:
   - purl: pkg:deb/debian/pipenv@0?distro=sid
     affected_by_vulnerabilities: []

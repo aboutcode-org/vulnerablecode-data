@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libxt
+package: pkg:deb/debian/libxt
 versions:
   - purl: pkg:deb/debian/libxt@1:1.1.3-1%2Bdeb7u1?distro=sid
     affected_by_vulnerabilities: []

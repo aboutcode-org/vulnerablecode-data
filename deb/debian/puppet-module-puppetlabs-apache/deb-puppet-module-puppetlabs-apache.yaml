@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/puppet-module-puppetlabs-apache
+package: pkg:deb/debian/puppet-module-puppetlabs-apache
 versions:
   - purl: pkg:deb/debian/puppet-module-puppetlabs-apache@1.10.0-1?distro=stretch
     affected_by_vulnerabilities:

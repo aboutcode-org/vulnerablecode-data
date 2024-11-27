@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnome-online-accounts
+package: pkg:deb/debian/gnome-online-accounts
 versions:
   - purl: pkg:deb/debian/gnome-online-accounts@0?distro=sid
     affected_by_vulnerabilities: []

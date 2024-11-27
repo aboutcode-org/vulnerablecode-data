@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libpgjava
+package: pkg:deb/debian/libpgjava
 versions:
   - purl: pkg:deb/debian/libpgjava@0?distro=sid
     affected_by_vulnerabilities: []

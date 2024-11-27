@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libdigidoc
+package: pkg:deb/debian/libdigidoc
 versions:
   - purl: pkg:deb/debian/libdigidoc@0?distro=sid
     affected_by_vulnerabilities: []

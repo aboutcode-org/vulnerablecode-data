@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/faac
+package: pkg:deb/debian/faac
 versions:
   - purl: pkg:deb/debian/faac@1.28%2Bcvs20151130-1?distro=stretch
     affected_by_vulnerabilities:

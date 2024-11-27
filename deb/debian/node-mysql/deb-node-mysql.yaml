@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-mysql
+package: pkg:deb/debian/node-mysql
 versions:
   - purl: pkg:deb/debian/node-mysql@2.0.0~alpha8-1?distro=sid
     affected_by_vulnerabilities: []

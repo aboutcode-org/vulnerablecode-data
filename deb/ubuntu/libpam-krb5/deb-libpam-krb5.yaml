@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libpam-krb5
+package: pkg:deb/ubuntu/libpam-krb5
 versions:
   - purl: pkg:deb/ubuntu/libpam-krb5@1.0-10
     affected_by_vulnerabilities:

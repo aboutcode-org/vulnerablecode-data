@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lldpad
+package: pkg:deb/debian/lldpad
 versions:
   - purl: pkg:deb/debian/lldpad@0.9.46-3.1?distro=stretch
     affected_by_vulnerabilities:

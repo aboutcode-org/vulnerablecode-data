@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/firewalld
+package: pkg:deb/debian/firewalld
 versions:
   - purl: pkg:deb/debian/firewalld@0.4.3.3-1?distro=sid
     affected_by_vulnerabilities: []

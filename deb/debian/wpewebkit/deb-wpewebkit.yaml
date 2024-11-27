@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/wpewebkit
+package: pkg:deb/debian/wpewebkit
 versions:
   - purl: pkg:deb/debian/wpewebkit@0?distro=sid
     affected_by_vulnerabilities: []

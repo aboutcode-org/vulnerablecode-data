@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/etcd
+package: pkg:deb/ubuntu/etcd
 versions:
   - purl: pkg:deb/ubuntu/etcd@2.2.0%2Bdfsg-2
     affected_by_vulnerabilities:

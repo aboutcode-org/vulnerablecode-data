@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dask.distributed
+package: pkg:deb/debian/dask.distributed
 versions:
   - purl: pkg:deb/debian/dask.distributed@1.25.0%2Bds.1-1?distro=sid
     affected_by_vulnerabilities:

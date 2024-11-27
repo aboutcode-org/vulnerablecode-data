@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/uml-utilities
+package: pkg:deb/debian/uml-utilities
 versions:
   - purl: pkg:deb/debian/uml-utilities@0?distro=sid
     affected_by_vulnerabilities: []

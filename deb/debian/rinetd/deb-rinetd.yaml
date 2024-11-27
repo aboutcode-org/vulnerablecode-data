@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rinetd
+package: pkg:deb/debian/rinetd
 versions:
   - purl: pkg:deb/debian/rinetd@0.41-1
     affected_by_vulnerabilities:

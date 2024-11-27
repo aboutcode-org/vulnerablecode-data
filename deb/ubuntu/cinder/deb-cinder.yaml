@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/cinder
+package: pkg:deb/ubuntu/cinder
 versions:
   - purl: pkg:deb/ubuntu/cinder@1:2013.1-0ubuntu1
     affected_by_vulnerabilities:

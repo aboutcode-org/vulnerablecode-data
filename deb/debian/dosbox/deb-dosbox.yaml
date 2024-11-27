@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dosbox
+package: pkg:deb/debian/dosbox
 versions:
   - purl: pkg:deb/debian/dosbox@0.72-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/corosync
+package: pkg:deb/ubuntu/corosync
 versions:
   - purl: pkg:deb/ubuntu/corosync@0.91-0ubuntu2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rsyslog
+package: pkg:deb/debian/rsyslog
 versions:
   - purl: pkg:deb/debian/rsyslog@0?distro=sid
     affected_by_vulnerabilities: []

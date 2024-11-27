@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-doorkeeper-openid-connect
+package: pkg:deb/debian/ruby-doorkeeper-openid-connect
 versions:
   - purl: pkg:deb/debian/ruby-doorkeeper-openid-connect@1.5.5-1?distro=sid
     affected_by_vulnerabilities: []

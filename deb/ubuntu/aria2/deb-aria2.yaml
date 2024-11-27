@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/aria2
+package: pkg:deb/ubuntu/aria2
 versions:
   - purl: pkg:deb/ubuntu/aria2@0.10.2%2B1-1
     affected_by_vulnerabilities:

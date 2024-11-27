@@ -1,4 +1,4 @@
-pacakge: pkg:composer/microweber/microweber
+package: pkg:composer/microweber/microweber
 versions:
   - purl: pkg:composer/microweber/microweber@0.93
     affected_by_vulnerabilities:

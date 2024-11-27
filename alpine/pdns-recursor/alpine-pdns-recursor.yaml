@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/pdns-recursor
+package: pkg:alpine/pdns-recursor
 versions:
   - purl: pkg:alpine/pdns-recursor@4.0.4-r0?arch=aarch64&distroversion=v3.5&reponame=community
     affected_by_vulnerabilities: []

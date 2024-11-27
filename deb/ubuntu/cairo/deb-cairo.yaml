@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/cairo
+package: pkg:deb/ubuntu/cairo
 versions:
   - purl: pkg:deb/ubuntu/cairo@1.10.0-1ubuntu1
     affected_by_vulnerabilities:

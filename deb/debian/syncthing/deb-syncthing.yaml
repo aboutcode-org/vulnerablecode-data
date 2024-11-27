@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/syncthing
+package: pkg:deb/debian/syncthing
 versions:
   - purl: pkg:deb/debian/syncthing@0.14.18%2Bdfsg1-2?distro=stretch
     affected_by_vulnerabilities:

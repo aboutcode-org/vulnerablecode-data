@@ -1,4 +1,4 @@
-pacakge: pkg:composer/symfony/mime
+package: pkg:composer/symfony/mime
 versions:
   - purl: pkg:composer/symfony/mime@4.3.0
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openocd
+package: pkg:deb/debian/openocd
 versions:
   - purl: pkg:deb/debian/openocd@0.10.0-4?distro=sid
     affected_by_vulnerabilities: []

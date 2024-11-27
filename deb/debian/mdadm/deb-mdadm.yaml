@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mdadm
+package: pkg:deb/debian/mdadm
 versions:
   - purl: pkg:deb/debian/mdadm@3.3.4-1?distro=sid
     affected_by_vulnerabilities: []

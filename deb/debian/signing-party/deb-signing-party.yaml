@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/signing-party
+package: pkg:deb/debian/signing-party
 versions:
   - purl: pkg:deb/debian/signing-party@2.10-1?distro=sid
     affected_by_vulnerabilities: []

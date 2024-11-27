@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ecdsautils
+package: pkg:deb/debian/ecdsautils
 versions:
   - purl: pkg:deb/debian/ecdsautils@0.3.2%2Bgit20151018-2?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/lms/routes
+package: pkg:composer/lms/routes
 versions:
   - purl: pkg:composer/lms/routes@1.3.3
     affected_by_vulnerabilities:

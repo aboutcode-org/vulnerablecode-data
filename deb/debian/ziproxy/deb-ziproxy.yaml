@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ziproxy
+package: pkg:deb/debian/ziproxy
 versions:
   - purl: pkg:deb/debian/ziproxy@2.7.2-1?distro=sid
     affected_by_vulnerabilities: []

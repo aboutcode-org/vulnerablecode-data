@@ -1,4 +1,4 @@
-pacakge: pkg:conan/protobuf
+package: pkg:conan/protobuf
 versions:
   - purl: pkg:conan/protobuf@3.11.3
     affected_by_vulnerabilities:

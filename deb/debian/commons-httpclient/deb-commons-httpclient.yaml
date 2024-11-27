@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/commons-httpclient
+package: pkg:deb/debian/commons-httpclient
 versions:
   - purl: pkg:deb/debian/commons-httpclient@3.1-10.1?distro=sid
     affected_by_vulnerabilities: []

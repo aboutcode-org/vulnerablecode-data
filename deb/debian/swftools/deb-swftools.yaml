@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/swftools
+package: pkg:deb/debian/swftools
 versions:
   - purl: pkg:deb/debian/swftools@0?distro=stretch
     affected_by_vulnerabilities: []

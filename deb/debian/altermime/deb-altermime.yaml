@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/altermime
+package: pkg:deb/debian/altermime
 versions:
   - purl: pkg:deb/debian/altermime@0?distro=sid
     affected_by_vulnerabilities: []

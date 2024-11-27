@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/firehol
+package: pkg:deb/debian/firehol
 versions:
   - purl: pkg:deb/debian/firehol@1.214-4?distro=sid
     affected_by_vulnerabilities: []

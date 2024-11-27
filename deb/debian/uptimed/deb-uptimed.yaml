@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/uptimed
+package: pkg:deb/debian/uptimed
 versions:
   - purl: pkg:deb/debian/uptimed@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pound
+package: pkg:deb/debian/pound
 versions:
   - purl: pkg:deb/debian/pound@1.7-1?distro=bullseye
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/java-postgresql-jdbc
+package: pkg:alpine/java-postgresql-jdbc
 versions:
   - purl: pkg:alpine/java-postgresql-jdbc@42.2.25-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

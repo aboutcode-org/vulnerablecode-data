@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/x2goserver
+package: pkg:deb/debian/x2goserver
 versions:
   - purl: pkg:deb/debian/x2goserver@0?distro=sid
     affected_by_vulnerabilities: []

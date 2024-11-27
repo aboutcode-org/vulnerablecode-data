@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gdk-pixbuf
+package: pkg:deb/ubuntu/gdk-pixbuf
 versions:
   - purl: pkg:deb/ubuntu/gdk-pixbuf@0.22.0-11
     affected_by_vulnerabilities:

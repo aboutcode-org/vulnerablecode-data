@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libphp-swiftmailer
+package: pkg:deb/debian/libphp-swiftmailer
 versions:
   - purl: pkg:deb/debian/libphp-swiftmailer@5.4.2-1.1?distro=sid
     affected_by_vulnerabilities: []

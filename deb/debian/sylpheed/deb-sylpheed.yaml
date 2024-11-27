@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sylpheed
+package: pkg:deb/debian/sylpheed
 versions:
   - purl: pkg:deb/debian/sylpheed@0.7.4-4
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/csound
+package: pkg:deb/debian/csound
 versions:
   - purl: pkg:deb/debian/csound@1:5.16.6~dfsg-1?distro=sid
     affected_by_vulnerabilities: []

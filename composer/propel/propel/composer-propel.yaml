@@ -1,4 +1,4 @@
-pacakge: pkg:composer/propel/propel
+package: pkg:composer/propel/propel
 versions:
   - purl: pkg:composer/propel/propel@2.0.0-alpha1
     affected_by_vulnerabilities:

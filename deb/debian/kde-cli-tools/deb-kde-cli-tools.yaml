@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kde-cli-tools
+package: pkg:deb/debian/kde-cli-tools
 versions:
   - purl: pkg:deb/debian/kde-cli-tools@4:5.14.5-1?distro=sid
     affected_by_vulnerabilities: []

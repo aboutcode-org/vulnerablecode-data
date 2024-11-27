@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/logol
+package: pkg:deb/debian/logol
 versions:
   - purl: pkg:deb/debian/logol@1.5.0-4?distro=sid
     affected_by_vulnerabilities: []

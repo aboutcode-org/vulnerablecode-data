@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/picocom
+package: pkg:deb/debian/picocom
 versions:
   - purl: pkg:deb/debian/picocom@1.7-2?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/librsync
+package: pkg:deb/ubuntu/librsync
 versions:
   - purl: pkg:deb/ubuntu/librsync@0.9.6-8
     affected_by_vulnerabilities:

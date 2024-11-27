@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/slurm-llnl
+package: pkg:deb/debian/slurm-llnl
 versions:
   - purl: pkg:deb/debian/slurm-llnl@0?distro=buster
     affected_by_vulnerabilities: []

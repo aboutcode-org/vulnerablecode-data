@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libsndfile
+package: pkg:deb/debian/libsndfile
 versions:
   - purl: pkg:deb/debian/libsndfile@1.0.17-4?distro=sid
     affected_by_vulnerabilities: []

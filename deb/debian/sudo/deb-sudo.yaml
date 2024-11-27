@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sudo
+package: pkg:deb/debian/sudo
 versions:
   - purl: pkg:deb/debian/sudo@0?distro=sid
     affected_by_vulnerabilities: []
