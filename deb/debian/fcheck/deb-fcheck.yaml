@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fcheck
+package: pkg:deb/debian/fcheck
 versions:
   - purl: pkg:deb/debian/fcheck@2.7.59-19?distro=stretch
     affected_by_vulnerabilities: []

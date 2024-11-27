@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-json-schema
+package: pkg:deb/debian/node-json-schema
 versions:
   - purl: pkg:deb/debian/node-json-schema@0.2.3-1?distro=sid
     affected_by_vulnerabilities:

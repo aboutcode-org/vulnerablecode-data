@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dansguardian
+package: pkg:deb/debian/dansguardian
 versions:
   - purl: pkg:deb/debian/dansguardian@2.10.1.1-5.1%2Bdeb9u2?distro=stretch
     affected_by_vulnerabilities: []

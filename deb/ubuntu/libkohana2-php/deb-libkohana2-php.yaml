@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libkohana2-php
+package: pkg:deb/ubuntu/libkohana2-php
 versions:
   - purl: pkg:deb/ubuntu/libkohana2-php@2.3.4-1
     affected_by_vulnerabilities:

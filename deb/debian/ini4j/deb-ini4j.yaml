@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ini4j
+package: pkg:deb/debian/ini4j
 versions:
   - purl: pkg:deb/debian/ini4j@0.5.2-SNAPSHOT-5?distro=sid
     affected_by_vulnerabilities:

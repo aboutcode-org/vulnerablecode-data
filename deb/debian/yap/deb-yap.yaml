@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/yap
+package: pkg:deb/debian/yap
 versions:
   - purl: pkg:deb/debian/yap@6.2.2-3?distro=sid
     affected_by_vulnerabilities: []

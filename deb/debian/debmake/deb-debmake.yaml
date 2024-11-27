@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/debmake
+package: pkg:deb/debian/debmake
 versions:
   - purl: pkg:deb/debian/debmake@3.5.11
     affected_by_vulnerabilities:

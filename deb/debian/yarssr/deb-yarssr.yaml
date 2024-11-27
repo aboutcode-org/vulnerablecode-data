@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/yarssr
+package: pkg:deb/debian/yarssr
 versions:
   - purl: pkg:deb/debian/yarssr@0.2.2-3?distro=stretch
     affected_by_vulnerabilities: []

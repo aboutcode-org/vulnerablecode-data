@@ -1,4 +1,4 @@
-pacakge: pkg:composer/noumo/easyii
+package: pkg:composer/noumo/easyii
 versions:
   - purl: pkg:composer/noumo/easyii@0.9.0
     affected_by_vulnerabilities:

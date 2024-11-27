@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-kubeclient
+package: pkg:deb/debian/ruby-kubeclient
 versions:
   - purl: pkg:deb/debian/ruby-kubeclient@4.2.0-2?distro=sid
     affected_by_vulnerabilities:

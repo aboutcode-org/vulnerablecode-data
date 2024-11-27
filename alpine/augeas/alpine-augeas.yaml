@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/augeas
+package: pkg:alpine/augeas
 versions:
   - purl: pkg:alpine/augeas@1.4.0-r5?arch=armhf&distroversion=v3.3&reponame=main
     affected_by_vulnerabilities: []

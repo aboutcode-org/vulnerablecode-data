@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/balsa
+package: pkg:deb/debian/balsa
 versions:
   - purl: pkg:deb/debian/balsa@0.4.6.2-1
     affected_by_vulnerabilities:

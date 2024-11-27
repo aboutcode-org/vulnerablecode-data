@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-django-channels
+package: pkg:deb/debian/python-django-channels
 versions:
   - purl: pkg:deb/debian/python-django-channels@2.1.7-1?distro=sid
     affected_by_vulnerabilities:

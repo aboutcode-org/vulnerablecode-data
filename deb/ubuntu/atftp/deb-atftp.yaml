@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/atftp
+package: pkg:deb/ubuntu/atftp
 versions:
   - purl: pkg:deb/ubuntu/atftp@0.6.3
     affected_by_vulnerabilities:

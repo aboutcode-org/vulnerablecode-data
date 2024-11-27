@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libetpan
+package: pkg:alpine/libetpan
 versions:
   - purl: pkg:alpine/libetpan@1.9.4-r1?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

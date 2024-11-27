@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dogtag-pki
+package: pkg:deb/debian/dogtag-pki
 versions:
   - purl: pkg:deb/debian/dogtag-pki@10.10.2-2?distro=sid
     affected_by_vulnerabilities: []

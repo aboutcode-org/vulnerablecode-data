@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-fedora
+package: pkg:deb/debian/python-fedora
 versions:
   - purl: pkg:deb/debian/python-fedora@0.10.0-1?distro=sid
     affected_by_vulnerabilities: []

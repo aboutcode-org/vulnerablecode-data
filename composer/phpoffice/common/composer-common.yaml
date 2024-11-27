@@ -1,4 +1,4 @@
-pacakge: pkg:composer/phpoffice/common
+package: pkg:composer/phpoffice/common
 versions:
   - purl: pkg:composer/phpoffice/common@0.1
     affected_by_vulnerabilities:

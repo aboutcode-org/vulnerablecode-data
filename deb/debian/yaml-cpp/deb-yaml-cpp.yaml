@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/yaml-cpp
+package: pkg:deb/debian/yaml-cpp
 versions:
   - purl: pkg:deb/debian/yaml-cpp@0.5.2-4?distro=stretch
     affected_by_vulnerabilities:

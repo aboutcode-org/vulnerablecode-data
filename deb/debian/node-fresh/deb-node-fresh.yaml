@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-fresh
+package: pkg:deb/debian/node-fresh
 versions:
   - purl: pkg:deb/debian/node-fresh@0.2.0-1?distro=stretch
     affected_by_vulnerabilities:

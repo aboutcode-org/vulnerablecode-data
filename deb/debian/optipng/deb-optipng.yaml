@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/optipng
+package: pkg:deb/debian/optipng
 versions:
   - purl: pkg:deb/debian/optipng@0?distro=sid
     affected_by_vulnerabilities: []

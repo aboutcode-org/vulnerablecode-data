@@ -1,4 +1,4 @@
-pacakge: pkg:composer/neoan3-apps/template
+package: pkg:composer/neoan3-apps/template
 versions:
   - purl: pkg:composer/neoan3-apps/template@1.0.0
     affected_by_vulnerabilities:

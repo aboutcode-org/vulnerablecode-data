@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/edk2
+package: pkg:deb/debian/edk2
 versions:
   - purl: pkg:deb/debian/edk2@0?distro=sid
     affected_by_vulnerabilities: []

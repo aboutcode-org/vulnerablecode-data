@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xmlstarlet
+package: pkg:deb/debian/xmlstarlet
 versions:
   - purl: pkg:deb/debian/xmlstarlet@1.0.0-1?distro=sid
     affected_by_vulnerabilities: []

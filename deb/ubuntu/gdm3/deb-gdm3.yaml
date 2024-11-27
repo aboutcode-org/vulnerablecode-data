@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gdm3
+package: pkg:deb/ubuntu/gdm3
 versions:
   - purl: pkg:deb/ubuntu/gdm3@2.30.2-3
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/blueman
+package: pkg:deb/debian/blueman
 versions:
   - purl: pkg:deb/debian/blueman@2.0.3-1?distro=sid
     affected_by_vulnerabilities: []

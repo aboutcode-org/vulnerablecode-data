@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/icingaweb2
+package: pkg:alpine/icingaweb2
 versions:
   - purl: pkg:alpine/icingaweb2@2.7.3-r2?arch=aarch64&distroversion=v3.12&reponame=community
     affected_by_vulnerabilities: []

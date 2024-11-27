@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/adequate
+package: pkg:deb/debian/adequate
 versions:
   - purl: pkg:deb/debian/adequate@0.15.1?distro=stretch
     affected_by_vulnerabilities: []

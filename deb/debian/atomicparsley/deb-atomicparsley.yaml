@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/atomicparsley
+package: pkg:deb/debian/atomicparsley
 versions:
   - purl: pkg:deb/debian/atomicparsley@0.9.6-1?distro=stretch
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gobby
+package: pkg:deb/debian/gobby
 versions:
   - purl: pkg:deb/debian/gobby@0.5.0-8.1?distro=stretch
     affected_by_vulnerabilities:

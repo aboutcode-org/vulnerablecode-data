@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/iproute2
+package: pkg:alpine/iproute2
 versions:
   - purl: pkg:alpine/iproute2@4.19.0-r1?arch=aarch64&distroversion=v3.9&reponame=main
     affected_by_vulnerabilities: []

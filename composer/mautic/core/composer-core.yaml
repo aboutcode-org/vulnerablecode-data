@@ -1,4 +1,4 @@
-pacakge: pkg:composer/mautic/core
+package: pkg:composer/mautic/core
 versions:
   - purl: pkg:composer/mautic/core@1.0.0
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/evince
+package: pkg:deb/debian/evince
 versions:
   - purl: pkg:deb/debian/evince@0.1.5-2sarge1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-satori-go.uuid
+package: pkg:deb/debian/golang-github-satori-go.uuid
 versions:
   - purl: pkg:deb/debian/golang-github-satori-go.uuid@0?distro=sid
     affected_by_vulnerabilities: []

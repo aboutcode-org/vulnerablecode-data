@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libmms
+package: pkg:deb/debian/libmms
 versions:
   - purl: pkg:deb/debian/libmms@0.2-7?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/tar
+package: pkg:alpine/tar
 versions:
   - purl: pkg:alpine/tar@0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

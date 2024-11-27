@@ -1,4 +1,4 @@
-pacakge: pkg:composer/froala/wysiwyg-editor
+package: pkg:composer/froala/wysiwyg-editor
 versions:
   - purl: pkg:composer/froala/wysiwyg-editor@2.3.5
     affected_by_vulnerabilities:

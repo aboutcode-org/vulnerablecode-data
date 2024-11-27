@@ -1,4 +1,4 @@
-pacakge: pkg:composer/grav
+package: pkg:composer/grav
 versions:
   - purl: pkg:composer/grav@1.6.23
     affected_by_vulnerabilities: []

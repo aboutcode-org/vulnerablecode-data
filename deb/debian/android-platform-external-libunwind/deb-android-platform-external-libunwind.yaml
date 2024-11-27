@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/android-platform-external-libunwind
+package: pkg:deb/debian/android-platform-external-libunwind
 versions:
   - purl: pkg:deb/debian/android-platform-external-libunwind@10.0.0%2Br36-4?distro=sid
     affected_by_vulnerabilities: []

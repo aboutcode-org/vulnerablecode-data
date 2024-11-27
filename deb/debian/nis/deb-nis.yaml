@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nis
+package: pkg:deb/debian/nis
 versions:
   - purl: pkg:deb/debian/nis@3.11?distro=sid
     affected_by_vulnerabilities: []

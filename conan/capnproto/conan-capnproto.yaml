@@ -1,4 +1,4 @@
-pacakge: pkg:conan/capnproto
+package: pkg:conan/capnproto
 versions:
   - purl: pkg:conan/capnproto@0.10.0
     affected_by_vulnerabilities:

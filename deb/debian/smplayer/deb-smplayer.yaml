@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/smplayer
+package: pkg:deb/debian/smplayer
 versions:
   - purl: pkg:deb/debian/smplayer@0?distro=stretch
     affected_by_vulnerabilities: []

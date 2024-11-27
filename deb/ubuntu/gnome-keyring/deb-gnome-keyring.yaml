@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gnome-keyring
+package: pkg:deb/ubuntu/gnome-keyring
 versions:
   - purl: pkg:deb/ubuntu/gnome-keyring@0.4.0-0ubuntu1
     affected_by_vulnerabilities:

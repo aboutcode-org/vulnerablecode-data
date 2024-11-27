@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libconfig-inifiles-perl
+package: pkg:deb/debian/libconfig-inifiles-perl
 versions:
   - purl: pkg:deb/debian/libconfig-inifiles-perl@2.72-1?distro=sid
     affected_by_vulnerabilities: []

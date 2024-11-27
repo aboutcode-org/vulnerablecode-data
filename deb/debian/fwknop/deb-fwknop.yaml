@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fwknop
+package: pkg:deb/debian/fwknop
 versions:
   - purl: pkg:deb/debian/fwknop@2.0.3-1?distro=sid
     affected_by_vulnerabilities: []

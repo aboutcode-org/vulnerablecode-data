@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xmp
+package: pkg:deb/debian/xmp
 versions:
   - purl: pkg:deb/debian/xmp@2.6.1-1?distro=sid
     affected_by_vulnerabilities: []

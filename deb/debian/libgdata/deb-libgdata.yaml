@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libgdata
+package: pkg:deb/debian/libgdata
 versions:
   - purl: pkg:deb/debian/libgdata@0.10.2-1?distro=sid
     affected_by_vulnerabilities: []

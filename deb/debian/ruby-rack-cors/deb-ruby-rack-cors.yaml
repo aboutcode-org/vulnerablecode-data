@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-rack-cors
+package: pkg:deb/debian/ruby-rack-cors
 versions:
   - purl: pkg:deb/debian/ruby-rack-cors@0.4.0-1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

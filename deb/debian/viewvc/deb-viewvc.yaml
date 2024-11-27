@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/viewvc
+package: pkg:deb/debian/viewvc
 versions:
   - purl: pkg:deb/debian/viewvc@0.9.4%2Bsvn20060318-1?distro=buster
     affected_by_vulnerabilities: []

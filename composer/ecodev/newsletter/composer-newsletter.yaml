@@ -1,4 +1,4 @@
-pacakge: pkg:composer/ecodev/newsletter
+package: pkg:composer/ecodev/newsletter
 versions:
   - purl: pkg:composer/ecodev/newsletter@2.3.0
     affected_by_vulnerabilities:

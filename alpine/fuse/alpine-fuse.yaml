@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/fuse
+package: pkg:alpine/fuse
 versions:
   - purl: pkg:alpine/fuse@2.9.8-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

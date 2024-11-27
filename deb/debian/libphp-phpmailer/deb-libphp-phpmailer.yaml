@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libphp-phpmailer
+package: pkg:deb/debian/libphp-phpmailer
 versions:
   - purl: pkg:deb/debian/libphp-phpmailer@0?distro=sid
     affected_by_vulnerabilities: []

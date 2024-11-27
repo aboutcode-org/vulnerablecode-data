@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/grub
+package: pkg:alpine/grub
 versions:
   - purl: pkg:alpine/grub@2.06-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

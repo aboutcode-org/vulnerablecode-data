@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/u-boot
+package: pkg:alpine/u-boot
 versions:
   - purl: pkg:alpine/u-boot@2021.04-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

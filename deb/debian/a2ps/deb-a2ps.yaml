@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/a2ps
+package: pkg:deb/debian/a2ps
 versions:
   - purl: pkg:deb/debian/a2ps@1:4.13b-4.2?distro=sid
     affected_by_vulnerabilities: []

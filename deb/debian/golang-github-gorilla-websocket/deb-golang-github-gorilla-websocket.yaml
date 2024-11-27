@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-gorilla-websocket
+package: pkg:deb/debian/golang-github-gorilla-websocket
 versions:
   - purl: pkg:deb/debian/golang-github-gorilla-websocket@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/monitoring-plugins
+package: pkg:deb/debian/monitoring-plugins
 versions:
   - purl: pkg:deb/debian/monitoring-plugins@0?distro=sid
     affected_by_vulnerabilities: []

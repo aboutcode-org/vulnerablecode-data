@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/arj
+package: pkg:deb/ubuntu/arj
 versions:
   - purl: pkg:deb/ubuntu/arj@3.10.21-1
     affected_by_vulnerabilities:

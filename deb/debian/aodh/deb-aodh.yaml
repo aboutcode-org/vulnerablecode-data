@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/aodh
+package: pkg:deb/debian/aodh
 versions:
   - purl: pkg:deb/debian/aodh@11.0.0-2?distro=sid
     affected_by_vulnerabilities: []

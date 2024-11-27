@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/asciidoctor
+package: pkg:deb/debian/asciidoctor
 versions:
   - purl: pkg:deb/debian/asciidoctor@1.5.4-2?distro=stretch
     affected_by_vulnerabilities:

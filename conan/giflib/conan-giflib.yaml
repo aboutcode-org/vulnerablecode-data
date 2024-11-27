@@ -1,4 +1,4 @@
-pacakge: pkg:conan/giflib
+package: pkg:conan/giflib
 versions:
   - purl: pkg:conan/giflib@5.1.4
     affected_by_vulnerabilities:

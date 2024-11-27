@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/imagemagick
+package: pkg:deb/ubuntu/imagemagick
 versions:
   - purl: pkg:deb/ubuntu/imagemagick@5:6.0.2.5-1ubuntu1
     affected_by_vulnerabilities:

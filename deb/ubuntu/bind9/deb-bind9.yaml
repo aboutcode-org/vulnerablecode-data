@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/bind9
+package: pkg:deb/ubuntu/bind9
 versions:
   - purl: pkg:deb/ubuntu/bind9@1:9.10.3.dfsg.P2-3~build3
     affected_by_vulnerabilities:

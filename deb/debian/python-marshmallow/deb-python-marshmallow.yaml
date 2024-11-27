@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-marshmallow
+package: pkg:deb/debian/python-marshmallow
 versions:
   - purl: pkg:deb/debian/python-marshmallow@3.0.0b14-1?distro=sid
     affected_by_vulnerabilities: []

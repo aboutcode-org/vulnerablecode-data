@@ -1,4 +1,4 @@
-pacakge: pkg:composer/ezsystems/ezplatform
+package: pkg:composer/ezsystems/ezplatform
 versions:
   - purl: pkg:composer/ezsystems/ezplatform@0.11.0
     affected_by_vulnerabilities:

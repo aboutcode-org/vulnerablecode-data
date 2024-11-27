@@ -1,4 +1,4 @@
-pacakge: pkg:composer/symfony/proxy-manager-bridge
+package: pkg:composer/symfony/proxy-manager-bridge
 versions:
   - purl: pkg:composer/symfony/proxy-manager-bridge@2.7.0
     affected_by_vulnerabilities:

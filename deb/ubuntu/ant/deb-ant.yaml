@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ant
+package: pkg:deb/ubuntu/ant
 versions:
   - purl: pkg:deb/ubuntu/ant@1.10.3-1
     affected_by_vulnerabilities:

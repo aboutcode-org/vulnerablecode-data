@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mimedefang
+package: pkg:deb/debian/mimedefang
 versions:
   - purl: pkg:deb/debian/mimedefang@0?distro=sid
     affected_by_vulnerabilities: []

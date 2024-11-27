@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/roundcubemail
+package: pkg:alpine/roundcubemail
 versions:
   - purl: pkg:alpine/roundcubemail@1.1.10-r0?arch=armhf&distroversion=v3.3&reponame=main
     affected_by_vulnerabilities: []

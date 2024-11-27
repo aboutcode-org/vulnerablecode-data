@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dacs
+package: pkg:deb/debian/dacs
 versions:
   - purl: pkg:deb/debian/dacs@0?distro=stretch
     affected_by_vulnerabilities: []

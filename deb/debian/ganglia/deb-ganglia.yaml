@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ganglia
+package: pkg:deb/debian/ganglia
 versions:
   - purl: pkg:deb/debian/ganglia@3.3.8-1?distro=sid
     affected_by_vulnerabilities: []

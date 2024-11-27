@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/cvs
+package: pkg:alpine/cvs
 versions:
   - purl: pkg:alpine/cvs@1.12.12-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

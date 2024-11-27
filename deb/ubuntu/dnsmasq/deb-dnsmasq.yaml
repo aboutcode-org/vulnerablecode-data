@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/dnsmasq
+package: pkg:deb/ubuntu/dnsmasq
 versions:
   - purl: pkg:deb/ubuntu/dnsmasq@2.21-1
     affected_by_vulnerabilities:

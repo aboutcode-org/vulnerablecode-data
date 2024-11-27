@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/atheme-services
+package: pkg:deb/debian/atheme-services
 versions:
   - purl: pkg:deb/debian/atheme-services@7.0.7-2?distro=sid
     affected_by_vulnerabilities: []

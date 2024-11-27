@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bcron
+package: pkg:deb/debian/bcron
 versions:
   - purl: pkg:deb/debian/bcron@0.09-13?distro=sid
     affected_by_vulnerabilities: []

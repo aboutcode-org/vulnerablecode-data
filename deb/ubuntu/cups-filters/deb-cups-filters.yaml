@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/cups-filters
+package: pkg:deb/ubuntu/cups-filters
 versions:
   - purl: pkg:deb/ubuntu/cups-filters@1.0.1-1
     affected_by_vulnerabilities:

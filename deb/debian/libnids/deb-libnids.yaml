@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libnids
+package: pkg:deb/debian/libnids
 versions:
   - purl: pkg:deb/debian/libnids@1.16-3woody1
     affected_by_vulnerabilities:

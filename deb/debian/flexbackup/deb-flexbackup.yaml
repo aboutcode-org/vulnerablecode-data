@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/flexbackup
+package: pkg:deb/debian/flexbackup
 versions:
   - purl: pkg:deb/debian/flexbackup@1.2.1-2sarge1
     affected_by_vulnerabilities:

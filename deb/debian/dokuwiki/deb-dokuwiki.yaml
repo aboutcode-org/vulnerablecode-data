@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dokuwiki
+package: pkg:deb/debian/dokuwiki
 versions:
   - purl: pkg:deb/debian/dokuwiki@0?distro=sid
     affected_by_vulnerabilities: []

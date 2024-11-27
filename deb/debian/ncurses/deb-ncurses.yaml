@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ncurses
+package: pkg:deb/debian/ncurses
 versions:
   - purl: pkg:deb/debian/ncurses@6.0%2B20161126-1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

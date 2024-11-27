@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libsoup2.4
+package: pkg:deb/ubuntu/libsoup2.4
 versions:
   - purl: pkg:deb/ubuntu/libsoup2.4@2.23.6-0ubuntu1
     affected_by_vulnerabilities:

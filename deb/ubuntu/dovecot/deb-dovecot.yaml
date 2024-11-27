@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/dovecot
+package: pkg:deb/ubuntu/dovecot
 versions:
   - purl: pkg:deb/ubuntu/dovecot@0.99.10.6-3ubuntu1
     affected_by_vulnerabilities:

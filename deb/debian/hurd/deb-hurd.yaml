@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/hurd
+package: pkg:deb/debian/hurd
 versions:
   - purl: pkg:deb/debian/hurd@1:0.9.git20210404-9?distro=sid
     affected_by_vulnerabilities: []

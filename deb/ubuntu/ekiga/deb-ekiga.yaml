@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ekiga
+package: pkg:deb/ubuntu/ekiga
 versions:
   - purl: pkg:deb/ubuntu/ekiga@1.99.0-0ubuntu2
     affected_by_vulnerabilities:

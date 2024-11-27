@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnome-settings-daemon
+package: pkg:deb/debian/gnome-settings-daemon
 versions:
   - purl: pkg:deb/debian/gnome-settings-daemon@0?distro=sid
     affected_by_vulnerabilities: []

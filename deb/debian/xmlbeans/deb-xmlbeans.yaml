@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xmlbeans
+package: pkg:deb/debian/xmlbeans
 versions:
   - purl: pkg:deb/debian/xmlbeans@2.6.0%2Bdfsg-1?distro=stretch
     affected_by_vulnerabilities: []

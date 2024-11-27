@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/freecol
+package: pkg:deb/debian/freecol
 versions:
   - purl: pkg:deb/debian/freecol@0.11.6%2Bdfsg-1?distro=stretch
     affected_by_vulnerabilities:

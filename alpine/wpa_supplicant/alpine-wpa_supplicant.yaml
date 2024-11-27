@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/wpa_supplicant
+package: pkg:alpine/wpa_supplicant
 versions:
   - purl: pkg:alpine/wpa_supplicant@2.5-r3?arch=armhf&distroversion=v3.4&reponame=main
     affected_by_vulnerabilities: []

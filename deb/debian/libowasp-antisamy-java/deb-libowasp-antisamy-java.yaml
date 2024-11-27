@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libowasp-antisamy-java
+package: pkg:deb/debian/libowasp-antisamy-java
 versions:
   - purl: pkg:deb/debian/libowasp-antisamy-java@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/syncevolution
+package: pkg:deb/debian/syncevolution
 versions:
   - purl: pkg:deb/debian/syncevolution@1.3.99.7-1?distro=sid
     affected_by_vulnerabilities: []

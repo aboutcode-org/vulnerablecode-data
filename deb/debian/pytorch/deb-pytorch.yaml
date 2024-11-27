@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pytorch
+package: pkg:deb/debian/pytorch
 versions:
   - purl: pkg:deb/debian/pytorch@1.13.1%2Bdfsg-1?distro=sid
     affected_by_vulnerabilities: []

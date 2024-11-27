@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kdbg
+package: pkg:deb/debian/kdbg
 versions:
   - purl: pkg:deb/debian/kdbg@1.2.4-2
     affected_by_vulnerabilities:

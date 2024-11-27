@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gpac
+package: pkg:deb/ubuntu/gpac
 versions:
   - purl: pkg:deb/ubuntu/gpac@0.2.0-0.0
     affected_by_vulnerabilities:

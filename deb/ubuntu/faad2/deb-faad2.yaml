@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/faad2
+package: pkg:deb/ubuntu/faad2
 versions:
   - purl: pkg:deb/ubuntu/faad2@2.0.0-0.1
     affected_by_vulnerabilities:

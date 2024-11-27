@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/hdf5
+package: pkg:deb/ubuntu/hdf5
 versions:
   - purl: pkg:deb/ubuntu/hdf5@1.10.0-patch1%2Bdocs-1
     affected_by_vulnerabilities:

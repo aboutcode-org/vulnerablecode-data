@@ -1,4 +1,4 @@
-pacakge: pkg:composer/ibexa/admin-ui
+package: pkg:composer/ibexa/admin-ui
 versions:
   - purl: pkg:composer/ibexa/admin-ui@4.2.0
     affected_by_vulnerabilities:

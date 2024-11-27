@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mednafen
+package: pkg:deb/debian/mednafen
 versions:
   - purl: pkg:deb/debian/mednafen@0.8.D-1?distro=sid
     affected_by_vulnerabilities: []

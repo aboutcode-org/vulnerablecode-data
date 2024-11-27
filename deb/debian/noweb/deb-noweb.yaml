@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/noweb
+package: pkg:deb/debian/noweb
 versions:
   - purl: pkg:deb/debian/noweb@2.10c-3.1?distro=sid
     affected_by_vulnerabilities: []

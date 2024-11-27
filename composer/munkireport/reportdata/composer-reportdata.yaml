@@ -1,4 +1,4 @@
-pacakge: pkg:composer/munkireport/reportdata
+package: pkg:composer/munkireport/reportdata
 versions:
   - purl: pkg:composer/munkireport/reportdata@1.1
     affected_by_vulnerabilities:

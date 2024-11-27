@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-xmldom
+package: pkg:deb/debian/node-xmldom
 versions:
   - purl: pkg:deb/debian/node-xmldom@0.1.27%2Bds-1?distro=sid
     affected_by_vulnerabilities:

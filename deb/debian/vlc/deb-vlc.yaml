@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/vlc
+package: pkg:deb/debian/vlc
 versions:
   - purl: pkg:deb/debian/vlc@0?distro=sid
     affected_by_vulnerabilities: []

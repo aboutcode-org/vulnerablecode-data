@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/erlang
+package: pkg:deb/debian/erlang
 versions:
   - purl: pkg:deb/debian/erlang@0?distro=sid
     affected_by_vulnerabilities: []

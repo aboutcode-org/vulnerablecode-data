@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-mechanize
+package: pkg:deb/debian/ruby-mechanize
 versions:
   - purl: pkg:deb/debian/ruby-mechanize@2.7.5-1?distro=stretch
     affected_by_vulnerabilities: []

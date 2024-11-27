@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lam
+package: pkg:deb/debian/lam
 versions:
   - purl: pkg:deb/debian/lam@0?distro=sid
     affected_by_vulnerabilities: []

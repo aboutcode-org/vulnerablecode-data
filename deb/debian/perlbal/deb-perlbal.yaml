@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/perlbal
+package: pkg:deb/debian/perlbal
 versions:
   - purl: pkg:deb/debian/perlbal@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libaws
+package: pkg:deb/debian/libaws
 versions:
   - purl: pkg:deb/debian/libaws@19.0-2?distro=sid
     affected_by_vulnerabilities: []

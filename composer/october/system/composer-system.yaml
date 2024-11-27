@@ -1,4 +1,4 @@
-pacakge: pkg:composer/october/system
+package: pkg:composer/october/system
 versions:
   - purl: pkg:composer/october/system@1.0.319
     affected_by_vulnerabilities:

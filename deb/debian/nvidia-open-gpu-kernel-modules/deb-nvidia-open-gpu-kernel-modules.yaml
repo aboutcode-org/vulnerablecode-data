@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nvidia-open-gpu-kernel-modules
+package: pkg:deb/debian/nvidia-open-gpu-kernel-modules
 versions:
   - purl: pkg:deb/debian/nvidia-open-gpu-kernel-modules@515.86.01-1?distro=sid
     affected_by_vulnerabilities: []

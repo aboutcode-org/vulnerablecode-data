@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-horde-ingo
+package: pkg:deb/debian/php-horde-ingo
 versions:
   - purl: pkg:deb/debian/php-horde-ingo@3.1.3-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/notrinos/notrinos-erp
+package: pkg:composer/notrinos/notrinos-erp
 versions:
   - purl: pkg:composer/notrinos/notrinos-erp@0.6
     affected_by_vulnerabilities:

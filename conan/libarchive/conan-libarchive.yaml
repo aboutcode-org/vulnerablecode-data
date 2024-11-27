@@ -1,4 +1,4 @@
-pacakge: pkg:conan/libarchive
+package: pkg:conan/libarchive
 versions:
   - purl: pkg:conan/libarchive@3.4.0
     affected_by_vulnerabilities:

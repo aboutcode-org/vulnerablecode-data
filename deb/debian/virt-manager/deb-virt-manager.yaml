@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/virt-manager
+package: pkg:deb/debian/virt-manager
 versions:
   - purl: pkg:deb/debian/virt-manager@0?distro=sid
     affected_by_vulnerabilities: []

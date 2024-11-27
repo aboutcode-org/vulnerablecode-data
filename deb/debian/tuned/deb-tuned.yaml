@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tuned
+package: pkg:deb/debian/tuned
 versions:
   - purl: pkg:deb/debian/tuned@0?distro=sid
     affected_by_vulnerabilities: []

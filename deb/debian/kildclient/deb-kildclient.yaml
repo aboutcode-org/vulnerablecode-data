@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kildclient
+package: pkg:deb/debian/kildclient
 versions:
   - purl: pkg:deb/debian/kildclient@3.1.0-1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

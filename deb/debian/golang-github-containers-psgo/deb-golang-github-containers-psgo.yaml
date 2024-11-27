@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-containers-psgo
+package: pkg:deb/debian/golang-github-containers-psgo
 versions:
   - purl: pkg:deb/debian/golang-github-containers-psgo@1.5.2-1?distro=sid
     affected_by_vulnerabilities:

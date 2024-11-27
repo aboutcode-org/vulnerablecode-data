@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libgig
+package: pkg:deb/ubuntu/libgig
 versions:
   - purl: pkg:deb/ubuntu/libgig@2.0.cvs20050523-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/jq
+package: pkg:alpine/jq
 versions:
   - purl: pkg:alpine/jq@1.5-r2?arch=armhf&distroversion=v3.4&reponame=main
     affected_by_vulnerabilities: []

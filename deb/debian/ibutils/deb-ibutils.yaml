@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ibutils
+package: pkg:deb/debian/ibutils
 versions:
   - purl: pkg:deb/debian/ibutils@0?distro=sid
     affected_by_vulnerabilities: []

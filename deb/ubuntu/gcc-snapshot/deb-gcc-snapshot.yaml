@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gcc-snapshot
+package: pkg:deb/ubuntu/gcc-snapshot
 versions:
   - purl: pkg:deb/ubuntu/gcc-snapshot@1:20180322-1ubuntu1
     affected_by_vulnerabilities:

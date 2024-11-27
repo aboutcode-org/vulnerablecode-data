@@ -1,4 +1,4 @@
-pacakge: pkg:conan/libraw
+package: pkg:conan/libraw
 versions:
   - purl: pkg:conan/libraw@0.19.5
     affected_by_vulnerabilities:

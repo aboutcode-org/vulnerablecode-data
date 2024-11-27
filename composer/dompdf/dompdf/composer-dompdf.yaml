@@ -1,4 +1,4 @@
-pacakge: pkg:composer/dompdf/dompdf
+package: pkg:composer/dompdf/dompdf
 versions:
   - purl: pkg:composer/dompdf/dompdf@0.6.0
     affected_by_vulnerabilities:

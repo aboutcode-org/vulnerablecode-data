@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/usbview
+package: pkg:deb/debian/usbview
 versions:
   - purl: pkg:deb/debian/usbview@0?distro=stretch
     affected_by_vulnerabilities: []

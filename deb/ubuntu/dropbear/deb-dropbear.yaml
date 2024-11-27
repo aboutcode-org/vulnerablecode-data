@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/dropbear
+package: pkg:deb/ubuntu/dropbear
 versions:
   - purl: pkg:deb/ubuntu/dropbear@0.42-1
     affected_by_vulnerabilities:

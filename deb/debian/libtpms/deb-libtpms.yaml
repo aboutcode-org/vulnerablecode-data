@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libtpms
+package: pkg:deb/debian/libtpms
 versions:
   - purl: pkg:deb/debian/libtpms@0.8.0~dev1-1?distro=sid
     affected_by_vulnerabilities: []

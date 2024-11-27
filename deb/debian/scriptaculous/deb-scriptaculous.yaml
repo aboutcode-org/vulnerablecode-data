@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/scriptaculous
+package: pkg:deb/debian/scriptaculous
 versions:
   - purl: pkg:deb/debian/scriptaculous@0?distro=sid
     affected_by_vulnerabilities: []

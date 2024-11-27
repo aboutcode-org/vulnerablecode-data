@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/pure-ftpd
+package: pkg:alpine/pure-ftpd
 versions:
   - purl: pkg:alpine/pure-ftpd@1.0.49-r1?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

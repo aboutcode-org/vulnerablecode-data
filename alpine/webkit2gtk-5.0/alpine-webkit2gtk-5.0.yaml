@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/webkit2gtk-5.0
+package: pkg:alpine/webkit2gtk-5.0
 versions:
   - purl: pkg:alpine/webkit2gtk-5.0@2.36.4-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

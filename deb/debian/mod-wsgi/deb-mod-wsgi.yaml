@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mod-wsgi
+package: pkg:deb/debian/mod-wsgi
 versions:
   - purl: pkg:deb/debian/mod-wsgi@3.4-3?distro=sid
     affected_by_vulnerabilities: []

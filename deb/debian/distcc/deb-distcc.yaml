@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/distcc
+package: pkg:deb/debian/distcc
 versions:
   - purl: pkg:deb/debian/distcc@2.18.1-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/tmux
+package: pkg:alpine/tmux
 versions:
   - purl: pkg:alpine/tmux@2.9a-r2?arch=aarch64&distroversion=v3.10&reponame=main
     affected_by_vulnerabilities: []

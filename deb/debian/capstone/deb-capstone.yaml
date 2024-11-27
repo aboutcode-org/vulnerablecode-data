@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/capstone
+package: pkg:deb/debian/capstone
 versions:
   - purl: pkg:deb/debian/capstone@0?distro=sid
     affected_by_vulnerabilities: []

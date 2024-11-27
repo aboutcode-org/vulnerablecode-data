@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/linuxdcpp
+package: pkg:deb/debian/linuxdcpp
 versions:
   - purl: pkg:deb/debian/linuxdcpp@1.0.1-2?distro=stretch
     affected_by_vulnerabilities: []

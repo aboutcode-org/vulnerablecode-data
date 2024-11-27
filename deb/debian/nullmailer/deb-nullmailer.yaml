@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nullmailer
+package: pkg:deb/debian/nullmailer
 versions:
   - purl: pkg:deb/debian/nullmailer@1.00RC5-16.1woody2
     affected_by_vulnerabilities:

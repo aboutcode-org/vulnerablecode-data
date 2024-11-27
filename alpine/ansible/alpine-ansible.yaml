@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/ansible
+package: pkg:alpine/ansible
 versions:
   - purl: pkg:alpine/ansible@2.10.1-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

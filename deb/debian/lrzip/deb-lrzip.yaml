@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lrzip
+package: pkg:deb/debian/lrzip
 versions:
   - purl: pkg:deb/debian/lrzip@0.631-1?distro=stretch
     affected_by_vulnerabilities: []

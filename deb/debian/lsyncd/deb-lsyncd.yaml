@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lsyncd
+package: pkg:deb/debian/lsyncd
 versions:
   - purl: pkg:deb/debian/lsyncd@2.1.5-2?distro=sid
     affected_by_vulnerabilities: []

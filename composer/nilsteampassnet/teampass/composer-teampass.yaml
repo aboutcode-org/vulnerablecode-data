@@ -1,4 +1,4 @@
-pacakge: pkg:composer/nilsteampassnet/teampass
+package: pkg:composer/nilsteampassnet/teampass
 versions:
   - purl: pkg:composer/nilsteampassnet/teampass@2.1.21
     affected_by_vulnerabilities:

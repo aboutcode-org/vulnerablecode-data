@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fava
+package: pkg:deb/debian/fava
 versions:
   - purl: pkg:deb/debian/fava@1.18-1?distro=sid
     affected_by_vulnerabilities:

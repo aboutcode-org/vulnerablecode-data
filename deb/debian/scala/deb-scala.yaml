@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/scala
+package: pkg:deb/debian/scala
 versions:
   - purl: pkg:deb/debian/scala@0?distro=sid
     affected_by_vulnerabilities: []

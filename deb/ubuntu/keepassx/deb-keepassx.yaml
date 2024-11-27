@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/keepassx
+package: pkg:deb/ubuntu/keepassx
 versions:
   - purl: pkg:deb/ubuntu/keepassx@0.2.2-0ubuntu1
     affected_by_vulnerabilities:

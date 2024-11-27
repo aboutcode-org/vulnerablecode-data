@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/poetry-core
+package: pkg:deb/debian/poetry-core
 versions:
   - purl: pkg:deb/debian/poetry-core@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/base-files
+package: pkg:deb/debian/base-files
 versions:
   - purl: pkg:deb/debian/base-files@0?distro=sid
     affected_by_vulnerabilities: []

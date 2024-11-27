@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/odoo
+package: pkg:deb/debian/odoo
 versions:
   - purl: pkg:deb/debian/odoo@0?distro=sid
     affected_by_vulnerabilities: []

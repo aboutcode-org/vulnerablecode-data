@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/harfbuzz
+package: pkg:alpine/harfbuzz
 versions:
   - purl: pkg:alpine/harfbuzz@4.4.1-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

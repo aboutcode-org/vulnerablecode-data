@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/vpnc
+package: pkg:deb/debian/vpnc
 versions:
   - purl: pkg:deb/debian/vpnc@0?distro=sid
     affected_by_vulnerabilities: []

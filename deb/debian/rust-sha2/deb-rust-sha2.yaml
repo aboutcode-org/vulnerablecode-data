@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-sha2
+package: pkg:deb/debian/rust-sha2
 versions:
   - purl: pkg:deb/debian/rust-sha2@0?distro=sid
     affected_by_vulnerabilities: []

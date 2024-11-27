@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/squid
+package: pkg:alpine/squid
 versions:
   - purl: pkg:alpine/squid@3.5.23-r0?arch=armhf&distroversion=v3.2&reponame=main
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/frozennode/administrator
+package: pkg:composer/frozennode/administrator
 versions:
   - purl: pkg:composer/frozennode/administrator@4.0.0
     affected_by_vulnerabilities:

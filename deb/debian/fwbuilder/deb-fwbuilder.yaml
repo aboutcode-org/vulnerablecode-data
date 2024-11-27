@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fwbuilder
+package: pkg:deb/debian/fwbuilder
 versions:
   - purl: pkg:deb/debian/fwbuilder@2.1.19-5?distro=sid
     affected_by_vulnerabilities: []

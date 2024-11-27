@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fontconfig
+package: pkg:deb/debian/fontconfig
 versions:
   - purl: pkg:deb/debian/fontconfig@2.11.0-6.5?distro=sid
     affected_by_vulnerabilities: []

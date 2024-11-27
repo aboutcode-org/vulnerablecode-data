@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/memcached
+package: pkg:alpine/memcached
 versions:
   - purl: pkg:alpine/memcached@0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

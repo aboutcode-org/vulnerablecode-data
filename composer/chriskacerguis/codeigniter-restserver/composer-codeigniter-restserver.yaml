@@ -1,4 +1,4 @@
-pacakge: pkg:composer/chriskacerguis/codeigniter-restserver
+package: pkg:composer/chriskacerguis/codeigniter-restserver
 versions:
   - purl: pkg:composer/chriskacerguis/codeigniter-restserver@2.7.1
     affected_by_vulnerabilities:

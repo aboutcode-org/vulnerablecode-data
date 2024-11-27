@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jpegoptim
+package: pkg:deb/debian/jpegoptim
 versions:
   - purl: pkg:deb/debian/jpegoptim@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fastjar
+package: pkg:deb/debian/fastjar
 versions:
   - purl: pkg:deb/debian/fastjar@2:0.98-3?distro=sid
     affected_by_vulnerabilities: []

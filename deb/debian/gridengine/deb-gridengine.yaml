@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gridengine
+package: pkg:deb/debian/gridengine
 versions:
   - purl: pkg:deb/debian/gridengine@0?distro=sid
     affected_by_vulnerabilities: []

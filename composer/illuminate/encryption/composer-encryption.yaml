@@ -1,4 +1,4 @@
-pacakge: pkg:composer/illuminate/encryption
+package: pkg:composer/illuminate/encryption
 versions:
   - purl: pkg:composer/illuminate/encryption@4.0.0
     affected_by_vulnerabilities:

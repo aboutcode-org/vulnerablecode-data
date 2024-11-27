@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/aircrack-ng
+package: pkg:deb/debian/aircrack-ng
 versions:
   - purl: pkg:deb/debian/aircrack-ng@1:0.6.2-7
     affected_by_vulnerabilities:

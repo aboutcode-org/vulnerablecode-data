@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lxcfs
+package: pkg:deb/debian/lxcfs
 versions:
   - purl: pkg:deb/debian/lxcfs@0?distro=sid
     affected_by_vulnerabilities: []

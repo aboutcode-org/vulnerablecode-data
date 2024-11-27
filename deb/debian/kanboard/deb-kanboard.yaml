@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kanboard
+package: pkg:deb/debian/kanboard
 versions:
   - purl: pkg:deb/debian/kanboard@0?distro=sid
     affected_by_vulnerabilities: []

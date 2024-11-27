@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/zstd
+package: pkg:alpine/zstd
 versions:
   - purl: pkg:alpine/zstd@1.3.8-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

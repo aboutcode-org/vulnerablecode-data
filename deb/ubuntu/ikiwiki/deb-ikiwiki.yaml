@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ikiwiki
+package: pkg:deb/ubuntu/ikiwiki
 versions:
   - purl: pkg:deb/ubuntu/ikiwiki@1.32
     affected_by_vulnerabilities:

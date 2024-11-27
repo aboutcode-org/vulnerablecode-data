@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/antiword
+package: pkg:deb/debian/antiword
 versions:
   - purl: pkg:deb/debian/antiword@0.32-2
     affected_by_vulnerabilities:

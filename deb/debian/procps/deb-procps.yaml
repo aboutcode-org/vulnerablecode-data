@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/procps
+package: pkg:deb/debian/procps
 versions:
   - purl: pkg:deb/debian/procps@2:3.3.12-3%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

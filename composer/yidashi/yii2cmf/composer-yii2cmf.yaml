@@ -1,4 +1,4 @@
-pacakge: pkg:composer/yidashi/yii2cmf
+package: pkg:composer/yidashi/yii2cmf
 versions:
   - purl: pkg:composer/yidashi/yii2cmf@2.0.0
     affected_by_vulnerabilities:

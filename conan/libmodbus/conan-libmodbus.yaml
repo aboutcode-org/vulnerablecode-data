@@ -1,4 +1,4 @@
-pacakge: pkg:conan/libmodbus
+package: pkg:conan/libmodbus
 versions:
   - purl: pkg:conan/libmodbus@3.1.6
     affected_by_vulnerabilities:

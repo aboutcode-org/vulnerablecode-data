@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/android-tools
+package: pkg:deb/ubuntu/android-tools
 versions:
   - purl: pkg:deb/ubuntu/android-tools@4.1.1%2Bgit20120801-0ubuntu1
     affected_by_vulnerabilities:

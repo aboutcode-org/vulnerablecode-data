@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libproc-daemon-perl
+package: pkg:deb/ubuntu/libproc-daemon-perl
 versions:
   - purl: pkg:deb/ubuntu/libproc-daemon-perl@0.03-2
     affected_by_vulnerabilities:

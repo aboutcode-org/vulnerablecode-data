@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/monotone
+package: pkg:deb/debian/monotone
 versions:
   - purl: pkg:deb/debian/monotone@0.26pre1-0.1?distro=stretch
     affected_by_vulnerabilities: []

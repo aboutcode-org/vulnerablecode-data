@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/elixir
+package: pkg:deb/debian/elixir
 versions:
   - purl: pkg:deb/debian/elixir@0.7.1-4?distro=buster
     affected_by_vulnerabilities: []

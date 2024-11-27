@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/wml
+package: pkg:deb/debian/wml
 versions:
   - purl: pkg:deb/debian/wml@2.0.11-3.1?distro=sid
     affected_by_vulnerabilities: []

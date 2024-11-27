@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-ms
+package: pkg:deb/debian/node-ms
 versions:
   - purl: pkg:deb/debian/node-ms@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-zip
+package: pkg:deb/debian/ruby-zip
 versions:
   - purl: pkg:deb/debian/ruby-zip@1.2.0-1.1?distro=sid
     affected_by_vulnerabilities: []

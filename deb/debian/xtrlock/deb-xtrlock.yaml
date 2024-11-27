@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xtrlock
+package: pkg:deb/debian/xtrlock
 versions:
   - purl: pkg:deb/debian/xtrlock@2.0-10
     affected_by_vulnerabilities: []

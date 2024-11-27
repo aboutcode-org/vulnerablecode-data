@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/timidity
+package: pkg:deb/debian/timidity
 versions:
   - purl: pkg:deb/debian/timidity@2.13.2-40.5?distro=stretch
     affected_by_vulnerabilities:

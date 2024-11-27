@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xastir
+package: pkg:deb/debian/xastir
 versions:
   - purl: pkg:deb/debian/xastir@1.9.2-1.1?distro=sid
     affected_by_vulnerabilities: []

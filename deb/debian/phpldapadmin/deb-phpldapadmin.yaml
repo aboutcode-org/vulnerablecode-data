@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/phpldapadmin
+package: pkg:deb/debian/phpldapadmin
 versions:
   - purl: pkg:deb/debian/phpldapadmin@0.9.6c-5?distro=sid
     affected_by_vulnerabilities: []

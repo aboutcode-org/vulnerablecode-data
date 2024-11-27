@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libzypp
+package: pkg:deb/ubuntu/libzypp
 versions:
   - purl: pkg:deb/ubuntu/libzypp@14.29.1-2
     affected_by_vulnerabilities:

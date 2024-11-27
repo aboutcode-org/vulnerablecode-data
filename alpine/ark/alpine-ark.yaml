@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/ark
+package: pkg:alpine/ark
 versions:
   - purl: pkg:alpine/ark@20.04.2-r1?arch=aarch64&distroversion=v3.12&reponame=community
     affected_by_vulnerabilities: []

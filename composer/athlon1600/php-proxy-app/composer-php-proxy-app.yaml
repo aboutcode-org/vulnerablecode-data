@@ -1,4 +1,4 @@
-pacakge: pkg:composer/athlon1600/php-proxy-app
+package: pkg:composer/athlon1600/php-proxy-app
 versions:
   - purl: pkg:composer/athlon1600/php-proxy-app@1.0.0
     affected_by_vulnerabilities:

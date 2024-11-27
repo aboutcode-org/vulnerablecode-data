@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/fetchmail
+package: pkg:alpine/fetchmail
 versions:
   - purl: pkg:alpine/fetchmail@6.4.20-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

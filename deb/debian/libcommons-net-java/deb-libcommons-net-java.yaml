@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libcommons-net-java
+package: pkg:deb/debian/libcommons-net-java
 versions:
   - purl: pkg:deb/debian/libcommons-net-java@3.6-1?distro=sid
     affected_by_vulnerabilities: []

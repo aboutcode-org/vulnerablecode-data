@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libapache2-mod-auth-openid
+package: pkg:deb/ubuntu/libapache2-mod-auth-openid
 versions:
   - purl: pkg:deb/ubuntu/libapache2-mod-auth-openid@0.1-4
     affected_by_vulnerabilities:

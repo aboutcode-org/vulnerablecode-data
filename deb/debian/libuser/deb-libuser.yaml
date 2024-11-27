@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libuser
+package: pkg:deb/debian/libuser
 versions:
   - purl: pkg:deb/debian/libuser@1:0.56.9.dfsg.1-1.1?distro=sid
     affected_by_vulnerabilities: []

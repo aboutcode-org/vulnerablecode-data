@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/flask-appbuilder
+package: pkg:deb/debian/flask-appbuilder
 versions:
   - purl: pkg:deb/debian/flask-appbuilder@0?distro=sid
     affected_by_vulnerabilities: []

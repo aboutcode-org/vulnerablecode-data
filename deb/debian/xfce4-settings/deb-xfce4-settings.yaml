@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xfce4-settings
+package: pkg:deb/debian/xfce4-settings
 versions:
   - purl: pkg:deb/debian/xfce4-settings@0?distro=sid
     affected_by_vulnerabilities: []

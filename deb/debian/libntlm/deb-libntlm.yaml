@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libntlm
+package: pkg:deb/debian/libntlm
 versions:
   - purl: pkg:deb/debian/libntlm@1.4-8?distro=stretch
     affected_by_vulnerabilities: []

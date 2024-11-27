@@ -1,4 +1,4 @@
-pacakge: pkg:conan/leptonica
+package: pkg:conan/leptonica
 versions:
   - purl: pkg:conan/leptonica@1.78.0
     affected_by_vulnerabilities:

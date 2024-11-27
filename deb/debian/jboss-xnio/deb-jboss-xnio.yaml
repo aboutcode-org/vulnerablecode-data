@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jboss-xnio
+package: pkg:deb/debian/jboss-xnio
 versions:
   - purl: pkg:deb/debian/jboss-xnio@0?distro=stretch
     affected_by_vulnerabilities: []

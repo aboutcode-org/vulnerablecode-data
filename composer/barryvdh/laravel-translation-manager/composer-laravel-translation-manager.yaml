@@ -1,4 +1,4 @@
-pacakge: pkg:composer/barryvdh/laravel-translation-manager
+package: pkg:composer/barryvdh/laravel-translation-manager
 versions:
   - purl: pkg:composer/barryvdh/laravel-translation-manager@0.1.0
     affected_by_vulnerabilities:

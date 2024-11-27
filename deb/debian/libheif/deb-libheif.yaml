@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libheif
+package: pkg:deb/debian/libheif
 versions:
   - purl: pkg:deb/debian/libheif@1.11.0-1?distro=sid
     affected_by_vulnerabilities: []

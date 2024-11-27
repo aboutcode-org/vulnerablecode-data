@@ -1,4 +1,4 @@
-pacakge: pkg:composer/silverstripe/silverstripe-omnipay
+package: pkg:composer/silverstripe/silverstripe-omnipay
 versions:
   - purl: pkg:composer/silverstripe/silverstripe-omnipay@1.0.0
     affected_by_vulnerabilities:

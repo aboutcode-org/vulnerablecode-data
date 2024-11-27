@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gerbv
+package: pkg:deb/debian/gerbv
 versions:
   - purl: pkg:deb/debian/gerbv@2.6.1-2?distro=stretch
     affected_by_vulnerabilities:

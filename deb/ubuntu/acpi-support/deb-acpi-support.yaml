@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/acpi-support
+package: pkg:deb/ubuntu/acpi-support
 versions:
   - purl: pkg:deb/ubuntu/acpi-support@0.100
     affected_by_vulnerabilities:

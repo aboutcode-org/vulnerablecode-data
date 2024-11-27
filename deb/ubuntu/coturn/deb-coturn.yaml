@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/coturn
+package: pkg:deb/ubuntu/coturn
 versions:
   - purl: pkg:deb/ubuntu/coturn@4.0.0.0-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/devscripts
+package: pkg:deb/debian/devscripts
 versions:
   - purl: pkg:deb/debian/devscripts@0?distro=stretch
     affected_by_vulnerabilities: []

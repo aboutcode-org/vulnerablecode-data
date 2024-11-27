@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ike
+package: pkg:deb/debian/ike
 versions:
   - purl: pkg:deb/debian/ike@2.1.5%2Bdfsg-2?distro=stretch
     affected_by_vulnerabilities: []

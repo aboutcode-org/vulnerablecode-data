@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/r-cran-commonmark
+package: pkg:deb/debian/r-cran-commonmark
 versions:
   - purl: pkg:deb/debian/r-cran-commonmark@1.7-1?distro=sid
     affected_by_vulnerabilities:

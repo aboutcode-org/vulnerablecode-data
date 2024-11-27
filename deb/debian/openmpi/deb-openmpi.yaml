@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openmpi
+package: pkg:deb/debian/openmpi
 versions:
   - purl: pkg:deb/debian/openmpi@1.3.3-4?distro=sid
     affected_by_vulnerabilities: []

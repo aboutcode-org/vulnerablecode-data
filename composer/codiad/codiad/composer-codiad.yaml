@@ -1,4 +1,4 @@
-pacakge: pkg:composer/codiad/codiad
+package: pkg:composer/codiad/codiad
 versions:
   - purl: pkg:composer/codiad/codiad@1.3.6
     affected_by_vulnerabilities:

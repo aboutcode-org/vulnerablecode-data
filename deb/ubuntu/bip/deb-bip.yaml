@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/bip
+package: pkg:deb/ubuntu/bip
 versions:
   - purl: pkg:deb/ubuntu/bip@0.5.0-1
     affected_by_vulnerabilities:

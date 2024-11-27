@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/e2fsprogs
+package: pkg:deb/ubuntu/e2fsprogs
 versions:
   - purl: pkg:deb/ubuntu/e2fsprogs@1.35-6ubuntu1
     affected_by_vulnerabilities:

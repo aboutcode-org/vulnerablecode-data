@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/accountsservice
+package: pkg:deb/debian/accountsservice
 versions:
   - purl: pkg:deb/debian/accountsservice@0?distro=sid
     affected_by_vulnerabilities: []

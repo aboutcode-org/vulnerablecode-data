@@ -1,4 +1,4 @@
-pacakge: pkg:composer/ec-cube/ec-cube
+package: pkg:composer/ec-cube/ec-cube
 versions:
   - purl: pkg:composer/ec-cube/ec-cube@2.11.0
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/flask-security
+package: pkg:deb/debian/flask-security
 versions:
   - purl: pkg:deb/debian/flask-security@0?distro=sid
     affected_by_vulnerabilities: []

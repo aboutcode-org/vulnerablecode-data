@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/neon27
+package: pkg:deb/debian/neon27
 versions:
   - purl: pkg:deb/debian/neon27@0?distro=sid
     affected_by_vulnerabilities: []

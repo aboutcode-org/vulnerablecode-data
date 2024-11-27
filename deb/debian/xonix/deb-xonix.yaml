@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xonix
+package: pkg:deb/debian/xonix
 versions:
   - purl: pkg:deb/debian/xonix@1.4-12
     affected_by_vulnerabilities:

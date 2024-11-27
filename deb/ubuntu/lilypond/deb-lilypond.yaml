@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/lilypond
+package: pkg:deb/ubuntu/lilypond
 versions:
   - purl: pkg:deb/ubuntu/lilypond@2.1.0-2
     affected_by_vulnerabilities:

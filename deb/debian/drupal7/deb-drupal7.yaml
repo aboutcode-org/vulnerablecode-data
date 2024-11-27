@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/drupal7
+package: pkg:deb/debian/drupal7
 versions:
   - purl: pkg:deb/debian/drupal7@0?distro=stretch
     affected_by_vulnerabilities: []

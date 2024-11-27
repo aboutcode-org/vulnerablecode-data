@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mojarra
+package: pkg:deb/debian/mojarra
 versions:
   - purl: pkg:deb/debian/mojarra@0?distro=sid
     affected_by_vulnerabilities: []

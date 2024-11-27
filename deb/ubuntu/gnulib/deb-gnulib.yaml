@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gnulib
+package: pkg:deb/ubuntu/gnulib
 versions:
   - purl: pkg:deb/ubuntu/gnulib@0.0.20041014-1
     affected_by_vulnerabilities:

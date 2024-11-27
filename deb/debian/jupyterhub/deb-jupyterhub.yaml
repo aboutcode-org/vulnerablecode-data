@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jupyterhub
+package: pkg:deb/debian/jupyterhub
 versions:
   - purl: pkg:deb/debian/jupyterhub@0?distro=sid
     affected_by_vulnerabilities: []

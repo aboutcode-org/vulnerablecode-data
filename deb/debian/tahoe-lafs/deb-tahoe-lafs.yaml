@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tahoe-lafs
+package: pkg:deb/debian/tahoe-lafs
 versions:
   - purl: pkg:deb/debian/tahoe-lafs@0?distro=buster
     affected_by_vulnerabilities: []

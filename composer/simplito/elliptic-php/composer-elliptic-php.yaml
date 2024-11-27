@@ -1,4 +1,4 @@
-pacakge: pkg:composer/simplito/elliptic-php
+package: pkg:composer/simplito/elliptic-php
 versions:
   - purl: pkg:composer/simplito/elliptic-php@1.0.0
     affected_by_vulnerabilities:

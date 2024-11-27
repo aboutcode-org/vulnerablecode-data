@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/freedroidrpg
+package: pkg:deb/debian/freedroidrpg
 versions:
   - purl: pkg:deb/debian/freedroidrpg@0.16.1-4
     affected_by_vulnerabilities:

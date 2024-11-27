@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/mercurial
+package: pkg:alpine/mercurial
 versions:
   - purl: pkg:alpine/mercurial@4.3.1-r0?arch=aarch64&distroversion=v3.5&reponame=main
     affected_by_vulnerabilities: []

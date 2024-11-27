@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/evolution
+package: pkg:deb/debian/evolution
 versions:
   - purl: pkg:deb/debian/evolution@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/wireshark
+package: pkg:deb/debian/wireshark
 versions:
   - purl: pkg:deb/debian/wireshark@0?distro=sid
     affected_by_vulnerabilities: []

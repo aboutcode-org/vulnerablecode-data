@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/axtls
+package: pkg:deb/debian/axtls
 versions:
   - purl: pkg:deb/debian/axtls@0?distro=sid
     affected_by_vulnerabilities: []

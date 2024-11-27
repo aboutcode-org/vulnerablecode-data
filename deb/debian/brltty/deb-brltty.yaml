@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/brltty
+package: pkg:deb/debian/brltty
 versions:
   - purl: pkg:deb/debian/brltty@0?distro=sid
     affected_by_vulnerabilities: []

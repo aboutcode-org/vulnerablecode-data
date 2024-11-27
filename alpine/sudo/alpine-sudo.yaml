@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/sudo
+package: pkg:alpine/sudo
 versions:
   - purl: pkg:alpine/sudo@1.8.20_p2-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

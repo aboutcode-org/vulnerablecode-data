@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kio-extras
+package: pkg:deb/debian/kio-extras
 versions:
   - purl: pkg:deb/debian/kio-extras@4:16.08.3-1?distro=stretch
     affected_by_vulnerabilities:

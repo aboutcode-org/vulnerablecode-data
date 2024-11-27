@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sqlgrey
+package: pkg:deb/debian/sqlgrey
 versions:
   - purl: pkg:deb/debian/sqlgrey@1:1.8.0-1?distro=sid
     affected_by_vulnerabilities: []

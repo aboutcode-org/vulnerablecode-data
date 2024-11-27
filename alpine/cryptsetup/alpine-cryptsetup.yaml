@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/cryptsetup
+package: pkg:alpine/cryptsetup
 versions:
   - purl: pkg:alpine/cryptsetup@2.2.2-r1?arch=aarch64&distroversion=v3.11&reponame=main
     affected_by_vulnerabilities: []

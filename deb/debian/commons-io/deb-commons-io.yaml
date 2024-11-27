@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/commons-io
+package: pkg:deb/debian/commons-io
 versions:
   - purl: pkg:deb/debian/commons-io@2.11.0-2?distro=sid
     affected_by_vulnerabilities: []

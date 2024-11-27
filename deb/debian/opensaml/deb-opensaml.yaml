@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/opensaml
+package: pkg:deb/debian/opensaml
 versions:
   - purl: pkg:deb/debian/opensaml@3.0.0-2?distro=sid
     affected_by_vulnerabilities: []

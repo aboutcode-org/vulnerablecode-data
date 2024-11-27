@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/musl
+package: pkg:alpine/musl
 versions:
   - purl: pkg:alpine/musl@1.1.11-r3?arch=armhf&distroversion=v3.2&reponame=main
     affected_by_vulnerabilities: []

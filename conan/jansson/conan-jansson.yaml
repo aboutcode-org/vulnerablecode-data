@@ -1,4 +1,4 @@
-pacakge: pkg:conan/jansson
+package: pkg:conan/jansson
 versions:
   - purl: pkg:conan/jansson@2.12
     affected_by_vulnerabilities:

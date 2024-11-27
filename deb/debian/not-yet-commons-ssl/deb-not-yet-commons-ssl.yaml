@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/not-yet-commons-ssl
+package: pkg:deb/debian/not-yet-commons-ssl
 versions:
   - purl: pkg:deb/debian/not-yet-commons-ssl@0.3.15-1?distro=stretch
     affected_by_vulnerabilities: []

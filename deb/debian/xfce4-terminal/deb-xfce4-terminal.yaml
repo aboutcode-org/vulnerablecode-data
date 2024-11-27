@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xfce4-terminal
+package: pkg:deb/debian/xfce4-terminal
 versions:
   - purl: pkg:deb/debian/xfce4-terminal@0.2.6-3?distro=sid
     affected_by_vulnerabilities: []

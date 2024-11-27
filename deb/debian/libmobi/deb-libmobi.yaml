@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libmobi
+package: pkg:deb/debian/libmobi
 versions:
   - purl: pkg:deb/debian/libmobi@0?distro=sid
     affected_by_vulnerabilities: []

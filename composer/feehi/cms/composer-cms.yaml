@@ -1,4 +1,4 @@
-pacakge: pkg:composer/feehi/cms
+package: pkg:composer/feehi/cms
 versions:
   - purl: pkg:composer/feehi/cms@0.0.1
     affected_by_vulnerabilities:

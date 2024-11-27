@@ -1,4 +1,4 @@
-pacakge: pkg:composer/barrelstrength/sprout-forms
+package: pkg:composer/barrelstrength/sprout-forms
 versions:
   - purl: pkg:composer/barrelstrength/sprout-forms@0.7.1
     affected_by_vulnerabilities:

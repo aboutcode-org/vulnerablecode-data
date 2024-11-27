@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/realmd
+package: pkg:deb/debian/realmd
 versions:
   - purl: pkg:deb/debian/realmd@0.16.0-1?distro=sid
     affected_by_vulnerabilities: []

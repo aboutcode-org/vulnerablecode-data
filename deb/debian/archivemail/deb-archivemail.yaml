@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/archivemail
+package: pkg:deb/debian/archivemail
 versions:
   - purl: pkg:deb/debian/archivemail@0.4.0-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ejabberd
+package: pkg:deb/ubuntu/ejabberd
 versions:
   - purl: pkg:deb/ubuntu/ejabberd@0.7.5-6
     affected_by_vulnerabilities:

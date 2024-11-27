@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nvidia-graphics-drivers-legacy-390xx
+package: pkg:deb/debian/nvidia-graphics-drivers-legacy-390xx
 versions:
   - purl: pkg:deb/debian/nvidia-graphics-drivers-legacy-390xx@390.116-1?distro=sid
     affected_by_vulnerabilities: []

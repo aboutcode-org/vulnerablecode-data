@@ -1,4 +1,4 @@
-pacakge: pkg:composer/netgen/tagsbundle
+package: pkg:composer/netgen/tagsbundle
 versions:
   - purl: pkg:composer/netgen/tagsbundle@3.4.0
     affected_by_vulnerabilities:

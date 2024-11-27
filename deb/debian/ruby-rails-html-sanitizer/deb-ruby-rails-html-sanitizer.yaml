@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-rails-html-sanitizer
+package: pkg:deb/debian/ruby-rails-html-sanitizer
 versions:
   - purl: pkg:deb/debian/ruby-rails-html-sanitizer@1.0.3-1?distro=sid
     affected_by_vulnerabilities: []

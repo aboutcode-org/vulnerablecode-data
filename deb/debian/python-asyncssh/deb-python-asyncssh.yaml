@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-asyncssh
+package: pkg:deb/debian/python-asyncssh
 versions:
   - purl: pkg:deb/debian/python-asyncssh@1.12.1-1?distro=sid
     affected_by_vulnerabilities: []

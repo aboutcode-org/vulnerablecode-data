@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rpcbind
+package: pkg:deb/debian/rpcbind
 versions:
   - purl: pkg:deb/debian/rpcbind@0.2.0-4.1?distro=sid
     affected_by_vulnerabilities: []

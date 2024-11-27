@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/capi4hylafax
+package: pkg:deb/debian/capi4hylafax
 versions:
   - purl: pkg:deb/debian/capi4hylafax@0?distro=buster
     affected_by_vulnerabilities: []

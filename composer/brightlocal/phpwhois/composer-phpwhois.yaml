@@ -1,4 +1,4 @@
-pacakge: pkg:composer/brightlocal/phpwhois
+package: pkg:composer/brightlocal/phpwhois
 versions:
   - purl: pkg:composer/brightlocal/phpwhois@4.2.2
     affected_by_vulnerabilities:

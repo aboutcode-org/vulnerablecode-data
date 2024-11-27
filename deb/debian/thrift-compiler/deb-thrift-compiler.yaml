@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/thrift-compiler
+package: pkg:deb/debian/thrift-compiler
 versions:
   - purl: pkg:deb/debian/thrift-compiler@0?distro=stretch
     affected_by_vulnerabilities: []

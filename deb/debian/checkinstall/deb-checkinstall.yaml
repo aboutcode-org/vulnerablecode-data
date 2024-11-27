@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/checkinstall
+package: pkg:deb/debian/checkinstall
 versions:
   - purl: pkg:deb/debian/checkinstall@1.6.1-7?distro=sid
     affected_by_vulnerabilities: []

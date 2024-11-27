@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/network-manager-ssh
+package: pkg:deb/debian/network-manager-ssh
 versions:
   - purl: pkg:deb/debian/network-manager-ssh@1.2.10-1%2Bdeb10u1?distro=sid
     affected_by_vulnerabilities: []

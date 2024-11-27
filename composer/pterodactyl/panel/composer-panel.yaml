@@ -1,4 +1,4 @@
-pacakge: pkg:composer/pterodactyl/panel
+package: pkg:composer/pterodactyl/panel
 versions:
   - purl: pkg:composer/pterodactyl/panel@0.1.0-beta
     affected_by_vulnerabilities:

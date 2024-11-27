@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-doctrine-bundle
+package: pkg:deb/debian/php-doctrine-bundle
 versions:
   - purl: pkg:deb/debian/php-doctrine-bundle@1.10.2-1?distro=sid
     affected_by_vulnerabilities: []

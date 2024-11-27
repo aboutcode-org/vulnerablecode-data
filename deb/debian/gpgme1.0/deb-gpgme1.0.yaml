@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gpgme1.0
+package: pkg:deb/debian/gpgme1.0
 versions:
   - purl: pkg:deb/debian/gpgme1.0@1.0.2-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/golang-1.9
+package: pkg:deb/ubuntu/golang-1.9
 versions:
   - purl: pkg:deb/ubuntu/golang-1.9@1.9-1
     affected_by_vulnerabilities:

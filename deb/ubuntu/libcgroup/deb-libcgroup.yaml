@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libcgroup
+package: pkg:deb/ubuntu/libcgroup
 versions:
   - purl: pkg:deb/ubuntu/libcgroup@0.34-0ubuntu1
     affected_by_vulnerabilities:

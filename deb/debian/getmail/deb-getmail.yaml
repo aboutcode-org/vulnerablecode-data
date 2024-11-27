@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/getmail
+package: pkg:deb/debian/getmail
 versions:
   - purl: pkg:deb/debian/getmail@2.3.7-2
     affected_by_vulnerabilities:

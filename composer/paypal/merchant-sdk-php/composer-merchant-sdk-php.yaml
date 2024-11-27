@@ -1,4 +1,4 @@
-pacakge: pkg:composer/paypal/merchant-sdk-php
+package: pkg:composer/paypal/merchant-sdk-php
 versions:
   - purl: pkg:composer/paypal/merchant-sdk-php@2.10.116
     affected_by_vulnerabilities:

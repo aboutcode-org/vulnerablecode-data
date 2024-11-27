@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/reportbug
+package: pkg:deb/debian/reportbug
 versions:
   - purl: pkg:deb/debian/reportbug@0.54.1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/docker-registry
+package: pkg:deb/ubuntu/docker-registry
 versions:
   - purl: pkg:deb/ubuntu/docker-registry@2.1.1~ds1-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/freetype
+package: pkg:alpine/freetype
 versions:
   - purl: pkg:alpine/freetype@2.10.0-r1?arch=aarch64&distroversion=v3.10&reponame=main
     affected_by_vulnerabilities: []

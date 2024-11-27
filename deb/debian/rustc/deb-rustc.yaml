@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rustc
+package: pkg:deb/debian/rustc
 versions:
   - purl: pkg:deb/debian/rustc@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/postorius
+package: pkg:deb/debian/postorius
 versions:
   - purl: pkg:deb/debian/postorius@0?distro=sid
     affected_by_vulnerabilities: []

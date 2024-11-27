@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/webkitgtk
+package: pkg:deb/debian/webkitgtk
 versions:
   - purl: pkg:deb/debian/webkitgtk@2.4.11-3?distro=stretch
     affected_by_vulnerabilities: []

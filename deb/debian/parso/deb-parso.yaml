@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/parso
+package: pkg:deb/debian/parso
 versions:
   - purl: pkg:deb/debian/parso@0.3.1-1?distro=sid
     affected_by_vulnerabilities:

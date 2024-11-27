@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tdom
+package: pkg:deb/debian/tdom
 versions:
   - purl: pkg:deb/debian/tdom@0.8.3-1?distro=stretch
     affected_by_vulnerabilities: []

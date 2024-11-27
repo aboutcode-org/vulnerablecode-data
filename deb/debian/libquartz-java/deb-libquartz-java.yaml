@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libquartz-java
+package: pkg:deb/debian/libquartz-java
 versions:
   - purl: pkg:deb/debian/libquartz-java@1:1.8.6-3?distro=stretch
     affected_by_vulnerabilities: []

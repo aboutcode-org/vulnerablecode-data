@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/t-coffee
+package: pkg:deb/debian/t-coffee
 versions:
   - purl: pkg:deb/debian/t-coffee@11.00.8cbe486-2?distro=sid
     affected_by_vulnerabilities: []

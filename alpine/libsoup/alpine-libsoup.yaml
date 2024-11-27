@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libsoup
+package: pkg:alpine/libsoup
 versions:
   - purl: pkg:alpine/libsoup@2.52.2-r1?arch=armhf&distroversion=v3.3&reponame=main
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libcrypt-dsa-perl
+package: pkg:deb/debian/libcrypt-dsa-perl
 versions:
   - purl: pkg:deb/debian/libcrypt-dsa-perl@1.17-3?distro=sid
     affected_by_vulnerabilities: []

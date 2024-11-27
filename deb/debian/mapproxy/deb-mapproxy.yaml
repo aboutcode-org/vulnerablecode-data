@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mapproxy
+package: pkg:deb/debian/mapproxy
 versions:
   - purl: pkg:deb/debian/mapproxy@1.10.4-1?distro=sid
     affected_by_vulnerabilities: []

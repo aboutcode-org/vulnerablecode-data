@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-send
+package: pkg:deb/debian/node-send
 versions:
   - purl: pkg:deb/debian/node-send@0.16.2-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/boolector
+package: pkg:deb/debian/boolector
 versions:
   - purl: pkg:deb/debian/boolector@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/erusev/parsedown
+package: pkg:composer/erusev/parsedown
 versions:
   - purl: pkg:composer/erusev/parsedown@0.1.0
     affected_by_vulnerabilities:

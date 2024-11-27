@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rpm
+package: pkg:deb/debian/rpm
 versions:
   - purl: pkg:deb/debian/rpm@2.4.12-7
     affected_by_vulnerabilities:

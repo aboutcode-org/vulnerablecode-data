@@ -1,4 +1,4 @@
-pacakge: pkg:composer/mikehaertl/php-shellcommand
+package: pkg:composer/mikehaertl/php-shellcommand
 versions:
   - purl: pkg:composer/mikehaertl/php-shellcommand@1.0.0
     affected_by_vulnerabilities:

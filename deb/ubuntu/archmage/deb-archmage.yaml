@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/archmage
+package: pkg:deb/ubuntu/archmage
 versions:
   - purl: pkg:deb/ubuntu/archmage@0.0.7-2
     affected_by_vulnerabilities:

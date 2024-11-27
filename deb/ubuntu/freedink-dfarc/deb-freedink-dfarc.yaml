@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/freedink-dfarc
+package: pkg:deb/ubuntu/freedink-dfarc
 versions:
   - purl: pkg:deb/ubuntu/freedink-dfarc@3.10-1
     affected_by_vulnerabilities:

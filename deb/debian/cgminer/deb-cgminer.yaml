@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cgminer
+package: pkg:deb/debian/cgminer
 versions:
   - purl: pkg:deb/debian/cgminer@4.2.3-1?distro=sid
     affected_by_vulnerabilities: []

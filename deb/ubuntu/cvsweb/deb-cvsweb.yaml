@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/cvsweb
+package: pkg:deb/ubuntu/cvsweb
 versions:
   - purl: pkg:deb/ubuntu/cvsweb@3:3.0.1-2
     affected_by_vulnerabilities:

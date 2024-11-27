@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/amule
+package: pkg:deb/ubuntu/amule
 versions:
   - purl: pkg:deb/ubuntu/amule@1.2.6%2Bcvs20040620-1
     affected_by_vulnerabilities:

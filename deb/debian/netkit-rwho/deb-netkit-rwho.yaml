@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/netkit-rwho
+package: pkg:deb/debian/netkit-rwho
 versions:
   - purl: pkg:deb/debian/netkit-rwho@0.10-8
     affected_by_vulnerabilities:

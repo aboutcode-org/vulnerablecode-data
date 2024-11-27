@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/sleuthkit
+package: pkg:alpine/sleuthkit
 versions:
   - purl: pkg:alpine/sleuthkit@4.7.0-r1?arch=aarch64&distroversion=v3.11&reponame=community
     affected_by_vulnerabilities: []

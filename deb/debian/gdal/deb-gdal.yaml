@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gdal
+package: pkg:deb/debian/gdal
 versions:
   - purl: pkg:deb/debian/gdal@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/innologi/typo3-appointments
+package: pkg:composer/innologi/typo3-appointments
 versions:
   - purl: pkg:composer/innologi/typo3-appointments@2.0.0
     affected_by_vulnerabilities:

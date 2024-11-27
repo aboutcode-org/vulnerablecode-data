@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ngircd
+package: pkg:deb/debian/ngircd
 versions:
   - purl: pkg:deb/debian/ngircd@0?distro=sid
     affected_by_vulnerabilities: []

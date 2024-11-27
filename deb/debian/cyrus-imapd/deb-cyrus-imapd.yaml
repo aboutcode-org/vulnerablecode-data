@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cyrus-imapd
+package: pkg:deb/debian/cyrus-imapd
 versions:
   - purl: pkg:deb/debian/cyrus-imapd@0?distro=sid
     affected_by_vulnerabilities: []

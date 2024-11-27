@@ -1,4 +1,4 @@
-pacakge: pkg:composer/fof/upload
+package: pkg:composer/fof/upload
 versions:
   - purl: pkg:composer/fof/upload@0.1.0
     affected_by_vulnerabilities:

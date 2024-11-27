@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/djvulibre
+package: pkg:deb/ubuntu/djvulibre
 versions:
   - purl: pkg:deb/ubuntu/djvulibre@3.5.13.pre14-4ubuntu1
     affected_by_vulnerabilities:

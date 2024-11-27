@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rpyc
+package: pkg:deb/debian/rpyc
 versions:
   - purl: pkg:deb/debian/rpyc@0?distro=sid
     affected_by_vulnerabilities: []

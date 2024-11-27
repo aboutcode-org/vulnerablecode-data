@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/composer
+package: pkg:deb/debian/composer
 versions:
   - purl: pkg:deb/debian/composer@0?distro=sid
     affected_by_vulnerabilities: []

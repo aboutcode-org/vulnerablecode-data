@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/curl
+package: pkg:deb/ubuntu/curl
 versions:
   - purl: pkg:deb/ubuntu/curl@7.12.0.is.7.11.2-1
     affected_by_vulnerabilities:

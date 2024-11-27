@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/archmage
+package: pkg:deb/debian/archmage
 versions:
   - purl: pkg:deb/debian/archmage@1:0.2.4-4?distro=sid
     affected_by_vulnerabilities: []

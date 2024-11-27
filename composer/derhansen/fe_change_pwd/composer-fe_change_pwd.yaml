@@ -1,4 +1,4 @@
-pacakge: pkg:composer/derhansen/fe_change_pwd
+package: pkg:composer/derhansen/fe_change_pwd
 versions:
   - purl: pkg:composer/derhansen/fe_change_pwd@1.0.0
     affected_by_vulnerabilities:

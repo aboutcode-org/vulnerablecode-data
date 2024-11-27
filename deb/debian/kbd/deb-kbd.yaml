@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kbd
+package: pkg:deb/debian/kbd
 versions:
   - purl: pkg:deb/debian/kbd@0?distro=sid
     affected_by_vulnerabilities: []

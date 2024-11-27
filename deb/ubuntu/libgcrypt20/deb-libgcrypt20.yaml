@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libgcrypt20
+package: pkg:deb/ubuntu/libgcrypt20
 versions:
   - purl: pkg:deb/ubuntu/libgcrypt20@1.6.0-2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-flynn-noise
+package: pkg:deb/debian/golang-github-flynn-noise
 versions:
   - purl: pkg:deb/debian/golang-github-flynn-noise@0?distro=sid
     affected_by_vulnerabilities: []

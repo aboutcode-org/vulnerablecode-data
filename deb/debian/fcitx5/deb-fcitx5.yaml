@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fcitx5
+package: pkg:deb/debian/fcitx5
 versions:
   - purl: pkg:deb/debian/fcitx5@0~20181128%2Bds1-1?distro=sid
     affected_by_vulnerabilities:

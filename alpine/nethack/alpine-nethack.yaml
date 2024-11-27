@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/nethack
+package: pkg:alpine/nethack
 versions:
   - purl: pkg:alpine/nethack@3.6.4-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

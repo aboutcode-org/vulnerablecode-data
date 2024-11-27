@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/freetds
+package: pkg:deb/debian/freetds
 versions:
   - purl: pkg:deb/debian/freetds@0?distro=stretch
     affected_by_vulnerabilities: []

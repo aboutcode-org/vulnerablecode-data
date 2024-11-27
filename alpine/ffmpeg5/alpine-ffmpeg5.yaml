@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/ffmpeg5
+package: pkg:alpine/ffmpeg5
 versions:
   - purl: pkg:alpine/ffmpeg5@5.1-r1?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

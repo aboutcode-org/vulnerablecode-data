@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libcgi-application-perl
+package: pkg:deb/ubuntu/libcgi-application-perl
 versions:
   - purl: pkg:deb/ubuntu/libcgi-application-perl@3.22-1
     affected_by_vulnerabilities:

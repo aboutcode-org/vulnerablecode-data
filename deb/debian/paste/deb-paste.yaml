@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/paste
+package: pkg:deb/debian/paste
 versions:
   - purl: pkg:deb/debian/paste@1.7.4-1?distro=sid
     affected_by_vulnerabilities: []

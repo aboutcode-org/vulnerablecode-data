@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tla
+package: pkg:deb/debian/tla
 versions:
   - purl: pkg:deb/debian/tla@1.3.5%2Bdfsg1-2?distro=sid
     affected_by_vulnerabilities: []

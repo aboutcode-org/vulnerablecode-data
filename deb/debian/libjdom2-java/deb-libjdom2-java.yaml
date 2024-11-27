@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libjdom2-java
+package: pkg:deb/debian/libjdom2-java
 versions:
   - purl: pkg:deb/debian/libjdom2-java@2.0.6-1?distro=sid
     affected_by_vulnerabilities:

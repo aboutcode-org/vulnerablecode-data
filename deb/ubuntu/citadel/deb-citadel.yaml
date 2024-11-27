@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/citadel
+package: pkg:deb/ubuntu/citadel
 versions:
   - purl: pkg:deb/ubuntu/citadel@7.35-1
     affected_by_vulnerabilities:

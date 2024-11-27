@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/aptdaemon
+package: pkg:deb/ubuntu/aptdaemon
 versions:
   - purl: pkg:deb/ubuntu/aptdaemon@0.10%2Bbzr173-0ubuntu1
     affected_by_vulnerabilities:

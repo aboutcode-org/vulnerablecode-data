@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cvsweb
+package: pkg:deb/debian/cvsweb
 versions:
   - purl: pkg:deb/debian/cvsweb@3:3.0.0-1?distro=sid
     affected_by_vulnerabilities: []

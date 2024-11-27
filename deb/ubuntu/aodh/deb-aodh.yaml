@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/aodh
+package: pkg:deb/ubuntu/aodh
 versions:
   - purl: pkg:deb/ubuntu/aodh@1.0.0-1
     affected_by_vulnerabilities:

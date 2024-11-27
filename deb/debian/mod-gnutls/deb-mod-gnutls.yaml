@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mod-gnutls
+package: pkg:deb/debian/mod-gnutls
 versions:
   - purl: pkg:deb/debian/mod-gnutls@0.5.6-1?distro=sid
     affected_by_vulnerabilities: []

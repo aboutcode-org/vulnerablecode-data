@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/leptonlib
+package: pkg:deb/debian/leptonlib
 versions:
   - purl: pkg:deb/debian/leptonlib@0?distro=stretch
     affected_by_vulnerabilities: []

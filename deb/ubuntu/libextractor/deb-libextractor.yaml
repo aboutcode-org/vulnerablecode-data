@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libextractor
+package: pkg:deb/ubuntu/libextractor
 versions:
   - purl: pkg:deb/ubuntu/libextractor@0.3.10-2
     affected_by_vulnerabilities:

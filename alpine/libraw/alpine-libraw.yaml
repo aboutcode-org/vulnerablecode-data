@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libraw
+package: pkg:alpine/libraw
 versions:
   - purl: pkg:alpine/libraw@0.17.1-r0?arch=armhf&distroversion=v3.3&reponame=main
     affected_by_vulnerabilities: []

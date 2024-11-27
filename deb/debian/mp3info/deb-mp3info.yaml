@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mp3info
+package: pkg:deb/debian/mp3info
 versions:
   - purl: pkg:deb/debian/mp3info@0.2.16-2
     affected_by_vulnerabilities:

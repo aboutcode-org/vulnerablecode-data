@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/opendmarc
+package: pkg:deb/debian/opendmarc
 versions:
   - purl: pkg:deb/debian/opendmarc@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ldb
+package: pkg:deb/ubuntu/ldb
 versions:
   - purl: pkg:deb/ubuntu/ldb@0.9.0-1
     affected_by_vulnerabilities:

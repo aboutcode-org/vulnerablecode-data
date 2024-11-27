@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/lightdm-gtk-greeter
+package: pkg:deb/ubuntu/lightdm-gtk-greeter
 versions:
   - purl: pkg:deb/ubuntu/lightdm-gtk-greeter@1.1.4-0ubuntu1
     affected_by_vulnerabilities:

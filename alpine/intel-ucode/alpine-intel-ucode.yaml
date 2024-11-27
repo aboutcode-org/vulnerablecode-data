@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/intel-ucode
+package: pkg:alpine/intel-ucode
 versions:
   - purl: pkg:alpine/intel-ucode@20190514a-r0?arch=aarch64&distroversion=v3.12&reponame=community
     affected_by_vulnerabilities: []

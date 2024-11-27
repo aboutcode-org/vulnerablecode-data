@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/recon-ng
+package: pkg:deb/debian/recon-ng
 versions:
   - purl: pkg:deb/debian/recon-ng@4.9.5-1?distro=sid
     affected_by_vulnerabilities: []

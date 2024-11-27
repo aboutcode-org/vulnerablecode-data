@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libgrokj2k
+package: pkg:deb/debian/libgrokj2k
 versions:
   - purl: pkg:deb/debian/libgrokj2k@10.0.0-1?distro=sid
     affected_by_vulnerabilities: []

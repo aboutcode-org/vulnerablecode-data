@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cherrytree
+package: pkg:deb/debian/cherrytree
 versions:
   - purl: pkg:deb/debian/cherrytree@0?distro=sid
     affected_by_vulnerabilities: []

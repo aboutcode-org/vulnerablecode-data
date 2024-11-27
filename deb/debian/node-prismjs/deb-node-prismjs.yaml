@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-prismjs
+package: pkg:deb/debian/node-prismjs
 versions:
   - purl: pkg:deb/debian/node-prismjs@1.11.0%2Bdfsg-4?distro=sid
     affected_by_vulnerabilities: []

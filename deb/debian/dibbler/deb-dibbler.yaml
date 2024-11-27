@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dibbler
+package: pkg:deb/debian/dibbler
 versions:
   - purl: pkg:deb/debian/dibbler@0.6.1-1?distro=sid
     affected_by_vulnerabilities: []

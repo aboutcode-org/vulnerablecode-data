@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-pires-go-proxyproto
+package: pkg:deb/debian/golang-github-pires-go-proxyproto
 versions:
   - purl: pkg:deb/debian/golang-github-pires-go-proxyproto@0.4.2-1?distro=sid
     affected_by_vulnerabilities:

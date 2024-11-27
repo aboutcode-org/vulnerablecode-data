@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-ripgrep
+package: pkg:deb/debian/rust-ripgrep
 versions:
   - purl: pkg:deb/debian/rust-ripgrep@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sarg
+package: pkg:deb/debian/sarg
 versions:
   - purl: pkg:deb/debian/sarg@2.2.4-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/netcat
+package: pkg:deb/debian/netcat
 versions:
   - purl: pkg:deb/debian/netcat@0?distro=sid
     affected_by_vulnerabilities: []

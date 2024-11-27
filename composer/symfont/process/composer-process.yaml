@@ -1,4 +1,4 @@
-pacakge: pkg:composer/symfont/process
+package: pkg:composer/symfont/process
 versions:
   - purl: pkg:composer/symfont/process@3.4
     affected_by_vulnerabilities:

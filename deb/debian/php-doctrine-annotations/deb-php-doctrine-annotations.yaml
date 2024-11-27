@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-doctrine-annotations
+package: pkg:deb/debian/php-doctrine-annotations
 versions:
   - purl: pkg:deb/debian/php-doctrine-annotations@1.11.2-1?distro=sid
     affected_by_vulnerabilities: []

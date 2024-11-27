@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openqa
+package: pkg:deb/debian/openqa
 versions:
   - purl: pkg:deb/debian/openqa@0?distro=sid
     affected_by_vulnerabilities: []

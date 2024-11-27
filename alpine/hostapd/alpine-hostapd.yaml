@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/hostapd
+package: pkg:alpine/hostapd
 versions:
   - purl: pkg:alpine/hostapd@2.10-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

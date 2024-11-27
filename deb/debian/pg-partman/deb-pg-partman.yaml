@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pg-partman
+package: pkg:deb/debian/pg-partman
 versions:
   - purl: pkg:deb/debian/pg-partman@2.6.3-1?distro=stretch
     affected_by_vulnerabilities:

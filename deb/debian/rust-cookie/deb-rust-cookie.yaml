@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-cookie
+package: pkg:deb/debian/rust-cookie
 versions:
   - purl: pkg:deb/debian/rust-cookie@0?distro=sid
     affected_by_vulnerabilities: []

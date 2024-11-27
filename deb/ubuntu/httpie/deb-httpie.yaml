@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/httpie
+package: pkg:deb/ubuntu/httpie
 versions:
   - purl: pkg:deb/ubuntu/httpie@0.1.6%2B20120309git-2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/harfbuzz
+package: pkg:deb/ubuntu/harfbuzz
 versions:
   - purl: pkg:deb/ubuntu/harfbuzz@0.9.10-1
     affected_by_vulnerabilities:

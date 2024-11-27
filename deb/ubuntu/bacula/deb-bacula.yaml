@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/bacula
+package: pkg:deb/ubuntu/bacula
 versions:
   - purl: pkg:deb/ubuntu/bacula@1.32f-5-3
     affected_by_vulnerabilities:

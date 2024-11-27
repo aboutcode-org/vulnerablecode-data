@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/db5.3
+package: pkg:deb/ubuntu/db5.3
 versions:
   - purl: pkg:deb/ubuntu/db5.3@5.3.15-2
     affected_by_vulnerabilities:

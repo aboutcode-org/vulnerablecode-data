@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jpeg-xl
+package: pkg:deb/debian/jpeg-xl
 versions:
   - purl: pkg:deb/debian/jpeg-xl@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rtl-433
+package: pkg:deb/debian/rtl-433
 versions:
   - purl: pkg:deb/debian/rtl-433@0?distro=sid
     affected_by_vulnerabilities: []

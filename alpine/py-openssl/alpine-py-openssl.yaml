@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/py-openssl
+package: pkg:alpine/py-openssl
 versions:
   - purl: pkg:alpine/py-openssl@17.5.0-r0?arch=aarch64&distroversion=v3.6&reponame=main
     affected_by_vulnerabilities: []

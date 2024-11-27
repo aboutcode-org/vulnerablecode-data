@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pillow
+package: pkg:deb/debian/pillow
 versions:
   - purl: pkg:deb/debian/pillow@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libui-dialog-perl
+package: pkg:deb/debian/libui-dialog-perl
 versions:
   - purl: pkg:deb/debian/libui-dialog-perl@1.21-0.1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnome-vfs
+package: pkg:deb/debian/gnome-vfs
 versions:
   - purl: pkg:deb/debian/gnome-vfs@1.0.1?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-gopkg-yaml.v3
+package: pkg:deb/debian/golang-gopkg-yaml.v3
 versions:
   - purl: pkg:deb/debian/golang-gopkg-yaml.v3@3.0.0~git20200121.a6ecf24-3?distro=sid
     affected_by_vulnerabilities:

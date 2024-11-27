@@ -1,4 +1,4 @@
-pacakge: pkg:conan/nettle
+package: pkg:conan/nettle
 versions:
   - purl: pkg:conan/nettle@3.5
     affected_by_vulnerabilities:

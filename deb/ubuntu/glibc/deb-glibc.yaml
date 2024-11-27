@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/glibc
+package: pkg:deb/ubuntu/glibc
 versions:
   - purl: pkg:deb/ubuntu/glibc@2.19-10ubuntu1
     affected_by_vulnerabilities:

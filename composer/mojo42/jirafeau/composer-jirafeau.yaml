@@ -1,4 +1,4 @@
-pacakge: pkg:composer/mojo42/jirafeau
+package: pkg:composer/mojo42/jirafeau
 versions:
   - purl: pkg:composer/mojo42/jirafeau@4.3.0
     affected_by_vulnerabilities:

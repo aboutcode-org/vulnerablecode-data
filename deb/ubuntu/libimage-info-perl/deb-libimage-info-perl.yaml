@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libimage-info-perl
+package: pkg:deb/ubuntu/libimage-info-perl
 versions:
   - purl: pkg:deb/ubuntu/libimage-info-perl@1.09-2
     affected_by_vulnerabilities:

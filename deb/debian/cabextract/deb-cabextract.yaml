@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cabextract
+package: pkg:deb/debian/cabextract
 versions:
   - purl: pkg:deb/debian/cabextract@0.2-2b
     affected_by_vulnerabilities:

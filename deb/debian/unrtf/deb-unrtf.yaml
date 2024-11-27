@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/unrtf
+package: pkg:deb/debian/unrtf
 versions:
   - purl: pkg:deb/debian/unrtf@0.18.1-2
     affected_by_vulnerabilities:

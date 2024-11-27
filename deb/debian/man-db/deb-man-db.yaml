@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/man-db
+package: pkg:deb/debian/man-db
 versions:
   - purl: pkg:deb/debian/man-db@0?distro=sid
     affected_by_vulnerabilities: []

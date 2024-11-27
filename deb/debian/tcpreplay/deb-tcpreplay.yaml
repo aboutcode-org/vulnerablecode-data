@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tcpreplay
+package: pkg:deb/debian/tcpreplay
 versions:
   - purl: pkg:deb/debian/tcpreplay@0?distro=sid
     affected_by_vulnerabilities: []

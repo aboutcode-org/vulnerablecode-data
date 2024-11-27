@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/horizon
+package: pkg:deb/debian/horizon
 versions:
   - purl: pkg:deb/debian/horizon@0?distro=sid
     affected_by_vulnerabilities: []

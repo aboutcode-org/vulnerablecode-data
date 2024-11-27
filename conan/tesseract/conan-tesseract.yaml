@@ -1,4 +1,4 @@
-pacakge: pkg:conan/tesseract
+package: pkg:conan/tesseract
 versions:
   - purl: pkg:conan/tesseract@5.0.0
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-django-registration
+package: pkg:deb/debian/python-django-registration
 versions:
   - purl: pkg:deb/debian/python-django-registration@2.2-2
     affected_by_vulnerabilities:

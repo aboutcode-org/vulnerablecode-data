@@ -1,4 +1,4 @@
-pacakge: pkg:composer/qcubed/qcubed
+package: pkg:composer/qcubed/qcubed
 versions:
   - purl: pkg:composer/qcubed/qcubed@3.0.1-beta
     affected_by_vulnerabilities:

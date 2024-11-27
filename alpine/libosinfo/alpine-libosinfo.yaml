@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libosinfo
+package: pkg:alpine/libosinfo
 versions:
   - purl: pkg:alpine/libosinfo@1.5.0-r1?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

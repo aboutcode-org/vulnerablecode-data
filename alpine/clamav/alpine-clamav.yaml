@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/clamav
+package: pkg:alpine/clamav
 versions:
   - purl: pkg:alpine/clamav@0.100.1-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

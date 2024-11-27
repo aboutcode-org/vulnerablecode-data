@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-revel-revel
+package: pkg:deb/debian/golang-github-revel-revel
 versions:
   - purl: pkg:deb/debian/golang-github-revel-revel@0.12.0%2Bdfsg-4
     affected_by_vulnerabilities:

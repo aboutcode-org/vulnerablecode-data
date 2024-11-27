@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-css-what
+package: pkg:deb/debian/node-css-what
 versions:
   - purl: pkg:deb/debian/node-css-what@2.1.0-1?distro=sid
     affected_by_vulnerabilities:

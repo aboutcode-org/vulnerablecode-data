@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rhnsd
+package: pkg:deb/debian/rhnsd
 versions:
   - purl: pkg:deb/debian/rhnsd@0?distro=stretch
     affected_by_vulnerabilities: []

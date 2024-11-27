@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libiberty
+package: pkg:deb/debian/libiberty
 versions:
   - purl: pkg:deb/debian/libiberty@20161011-1?distro=sid
     affected_by_vulnerabilities: []

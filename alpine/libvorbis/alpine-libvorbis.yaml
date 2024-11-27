@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libvorbis
+package: pkg:alpine/libvorbis
 versions:
   - purl: pkg:alpine/libvorbis@1.3.5-r2?arch=aarch64&distroversion=v3.5&reponame=main
     affected_by_vulnerabilities: []

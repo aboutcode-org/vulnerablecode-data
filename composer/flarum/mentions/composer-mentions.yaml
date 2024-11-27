@@ -1,4 +1,4 @@
-pacakge: pkg:composer/flarum/mentions
+package: pkg:composer/flarum/mentions
 versions:
   - purl: pkg:composer/flarum/mentions@0.1.0-beta.10
     affected_by_vulnerabilities:

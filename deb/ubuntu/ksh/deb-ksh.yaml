@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ksh
+package: pkg:deb/ubuntu/ksh
 versions:
   - purl: pkg:deb/ubuntu/ksh@2020.0.0-5
     affected_by_vulnerabilities: []

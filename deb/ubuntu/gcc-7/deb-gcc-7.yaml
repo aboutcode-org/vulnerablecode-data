@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gcc-7
+package: pkg:deb/ubuntu/gcc-7
 versions:
   - purl: pkg:deb/ubuntu/gcc-7@7.1.0-10ubuntu1
     affected_by_vulnerabilities:

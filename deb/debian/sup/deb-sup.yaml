@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sup
+package: pkg:deb/debian/sup
 versions:
   - purl: pkg:deb/debian/sup@1.8-11?distro=sid
     affected_by_vulnerabilities: []

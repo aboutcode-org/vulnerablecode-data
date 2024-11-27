@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/angular.js
+package: pkg:deb/debian/angular.js
 versions:
   - purl: pkg:deb/debian/angular.js@1.5.10-1?distro=sid
     affected_by_vulnerabilities:

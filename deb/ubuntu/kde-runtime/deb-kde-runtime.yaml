@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/kde-runtime
+package: pkg:deb/ubuntu/kde-runtime
 versions:
   - purl: pkg:deb/ubuntu/kde-runtime@4:4.10.0-0ubuntu1
     affected_by_vulnerabilities:

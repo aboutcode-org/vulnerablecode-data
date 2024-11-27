@@ -1,4 +1,4 @@
-pacakge: pkg:composer/kevinpapst/kimai2
+package: pkg:composer/kevinpapst/kimai2
 versions:
   - purl: pkg:composer/kevinpapst/kimai2@0.1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/wavpack
+package: pkg:deb/debian/wavpack
 versions:
   - purl: pkg:deb/debian/wavpack@5.0.0-2?distro=sid
     affected_by_vulnerabilities: []

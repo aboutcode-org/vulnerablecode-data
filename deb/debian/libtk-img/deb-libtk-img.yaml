@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libtk-img
+package: pkg:deb/debian/libtk-img
 versions:
   - purl: pkg:deb/debian/libtk-img@1:1.3-release-7?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libgwenhywfar
+package: pkg:deb/ubuntu/libgwenhywfar
 versions:
   - purl: pkg:deb/ubuntu/libgwenhywfar@1.18.0-1
     affected_by_vulnerabilities:

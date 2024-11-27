@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/wpa
+package: pkg:deb/debian/wpa
 versions:
   - purl: pkg:deb/debian/wpa@0?distro=sid
     affected_by_vulnerabilities: []

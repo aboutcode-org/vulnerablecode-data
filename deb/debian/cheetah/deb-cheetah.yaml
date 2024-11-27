@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cheetah
+package: pkg:deb/debian/cheetah
 versions:
   - purl: pkg:deb/debian/cheetah@0.9.16-1?distro=sid
     affected_by_vulnerabilities: []

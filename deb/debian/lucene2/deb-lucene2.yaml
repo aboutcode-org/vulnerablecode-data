@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lucene2
+package: pkg:deb/debian/lucene2
 versions:
   - purl: pkg:deb/debian/lucene2@2.9.1%2Bds1-2?distro=stretch
     affected_by_vulnerabilities: []

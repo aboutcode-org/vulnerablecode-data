@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/stunnel4
+package: pkg:deb/debian/stunnel4
 versions:
   - purl: pkg:deb/debian/stunnel4@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/php7
+package: pkg:alpine/php7
 versions:
   - purl: pkg:alpine/php7@7.0.21-r0?arch=aarch64&distroversion=v3.5&reponame=community
     affected_by_vulnerabilities: []

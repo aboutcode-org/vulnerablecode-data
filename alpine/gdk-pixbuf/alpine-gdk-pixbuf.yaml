@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/gdk-pixbuf
+package: pkg:alpine/gdk-pixbuf
 versions:
   - purl: pkg:alpine/gdk-pixbuf@2.32.0-r2?arch=armhf&distroversion=v3.3&reponame=main
     affected_by_vulnerabilities: []

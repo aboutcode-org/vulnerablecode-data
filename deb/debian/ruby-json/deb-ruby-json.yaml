@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-json
+package: pkg:deb/debian/ruby-json
 versions:
   - purl: pkg:deb/debian/ruby-json@1.7.3-3?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mistral
+package: pkg:deb/debian/mistral
 versions:
   - purl: pkg:deb/debian/mistral@0?distro=sid
     affected_by_vulnerabilities: []

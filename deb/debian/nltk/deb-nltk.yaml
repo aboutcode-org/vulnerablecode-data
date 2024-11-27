@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nltk
+package: pkg:deb/debian/nltk
 versions:
   - purl: pkg:deb/debian/nltk@3.2.1-2?distro=stretch
     affected_by_vulnerabilities:

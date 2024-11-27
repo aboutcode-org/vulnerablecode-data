@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gnutls26
+package: pkg:deb/ubuntu/gnutls26
 versions:
   - purl: pkg:deb/ubuntu/gnutls26@2.10.5-1ubuntu1
     affected_by_vulnerabilities:

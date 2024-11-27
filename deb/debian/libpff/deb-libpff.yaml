@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libpff
+package: pkg:deb/debian/libpff
 versions:
   - purl: pkg:deb/debian/libpff@20120802-5?distro=stretch
     affected_by_vulnerabilities:

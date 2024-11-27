@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/jbigkit
+package: pkg:deb/ubuntu/jbigkit
 versions:
   - purl: pkg:deb/ubuntu/jbigkit@2.0-2
     affected_by_vulnerabilities:

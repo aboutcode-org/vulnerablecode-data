@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libjs-jquery-file-upload
+package: pkg:deb/debian/libjs-jquery-file-upload
 versions:
   - purl: pkg:deb/debian/libjs-jquery-file-upload@10.32.0-1?distro=sid
     affected_by_vulnerabilities: []

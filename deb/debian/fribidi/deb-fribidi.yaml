@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fribidi
+package: pkg:deb/debian/fribidi
 versions:
   - purl: pkg:deb/debian/fribidi@0?distro=stretch
     affected_by_vulnerabilities: []

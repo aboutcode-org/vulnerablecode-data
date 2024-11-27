@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rpki-client
+package: pkg:deb/debian/rpki-client
 versions:
   - purl: pkg:deb/debian/rpki-client@6.8p1-2?distro=sid
     affected_by_vulnerabilities:

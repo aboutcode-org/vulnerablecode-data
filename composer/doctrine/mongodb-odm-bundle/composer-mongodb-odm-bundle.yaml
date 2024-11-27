@@ -1,4 +1,4 @@
-pacakge: pkg:composer/doctrine/mongodb-odm-bundle
+package: pkg:composer/doctrine/mongodb-odm-bundle
 versions:
   - purl: pkg:composer/doctrine/mongodb-odm-bundle@2.0.1
     affected_by_vulnerabilities:

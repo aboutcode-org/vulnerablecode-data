@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/yaml
+package: pkg:alpine/yaml
 versions:
   - purl: pkg:alpine/yaml@0.1.6-r1?arch=armhf&distroversion=v3.4&reponame=main
     affected_by_vulnerabilities: []

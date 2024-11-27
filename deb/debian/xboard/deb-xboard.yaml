@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xboard
+package: pkg:deb/debian/xboard
 versions:
   - purl: pkg:deb/debian/xboard@3.6.2-4
     affected_by_vulnerabilities:

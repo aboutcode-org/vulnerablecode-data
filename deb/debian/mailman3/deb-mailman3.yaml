@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mailman3
+package: pkg:deb/debian/mailman3
 versions:
   - purl: pkg:deb/debian/mailman3@3.2.1-1?distro=sid
     affected_by_vulnerabilities:

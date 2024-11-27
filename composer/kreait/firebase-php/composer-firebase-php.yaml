@@ -1,4 +1,4 @@
-pacakge: pkg:composer/kreait/firebase-php
+package: pkg:composer/kreait/firebase-php
 versions:
   - purl: pkg:composer/kreait/firebase-php@3.2.0
     affected_by_vulnerabilities:

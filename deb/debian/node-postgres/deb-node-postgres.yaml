@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-postgres
+package: pkg:deb/debian/node-postgres
 versions:
   - purl: pkg:deb/debian/node-postgres@7.14.0-2?distro=sid
     affected_by_vulnerabilities: []

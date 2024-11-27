@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kitty
+package: pkg:deb/debian/kitty
 versions:
   - purl: pkg:deb/debian/kitty@0.13.3-1%2Bdeb10u1?distro=sid
     affected_by_vulnerabilities:

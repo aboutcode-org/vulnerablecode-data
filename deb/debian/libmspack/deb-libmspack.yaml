@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libmspack
+package: pkg:deb/debian/libmspack
 versions:
   - purl: pkg:deb/debian/libmspack@0.10.1-1?distro=sid
     affected_by_vulnerabilities: []

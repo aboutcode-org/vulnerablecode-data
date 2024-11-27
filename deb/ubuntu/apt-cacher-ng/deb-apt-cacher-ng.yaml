@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/apt-cacher-ng
+package: pkg:deb/ubuntu/apt-cacher-ng
 versions:
   - purl: pkg:deb/ubuntu/apt-cacher-ng@0.1.1-1
     affected_by_vulnerabilities:

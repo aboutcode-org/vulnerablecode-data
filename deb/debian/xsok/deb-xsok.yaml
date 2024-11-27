@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xsok
+package: pkg:deb/debian/xsok
 versions:
   - purl: pkg:deb/debian/xsok@0?distro=sid
     affected_by_vulnerabilities: []

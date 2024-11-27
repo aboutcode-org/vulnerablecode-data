@@ -1,4 +1,4 @@
-pacakge: pkg:composer/thelia/thelia
+package: pkg:composer/thelia/thelia
 versions:
   - purl: pkg:composer/thelia/thelia@2.1.0
     affected_by_vulnerabilities:

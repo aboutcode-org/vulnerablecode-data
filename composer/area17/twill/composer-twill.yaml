@@ -1,4 +1,4 @@
-pacakge: pkg:composer/area17/twill
+package: pkg:composer/area17/twill
 versions:
   - purl: pkg:composer/area17/twill@0.1.0
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/phanan/koel
+package: pkg:composer/phanan/koel
 versions:
   - purl: pkg:composer/phanan/koel@1.0.0-beta
     affected_by_vulnerabilities:

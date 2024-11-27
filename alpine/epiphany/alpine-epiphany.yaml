@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/epiphany
+package: pkg:alpine/epiphany
 versions:
   - purl: pkg:alpine/epiphany@41.3-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

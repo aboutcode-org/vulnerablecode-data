@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libxi
+package: pkg:alpine/libxi
 versions:
   - purl: pkg:alpine/libxi@1.7.4-r1?arch=armhf&distroversion=v3.2&reponame=main
     affected_by_vulnerabilities: []

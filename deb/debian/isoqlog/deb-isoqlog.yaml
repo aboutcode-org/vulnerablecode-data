@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/isoqlog
+package: pkg:deb/debian/isoqlog
 versions:
   - purl: pkg:deb/debian/isoqlog@2.2-0.1?distro=sid
     affected_by_vulnerabilities: []

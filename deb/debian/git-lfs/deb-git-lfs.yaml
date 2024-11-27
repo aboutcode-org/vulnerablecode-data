@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/git-lfs
+package: pkg:deb/debian/git-lfs
 versions:
   - purl: pkg:deb/debian/git-lfs@0?distro=sid
     affected_by_vulnerabilities: []

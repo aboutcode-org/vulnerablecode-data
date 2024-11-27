@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/commons-configuration2
+package: pkg:deb/debian/commons-configuration2
 versions:
   - purl: pkg:deb/debian/commons-configuration2@0?distro=sid
     affected_by_vulnerabilities: []

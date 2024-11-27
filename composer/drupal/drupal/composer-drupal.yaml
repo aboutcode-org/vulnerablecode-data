@@ -1,4 +1,4 @@
-pacakge: pkg:composer/drupal/drupal
+package: pkg:composer/drupal/drupal
 versions:
   - purl: pkg:composer/drupal/drupal@6.20.0
     affected_by_vulnerabilities:

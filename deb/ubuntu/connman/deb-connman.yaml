@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/connman
+package: pkg:deb/ubuntu/connman
 versions:
   - purl: pkg:deb/ubuntu/connman@0.10%2Bgit20090203t223225-0ubuntu2
     affected_by_vulnerabilities:

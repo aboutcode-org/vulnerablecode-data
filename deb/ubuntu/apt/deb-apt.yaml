@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/apt
+package: pkg:deb/ubuntu/apt
 versions:
   - purl: pkg:deb/ubuntu/apt@0.5.27.1
     affected_by_vulnerabilities:

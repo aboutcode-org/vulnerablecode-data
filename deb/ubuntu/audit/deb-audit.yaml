@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/audit
+package: pkg:deb/ubuntu/audit
 versions:
   - purl: pkg:deb/ubuntu/audit@1:2.2.2-1ubuntu1
     affected_by_vulnerabilities:

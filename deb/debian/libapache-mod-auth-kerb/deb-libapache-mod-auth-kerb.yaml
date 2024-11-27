@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libapache-mod-auth-kerb
+package: pkg:deb/debian/libapache-mod-auth-kerb
 versions:
   - purl: pkg:deb/debian/libapache-mod-auth-kerb@4.996-5.0-rc6-1sarge1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/apr
+package: pkg:alpine/apr
 versions:
   - purl: pkg:alpine/apr@1.7.0-r1?arch=aarch64&distroversion=v3.13&reponame=main
     affected_by_vulnerabilities: []

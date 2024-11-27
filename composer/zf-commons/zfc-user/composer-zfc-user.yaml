@@ -1,4 +1,4 @@
-pacakge: pkg:composer/zf-commons/zfc-user
+package: pkg:composer/zf-commons/zfc-user
 versions:
   - purl: pkg:composer/zf-commons/zfc-user@0.0.1
     affected_by_vulnerabilities:

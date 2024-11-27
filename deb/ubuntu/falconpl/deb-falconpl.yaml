@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/falconpl
+package: pkg:deb/ubuntu/falconpl
 versions:
   - purl: pkg:deb/ubuntu/falconpl@0.8.10-0ubuntu1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ironic-inspector
+package: pkg:deb/debian/ironic-inspector
 versions:
   - purl: pkg:deb/debian/ironic-inspector@10.11.0-1?distro=sid
     affected_by_vulnerabilities: []

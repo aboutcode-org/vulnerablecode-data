@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libquicktime
+package: pkg:deb/ubuntu/libquicktime
 versions:
   - purl: pkg:deb/ubuntu/libquicktime@0.9.2release-5
     affected_by_vulnerabilities:

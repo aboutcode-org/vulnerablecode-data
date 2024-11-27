@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dovecot
+package: pkg:deb/debian/dovecot
 versions:
   - purl: pkg:deb/debian/dovecot@0?distro=sid
     affected_by_vulnerabilities: []

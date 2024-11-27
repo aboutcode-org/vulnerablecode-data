@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/icoutils
+package: pkg:deb/ubuntu/icoutils
 versions:
   - purl: pkg:deb/ubuntu/icoutils@0.22.0-2
     affected_by_vulnerabilities:

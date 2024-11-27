@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/alpine
+package: pkg:alpine/alpine
 versions:
   - purl: pkg:alpine/alpine@2.23-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

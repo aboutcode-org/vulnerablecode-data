@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/wordnet
+package: pkg:deb/debian/wordnet
 versions:
   - purl: pkg:deb/debian/wordnet@1:3.0-10?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/seatd
+package: pkg:deb/debian/seatd
 versions:
   - purl: pkg:deb/debian/seatd@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-yaml.v2
+package: pkg:deb/debian/golang-yaml.v2
 versions:
   - purl: pkg:deb/debian/golang-yaml.v2@2.2.2-1?distro=sid
     affected_by_vulnerabilities:

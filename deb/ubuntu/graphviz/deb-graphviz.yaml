@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/graphviz
+package: pkg:deb/ubuntu/graphviz
 versions:
   - purl: pkg:deb/ubuntu/graphviz@1.14-1
     affected_by_vulnerabilities:

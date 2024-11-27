@@ -1,4 +1,4 @@
-pacakge: pkg:conan/lua
+package: pkg:conan/lua
 versions:
   - purl: pkg:conan/lua@5.3.5
     affected_by_vulnerabilities:

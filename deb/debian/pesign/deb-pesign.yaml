@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pesign
+package: pkg:deb/debian/pesign
 versions:
   - purl: pkg:deb/debian/pesign@0?distro=sid
     affected_by_vulnerabilities: []

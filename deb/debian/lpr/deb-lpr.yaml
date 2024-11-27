@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lpr
+package: pkg:deb/debian/lpr
 versions:
   - purl: pkg:deb/debian/lpr@1:0.48-0.slink2
     affected_by_vulnerabilities:

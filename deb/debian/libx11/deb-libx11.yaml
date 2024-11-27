@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libx11
+package: pkg:deb/debian/libx11
 versions:
   - purl: pkg:deb/debian/libx11@2:1.0.0-7?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/usbguard
+package: pkg:deb/debian/usbguard
 versions:
   - purl: pkg:deb/debian/usbguard@0.6.2%2Bds1-2?distro=stretch
     affected_by_vulnerabilities: []

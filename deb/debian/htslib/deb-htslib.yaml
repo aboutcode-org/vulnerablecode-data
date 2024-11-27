@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/htslib
+package: pkg:deb/debian/htslib
 versions:
   - purl: pkg:deb/debian/htslib@0?distro=stretch
     affected_by_vulnerabilities: []

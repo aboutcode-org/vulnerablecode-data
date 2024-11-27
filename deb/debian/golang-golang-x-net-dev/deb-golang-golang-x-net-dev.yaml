@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-golang-x-net-dev
+package: pkg:deb/debian/golang-golang-x-net-dev
 versions:
   - purl: pkg:deb/debian/golang-golang-x-net-dev@0?distro=buster
     affected_by_vulnerabilities: []

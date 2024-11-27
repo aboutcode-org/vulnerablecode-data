@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/goffice
+package: pkg:deb/debian/goffice
 versions:
   - purl: pkg:deb/debian/goffice@0.1.0-3?distro=sid
     affected_by_vulnerabilities: []

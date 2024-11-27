@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/cabextract
+package: pkg:deb/ubuntu/cabextract
 versions:
   - purl: pkg:deb/ubuntu/cabextract@1.0-1
     affected_by_vulnerabilities:

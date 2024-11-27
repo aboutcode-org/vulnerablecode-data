@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sup-mail
+package: pkg:deb/debian/sup-mail
 versions:
   - purl: pkg:deb/debian/sup-mail@0.12.1%2Bgit20120407.aaa852f-1%2Bdeb7u1?distro=sid
     affected_by_vulnerabilities: []

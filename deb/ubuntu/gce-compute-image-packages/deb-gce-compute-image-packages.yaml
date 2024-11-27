@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gce-compute-image-packages
+package: pkg:deb/ubuntu/gce-compute-image-packages
 versions:
   - purl: pkg:deb/ubuntu/gce-compute-image-packages@20160930-0ubuntu2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/firmware-nonfree
+package: pkg:deb/debian/firmware-nonfree
 versions:
   - purl: pkg:deb/debian/firmware-nonfree@0?distro=sid
     affected_by_vulnerabilities: []

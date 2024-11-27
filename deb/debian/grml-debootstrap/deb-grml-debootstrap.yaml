@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/grml-debootstrap
+package: pkg:deb/debian/grml-debootstrap
 versions:
   - purl: pkg:deb/debian/grml-debootstrap@0.100?distro=sid
     affected_by_vulnerabilities: []

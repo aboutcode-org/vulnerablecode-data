@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/imlib2
+package: pkg:deb/debian/imlib2
 versions:
   - purl: pkg:deb/debian/imlib2@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/epiphany-browser
+package: pkg:deb/ubuntu/epiphany-browser
 versions:
   - purl: pkg:deb/ubuntu/epiphany-browser@1.4.4-0ubuntu2
     affected_by_vulnerabilities:

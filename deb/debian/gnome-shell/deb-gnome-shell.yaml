@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnome-shell
+package: pkg:deb/debian/gnome-shell
 versions:
   - purl: pkg:deb/debian/gnome-shell@0?distro=sid
     affected_by_vulnerabilities: []

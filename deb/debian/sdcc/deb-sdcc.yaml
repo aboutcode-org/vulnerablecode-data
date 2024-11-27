@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sdcc
+package: pkg:deb/debian/sdcc
 versions:
   - purl: pkg:deb/debian/sdcc@2.9.0-5?distro=sid
     affected_by_vulnerabilities: []

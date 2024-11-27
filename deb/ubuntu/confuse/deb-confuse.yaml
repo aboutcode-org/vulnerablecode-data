@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/confuse
+package: pkg:deb/ubuntu/confuse
 versions:
   - purl: pkg:deb/ubuntu/confuse@2.2-1
     affected_by_vulnerabilities:

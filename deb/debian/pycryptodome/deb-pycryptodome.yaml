@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pycryptodome
+package: pkg:deb/debian/pycryptodome
 versions:
   - purl: pkg:deb/debian/pycryptodome@0?distro=sid
     affected_by_vulnerabilities: []

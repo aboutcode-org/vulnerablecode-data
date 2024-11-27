@@ -1,4 +1,4 @@
-pacakge: pkg:composer/zendframework/zend-crypt
+package: pkg:composer/zendframework/zend-crypt
 versions:
   - purl: pkg:composer/zendframework/zend-crypt@2.0.3
     affected_by_vulnerabilities:

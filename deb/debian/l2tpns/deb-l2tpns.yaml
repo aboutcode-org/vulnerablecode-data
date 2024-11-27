@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/l2tpns
+package: pkg:deb/debian/l2tpns
 versions:
   - purl: pkg:deb/debian/l2tpns@2.0.14-1sarge1
     affected_by_vulnerabilities:

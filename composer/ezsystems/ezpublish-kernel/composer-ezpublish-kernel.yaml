@@ -1,4 +1,4 @@
-pacakge: pkg:composer/ezsystems/ezpublish-kernel
+package: pkg:composer/ezsystems/ezpublish-kernel
 versions:
   - purl: pkg:composer/ezsystems/ezpublish-kernel@1.3.12
     affected_by_vulnerabilities: []

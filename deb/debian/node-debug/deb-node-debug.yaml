@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-debug
+package: pkg:deb/debian/node-debug
 versions:
   - purl: pkg:deb/debian/node-debug@2.5.1-1?distro=stretch
     affected_by_vulnerabilities:

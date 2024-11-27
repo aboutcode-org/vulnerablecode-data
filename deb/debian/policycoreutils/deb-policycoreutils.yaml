@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/policycoreutils
+package: pkg:deb/debian/policycoreutils
 versions:
   - purl: pkg:deb/debian/policycoreutils@0?distro=sid
     affected_by_vulnerabilities: []

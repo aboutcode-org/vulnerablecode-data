@@ -1,4 +1,4 @@
-pacakge: pkg:composer/bagisto/bagisto
+package: pkg:composer/bagisto/bagisto
 versions:
   - purl: pkg:composer/bagisto/bagisto@0.1.0
     affected_by_vulnerabilities:

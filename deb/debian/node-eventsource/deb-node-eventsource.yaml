@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-eventsource
+package: pkg:deb/debian/node-eventsource
 versions:
   - purl: pkg:deb/debian/node-eventsource@0.2.1-1?distro=sid
     affected_by_vulnerabilities:

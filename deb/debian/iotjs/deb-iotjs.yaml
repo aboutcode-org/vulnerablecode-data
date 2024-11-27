@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/iotjs
+package: pkg:deb/debian/iotjs
 versions:
   - purl: pkg:deb/debian/iotjs@0?distro=buster
     affected_by_vulnerabilities: []

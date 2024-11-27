@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sgml2x
+package: pkg:deb/debian/sgml2x
 versions:
   - purl: pkg:deb/debian/sgml2x@1.0.0-11.2?distro=sid
     affected_by_vulnerabilities: []

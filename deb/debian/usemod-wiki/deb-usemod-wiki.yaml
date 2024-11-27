@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/usemod-wiki
+package: pkg:deb/debian/usemod-wiki
 versions:
   - purl: pkg:deb/debian/usemod-wiki@1.0-6?distro=sid
     affected_by_vulnerabilities: []

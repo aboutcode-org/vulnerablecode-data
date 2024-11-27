@@ -1,4 +1,4 @@
-pacakge: pkg:composer/munkireport/comment
+package: pkg:composer/munkireport/comment
 versions:
   - purl: pkg:composer/munkireport/comment@1.1
     affected_by_vulnerabilities:

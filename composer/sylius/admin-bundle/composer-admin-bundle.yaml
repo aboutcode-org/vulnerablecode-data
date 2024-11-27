@@ -1,4 +1,4 @@
-pacakge: pkg:composer/sylius/admin-bundle
+package: pkg:composer/sylius/admin-bundle
 versions:
   - purl: pkg:composer/sylius/admin-bundle@1.0.0
     affected_by_vulnerabilities:

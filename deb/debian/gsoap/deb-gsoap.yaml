@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gsoap
+package: pkg:deb/debian/gsoap
 versions:
   - purl: pkg:deb/debian/gsoap@2.8.104-3?distro=sid
     affected_by_vulnerabilities: []

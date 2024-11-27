@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/vte
+package: pkg:alpine/vte
 versions:
   - purl: pkg:alpine/vte@0.28.2-r12?arch=aarch64&distroversion=v3.12&reponame=community
     affected_by_vulnerabilities: []

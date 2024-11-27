@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kpmcore
+package: pkg:deb/debian/kpmcore
 versions:
   - purl: pkg:deb/debian/kpmcore@0?distro=sid
     affected_by_vulnerabilities: []

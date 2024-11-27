@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ggobi
+package: pkg:deb/debian/ggobi
 versions:
   - purl: pkg:deb/debian/ggobi@2.1.11-2?distro=sid
     affected_by_vulnerabilities: []

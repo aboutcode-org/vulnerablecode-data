@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/simpleproxy
+package: pkg:deb/debian/simpleproxy
 versions:
   - purl: pkg:deb/debian/simpleproxy@3.2-3sarge1
     affected_by_vulnerabilities:

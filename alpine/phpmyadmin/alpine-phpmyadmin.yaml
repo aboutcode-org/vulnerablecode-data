@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/phpmyadmin
+package: pkg:alpine/phpmyadmin
 versions:
   - purl: pkg:alpine/phpmyadmin@4.4.15.8-r0?arch=armhf&distroversion=v3.2&reponame=main
     affected_by_vulnerabilities: []

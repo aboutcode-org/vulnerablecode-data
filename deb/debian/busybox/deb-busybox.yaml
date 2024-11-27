@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/busybox
+package: pkg:deb/debian/busybox
 versions:
   - purl: pkg:deb/debian/busybox@0?distro=sid
     affected_by_vulnerabilities: []

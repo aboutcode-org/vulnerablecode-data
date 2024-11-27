@@ -1,4 +1,4 @@
-pacakge: pkg:composer/phpmailer/phpmailer
+package: pkg:composer/phpmailer/phpmailer
 versions:
   - purl: pkg:composer/phpmailer/phpmailer@5.0.0
     affected_by_vulnerabilities:

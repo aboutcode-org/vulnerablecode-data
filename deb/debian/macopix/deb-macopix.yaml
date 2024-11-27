@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/macopix
+package: pkg:deb/debian/macopix
 versions:
   - purl: pkg:deb/debian/macopix@0?distro=sid
     affected_by_vulnerabilities: []

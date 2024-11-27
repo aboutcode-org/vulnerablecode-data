@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mutt
+package: pkg:deb/debian/mutt
 versions:
   - purl: pkg:deb/debian/mutt@0?distro=sid
     affected_by_vulnerabilities: []

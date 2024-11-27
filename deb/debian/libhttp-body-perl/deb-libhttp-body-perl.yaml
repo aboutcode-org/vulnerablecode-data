@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libhttp-body-perl
+package: pkg:deb/debian/libhttp-body-perl
 versions:
   - purl: pkg:deb/debian/libhttp-body-perl@1.17-2?distro=sid
     affected_by_vulnerabilities: []

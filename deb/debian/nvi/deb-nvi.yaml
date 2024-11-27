@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nvi
+package: pkg:deb/debian/nvi
 versions:
   - purl: pkg:deb/debian/nvi@1.79-16a.1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/zint
+package: pkg:deb/debian/zint
 versions:
   - purl: pkg:deb/debian/zint@0?distro=sid
     affected_by_vulnerabilities: []

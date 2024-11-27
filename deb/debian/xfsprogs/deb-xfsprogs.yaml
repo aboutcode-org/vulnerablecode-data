@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xfsprogs
+package: pkg:deb/debian/xfsprogs
 versions:
   - purl: pkg:deb/debian/xfsprogs@3.2.4-1?distro=sid
     affected_by_vulnerabilities: []

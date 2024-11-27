@@ -1,4 +1,4 @@
-pacakge: pkg:composer/david-garcia/phpwhois
+package: pkg:composer/david-garcia/phpwhois
 versions:
   - purl: pkg:composer/david-garcia/phpwhois@4.2.2
     affected_by_vulnerabilities:

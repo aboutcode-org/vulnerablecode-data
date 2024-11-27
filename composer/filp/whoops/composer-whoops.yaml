@@ -1,4 +1,4 @@
-pacakge: pkg:composer/filp/whoops
+package: pkg:composer/filp/whoops
 versions:
   - purl: pkg:composer/filp/whoops@0.8.4
     affected_by_vulnerabilities:

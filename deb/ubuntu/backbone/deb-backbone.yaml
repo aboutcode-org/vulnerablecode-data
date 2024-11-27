@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/backbone
+package: pkg:deb/ubuntu/backbone
 versions:
   - purl: pkg:deb/ubuntu/backbone@0.3.3-4
     affected_by_vulnerabilities:

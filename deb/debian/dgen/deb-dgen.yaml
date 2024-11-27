@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dgen
+package: pkg:deb/debian/dgen
 versions:
   - purl: pkg:deb/debian/dgen@1.23-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/caribou
+package: pkg:deb/debian/caribou
 versions:
   - purl: pkg:deb/debian/caribou@0?distro=sid
     affected_by_vulnerabilities: []

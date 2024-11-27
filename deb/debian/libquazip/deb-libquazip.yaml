@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libquazip
+package: pkg:deb/debian/libquazip
 versions:
   - purl: pkg:deb/debian/libquazip@0.7.2-1?distro=stretch
     affected_by_vulnerabilities:

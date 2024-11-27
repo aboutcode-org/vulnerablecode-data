@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cron
+package: pkg:deb/debian/cron
 versions:
   - purl: pkg:deb/debian/cron@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fam
+package: pkg:deb/debian/fam
 versions:
   - purl: pkg:deb/debian/fam@2.6.6.1-5.2
     affected_by_vulnerabilities:

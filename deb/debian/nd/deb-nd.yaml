@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nd
+package: pkg:deb/debian/nd
 versions:
   - purl: pkg:deb/debian/nd@0.5.0-1woody1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/facturascripts/facturascripts
+package: pkg:composer/facturascripts/facturascripts
 versions:
   - purl: pkg:composer/facturascripts/facturascripts@2018.03
     affected_by_vulnerabilities:

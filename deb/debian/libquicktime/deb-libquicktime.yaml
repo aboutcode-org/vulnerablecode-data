@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libquicktime
+package: pkg:deb/debian/libquicktime
 versions:
   - purl: pkg:deb/debian/libquicktime@2:1.2.4-10?distro=sid
     affected_by_vulnerabilities: []

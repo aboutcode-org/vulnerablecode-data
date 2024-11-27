@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/docker.io
+package: pkg:deb/debian/docker.io
 versions:
   - purl: pkg:deb/debian/docker.io@0?distro=sid
     affected_by_vulnerabilities: []

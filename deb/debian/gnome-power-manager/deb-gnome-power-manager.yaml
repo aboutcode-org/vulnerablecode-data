@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnome-power-manager
+package: pkg:deb/debian/gnome-power-manager
 versions:
   - purl: pkg:deb/debian/gnome-power-manager@2.14.3-3
     affected_by_vulnerabilities:

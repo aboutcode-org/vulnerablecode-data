@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/icoutils
+package: pkg:deb/debian/icoutils
 versions:
   - purl: pkg:deb/debian/icoutils@0.31.0-4?distro=sid
     affected_by_vulnerabilities: []

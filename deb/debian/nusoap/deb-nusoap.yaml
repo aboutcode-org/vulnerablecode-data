@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nusoap
+package: pkg:deb/debian/nusoap
 versions:
   - purl: pkg:deb/debian/nusoap@0.7.3-4?distro=sid
     affected_by_vulnerabilities: []

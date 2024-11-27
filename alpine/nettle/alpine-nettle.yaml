@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/nettle
+package: pkg:alpine/nettle
 versions:
   - purl: pkg:alpine/nettle@3.5.1-r2?arch=aarch64&distroversion=v3.12&reponame=main
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/irrlicht
+package: pkg:deb/debian/irrlicht
 versions:
   - purl: pkg:deb/debian/irrlicht@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/kopanocore
+package: pkg:deb/ubuntu/kopanocore
 versions:
   - purl: pkg:deb/ubuntu/kopanocore@8.1.0-3
     affected_by_vulnerabilities:

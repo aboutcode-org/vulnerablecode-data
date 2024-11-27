@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/waagent
+package: pkg:deb/debian/waagent
 versions:
   - purl: pkg:deb/debian/waagent@2.2.18-3~deb9u2?distro=stretch
     affected_by_vulnerabilities: []

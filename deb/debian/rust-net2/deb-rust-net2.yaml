@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-net2
+package: pkg:deb/debian/rust-net2
 versions:
   - purl: pkg:deb/debian/rust-net2@0.2.33-1?distro=sid
     affected_by_vulnerabilities:

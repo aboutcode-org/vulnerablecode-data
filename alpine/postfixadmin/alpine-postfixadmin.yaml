@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/postfixadmin
+package: pkg:alpine/postfixadmin
 versions:
   - purl: pkg:alpine/postfixadmin@2.9.2-r1?arch=armhf&distroversion=v3.2&reponame=main
     affected_by_vulnerabilities: []

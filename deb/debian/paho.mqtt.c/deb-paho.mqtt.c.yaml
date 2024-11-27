@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/paho.mqtt.c
+package: pkg:deb/debian/paho.mqtt.c
 versions:
   - purl: pkg:deb/debian/paho.mqtt.c@0?distro=sid
     affected_by_vulnerabilities: []

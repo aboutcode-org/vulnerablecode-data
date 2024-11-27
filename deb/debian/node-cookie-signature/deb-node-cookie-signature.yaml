@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-cookie-signature
+package: pkg:deb/debian/node-cookie-signature
 versions:
   - purl: pkg:deb/debian/node-cookie-signature@1.0.3-1?distro=stretch
     affected_by_vulnerabilities:

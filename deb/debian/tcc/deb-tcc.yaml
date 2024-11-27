@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tcc
+package: pkg:deb/debian/tcc
 versions:
   - purl: pkg:deb/debian/tcc@0.9.22-2
     affected_by_vulnerabilities:

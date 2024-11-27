@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/potrace
+package: pkg:deb/debian/potrace
 versions:
   - purl: pkg:deb/debian/potrace@1.12-1?distro=sid
     affected_by_vulnerabilities: []

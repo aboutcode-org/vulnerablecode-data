@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libcdaudio
+package: pkg:deb/debian/libcdaudio
 versions:
   - purl: pkg:deb/debian/libcdaudio@0.99.1-1
     affected_by_vulnerabilities:

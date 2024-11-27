@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pdns-recursor
+package: pkg:deb/debian/pdns-recursor
 versions:
   - purl: pkg:deb/debian/pdns-recursor@0?distro=sid
     affected_by_vulnerabilities: []

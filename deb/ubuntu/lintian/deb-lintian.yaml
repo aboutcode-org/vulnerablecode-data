@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/lintian
+package: pkg:deb/ubuntu/lintian
 versions:
   - purl: pkg:deb/ubuntu/lintian@1.23.0
     affected_by_vulnerabilities:

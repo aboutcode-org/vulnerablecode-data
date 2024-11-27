@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/opal
+package: pkg:deb/debian/opal
 versions:
   - purl: pkg:deb/debian/opal@2.2.11~dfsg1-1?distro=stretch
     affected_by_vulnerabilities: []

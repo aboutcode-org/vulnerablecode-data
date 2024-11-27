@@ -1,4 +1,4 @@
-pacakge: pkg:composer/silverstripe/userforms
+package: pkg:composer/silverstripe/userforms
 versions:
   - purl: pkg:composer/silverstripe/userforms@0.5.1
     affected_by_vulnerabilities:

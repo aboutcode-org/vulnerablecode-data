@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ffmpeg
+package: pkg:deb/debian/ffmpeg
 versions:
   - purl: pkg:deb/debian/ffmpeg@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/zoujingli/thinkadmin
+package: pkg:composer/zoujingli/thinkadmin
 versions:
   - purl: pkg:composer/zoujingli/thinkadmin@1.0.0
     affected_by_vulnerabilities:

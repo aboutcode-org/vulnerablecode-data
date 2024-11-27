@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bird
+package: pkg:deb/debian/bird
 versions:
   - purl: pkg:deb/debian/bird@0?distro=stretch
     affected_by_vulnerabilities: []

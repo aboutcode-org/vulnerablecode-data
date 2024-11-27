@@ -1,4 +1,4 @@
-pacakge: pkg:composer/oro/platform
+package: pkg:composer/oro/platform
 versions:
   - purl: pkg:composer/oro/platform@1.7.0
     affected_by_vulnerabilities:

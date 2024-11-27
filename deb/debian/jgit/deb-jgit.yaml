@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jgit
+package: pkg:deb/debian/jgit
 versions:
   - purl: pkg:deb/debian/jgit@3.7.0-1?distro=sid
     affected_by_vulnerabilities: []

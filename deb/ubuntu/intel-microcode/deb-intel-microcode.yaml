@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/intel-microcode
+package: pkg:deb/ubuntu/intel-microcode
 versions:
   - purl: pkg:deb/ubuntu/intel-microcode@0.20080401-1
     affected_by_vulnerabilities:

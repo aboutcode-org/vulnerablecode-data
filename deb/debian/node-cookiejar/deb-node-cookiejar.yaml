@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-cookiejar
+package: pkg:deb/debian/node-cookiejar
 versions:
   - purl: pkg:deb/debian/node-cookiejar@2.0.1-1?distro=sid
     affected_by_vulnerabilities:

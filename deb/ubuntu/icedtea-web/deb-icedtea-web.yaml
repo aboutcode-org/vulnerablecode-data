@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/icedtea-web
+package: pkg:deb/ubuntu/icedtea-web
 versions:
   - purl: pkg:deb/ubuntu/icedtea-web@1.0~20101021-0ubuntu1
     affected_by_vulnerabilities:

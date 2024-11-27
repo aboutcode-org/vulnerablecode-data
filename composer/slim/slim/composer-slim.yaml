@@ -1,4 +1,4 @@
-pacakge: pkg:composer/slim/slim
+package: pkg:composer/slim/slim
 versions:
   - purl: pkg:composer/slim/slim@1.6.0
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mtr
+package: pkg:deb/debian/mtr
 versions:
   - purl: pkg:deb/debian/mtr@0.21-3
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/protobuf
+package: pkg:deb/debian/protobuf
 versions:
   - purl: pkg:deb/debian/protobuf@3.12.3-2~bpo10%2B1
     affected_by_vulnerabilities: []

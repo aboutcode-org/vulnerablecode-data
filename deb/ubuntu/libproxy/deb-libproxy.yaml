@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libproxy
+package: pkg:deb/ubuntu/libproxy
 versions:
   - purl: pkg:deb/ubuntu/libproxy@0.2.3-0ubuntu1
     affected_by_vulnerabilities:

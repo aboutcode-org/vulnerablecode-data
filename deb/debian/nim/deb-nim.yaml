@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nim
+package: pkg:deb/debian/nim
 versions:
   - purl: pkg:deb/debian/nim@0.16.0-1?distro=stretch
     affected_by_vulnerabilities:

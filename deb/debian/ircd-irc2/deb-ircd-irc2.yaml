@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ircd-irc2
+package: pkg:deb/debian/ircd-irc2
 versions:
   - purl: pkg:deb/debian/ircd-irc2@2.10.3p5-1?distro=sid
     affected_by_vulnerabilities: []

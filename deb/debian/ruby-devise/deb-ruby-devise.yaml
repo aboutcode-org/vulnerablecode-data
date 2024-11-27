@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-devise
+package: pkg:deb/debian/ruby-devise
 versions:
   - purl: pkg:deb/debian/ruby-devise@3.4.1-1?distro=sid
     affected_by_vulnerabilities: []

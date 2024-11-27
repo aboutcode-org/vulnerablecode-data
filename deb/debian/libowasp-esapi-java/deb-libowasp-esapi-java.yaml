@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libowasp-esapi-java
+package: pkg:deb/debian/libowasp-esapi-java
 versions:
   - purl: pkg:deb/debian/libowasp-esapi-java@2.1.0-3?distro=sid
     affected_by_vulnerabilities:

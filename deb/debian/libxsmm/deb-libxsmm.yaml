@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libxsmm
+package: pkg:deb/debian/libxsmm
 versions:
   - purl: pkg:deb/debian/libxsmm@1.17-1?distro=sid
     affected_by_vulnerabilities: []

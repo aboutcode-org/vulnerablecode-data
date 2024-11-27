@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/fig2dev
+package: pkg:deb/ubuntu/fig2dev
 versions:
   - purl: pkg:deb/ubuntu/fig2dev@1:3.2.6-1
     affected_by_vulnerabilities:

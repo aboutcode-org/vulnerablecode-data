@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/znuny
+package: pkg:deb/debian/znuny
 versions:
   - purl: pkg:deb/debian/znuny@0?distro=sid
     affected_by_vulnerabilities: []

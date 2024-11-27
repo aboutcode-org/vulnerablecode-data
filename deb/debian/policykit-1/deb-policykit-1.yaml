@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/policykit-1
+package: pkg:deb/debian/policykit-1
 versions:
   - purl: pkg:deb/debian/policykit-1@0?distro=sid
     affected_by_vulnerabilities: []

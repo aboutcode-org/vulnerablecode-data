@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libmtp
+package: pkg:deb/ubuntu/libmtp
 versions:
   - purl: pkg:deb/ubuntu/libmtp@0.0.18-0ubuntu1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/hamlib
+package: pkg:deb/debian/hamlib
 versions:
   - purl: pkg:deb/debian/hamlib@1.2.10-1?distro=sid
     affected_by_vulnerabilities: []

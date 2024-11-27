@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mp3gain
+package: pkg:deb/debian/mp3gain
 versions:
   - purl: pkg:deb/debian/mp3gain@1.4.6-1
     affected_by_vulnerabilities:

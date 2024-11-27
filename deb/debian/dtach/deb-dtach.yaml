@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dtach
+package: pkg:deb/debian/dtach
 versions:
   - purl: pkg:deb/debian/dtach@0.8-2.1?distro=sid
     affected_by_vulnerabilities: []

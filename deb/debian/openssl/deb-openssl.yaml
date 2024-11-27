@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openssl
+package: pkg:deb/debian/openssl
 versions:
   - purl: pkg:deb/debian/openssl@0?distro=sid
     affected_by_vulnerabilities: []

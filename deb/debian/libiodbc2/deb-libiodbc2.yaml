@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libiodbc2
+package: pkg:deb/debian/libiodbc2
 versions:
   - purl: pkg:deb/debian/libiodbc2@0?distro=sid
     affected_by_vulnerabilities: []

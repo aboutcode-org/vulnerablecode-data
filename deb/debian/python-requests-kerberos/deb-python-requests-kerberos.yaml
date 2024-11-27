@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-requests-kerberos
+package: pkg:deb/debian/python-requests-kerberos
 versions:
   - purl: pkg:deb/debian/python-requests-kerberos@0.11.0-2?distro=sid
     affected_by_vulnerabilities: []

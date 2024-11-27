@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-keystonemiddleware
+package: pkg:deb/debian/python-keystonemiddleware
 versions:
   - purl: pkg:deb/debian/python-keystonemiddleware@1.0.0-3?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/nystudio107/craft-seomatic
+package: pkg:composer/nystudio107/craft-seomatic
 versions:
   - purl: pkg:composer/nystudio107/craft-seomatic@3.0.0
     affected_by_vulnerabilities:

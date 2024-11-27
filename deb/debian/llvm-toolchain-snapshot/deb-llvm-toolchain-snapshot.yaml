@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/llvm-toolchain-snapshot
+package: pkg:deb/debian/llvm-toolchain-snapshot
 versions:
   - purl: pkg:deb/debian/llvm-toolchain-snapshot@0?distro=sid
     affected_by_vulnerabilities: []

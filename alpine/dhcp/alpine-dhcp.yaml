@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/dhcp
+package: pkg:alpine/dhcp
 versions:
   - purl: pkg:alpine/dhcp@4.4.1-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

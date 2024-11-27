@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/kde-cli-tools
+package: pkg:deb/ubuntu/kde-cli-tools
 versions:
   - purl: pkg:deb/ubuntu/kde-cli-tools@4:5.1.0.1-0ubuntu1
     affected_by_vulnerabilities:

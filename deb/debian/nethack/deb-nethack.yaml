@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nethack
+package: pkg:deb/debian/nethack
 versions:
   - purl: pkg:deb/debian/nethack@0?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gupnp
+package: pkg:deb/ubuntu/gupnp
 versions:
   - purl: pkg:deb/ubuntu/gupnp@0.10-1
     affected_by_vulnerabilities:

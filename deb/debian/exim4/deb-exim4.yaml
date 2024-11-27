@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/exim4
+package: pkg:deb/debian/exim4
 versions:
   - purl: pkg:deb/debian/exim4@0?distro=sid
     affected_by_vulnerabilities: []

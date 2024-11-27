@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mruby
+package: pkg:deb/debian/mruby
 versions:
   - purl: pkg:deb/debian/mruby@0?distro=sid
     affected_by_vulnerabilities: []

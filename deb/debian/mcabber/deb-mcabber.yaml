@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mcabber
+package: pkg:deb/debian/mcabber
 versions:
   - purl: pkg:deb/debian/mcabber@0.10.0-1?distro=sid
     affected_by_vulnerabilities: []

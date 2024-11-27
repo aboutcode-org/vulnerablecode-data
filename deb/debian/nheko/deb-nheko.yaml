@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nheko
+package: pkg:deb/debian/nheko
 versions:
   - purl: pkg:deb/debian/nheko@0.10.2-1?distro=sid
     affected_by_vulnerabilities: []

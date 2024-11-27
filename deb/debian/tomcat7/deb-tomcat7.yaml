@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tomcat7
+package: pkg:deb/debian/tomcat7
 versions:
   - purl: pkg:deb/debian/tomcat7@0?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/unbound
+package: pkg:alpine/unbound
 versions:
   - purl: pkg:alpine/unbound@1.10.1-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

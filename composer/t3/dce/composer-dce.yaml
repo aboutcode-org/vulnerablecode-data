@@ -1,4 +1,4 @@
-pacakge: pkg:composer/t3/dce
+package: pkg:composer/t3/dce
 versions:
   - purl: pkg:composer/t3/dce@2.2.0
     affected_by_vulnerabilities:

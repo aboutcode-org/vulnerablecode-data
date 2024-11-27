@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/dosbox
+package: pkg:deb/ubuntu/dosbox
 versions:
   - purl: pkg:deb/ubuntu/dosbox@0.61-3
     affected_by_vulnerabilities:

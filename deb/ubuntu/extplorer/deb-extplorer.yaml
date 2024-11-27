@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/extplorer
+package: pkg:deb/ubuntu/extplorer
 versions:
   - purl: pkg:deb/ubuntu/extplorer@2.1.0b6%2Bdfsg.2-1
     affected_by_vulnerabilities:

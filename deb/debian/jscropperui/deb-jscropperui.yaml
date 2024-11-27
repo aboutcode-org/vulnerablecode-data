@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jscropperui
+package: pkg:deb/debian/jscropperui
 versions:
   - purl: pkg:deb/debian/jscropperui@1.2.0-1
     affected_by_vulnerabilities:

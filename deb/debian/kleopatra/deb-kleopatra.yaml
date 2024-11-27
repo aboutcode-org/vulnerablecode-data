@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kleopatra
+package: pkg:deb/debian/kleopatra
 versions:
   - purl: pkg:deb/debian/kleopatra@0?distro=stretch
     affected_by_vulnerabilities: []

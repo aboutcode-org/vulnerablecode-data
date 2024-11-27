@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/nodejs
+package: pkg:alpine/nodejs
 versions:
   - purl: pkg:alpine/nodejs@0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

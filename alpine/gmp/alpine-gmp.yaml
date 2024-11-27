@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/gmp
+package: pkg:alpine/gmp
 versions:
   - purl: pkg:alpine/gmp@6.2.1-r1?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

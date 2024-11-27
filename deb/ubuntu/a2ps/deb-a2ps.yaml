@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/a2ps
+package: pkg:deb/ubuntu/a2ps
 versions:
   - purl: pkg:deb/ubuntu/a2ps@1:4.13b-2
     affected_by_vulnerabilities:

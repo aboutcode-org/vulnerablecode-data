@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pysha3
+package: pkg:deb/debian/pysha3
 versions:
   - purl: pkg:deb/debian/pysha3@1.0.2-2?distro=buster
     affected_by_vulnerabilities: []

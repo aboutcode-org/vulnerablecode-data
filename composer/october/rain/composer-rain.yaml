@@ -1,4 +1,4 @@
-pacakge: pkg:composer/october/rain
+package: pkg:composer/october/rain
 versions:
   - purl: pkg:composer/october/rain@1.0.319
     affected_by_vulnerabilities:

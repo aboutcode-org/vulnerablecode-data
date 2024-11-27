@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/clamav
+package: pkg:deb/debian/clamav
 versions:
   - purl: pkg:deb/debian/clamav@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libxtst
+package: pkg:deb/debian/libxtst
 versions:
   - purl: pkg:deb/debian/libxtst@2:1.2.1-1%2Bdeb7u1?distro=sid
     affected_by_vulnerabilities: []

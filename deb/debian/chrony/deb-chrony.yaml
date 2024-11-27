@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/chrony
+package: pkg:deb/debian/chrony
 versions:
   - purl: pkg:deb/debian/chrony@1.23-7?distro=sid
     affected_by_vulnerabilities: []

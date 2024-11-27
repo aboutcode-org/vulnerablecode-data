@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libjbcrypt-java
+package: pkg:deb/ubuntu/libjbcrypt-java
 versions:
   - purl: pkg:deb/ubuntu/libjbcrypt-java@0.3-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xserver-xorg-video-intel
+package: pkg:deb/debian/xserver-xorg-video-intel
 versions:
   - purl: pkg:deb/debian/xserver-xorg-video-intel@0?distro=sid
     affected_by_vulnerabilities: []

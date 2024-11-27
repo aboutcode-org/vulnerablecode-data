@@ -1,4 +1,4 @@
-pacakge: pkg:composer/badaso/core
+package: pkg:composer/badaso/core
 versions:
   - purl: pkg:composer/badaso/core@1.0.0
     affected_by_vulnerabilities:

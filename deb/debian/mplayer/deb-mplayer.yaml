@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mplayer
+package: pkg:deb/debian/mplayer
 versions:
   - purl: pkg:deb/debian/mplayer@0?distro=sid
     affected_by_vulnerabilities: []

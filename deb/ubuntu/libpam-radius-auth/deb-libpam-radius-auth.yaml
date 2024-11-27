@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libpam-radius-auth
+package: pkg:deb/ubuntu/libpam-radius-auth
 versions:
   - purl: pkg:deb/ubuntu/libpam-radius-auth@1.3.16-2
     affected_by_vulnerabilities:

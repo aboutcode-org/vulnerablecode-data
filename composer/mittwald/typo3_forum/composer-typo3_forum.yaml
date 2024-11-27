@@ -1,4 +1,4 @@
-pacakge: pkg:composer/mittwald/typo3_forum
+package: pkg:composer/mittwald/typo3_forum
 versions:
   - purl: pkg:composer/mittwald/typo3_forum@1.0.1
     affected_by_vulnerabilities:

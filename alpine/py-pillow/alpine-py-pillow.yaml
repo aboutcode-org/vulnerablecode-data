@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/py-pillow
+package: pkg:alpine/py-pillow
 versions:
   - purl: pkg:alpine/py-pillow@6.2.1-r1?arch=aarch64&distroversion=v3.11&reponame=main
     affected_by_vulnerabilities: []

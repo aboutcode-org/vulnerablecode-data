@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/linuxptp
+package: pkg:deb/debian/linuxptp
 versions:
   - purl: pkg:deb/debian/linuxptp@0?distro=sid
     affected_by_vulnerabilities: []

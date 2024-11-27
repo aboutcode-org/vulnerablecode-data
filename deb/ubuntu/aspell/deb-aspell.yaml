@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/aspell
+package: pkg:deb/ubuntu/aspell
 versions:
   - purl: pkg:deb/ubuntu/aspell@0.50.5-3
     affected_by_vulnerabilities:

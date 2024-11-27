@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/eog
+package: pkg:deb/ubuntu/eog
 versions:
   - purl: pkg:deb/ubuntu/eog@2.10.0-0ubuntu1
     affected_by_vulnerabilities:

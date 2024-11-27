@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/groovy
+package: pkg:deb/debian/groovy
 versions:
   - purl: pkg:deb/debian/groovy@2.4.16-2?distro=sid
     affected_by_vulnerabilities:

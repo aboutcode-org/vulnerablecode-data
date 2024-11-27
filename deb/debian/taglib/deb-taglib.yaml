@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/taglib
+package: pkg:deb/debian/taglib
 versions:
   - purl: pkg:deb/debian/taglib@1.11.1%2Bdfsg.1-0.1?distro=stretch
     affected_by_vulnerabilities: []

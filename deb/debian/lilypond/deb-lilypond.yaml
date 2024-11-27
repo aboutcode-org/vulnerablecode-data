@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lilypond
+package: pkg:deb/debian/lilypond
 versions:
   - purl: pkg:deb/debian/lilypond@2.18.2-12?distro=sid
     affected_by_vulnerabilities: []

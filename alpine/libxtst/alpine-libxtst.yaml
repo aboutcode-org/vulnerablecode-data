@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libxtst
+package: pkg:alpine/libxtst
 versions:
   - purl: pkg:alpine/libxtst@1.2.2-r1?arch=armhf&distroversion=v3.2&reponame=main
     affected_by_vulnerabilities: []

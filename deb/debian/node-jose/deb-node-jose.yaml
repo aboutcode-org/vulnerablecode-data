@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-jose
+package: pkg:deb/debian/node-jose
 versions:
   - purl: pkg:deb/debian/node-jose@4.10.0-1?distro=sid
     affected_by_vulnerabilities: []

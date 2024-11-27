@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/devscripts
+package: pkg:deb/ubuntu/devscripts
 versions:
   - purl: pkg:deb/ubuntu/devscripts@2.10.10ubuntu1
     affected_by_vulnerabilities:

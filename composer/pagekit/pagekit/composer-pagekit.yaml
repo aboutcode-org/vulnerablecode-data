@@ -1,4 +1,4 @@
-pacakge: pkg:composer/pagekit/pagekit
+package: pkg:composer/pagekit/pagekit
 versions:
   - purl: pkg:composer/pagekit/pagekit@0.10.0
     affected_by_vulnerabilities:

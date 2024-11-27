@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libqb
+package: pkg:deb/debian/libqb
 versions:
   - purl: pkg:deb/debian/libqb@1.0.1-1?distro=stretch
     affected_by_vulnerabilities:

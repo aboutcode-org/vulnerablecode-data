@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/postgresql-common
+package: pkg:deb/debian/postgresql-common
 versions:
   - purl: pkg:deb/debian/postgresql-common@178?distro=sid
     affected_by_vulnerabilities: []

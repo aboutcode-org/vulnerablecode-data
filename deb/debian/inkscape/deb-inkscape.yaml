@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/inkscape
+package: pkg:deb/debian/inkscape
 versions:
   - purl: pkg:deb/debian/inkscape@0.41-4.99.sarge2
     affected_by_vulnerabilities:

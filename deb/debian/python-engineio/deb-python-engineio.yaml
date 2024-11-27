@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-engineio
+package: pkg:deb/debian/python-engineio
 versions:
   - purl: pkg:deb/debian/python-engineio@3.0.0%2Bdfsg-1?distro=sid
     affected_by_vulnerabilities:

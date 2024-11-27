@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libfsntfs
+package: pkg:deb/debian/libfsntfs
 versions:
   - purl: pkg:deb/debian/libfsntfs@20160418-1?distro=stretch
     affected_by_vulnerabilities:

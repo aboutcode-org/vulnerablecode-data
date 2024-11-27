@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-horde-crypt
+package: pkg:deb/debian/php-horde-crypt
 versions:
   - purl: pkg:deb/debian/php-horde-crypt@2.7.12-1?distro=sid
     affected_by_vulnerabilities: []

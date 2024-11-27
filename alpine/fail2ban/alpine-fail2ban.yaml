@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/fail2ban
+package: pkg:alpine/fail2ban
 versions:
   - purl: pkg:alpine/fail2ban@0.11.2-r1?arch=aarch64&distroversion=v3.15&reponame=main
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/systemd-cron
+package: pkg:deb/debian/systemd-cron
 versions:
   - purl: pkg:deb/debian/systemd-cron@1.15.18-1?distro=stretch
     affected_by_vulnerabilities: []

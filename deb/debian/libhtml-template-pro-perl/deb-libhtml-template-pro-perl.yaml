@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libhtml-template-pro-perl
+package: pkg:deb/debian/libhtml-template-pro-perl
 versions:
   - purl: pkg:deb/debian/libhtml-template-pro-perl@0.9507-1?distro=sid
     affected_by_vulnerabilities: []

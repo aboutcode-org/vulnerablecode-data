@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/restic
+package: pkg:deb/debian/restic
 versions:
   - purl: pkg:deb/debian/restic@0.3.3-1?distro=stretch
     affected_by_vulnerabilities: []

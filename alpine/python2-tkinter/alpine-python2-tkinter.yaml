@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/python2-tkinter
+package: pkg:alpine/python2-tkinter
 versions:
   - purl: pkg:alpine/python2-tkinter@2.7.15-r0?arch=aarch64&distroversion=v3.10&reponame=community
     affected_by_vulnerabilities: []

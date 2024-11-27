@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rush
+package: pkg:deb/debian/rush
 versions:
   - purl: pkg:deb/debian/rush@1.7%2Bdfsg-4?distro=sid
     affected_by_vulnerabilities: []

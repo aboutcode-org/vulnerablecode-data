@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openssh
+package: pkg:deb/debian/openssh
 versions:
   - purl: pkg:deb/debian/openssh@0?distro=sid
     affected_by_vulnerabilities: []

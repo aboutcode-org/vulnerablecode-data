@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/confuse
+package: pkg:alpine/confuse
 versions:
   - purl: pkg:alpine/confuse@3.2.2-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

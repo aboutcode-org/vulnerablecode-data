@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/snowflake
+package: pkg:deb/debian/snowflake
 versions:
   - purl: pkg:deb/debian/snowflake@2.2.0-1?distro=sid
     affected_by_vulnerabilities: []

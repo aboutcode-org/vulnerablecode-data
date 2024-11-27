@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/axis
+package: pkg:deb/debian/axis
 versions:
   - purl: pkg:deb/debian/axis@0?distro=sid
     affected_by_vulnerabilities: []

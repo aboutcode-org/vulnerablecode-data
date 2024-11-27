@@ -1,4 +1,4 @@
-pacakge: pkg:composer/willdurand/js-translation-bundle
+package: pkg:composer/willdurand/js-translation-bundle
 versions:
   - purl: pkg:composer/willdurand/js-translation-bundle@0.0.1
     affected_by_vulnerabilities:

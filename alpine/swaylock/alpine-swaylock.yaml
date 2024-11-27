@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/swaylock
+package: pkg:alpine/swaylock
 versions:
   - purl: pkg:alpine/swaylock@1.6-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

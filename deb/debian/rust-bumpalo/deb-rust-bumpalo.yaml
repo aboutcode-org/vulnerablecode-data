@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-bumpalo
+package: pkg:deb/debian/rust-bumpalo
 versions:
   - purl: pkg:deb/debian/rust-bumpalo@3.12.0-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/grunt
+package: pkg:deb/ubuntu/grunt
 versions:
   - purl: pkg:deb/ubuntu/grunt@0.5.0-3
     affected_by_vulnerabilities:

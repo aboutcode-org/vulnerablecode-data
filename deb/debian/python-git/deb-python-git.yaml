@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-git
+package: pkg:deb/debian/python-git
 versions:
   - purl: pkg:deb/debian/python-git@2.1.11-1?distro=sid
     affected_by_vulnerabilities:

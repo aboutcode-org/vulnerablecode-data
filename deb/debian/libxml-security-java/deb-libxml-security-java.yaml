@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libxml-security-java
+package: pkg:deb/debian/libxml-security-java
 versions:
   - purl: pkg:deb/debian/libxml-security-java@0?distro=sid
     affected_by_vulnerabilities: []

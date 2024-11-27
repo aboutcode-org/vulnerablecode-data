@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libsass
+package: pkg:deb/debian/libsass
 versions:
   - purl: pkg:deb/debian/libsass@0?distro=stretch
     affected_by_vulnerabilities: []

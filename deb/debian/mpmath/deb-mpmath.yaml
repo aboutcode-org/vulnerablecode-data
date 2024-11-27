@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mpmath
+package: pkg:deb/debian/mpmath
 versions:
   - purl: pkg:deb/debian/mpmath@0.19-3?distro=stretch
     affected_by_vulnerabilities:

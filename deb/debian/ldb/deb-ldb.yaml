@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ldb
+package: pkg:deb/debian/ldb
 versions:
   - purl: pkg:deb/debian/ldb@0?distro=stretch
     affected_by_vulnerabilities: []

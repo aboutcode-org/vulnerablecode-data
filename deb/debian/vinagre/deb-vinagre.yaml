@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/vinagre
+package: pkg:deb/debian/vinagre
 versions:
   - purl: pkg:deb/debian/vinagre@0.5.1-2?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libstb
+package: pkg:deb/debian/libstb
 versions:
   - purl: pkg:deb/debian/libstb@0?distro=sid
     affected_by_vulnerabilities: []

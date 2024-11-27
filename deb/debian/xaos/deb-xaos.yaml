@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xaos
+package: pkg:deb/debian/xaos
 versions:
   - purl: pkg:deb/debian/xaos@3.0-18
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nn
+package: pkg:deb/debian/nn
 versions:
   - purl: pkg:deb/debian/nn@6.5.0.b3.linux.1.1-1.1
     affected_by_vulnerabilities:

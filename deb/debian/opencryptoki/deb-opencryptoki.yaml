@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/opencryptoki
+package: pkg:deb/debian/opencryptoki
 versions:
   - purl: pkg:deb/debian/opencryptoki@0?distro=sid
     affected_by_vulnerabilities: []

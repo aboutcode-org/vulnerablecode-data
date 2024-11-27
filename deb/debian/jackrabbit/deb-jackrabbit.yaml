@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jackrabbit
+package: pkg:deb/debian/jackrabbit
 versions:
   - purl: pkg:deb/debian/jackrabbit@2.10.1-1?distro=sid
     affected_by_vulnerabilities: []

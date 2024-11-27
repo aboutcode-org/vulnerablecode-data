@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ceilometer
+package: pkg:deb/debian/ceilometer
 versions:
   - purl: pkg:deb/debian/ceilometer@0?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/hylafax
+package: pkg:alpine/hylafax
 versions:
   - purl: pkg:alpine/hylafax@6.0.6-r4?arch=aarch64&distroversion=v3.5&reponame=main
     affected_by_vulnerabilities: []

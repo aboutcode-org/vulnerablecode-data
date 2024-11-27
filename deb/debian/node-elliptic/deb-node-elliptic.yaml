@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-elliptic
+package: pkg:deb/debian/node-elliptic
 versions:
   - purl: pkg:deb/debian/node-elliptic@6.4.1~dfsg-1%2Bdeb10u1?distro=sid
     affected_by_vulnerabilities:

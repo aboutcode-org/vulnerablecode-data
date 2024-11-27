@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/zziplib
+package: pkg:alpine/zziplib
 versions:
   - purl: pkg:alpine/zziplib@0.13.67-r0?arch=aarch64&distroversion=v3.5&reponame=community
     affected_by_vulnerabilities: []

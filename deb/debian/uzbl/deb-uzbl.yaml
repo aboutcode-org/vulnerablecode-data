@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/uzbl
+package: pkg:deb/debian/uzbl
 versions:
   - purl: pkg:deb/debian/uzbl@0.0.0~git.20100105-1?distro=stretch
     affected_by_vulnerabilities: []

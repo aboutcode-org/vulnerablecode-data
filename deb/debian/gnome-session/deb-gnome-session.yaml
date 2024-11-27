@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnome-session
+package: pkg:deb/debian/gnome-session
 versions:
   - purl: pkg:deb/debian/gnome-session@2.30.0-1?distro=sid
     affected_by_vulnerabilities: []

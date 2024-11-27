@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/perl-image-exiftool
+package: pkg:alpine/perl-image-exiftool
 versions:
   - purl: pkg:alpine/perl-image-exiftool@12.24-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

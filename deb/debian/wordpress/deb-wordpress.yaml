@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/wordpress
+package: pkg:deb/debian/wordpress
 versions:
   - purl: pkg:deb/debian/wordpress@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/atari800
+package: pkg:deb/debian/atari800
 versions:
   - purl: pkg:deb/debian/atari800@0.8.6-2
     affected_by_vulnerabilities:

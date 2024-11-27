@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/autojump
+package: pkg:deb/debian/autojump
 versions:
   - purl: pkg:deb/debian/autojump@0?distro=sid
     affected_by_vulnerabilities: []

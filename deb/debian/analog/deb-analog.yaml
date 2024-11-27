@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/analog
+package: pkg:deb/debian/analog
 versions:
   - purl: pkg:deb/debian/analog@2.11-9
     affected_by_vulnerabilities:

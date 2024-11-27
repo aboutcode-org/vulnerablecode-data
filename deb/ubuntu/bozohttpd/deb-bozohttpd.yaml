@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/bozohttpd
+package: pkg:deb/ubuntu/bozohttpd
 versions:
   - purl: pkg:deb/ubuntu/bozohttpd@20030313-1
     affected_by_vulnerabilities:

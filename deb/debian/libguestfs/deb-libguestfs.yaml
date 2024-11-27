@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libguestfs
+package: pkg:deb/debian/libguestfs
 versions:
   - purl: pkg:deb/debian/libguestfs@1:1.14.8-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/keystone
+package: pkg:deb/debian/keystone
 versions:
   - purl: pkg:deb/debian/keystone@0?distro=sid
     affected_by_vulnerabilities: []

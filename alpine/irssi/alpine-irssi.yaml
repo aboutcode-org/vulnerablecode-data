@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/irssi
+package: pkg:alpine/irssi
 versions:
   - purl: pkg:alpine/irssi@0.8.20-r0?arch=armhf&distroversion=v3.2&reponame=main
     affected_by_vulnerabilities: []

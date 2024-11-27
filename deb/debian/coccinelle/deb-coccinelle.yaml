@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/coccinelle
+package: pkg:deb/debian/coccinelle
 versions:
   - purl: pkg:deb/debian/coccinelle@0.1.7.deb-3?distro=sid
     affected_by_vulnerabilities: []

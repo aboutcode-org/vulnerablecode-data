@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/evolution
+package: pkg:deb/ubuntu/evolution
 versions:
   - purl: pkg:deb/ubuntu/evolution@2.0.2-0ubuntu2
     affected_by_vulnerabilities:

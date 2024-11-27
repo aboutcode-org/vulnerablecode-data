@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-flask-cors
+package: pkg:deb/debian/python-flask-cors
 versions:
   - purl: pkg:deb/debian/python-flask-cors@3.0.10-1?distro=sid
     affected_by_vulnerabilities: []

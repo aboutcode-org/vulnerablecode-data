@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/backintime
+package: pkg:deb/debian/backintime
 versions:
   - purl: pkg:deb/debian/backintime@0.9.26-3?distro=sid
     affected_by_vulnerabilities: []

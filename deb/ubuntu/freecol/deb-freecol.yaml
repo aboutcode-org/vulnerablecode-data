@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/freecol
+package: pkg:deb/ubuntu/freecol
 versions:
   - purl: pkg:deb/ubuntu/freecol@0.10.0%2Bdfsg-2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/telepathy-gabble
+package: pkg:deb/debian/telepathy-gabble
 versions:
   - purl: pkg:deb/debian/telepathy-gabble@0.16.5-1?distro=sid
     affected_by_vulnerabilities: []

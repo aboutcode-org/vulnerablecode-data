@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pam-u2f
+package: pkg:deb/debian/pam-u2f
 versions:
   - purl: pkg:deb/debian/pam-u2f@0?distro=sid
     affected_by_vulnerabilities: []

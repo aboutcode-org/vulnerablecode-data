@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/avahi
+package: pkg:deb/ubuntu/avahi
 versions:
   - purl: pkg:deb/ubuntu/avahi@0.2-0ubuntu1
     affected_by_vulnerabilities:

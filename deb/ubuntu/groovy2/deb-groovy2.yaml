@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/groovy2
+package: pkg:deb/ubuntu/groovy2
 versions:
   - purl: pkg:deb/ubuntu/groovy2@2.2.2%2Bdfsg-3
     affected_by_vulnerabilities:

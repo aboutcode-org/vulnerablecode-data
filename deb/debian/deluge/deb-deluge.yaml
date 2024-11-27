@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/deluge
+package: pkg:deb/debian/deluge
 versions:
   - purl: pkg:deb/debian/deluge@1.3.13%2Bgit20161130.48cedf63-2?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/binaryen
+package: pkg:deb/debian/binaryen
 versions:
   - purl: pkg:deb/debian/binaryen@104-1?distro=sid
     affected_by_vulnerabilities: []

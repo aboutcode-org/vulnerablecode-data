@@ -1,4 +1,4 @@
-pacakge: pkg:composer/symfony/security-csrf
+package: pkg:composer/symfony/security-csrf
 versions:
   - purl: pkg:composer/symfony/security-csrf@2.7.0
     affected_by_vulnerabilities:

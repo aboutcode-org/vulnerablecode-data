@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/gradle
+package: pkg:alpine/gradle
 versions:
   - purl: pkg:alpine/gradle@6.8.3-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

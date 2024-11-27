@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/fetchmail
+package: pkg:deb/ubuntu/fetchmail
 versions:
   - purl: pkg:deb/ubuntu/fetchmail@6.2.5-12ubuntu1
     affected_by_vulnerabilities:

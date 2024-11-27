@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/ntfs-3g
+package: pkg:alpine/ntfs-3g
 versions:
   - purl: pkg:alpine/ntfs-3g@2017.3.23-r2?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

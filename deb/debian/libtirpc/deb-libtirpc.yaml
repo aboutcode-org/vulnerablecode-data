@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libtirpc
+package: pkg:deb/debian/libtirpc
 versions:
   - purl: pkg:deb/debian/libtirpc@0?distro=sid
     affected_by_vulnerabilities: []

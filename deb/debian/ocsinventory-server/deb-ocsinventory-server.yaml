@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ocsinventory-server
+package: pkg:deb/debian/ocsinventory-server
 versions:
   - purl: pkg:deb/debian/ocsinventory-server@1.02-1?distro=sid
     affected_by_vulnerabilities: []

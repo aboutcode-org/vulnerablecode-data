@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bind9
+package: pkg:deb/debian/bind9
 versions:
   - purl: pkg:deb/debian/bind9@0?distro=sid
     affected_by_vulnerabilities: []

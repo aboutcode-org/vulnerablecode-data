@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/obs-build
+package: pkg:deb/debian/obs-build
 versions:
   - purl: pkg:deb/debian/obs-build@20160921-1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

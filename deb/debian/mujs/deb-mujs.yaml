@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mujs
+package: pkg:deb/debian/mujs
 versions:
   - purl: pkg:deb/debian/mujs@0?distro=sid
     affected_by_vulnerabilities: []

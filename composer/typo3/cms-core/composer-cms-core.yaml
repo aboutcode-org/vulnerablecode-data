@@ -1,4 +1,4 @@
-pacakge: pkg:composer/typo3/cms-core
+package: pkg:composer/typo3/cms-core
 versions:
   - purl: pkg:composer/typo3/cms-core@10.0.0
     affected_by_vulnerabilities:

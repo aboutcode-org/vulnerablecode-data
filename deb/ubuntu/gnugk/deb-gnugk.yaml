@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gnugk
+package: pkg:deb/ubuntu/gnugk
 versions:
   - purl: pkg:deb/ubuntu/gnugk@1:2.0.7-4
     affected_by_vulnerabilities:

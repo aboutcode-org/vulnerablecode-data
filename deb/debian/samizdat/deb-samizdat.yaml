@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/samizdat
+package: pkg:deb/debian/samizdat
 versions:
   - purl: pkg:deb/debian/samizdat@0.6.2-2?distro=sid
     affected_by_vulnerabilities: []

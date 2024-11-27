@@ -1,4 +1,4 @@
-pacakge: pkg:composer/zendframework/zend-cache
+package: pkg:composer/zendframework/zend-cache
 versions:
   - purl: pkg:composer/zendframework/zend-cache@2.0.3
     affected_by_vulnerabilities:

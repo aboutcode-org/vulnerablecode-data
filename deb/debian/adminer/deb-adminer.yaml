@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/adminer
+package: pkg:deb/debian/adminer
 versions:
   - purl: pkg:deb/debian/adminer@0?distro=stretch
     affected_by_vulnerabilities: []

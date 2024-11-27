@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xpdf
+package: pkg:deb/debian/xpdf
 versions:
   - purl: pkg:deb/debian/xpdf@0?distro=sid
     affected_by_vulnerabilities: []

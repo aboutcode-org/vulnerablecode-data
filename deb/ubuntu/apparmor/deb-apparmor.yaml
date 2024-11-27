@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/apparmor
+package: pkg:deb/ubuntu/apparmor
 versions:
   - purl: pkg:deb/ubuntu/apparmor@2.0.1%2B510.dfsg-0ubuntu1
     affected_by_vulnerabilities:

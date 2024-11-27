@@ -1,4 +1,4 @@
-pacakge: pkg:composer/google/protobuf
+package: pkg:composer/google/protobuf
 versions:
   - purl: pkg:composer/google/protobuf@3.10.0
     affected_by_vulnerabilities:

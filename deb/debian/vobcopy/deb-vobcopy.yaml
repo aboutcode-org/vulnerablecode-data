@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/vobcopy
+package: pkg:deb/debian/vobcopy
 versions:
   - purl: pkg:deb/debian/vobcopy@1.0.2-1?distro=sid
     affected_by_vulnerabilities: []

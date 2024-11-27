@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xymon
+package: pkg:deb/debian/xymon
 versions:
   - purl: pkg:deb/debian/xymon@4.3.17-2?distro=sid
     affected_by_vulnerabilities: []

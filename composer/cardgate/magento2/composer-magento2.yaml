@@ -1,4 +1,4 @@
-pacakge: pkg:composer/cardgate/magento2
+package: pkg:composer/cardgate/magento2
 versions:
   - purl: pkg:composer/cardgate/magento2@2.0.1
     affected_by_vulnerabilities:

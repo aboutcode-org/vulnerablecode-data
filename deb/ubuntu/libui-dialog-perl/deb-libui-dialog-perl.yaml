@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libui-dialog-perl
+package: pkg:deb/ubuntu/libui-dialog-perl
 versions:
   - purl: pkg:deb/ubuntu/libui-dialog-perl@1.08-1
     affected_by_vulnerabilities:

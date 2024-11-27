@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jquery
+package: pkg:deb/debian/jquery
 versions:
   - purl: pkg:deb/debian/jquery@0?distro=buster
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libtool
+package: pkg:deb/debian/libtool
 versions:
   - purl: pkg:deb/debian/libtool@0?distro=sid
     affected_by_vulnerabilities: []

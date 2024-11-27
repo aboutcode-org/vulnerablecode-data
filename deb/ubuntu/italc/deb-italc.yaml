@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/italc
+package: pkg:deb/ubuntu/italc
 versions:
   - purl: pkg:deb/ubuntu/italc@0.9.6.2-1
     affected_by_vulnerabilities:

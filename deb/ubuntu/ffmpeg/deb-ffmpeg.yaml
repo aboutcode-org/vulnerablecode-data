@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ffmpeg
+package: pkg:deb/ubuntu/ffmpeg
 versions:
   - purl: pkg:deb/ubuntu/ffmpeg@1:0.4.9-pre1-0.2
     affected_by_vulnerabilities:

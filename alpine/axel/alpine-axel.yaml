@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/axel
+package: pkg:alpine/axel
 versions:
   - purl: pkg:alpine/axel@2.16.1-r3?arch=aarch64&distroversion=v3.9&reponame=main
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/file
+package: pkg:deb/ubuntu/file
 versions:
   - purl: pkg:deb/ubuntu/file@1:5.14-2ubuntu1
     affected_by_vulnerabilities:

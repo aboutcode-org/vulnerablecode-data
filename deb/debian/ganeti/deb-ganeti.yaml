@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ganeti
+package: pkg:deb/debian/ganeti
 versions:
   - purl: pkg:deb/debian/ganeti@2.0.5-1?distro=sid
     affected_by_vulnerabilities: []

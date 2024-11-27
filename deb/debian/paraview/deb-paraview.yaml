@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/paraview
+package: pkg:deb/debian/paraview
 versions:
   - purl: pkg:deb/debian/paraview@3.6.2-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/puppet-module-puppetlabs-stdlib
+package: pkg:deb/debian/puppet-module-puppetlabs-stdlib
 versions:
   - purl: pkg:deb/debian/puppet-module-puppetlabs-stdlib@4.14.0-1?distro=stretch
     affected_by_vulnerabilities: []

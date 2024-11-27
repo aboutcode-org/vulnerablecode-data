@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/librest
+package: pkg:deb/debian/librest
 versions:
   - purl: pkg:deb/debian/librest@0.7.92-3?distro=sid
     affected_by_vulnerabilities: []

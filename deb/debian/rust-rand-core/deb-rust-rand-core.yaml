@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-rand-core
+package: pkg:deb/debian/rust-rand-core
 versions:
   - purl: pkg:deb/debian/rust-rand-core@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/httpcomponents-client
+package: pkg:deb/ubuntu/httpcomponents-client
 versions:
   - purl: pkg:deb/ubuntu/httpcomponents-client@4.0.1-1
     affected_by_vulnerabilities:

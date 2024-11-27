@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/iwd
+package: pkg:deb/ubuntu/iwd
 versions:
   - purl: pkg:deb/ubuntu/iwd@0.10-1
     affected_by_vulnerabilities:

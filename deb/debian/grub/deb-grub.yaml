@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/grub
+package: pkg:deb/debian/grub
 versions:
   - purl: pkg:deb/debian/grub@0?distro=sid
     affected_by_vulnerabilities: []

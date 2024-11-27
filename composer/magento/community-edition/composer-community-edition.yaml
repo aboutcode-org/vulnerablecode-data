@@ -1,4 +1,4 @@
-pacakge: pkg:composer/magento/community-edition
+package: pkg:composer/magento/community-edition
 versions:
   - purl: pkg:composer/magento/community-edition@0.1.0-alpha100
     affected_by_vulnerabilities:

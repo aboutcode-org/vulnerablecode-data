@@ -1,4 +1,4 @@
-pacakge: pkg:composer/desperado/xml-bundle
+package: pkg:composer/desperado/xml-bundle
 versions:
   - purl: pkg:composer/desperado/xml-bundle@0.1.7
     affected_by_vulnerabilities:

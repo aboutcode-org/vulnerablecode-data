@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tinc
+package: pkg:deb/debian/tinc
 versions:
   - purl: pkg:deb/debian/tinc@1.0.19-3?distro=sid
     affected_by_vulnerabilities: []

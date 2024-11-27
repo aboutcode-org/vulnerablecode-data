@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/squid3
+package: pkg:deb/debian/squid3
 versions:
   - purl: pkg:deb/debian/squid3@0?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/cakephp/cakephp
+package: pkg:composer/cakephp/cakephp
 versions:
   - purl: pkg:composer/cakephp/cakephp@1.3.0
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/empathy
+package: pkg:deb/debian/empathy
 versions:
   - purl: pkg:deb/debian/empathy@3.12.12-4?distro=stretch
     affected_by_vulnerabilities: []

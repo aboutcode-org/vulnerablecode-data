@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/freeradius
+package: pkg:deb/debian/freeradius
 versions:
   - purl: pkg:deb/debian/freeradius@0?distro=sid
     affected_by_vulnerabilities: []

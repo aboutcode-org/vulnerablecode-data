@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ddskk
+package: pkg:deb/debian/ddskk
 versions:
   - purl: pkg:deb/debian/ddskk@11.2.cvs.20000108-1
     affected_by_vulnerabilities:

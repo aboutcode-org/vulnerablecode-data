@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/flightgear
+package: pkg:deb/ubuntu/flightgear
 versions:
   - purl: pkg:deb/ubuntu/flightgear@0.9.10-2
     affected_by_vulnerabilities:

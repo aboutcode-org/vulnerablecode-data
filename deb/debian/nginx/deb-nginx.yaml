@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nginx
+package: pkg:deb/debian/nginx
 versions:
   - purl: pkg:deb/debian/nginx@0?distro=sid
     affected_by_vulnerabilities: []

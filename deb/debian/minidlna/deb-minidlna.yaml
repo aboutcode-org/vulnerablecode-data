@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/minidlna
+package: pkg:deb/debian/minidlna
 versions:
   - purl: pkg:deb/debian/minidlna@1.1.2%2Bdfsg-1?distro=sid
     affected_by_vulnerabilities: []

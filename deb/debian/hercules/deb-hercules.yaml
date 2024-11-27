@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/hercules
+package: pkg:deb/debian/hercules
 versions:
   - purl: pkg:deb/debian/hercules@3.06-1.2?distro=sid
     affected_by_vulnerabilities: []

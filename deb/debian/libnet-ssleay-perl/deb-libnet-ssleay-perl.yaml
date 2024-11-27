@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libnet-ssleay-perl
+package: pkg:deb/debian/libnet-ssleay-perl
 versions:
   - purl: pkg:deb/debian/libnet-ssleay-perl@1.08-1.1
     affected_by_vulnerabilities:

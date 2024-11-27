@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xgalaga
+package: pkg:deb/debian/xgalaga
 versions:
   - purl: pkg:deb/debian/xgalaga@1.6c-11
     affected_by_vulnerabilities:

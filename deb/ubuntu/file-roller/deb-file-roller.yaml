@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/file-roller
+package: pkg:deb/ubuntu/file-roller
 versions:
   - purl: pkg:deb/ubuntu/file-roller@2.10.1-0ubuntu1
     affected_by_vulnerabilities:

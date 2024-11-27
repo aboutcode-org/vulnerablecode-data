@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-keyring
+package: pkg:deb/debian/python-keyring
 versions:
   - purl: pkg:deb/debian/python-keyring@0.9.2-1?distro=sid
     affected_by_vulnerabilities: []

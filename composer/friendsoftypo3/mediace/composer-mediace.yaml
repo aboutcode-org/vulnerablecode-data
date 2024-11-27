@@ -1,4 +1,4 @@
-pacakge: pkg:composer/friendsoftypo3/mediace
+package: pkg:composer/friendsoftypo3/mediace
 versions:
   - purl: pkg:composer/friendsoftypo3/mediace@7.6.2
     affected_by_vulnerabilities:

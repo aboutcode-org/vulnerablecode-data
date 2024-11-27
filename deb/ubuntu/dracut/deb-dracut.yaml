@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/dracut
+package: pkg:deb/ubuntu/dracut
 versions:
   - purl: pkg:deb/ubuntu/dracut@005-1
     affected_by_vulnerabilities:

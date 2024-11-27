@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fort-validator
+package: pkg:deb/debian/fort-validator
 versions:
   - purl: pkg:deb/debian/fort-validator@1.5.2-1?distro=sid
     affected_by_vulnerabilities: []

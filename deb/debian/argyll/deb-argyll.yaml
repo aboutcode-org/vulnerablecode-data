@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/argyll
+package: pkg:deb/debian/argyll
 versions:
   - purl: pkg:deb/debian/argyll@1.0.3-2?distro=sid
     affected_by_vulnerabilities: []

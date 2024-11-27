@@ -1,4 +1,4 @@
-pacakge: pkg:composer/la-haute-societe/tcpdf
+package: pkg:composer/la-haute-societe/tcpdf
 versions:
   - purl: pkg:composer/la-haute-societe/tcpdf@6.0.013
     affected_by_vulnerabilities:

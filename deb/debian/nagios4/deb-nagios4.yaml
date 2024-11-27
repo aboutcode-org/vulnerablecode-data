@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nagios4
+package: pkg:deb/debian/nagios4
 versions:
   - purl: pkg:deb/debian/nagios4@4.3.4-3?distro=sid
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-hpack
+package: pkg:deb/debian/python-hpack
 versions:
   - purl: pkg:deb/debian/python-hpack@2.3.0-1?distro=sid
     affected_by_vulnerabilities: []

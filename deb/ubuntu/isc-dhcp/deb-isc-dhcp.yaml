@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/isc-dhcp
+package: pkg:deb/ubuntu/isc-dhcp
 versions:
   - purl: pkg:deb/ubuntu/isc-dhcp@4.1.1-P1-11ubuntu1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/janet
+package: pkg:alpine/janet
 versions:
   - purl: pkg:alpine/janet@1.22.0-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openjpeg2
+package: pkg:deb/debian/openjpeg2
 versions:
   - purl: pkg:deb/debian/openjpeg2@0?distro=sid
     affected_by_vulnerabilities: []

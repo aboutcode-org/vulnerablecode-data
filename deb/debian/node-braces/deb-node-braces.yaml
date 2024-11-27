@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-braces
+package: pkg:deb/debian/node-braces
 versions:
   - purl: pkg:deb/debian/node-braces@0?distro=sid
     affected_by_vulnerabilities: []

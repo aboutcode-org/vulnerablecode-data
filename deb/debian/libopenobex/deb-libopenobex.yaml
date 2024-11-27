@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libopenobex
+package: pkg:deb/debian/libopenobex
 versions:
   - purl: pkg:deb/debian/libopenobex@0.9.8-4
     affected_by_vulnerabilities:

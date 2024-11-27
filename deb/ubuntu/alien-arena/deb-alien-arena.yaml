@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/alien-arena
+package: pkg:deb/ubuntu/alien-arena
 versions:
   - purl: pkg:deb/ubuntu/alien-arena@6.05-1
     affected_by_vulnerabilities:

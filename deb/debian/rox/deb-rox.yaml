@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rox
+package: pkg:deb/debian/rox
 versions:
   - purl: pkg:deb/debian/rox@1:2.11-1?distro=sid
     affected_by_vulnerabilities: []

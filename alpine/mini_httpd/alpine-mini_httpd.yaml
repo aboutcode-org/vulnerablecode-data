@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/mini_httpd
+package: pkg:alpine/mini_httpd
 versions:
   - purl: pkg:alpine/mini_httpd@1.29-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

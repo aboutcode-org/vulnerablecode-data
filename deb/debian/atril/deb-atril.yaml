@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/atril
+package: pkg:deb/debian/atril
 versions:
   - purl: pkg:deb/debian/atril@1.16.1-2.1?distro=sid
     affected_by_vulnerabilities: []

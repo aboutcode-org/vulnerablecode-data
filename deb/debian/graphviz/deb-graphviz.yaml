@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/graphviz
+package: pkg:deb/debian/graphviz
 versions:
   - purl: pkg:deb/debian/graphviz@1.7.16-2
     affected_by_vulnerabilities:

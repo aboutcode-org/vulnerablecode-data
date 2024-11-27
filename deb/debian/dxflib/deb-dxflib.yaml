@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dxflib
+package: pkg:deb/debian/dxflib
 versions:
   - purl: pkg:deb/debian/dxflib@3.12.2-1?distro=stretch
     affected_by_vulnerabilities:

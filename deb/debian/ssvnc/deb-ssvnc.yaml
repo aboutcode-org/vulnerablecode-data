@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ssvnc
+package: pkg:deb/debian/ssvnc
 versions:
   - purl: pkg:deb/debian/ssvnc@1.0.29-3%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

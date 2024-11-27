@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fuzz
+package: pkg:deb/debian/fuzz
 versions:
   - purl: pkg:deb/debian/fuzz@0.6-15?distro=sid
     affected_by_vulnerabilities: []

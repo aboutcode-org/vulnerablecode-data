@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libxslt
+package: pkg:deb/debian/libxslt
 versions:
   - purl: pkg:deb/debian/libxslt@0?distro=sid
     affected_by_vulnerabilities: []

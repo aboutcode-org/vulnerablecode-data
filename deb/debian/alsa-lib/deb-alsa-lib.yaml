@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/alsa-lib
+package: pkg:deb/debian/alsa-lib
 versions:
   - purl: pkg:deb/debian/alsa-lib@0.9.0beta10a-3
     affected_by_vulnerabilities:

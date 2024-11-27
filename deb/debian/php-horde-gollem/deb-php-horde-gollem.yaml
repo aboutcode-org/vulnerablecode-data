@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-horde-gollem
+package: pkg:deb/debian/php-horde-gollem
 versions:
   - purl: pkg:deb/debian/php-horde-gollem@3.0.10-1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

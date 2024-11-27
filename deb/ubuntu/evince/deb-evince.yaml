@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/evince
+package: pkg:deb/ubuntu/evince
 versions:
   - purl: pkg:deb/ubuntu/evince@0.1.9-0ubuntu1
     affected_by_vulnerabilities:

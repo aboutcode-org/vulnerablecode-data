@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/git-annex
+package: pkg:deb/ubuntu/git-annex
 versions:
   - purl: pkg:deb/ubuntu/git-annex@0.03
     affected_by_vulnerabilities:

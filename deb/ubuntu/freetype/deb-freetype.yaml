@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/freetype
+package: pkg:deb/ubuntu/freetype
 versions:
   - purl: pkg:deb/ubuntu/freetype@2.10.1-2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/thrift
+package: pkg:deb/debian/thrift
 versions:
   - purl: pkg:deb/debian/thrift@0.11.0-3?distro=sid
     affected_by_vulnerabilities: []

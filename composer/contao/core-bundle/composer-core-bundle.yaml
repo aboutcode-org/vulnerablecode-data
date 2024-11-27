@@ -1,4 +1,4 @@
-pacakge: pkg:composer/contao/core-bundle
+package: pkg:composer/contao/core-bundle
 versions:
   - purl: pkg:composer/contao/core-bundle@1.5.0
     affected_by_vulnerabilities:

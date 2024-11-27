@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libtoxcore
+package: pkg:deb/debian/libtoxcore
 versions:
   - purl: pkg:deb/debian/libtoxcore@0.2.12-1?distro=sid
     affected_by_vulnerabilities:

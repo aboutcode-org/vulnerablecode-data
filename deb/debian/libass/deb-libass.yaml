@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libass
+package: pkg:deb/debian/libass
 versions:
   - purl: pkg:deb/debian/libass@0?distro=sid
     affected_by_vulnerabilities: []

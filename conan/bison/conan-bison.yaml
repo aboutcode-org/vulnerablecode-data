@@ -1,4 +1,4 @@
-pacakge: pkg:conan/bison
+package: pkg:conan/bison
 versions:
   - purl: pkg:conan/bison@3.5.3
     affected_by_vulnerabilities:

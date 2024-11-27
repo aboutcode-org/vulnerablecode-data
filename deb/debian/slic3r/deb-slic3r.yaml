@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/slic3r
+package: pkg:deb/debian/slic3r
 versions:
   - purl: pkg:deb/debian/slic3r@0?distro=stretch
     affected_by_vulnerabilities: []

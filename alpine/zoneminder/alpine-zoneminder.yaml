@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/zoneminder
+package: pkg:alpine/zoneminder
 versions:
   - purl: pkg:alpine/zoneminder@1.30.2-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

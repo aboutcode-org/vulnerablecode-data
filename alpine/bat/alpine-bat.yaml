@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/bat
+package: pkg:alpine/bat
 versions:
   - purl: pkg:alpine/bat@0.18.3-r2?arch=aarch64&distroversion=v3.15&reponame=community
     affected_by_vulnerabilities: []

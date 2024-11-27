@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mpd
+package: pkg:deb/debian/mpd
 versions:
   - purl: pkg:deb/debian/mpd@0?distro=sid
     affected_by_vulnerabilities: []

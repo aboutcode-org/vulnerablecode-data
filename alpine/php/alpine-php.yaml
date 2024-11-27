@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/php
+package: pkg:alpine/php
 versions:
   - purl: pkg:alpine/php@5.6.27-r0?arch=armhf&distroversion=v3.2&reponame=main
     affected_by_vulnerabilities: []

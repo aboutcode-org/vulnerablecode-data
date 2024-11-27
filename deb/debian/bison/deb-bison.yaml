@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bison
+package: pkg:deb/debian/bison
 versions:
   - purl: pkg:deb/debian/bison@0?distro=sid
     affected_by_vulnerabilities: []

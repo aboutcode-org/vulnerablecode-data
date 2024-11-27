@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/revelation
+package: pkg:deb/debian/revelation
 versions:
   - purl: pkg:deb/debian/revelation@0.4.11-10?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fig2dev
+package: pkg:deb/debian/fig2dev
 versions:
   - purl: pkg:deb/debian/fig2dev@0?distro=sid
     affected_by_vulnerabilities: []

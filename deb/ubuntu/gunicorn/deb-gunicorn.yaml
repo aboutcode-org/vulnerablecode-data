@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gunicorn
+package: pkg:deb/ubuntu/gunicorn
 versions:
   - purl: pkg:deb/ubuntu/gunicorn@0.10.0-1
     affected_by_vulnerabilities:

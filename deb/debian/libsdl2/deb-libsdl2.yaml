@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libsdl2
+package: pkg:deb/debian/libsdl2
 versions:
   - purl: pkg:deb/debian/libsdl2@2.0.10%2Bdfsg1-1?distro=sid
     affected_by_vulnerabilities: []

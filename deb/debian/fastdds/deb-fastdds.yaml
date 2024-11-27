@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fastdds
+package: pkg:deb/debian/fastdds
 versions:
   - purl: pkg:deb/debian/fastdds@2.1.0%2Bds-9?distro=sid
     affected_by_vulnerabilities:

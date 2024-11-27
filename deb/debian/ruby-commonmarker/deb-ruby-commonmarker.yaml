@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-commonmarker
+package: pkg:deb/debian/ruby-commonmarker
 versions:
   - purl: pkg:deb/debian/ruby-commonmarker@0.17.9-1?distro=sid
     affected_by_vulnerabilities:

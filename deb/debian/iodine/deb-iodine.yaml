@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/iodine
+package: pkg:deb/debian/iodine
 versions:
   - purl: pkg:deb/debian/iodine@0.6.0~rc1-19?distro=sid
     affected_by_vulnerabilities: []

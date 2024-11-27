@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/apt-cacher
+package: pkg:deb/ubuntu/apt-cacher
 versions:
   - purl: pkg:deb/ubuntu/apt-cacher@0.7-2
     affected_by_vulnerabilities:

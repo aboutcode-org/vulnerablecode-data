@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/netsurf
+package: pkg:deb/debian/netsurf
 versions:
   - purl: pkg:deb/debian/netsurf@2.8-2?distro=sid
     affected_by_vulnerabilities: []

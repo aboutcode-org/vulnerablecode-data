@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/ircii
+package: pkg:alpine/ircii
 versions:
   - purl: pkg:alpine/ircii@20210314-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

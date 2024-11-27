@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/iwd
+package: pkg:deb/debian/iwd
 versions:
   - purl: pkg:deb/debian/iwd@0.14-2?distro=sid
     affected_by_vulnerabilities:

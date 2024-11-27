@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/py-paramiko
+package: pkg:alpine/py-paramiko
 versions:
   - purl: pkg:alpine/py-paramiko@2.1.6-r0?arch=aarch64&distroversion=v3.6&reponame=main
     affected_by_vulnerabilities: []

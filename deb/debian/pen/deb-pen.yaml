@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pen
+package: pkg:deb/debian/pen
 versions:
   - purl: pkg:deb/debian/pen@0?distro=sid
     affected_by_vulnerabilities: []

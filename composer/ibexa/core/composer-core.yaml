@@ -1,4 +1,4 @@
-pacakge: pkg:composer/ibexa/core
+package: pkg:composer/ibexa/core
 versions:
   - purl: pkg:composer/ibexa/core@4.0.0
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/perl-email-address
+package: pkg:alpine/perl-email-address
 versions:
   - purl: pkg:alpine/perl-email-address@1.912-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

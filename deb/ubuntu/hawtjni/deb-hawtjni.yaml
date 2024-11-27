@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/hawtjni
+package: pkg:deb/ubuntu/hawtjni
 versions:
   - purl: pkg:deb/ubuntu/hawtjni@1.0~%2Bgit0c502e20c4-1
     affected_by_vulnerabilities:

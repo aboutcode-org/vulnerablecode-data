@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/commons-beanutils
+package: pkg:deb/debian/commons-beanutils
 versions:
   - purl: pkg:deb/debian/commons-beanutils@1.9.2-1?distro=sid
     affected_by_vulnerabilities: []

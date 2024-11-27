@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ant
+package: pkg:deb/debian/ant
 versions:
   - purl: pkg:deb/debian/ant@0?distro=sid
     affected_by_vulnerabilities: []

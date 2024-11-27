@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xfstt
+package: pkg:deb/debian/xfstt
 versions:
   - purl: pkg:deb/debian/xfstt@0.9.10-6
     affected_by_vulnerabilities:

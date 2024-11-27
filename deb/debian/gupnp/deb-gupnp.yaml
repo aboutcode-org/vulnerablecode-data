@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gupnp
+package: pkg:deb/debian/gupnp
 versions:
   - purl: pkg:deb/debian/gupnp@0.12.6-3.1?distro=sid
     affected_by_vulnerabilities: []

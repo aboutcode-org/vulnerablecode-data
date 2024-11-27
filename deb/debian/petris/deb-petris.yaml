@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/petris
+package: pkg:deb/debian/petris
 versions:
   - purl: pkg:deb/debian/petris@1.0.1-10?distro=sid
     affected_by_vulnerabilities: []

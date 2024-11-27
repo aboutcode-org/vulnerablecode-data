@@ -1,4 +1,4 @@
-pacakge: pkg:composer/spipu/html2pdf
+package: pkg:composer/spipu/html2pdf
 versions:
   - purl: pkg:composer/spipu/html2pdf@4.4.0
     affected_by_vulnerabilities:

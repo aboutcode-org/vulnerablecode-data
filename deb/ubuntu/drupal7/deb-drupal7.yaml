@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/drupal7
+package: pkg:deb/ubuntu/drupal7
 versions:
   - purl: pkg:deb/ubuntu/drupal7@7.10-1
     affected_by_vulnerabilities:

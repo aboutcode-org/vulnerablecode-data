@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/clickhouse
+package: pkg:deb/debian/clickhouse
 versions:
   - purl: pkg:deb/debian/clickhouse@0?distro=sid
     affected_by_vulnerabilities: []

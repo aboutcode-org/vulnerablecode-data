@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/freetds
+package: pkg:deb/ubuntu/freetds
 versions:
   - purl: pkg:deb/ubuntu/freetds@0.61-5
     affected_by_vulnerabilities:

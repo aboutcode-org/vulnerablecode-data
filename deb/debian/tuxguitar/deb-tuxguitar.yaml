@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tuxguitar
+package: pkg:deb/debian/tuxguitar
 versions:
   - purl: pkg:deb/debian/tuxguitar@1.2-22?distro=stretch
     affected_by_vulnerabilities: []

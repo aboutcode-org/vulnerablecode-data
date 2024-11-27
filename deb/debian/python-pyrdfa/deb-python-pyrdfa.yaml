@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-pyrdfa
+package: pkg:deb/debian/python-pyrdfa
 versions:
   - purl: pkg:deb/debian/python-pyrdfa@3.5.2%2B20220329~ds-1?distro=sid
     affected_by_vulnerabilities: []

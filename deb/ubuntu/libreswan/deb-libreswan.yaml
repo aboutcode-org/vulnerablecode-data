@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libreswan
+package: pkg:deb/ubuntu/libreswan
 versions:
   - purl: pkg:deb/ubuntu/libreswan@3.19-1
     affected_by_vulnerabilities:

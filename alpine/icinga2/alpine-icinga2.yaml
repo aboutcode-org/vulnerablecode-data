@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/icinga2
+package: pkg:alpine/icinga2
 versions:
   - purl: pkg:alpine/icinga2@2.11.3-r1?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

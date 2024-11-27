@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/knot-resolver
+package: pkg:deb/debian/knot-resolver
 versions:
   - purl: pkg:deb/debian/knot-resolver@0?distro=sid
     affected_by_vulnerabilities: []

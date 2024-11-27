@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/imapfilter
+package: pkg:deb/ubuntu/imapfilter
 versions:
   - purl: pkg:deb/ubuntu/imapfilter@1:1.0-1
     affected_by_vulnerabilities:

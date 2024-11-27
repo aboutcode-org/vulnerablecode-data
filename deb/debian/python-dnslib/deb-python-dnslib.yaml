@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-dnslib
+package: pkg:deb/debian/python-dnslib
 versions:
   - purl: pkg:deb/debian/python-dnslib@0.9.14-1?distro=sid
     affected_by_vulnerabilities:

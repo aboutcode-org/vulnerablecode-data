@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/wkhtmltopdf
+package: pkg:deb/debian/wkhtmltopdf
 versions:
   - purl: pkg:deb/debian/wkhtmltopdf@0.12.5-1?distro=sid
     affected_by_vulnerabilities:

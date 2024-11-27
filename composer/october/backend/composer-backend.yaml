@@ -1,4 +1,4 @@
-pacakge: pkg:composer/october/backend
+package: pkg:composer/october/backend
 versions:
   - purl: pkg:composer/october/backend@1.0.319
     affected_by_vulnerabilities:

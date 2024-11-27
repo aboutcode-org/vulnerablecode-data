@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dns2tcp
+package: pkg:deb/debian/dns2tcp
 versions:
   - purl: pkg:deb/debian/dns2tcp@0.4.dfsg-2?distro=sid
     affected_by_vulnerabilities: []

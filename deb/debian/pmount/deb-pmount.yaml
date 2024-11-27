@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pmount
+package: pkg:deb/debian/pmount
 versions:
   - purl: pkg:deb/debian/pmount@0.9.23-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/ctags
+package: pkg:alpine/ctags
 versions:
   - purl: pkg:alpine/ctags@5.8-r5?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

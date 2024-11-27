@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ghostscript
+package: pkg:deb/ubuntu/ghostscript
 versions:
   - purl: pkg:deb/ubuntu/ghostscript@8.60.dfsg.1-0ubuntu1
     affected_by_vulnerabilities:

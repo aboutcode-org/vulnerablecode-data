@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/letodms
+package: pkg:deb/ubuntu/letodms
 versions:
   - purl: pkg:deb/ubuntu/letodms@3.0.0-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-letodms-core
+package: pkg:deb/debian/php-letodms-core
 versions:
   - purl: pkg:deb/debian/php-letodms-core@3.3.8-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/binutils-mingw-w64
+package: pkg:deb/debian/binutils-mingw-w64
 versions:
   - purl: pkg:deb/debian/binutils-mingw-w64@10?distro=sid
     affected_by_vulnerabilities: []

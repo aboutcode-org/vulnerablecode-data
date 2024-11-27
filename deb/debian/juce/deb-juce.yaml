@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/juce
+package: pkg:deb/debian/juce
 versions:
   - purl: pkg:deb/debian/juce@4.3.0~repack-1?distro=stretch
     affected_by_vulnerabilities:

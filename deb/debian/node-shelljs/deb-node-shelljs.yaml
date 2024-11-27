@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-shelljs
+package: pkg:deb/debian/node-shelljs
 versions:
   - purl: pkg:deb/debian/node-shelljs@0.7.5-1?distro=stretch
     affected_by_vulnerabilities:

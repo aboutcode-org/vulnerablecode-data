@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/lcms2
+package: pkg:deb/ubuntu/lcms2
 versions:
   - purl: pkg:deb/ubuntu/lcms2@2.1.dfsg-1
     affected_by_vulnerabilities:

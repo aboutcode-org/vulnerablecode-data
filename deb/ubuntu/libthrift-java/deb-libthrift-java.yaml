@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libthrift-java
+package: pkg:deb/ubuntu/libthrift-java
 versions:
   - purl: pkg:deb/ubuntu/libthrift-java@0.8.0-0ubuntu1
     affected_by_vulnerabilities:

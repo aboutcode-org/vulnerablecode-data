@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/directfb
+package: pkg:deb/debian/directfb
 versions:
   - purl: pkg:deb/debian/directfb@0?distro=sid
     affected_by_vulnerabilities: []

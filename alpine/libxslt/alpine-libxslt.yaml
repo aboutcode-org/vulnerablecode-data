@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libxslt
+package: pkg:alpine/libxslt
 versions:
   - purl: pkg:alpine/libxslt@0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

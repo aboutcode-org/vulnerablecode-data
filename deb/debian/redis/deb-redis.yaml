@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/redis
+package: pkg:deb/debian/redis
 versions:
   - purl: pkg:deb/debian/redis@0?distro=sid
     affected_by_vulnerabilities: []

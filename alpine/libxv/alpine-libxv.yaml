@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libxv
+package: pkg:alpine/libxv
 versions:
   - purl: pkg:alpine/libxv@1.0.10-r1?arch=armhf&distroversion=v3.2&reponame=main
     affected_by_vulnerabilities: []

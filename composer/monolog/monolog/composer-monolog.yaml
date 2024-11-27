@@ -1,4 +1,4 @@
-pacakge: pkg:composer/monolog/monolog
+package: pkg:composer/monolog/monolog
 versions:
   - purl: pkg:composer/monolog/monolog@1.10.0
     affected_by_vulnerabilities:

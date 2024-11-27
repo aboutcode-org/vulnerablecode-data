@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jbigkit
+package: pkg:deb/debian/jbigkit
 versions:
   - purl: pkg:deb/debian/jbigkit@2.0-2.1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/firebase/php-jwt
+package: pkg:composer/firebase/php-jwt
 versions:
   - purl: pkg:composer/firebase/php-jwt@1.0.0
     affected_by_vulnerabilities:

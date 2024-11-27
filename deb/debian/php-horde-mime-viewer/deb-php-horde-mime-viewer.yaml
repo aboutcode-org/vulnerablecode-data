@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-horde-mime-viewer
+package: pkg:deb/debian/php-horde-mime-viewer
 versions:
   - purl: pkg:deb/debian/php-horde-mime-viewer@2.2.1-1?distro=stretch
     affected_by_vulnerabilities: []

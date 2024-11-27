@@ -1,4 +1,4 @@
-pacakge: pkg:composer/paypal/invoice-sdk-php
+package: pkg:composer/paypal/invoice-sdk-php
 versions:
   - purl: pkg:composer/paypal/invoice-sdk-php@2.2.98
     affected_by_vulnerabilities:

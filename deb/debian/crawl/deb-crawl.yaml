@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/crawl
+package: pkg:deb/debian/crawl
 versions:
   - purl: pkg:deb/debian/crawl@1:4.0.0beta23-2woody1
     affected_by_vulnerabilities:

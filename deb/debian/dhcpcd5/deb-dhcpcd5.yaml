@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dhcpcd5
+package: pkg:deb/debian/dhcpcd5
 versions:
   - purl: pkg:deb/debian/dhcpcd5@0?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gamera
+package: pkg:deb/ubuntu/gamera
 versions:
   - purl: pkg:deb/ubuntu/gamera@3.2.3-1
     affected_by_vulnerabilities:

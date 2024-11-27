@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/postgresql-15
+package: pkg:deb/debian/postgresql-15
 versions:
   - purl: pkg:deb/debian/postgresql-15@15.1-1?distro=sid
     affected_by_vulnerabilities:

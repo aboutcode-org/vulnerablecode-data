@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ksmtp
+package: pkg:deb/debian/ksmtp
 versions:
   - purl: pkg:deb/debian/ksmtp@18.08.3-1?distro=sid
     affected_by_vulnerabilities:

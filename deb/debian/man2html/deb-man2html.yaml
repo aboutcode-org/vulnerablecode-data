@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/man2html
+package: pkg:deb/debian/man2html
 versions:
   - purl: pkg:deb/debian/man2html@1.6g-11?distro=sid
     affected_by_vulnerabilities: []

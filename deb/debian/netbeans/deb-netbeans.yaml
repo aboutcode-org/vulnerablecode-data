@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/netbeans
+package: pkg:deb/debian/netbeans
 versions:
   - purl: pkg:deb/debian/netbeans@10.0-1?distro=sid
     affected_by_vulnerabilities: []

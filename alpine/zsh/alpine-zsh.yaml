@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/zsh
+package: pkg:alpine/zsh
 versions:
   - purl: pkg:alpine/zsh@5.2-r2?arch=armhf&distroversion=v3.4&reponame=main
     affected_by_vulnerabilities: []

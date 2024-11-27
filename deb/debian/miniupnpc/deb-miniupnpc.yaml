@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/miniupnpc
+package: pkg:deb/debian/miniupnpc
 versions:
   - purl: pkg:deb/debian/miniupnpc@1.6-4?distro=sid
     affected_by_vulnerabilities: []

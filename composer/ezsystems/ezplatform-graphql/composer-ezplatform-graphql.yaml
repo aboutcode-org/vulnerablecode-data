@@ -1,4 +1,4 @@
-pacakge: pkg:composer/ezsystems/ezplatform-graphql
+package: pkg:composer/ezsystems/ezplatform-graphql
 versions:
   - purl: pkg:composer/ezsystems/ezplatform-graphql@1.0.0
     affected_by_vulnerabilities:

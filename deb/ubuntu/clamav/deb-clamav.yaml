@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/clamav
+package: pkg:deb/ubuntu/clamav
 versions:
   - purl: pkg:deb/ubuntu/clamav@0.100.1%2Bdfsg-1ubuntu0.14.04.1
     affected_by_vulnerabilities:

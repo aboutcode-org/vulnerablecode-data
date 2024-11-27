@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mkvtoolnix
+package: pkg:deb/debian/mkvtoolnix
 versions:
   - purl: pkg:deb/debian/mkvtoolnix@0?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/android-platform-system-core
+package: pkg:deb/debian/android-platform-system-core
 versions:
   - purl: pkg:deb/debian/android-platform-system-core@0?distro=buster
     affected_by_vulnerabilities: []

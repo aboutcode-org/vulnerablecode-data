@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/manuskript
+package: pkg:deb/debian/manuskript
 versions:
   - purl: pkg:deb/debian/manuskript@0.11.0-2?distro=sid
     affected_by_vulnerabilities:

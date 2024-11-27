@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mail-notification
+package: pkg:deb/debian/mail-notification
 versions:
   - purl: pkg:deb/debian/mail-notification@4.0.dfsg.1-2?distro=stretch
     affected_by_vulnerabilities: []

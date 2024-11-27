@@ -1,4 +1,4 @@
-pacakge: pkg:composer/contao/newsletter-bundle
+package: pkg:composer/contao/newsletter-bundle
 versions:
   - purl: pkg:composer/contao/newsletter-bundle@4.0.0
     affected_by_vulnerabilities:

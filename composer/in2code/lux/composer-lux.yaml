@@ -1,4 +1,4 @@
-pacakge: pkg:composer/in2code/lux
+package: pkg:composer/in2code/lux
 versions:
   - purl: pkg:composer/in2code/lux@10.0.0
     affected_by_vulnerabilities:

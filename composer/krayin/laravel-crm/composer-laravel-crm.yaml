@@ -1,4 +1,4 @@
-pacakge: pkg:composer/krayin/laravel-crm
+package: pkg:composer/krayin/laravel-crm
 versions:
   - purl: pkg:composer/krayin/laravel-crm@1.0.0
     affected_by_vulnerabilities:

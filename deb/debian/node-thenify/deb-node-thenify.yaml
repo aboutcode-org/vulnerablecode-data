@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-thenify
+package: pkg:deb/debian/node-thenify
 versions:
   - purl: pkg:deb/debian/node-thenify@3.3.0-1?distro=sid
     affected_by_vulnerabilities:

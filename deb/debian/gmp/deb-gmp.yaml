@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gmp
+package: pkg:deb/debian/gmp
 versions:
   - purl: pkg:deb/debian/gmp@2:6.1.2%2Bdfsg-1?distro=stretch
     affected_by_vulnerabilities: []

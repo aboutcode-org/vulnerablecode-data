@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/firebird2.5
+package: pkg:deb/ubuntu/firebird2.5
 versions:
   - purl: pkg:deb/ubuntu/firebird2.5@2.5.0.25920~ReleaseCandidate2.ds2-6
     affected_by_vulnerabilities:

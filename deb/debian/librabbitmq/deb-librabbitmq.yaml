@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/librabbitmq
+package: pkg:deb/debian/librabbitmq
 versions:
   - purl: pkg:deb/debian/librabbitmq@0.10.0-1?distro=sid
     affected_by_vulnerabilities: []

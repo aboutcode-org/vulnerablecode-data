@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ioquake3
+package: pkg:deb/debian/ioquake3
 versions:
   - purl: pkg:deb/debian/ioquake3@0?distro=sid
     affected_by_vulnerabilities: []

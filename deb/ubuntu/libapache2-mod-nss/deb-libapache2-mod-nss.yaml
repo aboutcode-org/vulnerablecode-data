@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libapache2-mod-nss
+package: pkg:deb/ubuntu/libapache2-mod-nss
 versions:
   - purl: pkg:deb/ubuntu/libapache2-mod-nss@1.0.10-1
     affected_by_vulnerabilities:

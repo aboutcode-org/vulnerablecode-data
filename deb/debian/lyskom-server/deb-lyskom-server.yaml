@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lyskom-server
+package: pkg:deb/debian/lyskom-server
 versions:
   - purl: pkg:deb/debian/lyskom-server@2.0.6-1woody1
     affected_by_vulnerabilities:

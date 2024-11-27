@@ -1,4 +1,4 @@
-pacakge: pkg:composer/funadmin/funadmin
+package: pkg:composer/funadmin/funadmin
 versions:
   - purl: pkg:composer/funadmin/funadmin@1.02
     affected_by_vulnerabilities:

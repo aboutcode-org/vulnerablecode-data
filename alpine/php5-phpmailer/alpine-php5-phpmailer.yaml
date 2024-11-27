@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/php5-phpmailer
+package: pkg:alpine/php5-phpmailer
 versions:
   - purl: pkg:alpine/php5-phpmailer@5.2.0-r1?arch=armhf&distroversion=v3.4&reponame=main
     affected_by_vulnerabilities: []

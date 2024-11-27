@@ -1,4 +1,4 @@
-pacakge: pkg:composer/api-platform/core
+package: pkg:composer/api-platform/core
 versions:
   - purl: pkg:composer/api-platform/core@2.2.0
     affected_by_vulnerabilities:

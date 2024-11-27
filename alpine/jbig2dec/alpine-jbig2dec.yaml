@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/jbig2dec
+package: pkg:alpine/jbig2dec
 versions:
   - purl: pkg:alpine/jbig2dec@0.15-r1?arch=aarch64&distroversion=v3.9&reponame=main
     affected_by_vulnerabilities: []

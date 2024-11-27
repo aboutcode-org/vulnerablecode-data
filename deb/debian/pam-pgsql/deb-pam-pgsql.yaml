@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pam-pgsql
+package: pkg:deb/debian/pam-pgsql
 versions:
   - purl: pkg:deb/debian/pam-pgsql@0.5.2-7?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/fontconfig
+package: pkg:deb/ubuntu/fontconfig
 versions:
   - purl: pkg:deb/ubuntu/fontconfig@2.10.1-0ubuntu1
     affected_by_vulnerabilities:

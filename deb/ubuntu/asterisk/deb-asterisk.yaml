@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/asterisk
+package: pkg:deb/ubuntu/asterisk
 versions:
   - purl: pkg:deb/ubuntu/asterisk@1.0-1
     affected_by_vulnerabilities:

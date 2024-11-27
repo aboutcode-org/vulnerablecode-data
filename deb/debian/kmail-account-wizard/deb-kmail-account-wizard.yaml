@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kmail-account-wizard
+package: pkg:deb/debian/kmail-account-wizard
 versions:
   - purl: pkg:deb/debian/kmail-account-wizard@4:18.08.3-1?distro=sid
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/binutils
+package: pkg:alpine/binutils
 versions:
   - purl: pkg:alpine/binutils@2.26-r1?arch=armhf&distroversion=v3.4&reponame=main
     affected_by_vulnerabilities: []

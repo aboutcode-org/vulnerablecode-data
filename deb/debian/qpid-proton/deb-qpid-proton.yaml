@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/qpid-proton
+package: pkg:deb/debian/qpid-proton
 versions:
   - purl: pkg:deb/debian/qpid-proton@0?distro=sid
     affected_by_vulnerabilities: []

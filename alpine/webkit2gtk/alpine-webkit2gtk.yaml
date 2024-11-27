@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/webkit2gtk
+package: pkg:alpine/webkit2gtk
 versions:
   - purl: pkg:alpine/webkit2gtk@2.12.5-r0?arch=armhf&distroversion=v3.4&reponame=community
     affected_by_vulnerabilities: []

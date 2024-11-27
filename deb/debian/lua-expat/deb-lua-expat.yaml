@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lua-expat
+package: pkg:deb/debian/lua-expat
 versions:
   - purl: pkg:deb/debian/lua-expat@1.2.0-1?distro=sid
     affected_by_vulnerabilities: []

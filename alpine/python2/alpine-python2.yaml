@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/python2
+package: pkg:alpine/python2
 versions:
   - purl: pkg:alpine/python2@2.7.14-r0?arch=aarch64&distroversion=v3.5&reponame=main
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/krfb
+package: pkg:deb/ubuntu/krfb
 versions:
   - purl: pkg:deb/ubuntu/krfb@4:4.10.80-0ubuntu1
     affected_by_vulnerabilities:

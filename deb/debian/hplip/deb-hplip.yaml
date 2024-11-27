@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/hplip
+package: pkg:deb/debian/hplip
 versions:
   - purl: pkg:deb/debian/hplip@0?distro=sid
     affected_by_vulnerabilities: []

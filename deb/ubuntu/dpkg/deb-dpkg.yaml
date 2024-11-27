@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/dpkg
+package: pkg:deb/ubuntu/dpkg
 versions:
   - purl: pkg:deb/ubuntu/dpkg@1.10.22ubuntu2
     affected_by_vulnerabilities:

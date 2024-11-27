@@ -1,4 +1,4 @@
-pacakge: pkg:conan/gdk-pixbuf
+package: pkg:conan/gdk-pixbuf
 versions:
   - purl: pkg:conan/gdk-pixbuf@2.42.6
     affected_by_vulnerabilities:

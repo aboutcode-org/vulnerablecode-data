@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/nomad
+package: pkg:alpine/nomad
 versions:
   - purl: pkg:alpine/nomad@0.10.3-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

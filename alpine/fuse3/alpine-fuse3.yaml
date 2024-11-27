@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/fuse3
+package: pkg:alpine/fuse3
 versions:
   - purl: pkg:alpine/fuse3@3.2.5-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

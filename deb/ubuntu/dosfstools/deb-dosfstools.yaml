@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/dosfstools
+package: pkg:deb/ubuntu/dosfstools
 versions:
   - purl: pkg:deb/ubuntu/dosfstools@2.10-1
     affected_by_vulnerabilities:

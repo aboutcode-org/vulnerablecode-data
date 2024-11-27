@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libimage-exiftool-perl
+package: pkg:deb/ubuntu/libimage-exiftool-perl
 versions:
   - purl: pkg:deb/ubuntu/libimage-exiftool-perl@10.00-1
     affected_by_vulnerabilities:

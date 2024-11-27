@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-minimist
+package: pkg:deb/debian/node-minimist
 versions:
   - purl: pkg:deb/debian/node-minimist@1.2.0-1?distro=stretch
     affected_by_vulnerabilities:

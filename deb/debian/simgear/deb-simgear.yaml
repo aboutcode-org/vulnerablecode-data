@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/simgear
+package: pkg:deb/debian/simgear
 versions:
   - purl: pkg:deb/debian/simgear@1:2016.4.4%2Bdfsg-2?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnubiff
+package: pkg:deb/debian/gnubiff
 versions:
   - purl: pkg:deb/debian/gnubiff@2.0.0?distro=sid
     affected_by_vulnerabilities: []

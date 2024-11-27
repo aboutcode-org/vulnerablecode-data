@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/iodine
+package: pkg:deb/ubuntu/iodine
 versions:
   - purl: pkg:deb/ubuntu/iodine@0.4.0-3
     affected_by_vulnerabilities:

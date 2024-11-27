@@ -1,4 +1,4 @@
-pacakge: pkg:composer/brotkrueml/schema
+package: pkg:composer/brotkrueml/schema
 versions:
   - purl: pkg:composer/brotkrueml/schema@0.1.0
     affected_by_vulnerabilities:

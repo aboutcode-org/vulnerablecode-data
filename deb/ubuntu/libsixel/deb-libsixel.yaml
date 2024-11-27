@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libsixel
+package: pkg:deb/ubuntu/libsixel
 versions:
   - purl: pkg:deb/ubuntu/libsixel@1.1.2-1
     affected_by_vulnerabilities:

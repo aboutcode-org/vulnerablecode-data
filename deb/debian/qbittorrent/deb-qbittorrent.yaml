@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/qbittorrent
+package: pkg:deb/debian/qbittorrent
 versions:
   - purl: pkg:deb/debian/qbittorrent@0?distro=sid
     affected_by_vulnerabilities: []

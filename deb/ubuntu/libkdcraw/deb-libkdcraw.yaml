@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libkdcraw
+package: pkg:deb/ubuntu/libkdcraw
 versions:
   - purl: pkg:deb/ubuntu/libkdcraw@0.1.0-1
     affected_by_vulnerabilities:

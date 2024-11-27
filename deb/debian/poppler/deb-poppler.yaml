@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/poppler
+package: pkg:deb/debian/poppler
 versions:
   - purl: pkg:deb/debian/poppler@0?distro=sid
     affected_by_vulnerabilities: []

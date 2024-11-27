@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libxml-dt-perl
+package: pkg:deb/ubuntu/libxml-dt-perl
 versions:
   - purl: pkg:deb/ubuntu/libxml-dt-perl@0.3-1
     affected_by_vulnerabilities:

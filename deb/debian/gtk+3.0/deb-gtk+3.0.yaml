@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gtk%2B3.0
+package: pkg:deb/debian/gtk%2B3.0
 versions:
   - purl: pkg:deb/debian/gtk%2B3.0@3.10.7-1?distro=sid
     affected_by_vulnerabilities: []

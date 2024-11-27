@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/ngircd
+package: pkg:alpine/ngircd
 versions:
   - purl: pkg:alpine/ngircd@24-r5?arch=aarch64&distroversion=v3.9&reponame=main
     affected_by_vulnerabilities: []

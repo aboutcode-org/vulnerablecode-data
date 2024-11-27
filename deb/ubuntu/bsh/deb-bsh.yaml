@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/bsh
+package: pkg:deb/ubuntu/bsh
 versions:
   - purl: pkg:deb/ubuntu/bsh@1.3.0-2
     affected_by_vulnerabilities:

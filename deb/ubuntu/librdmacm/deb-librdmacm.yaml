@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/librdmacm
+package: pkg:deb/ubuntu/librdmacm
 versions:
   - purl: pkg:deb/ubuntu/librdmacm@1.0.10-1
     affected_by_vulnerabilities:

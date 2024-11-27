@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/mcpp
+package: pkg:alpine/mcpp
 versions:
   - purl: pkg:alpine/mcpp@2.7.2-r2?arch=aarch64&distroversion=v3.10&reponame=main
     affected_by_vulnerabilities: []

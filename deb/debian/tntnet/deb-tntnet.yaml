@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tntnet
+package: pkg:deb/debian/tntnet
 versions:
   - purl: pkg:deb/debian/tntnet@2.2.1-1?distro=sid
     affected_by_vulnerabilities: []

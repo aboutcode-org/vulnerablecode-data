@@ -1,4 +1,4 @@
-pacakge: pkg:composer/bedita/bedita
+package: pkg:composer/bedita/bedita
 versions:
   - purl: pkg:composer/bedita/bedita@3.8.0
     affected_by_vulnerabilities:

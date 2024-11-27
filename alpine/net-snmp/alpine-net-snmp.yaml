@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/net-snmp
+package: pkg:alpine/net-snmp
 versions:
   - purl: pkg:alpine/net-snmp@5.8-r0?arch=aarch64&distroversion=v3.11&reponame=main
     affected_by_vulnerabilities: []

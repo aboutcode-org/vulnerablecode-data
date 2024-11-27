@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-crossbeam-utils
+package: pkg:deb/debian/rust-crossbeam-utils
 versions:
   - purl: pkg:deb/debian/rust-crossbeam-utils@0.6.5-1?distro=sid
     affected_by_vulnerabilities:

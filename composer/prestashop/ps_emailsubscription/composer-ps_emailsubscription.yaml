@@ -1,4 +1,4 @@
-pacakge: pkg:composer/prestashop/ps_emailsubscription
+package: pkg:composer/prestashop/ps_emailsubscription
 versions:
   - purl: pkg:composer/prestashop/ps_emailsubscription@1.0.1
     affected_by_vulnerabilities:

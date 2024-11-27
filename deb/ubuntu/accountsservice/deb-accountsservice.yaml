@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/accountsservice
+package: pkg:deb/ubuntu/accountsservice
 versions:
   - purl: pkg:deb/ubuntu/accountsservice@0.6.10-1
     affected_by_vulnerabilities:

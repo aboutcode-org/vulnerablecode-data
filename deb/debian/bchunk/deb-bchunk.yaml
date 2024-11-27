@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bchunk
+package: pkg:deb/debian/bchunk
 versions:
   - purl: pkg:deb/debian/bchunk@1.2.0-12.1?distro=sid
     affected_by_vulnerabilities: []

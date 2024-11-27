@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libexif
+package: pkg:deb/debian/libexif
 versions:
   - purl: pkg:deb/debian/libexif@0.5.0-1woody1
     affected_by_vulnerabilities:

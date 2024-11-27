@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libphysfs
+package: pkg:deb/debian/libphysfs
 versions:
   - purl: pkg:deb/debian/libphysfs@1.0.0-4
     affected_by_vulnerabilities:

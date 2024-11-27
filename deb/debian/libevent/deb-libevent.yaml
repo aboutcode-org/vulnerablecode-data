@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libevent
+package: pkg:deb/debian/libevent
 versions:
   - purl: pkg:deb/debian/libevent@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pavuk
+package: pkg:deb/debian/pavuk
 versions:
   - purl: pkg:deb/debian/pavuk@0.9.32-1?distro=stretch
     affected_by_vulnerabilities: []

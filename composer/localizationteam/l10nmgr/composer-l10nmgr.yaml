@@ -1,4 +1,4 @@
-pacakge: pkg:composer/localizationteam/l10nmgr
+package: pkg:composer/localizationteam/l10nmgr
 versions:
   - purl: pkg:composer/localizationteam/l10nmgr@5.1.1
     affected_by_vulnerabilities:

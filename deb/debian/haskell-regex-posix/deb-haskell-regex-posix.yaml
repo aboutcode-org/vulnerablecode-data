@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/haskell-regex-posix
+package: pkg:deb/debian/haskell-regex-posix
 versions:
   - purl: pkg:deb/debian/haskell-regex-posix@0?distro=sid
     affected_by_vulnerabilities: []

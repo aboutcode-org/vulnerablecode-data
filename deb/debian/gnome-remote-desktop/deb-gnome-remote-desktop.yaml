@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnome-remote-desktop
+package: pkg:deb/debian/gnome-remote-desktop
 versions:
   - purl: pkg:deb/debian/gnome-remote-desktop@0.1.7-1?distro=sid
     affected_by_vulnerabilities:

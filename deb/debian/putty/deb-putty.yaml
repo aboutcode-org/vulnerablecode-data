@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/putty
+package: pkg:deb/debian/putty
 versions:
   - purl: pkg:deb/debian/putty@0?distro=sid
     affected_by_vulnerabilities: []

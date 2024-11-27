@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/system-config-printer
+package: pkg:deb/debian/system-config-printer
 versions:
   - purl: pkg:deb/debian/system-config-printer@0?distro=sid
     affected_by_vulnerabilities: []

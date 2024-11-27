@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/squashfs-tools
+package: pkg:alpine/squashfs-tools
 versions:
   - purl: pkg:alpine/squashfs-tools@4.5-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

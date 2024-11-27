@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-horde-text-filter
+package: pkg:deb/debian/php-horde-text-filter
 versions:
   - purl: pkg:deb/debian/php-horde-text-filter@2.3.5-1?distro=sid
     affected_by_vulnerabilities: []

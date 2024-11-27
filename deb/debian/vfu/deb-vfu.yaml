@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/vfu
+package: pkg:deb/debian/vfu
 versions:
   - purl: pkg:deb/debian/vfu@0?distro=sid
     affected_by_vulnerabilities: []

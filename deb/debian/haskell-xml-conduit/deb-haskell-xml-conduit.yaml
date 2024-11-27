@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/haskell-xml-conduit
+package: pkg:deb/debian/haskell-xml-conduit
 versions:
   - purl: pkg:deb/debian/haskell-xml-conduit@1.8.0-4?distro=sid
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libgsf
+package: pkg:deb/debian/libgsf
 versions:
   - purl: pkg:deb/debian/libgsf@1.11.1-1sarge1
     affected_by_vulnerabilities:

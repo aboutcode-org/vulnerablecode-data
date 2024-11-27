@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/italc
+package: pkg:deb/debian/italc
 versions:
   - purl: pkg:deb/debian/italc@0?distro=stretch
     affected_by_vulnerabilities: []

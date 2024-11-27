@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gstreamer1.0
+package: pkg:deb/debian/gstreamer1.0
 versions:
   - purl: pkg:deb/debian/gstreamer1.0@1.10.3-1?distro=sid
     affected_by_vulnerabilities: []

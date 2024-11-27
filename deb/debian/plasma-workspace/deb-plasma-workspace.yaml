@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/plasma-workspace
+package: pkg:deb/debian/plasma-workspace
 versions:
   - purl: pkg:deb/debian/plasma-workspace@4:5.12.0-2?distro=sid
     affected_by_vulnerabilities: []

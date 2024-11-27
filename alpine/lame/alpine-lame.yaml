@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/lame
+package: pkg:alpine/lame
 versions:
   - purl: pkg:alpine/lame@3.99.5-r6?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

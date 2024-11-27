@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/davical
+package: pkg:deb/debian/davical
 versions:
   - purl: pkg:deb/debian/davical@1.1.10-1?distro=sid
     affected_by_vulnerabilities: []

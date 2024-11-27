@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bouncycastle
+package: pkg:deb/debian/bouncycastle
 versions:
   - purl: pkg:deb/debian/bouncycastle@0?distro=sid
     affected_by_vulnerabilities: []

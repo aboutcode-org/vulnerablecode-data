@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/jgit
+package: pkg:deb/ubuntu/jgit
 versions:
   - purl: pkg:deb/ubuntu/jgit@1.3.0-2
     affected_by_vulnerabilities:

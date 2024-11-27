@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ghostwriter
+package: pkg:deb/debian/ghostwriter
 versions:
   - purl: pkg:deb/debian/ghostwriter@0?distro=sid
     affected_by_vulnerabilities: []

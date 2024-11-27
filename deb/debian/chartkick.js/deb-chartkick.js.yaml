@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/chartkick.js
+package: pkg:deb/debian/chartkick.js
 versions:
   - purl: pkg:deb/debian/chartkick.js@0?distro=sid
     affected_by_vulnerabilities: []

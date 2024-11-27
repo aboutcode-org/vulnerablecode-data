@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/mbedtls
+package: pkg:alpine/mbedtls
 versions:
   - purl: pkg:alpine/mbedtls@2.12.0-r0?arch=aarch64&distroversion=v3.9&reponame=community
     affected_by_vulnerabilities: []

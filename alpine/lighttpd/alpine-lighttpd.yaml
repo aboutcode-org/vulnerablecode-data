@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/lighttpd
+package: pkg:alpine/lighttpd
 versions:
   - purl: pkg:alpine/lighttpd@1.4.64-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

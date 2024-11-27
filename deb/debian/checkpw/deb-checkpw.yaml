@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/checkpw
+package: pkg:deb/debian/checkpw
 versions:
   - purl: pkg:deb/debian/checkpw@1.02-1.1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/ptrofimov/beanstalk_console
+package: pkg:composer/ptrofimov/beanstalk_console
 versions:
   - purl: pkg:composer/ptrofimov/beanstalk_console@1.2.1
     affected_by_vulnerabilities:

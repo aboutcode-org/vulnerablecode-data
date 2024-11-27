@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/opendnssec
+package: pkg:deb/debian/opendnssec
 versions:
   - purl: pkg:deb/debian/opendnssec@0?distro=sid
     affected_by_vulnerabilities: []

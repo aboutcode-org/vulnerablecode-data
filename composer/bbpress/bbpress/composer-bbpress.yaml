@@ -1,4 +1,4 @@
-pacakge: pkg:composer/bbpress/bbpress
+package: pkg:composer/bbpress/bbpress
 versions:
   - purl: pkg:composer/bbpress/bbpress@1.0.2
     affected_by_vulnerabilities:

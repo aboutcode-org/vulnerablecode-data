@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-mermaid
+package: pkg:deb/debian/node-mermaid
 versions:
   - purl: pkg:deb/debian/node-mermaid@8.13.8%2B~cs10.4.16-1?distro=sid
     affected_by_vulnerabilities: []

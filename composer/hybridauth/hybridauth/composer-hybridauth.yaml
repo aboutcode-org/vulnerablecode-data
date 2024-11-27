@@ -1,4 +1,4 @@
-pacakge: pkg:composer/hybridauth/hybridauth
+package: pkg:composer/hybridauth/hybridauth
 versions:
   - purl: pkg:composer/hybridauth/hybridauth@2.1.0
     affected_by_vulnerabilities:

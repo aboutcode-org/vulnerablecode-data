@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mrxvt
+package: pkg:deb/debian/mrxvt
 versions:
   - purl: pkg:deb/debian/mrxvt@0.5.4-2?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/zookeeper
+package: pkg:deb/debian/zookeeper
 versions:
   - purl: pkg:deb/debian/zookeeper@3.4.10-2?distro=sid
     affected_by_vulnerabilities: []

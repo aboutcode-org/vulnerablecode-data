@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/binutils
+package: pkg:deb/debian/binutils
 versions:
   - purl: pkg:deb/debian/binutils@0?distro=sid
     affected_by_vulnerabilities: []

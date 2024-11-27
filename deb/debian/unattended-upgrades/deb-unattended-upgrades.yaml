@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/unattended-upgrades
+package: pkg:deb/debian/unattended-upgrades
 versions:
   - purl: pkg:deb/debian/unattended-upgrades@0.86.1?distro=sid
     affected_by_vulnerabilities: []

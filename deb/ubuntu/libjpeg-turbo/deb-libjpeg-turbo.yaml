@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libjpeg-turbo
+package: pkg:deb/ubuntu/libjpeg-turbo
 versions:
   - purl: pkg:deb/ubuntu/libjpeg-turbo@1.1.90%2Bsvn702-0ubuntu1
     affected_by_vulnerabilities:

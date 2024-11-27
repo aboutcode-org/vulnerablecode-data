@@ -1,4 +1,4 @@
-pacakge: pkg:composer/joomla/archive
+package: pkg:composer/joomla/archive
 versions:
   - purl: pkg:composer/joomla/archive@1.0
     affected_by_vulnerabilities:

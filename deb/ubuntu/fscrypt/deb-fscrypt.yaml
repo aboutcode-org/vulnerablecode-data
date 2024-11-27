@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/fscrypt
+package: pkg:deb/ubuntu/fscrypt
 versions:
   - purl: pkg:deb/ubuntu/fscrypt@0.2.2-0ubuntu1
     affected_by_vulnerabilities:

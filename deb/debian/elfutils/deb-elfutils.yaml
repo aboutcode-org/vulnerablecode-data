@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/elfutils
+package: pkg:deb/debian/elfutils
 versions:
   - purl: pkg:deb/debian/elfutils@0?distro=sid
     affected_by_vulnerabilities: []

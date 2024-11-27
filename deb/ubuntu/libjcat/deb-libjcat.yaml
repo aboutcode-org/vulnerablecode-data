@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libjcat
+package: pkg:deb/ubuntu/libjcat
 versions:
   - purl: pkg:deb/ubuntu/libjcat@0.1.0-2
     affected_by_vulnerabilities:

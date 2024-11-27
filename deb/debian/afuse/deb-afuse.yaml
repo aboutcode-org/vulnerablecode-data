@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/afuse
+package: pkg:deb/debian/afuse
 versions:
   - purl: pkg:deb/debian/afuse@0.2-3?distro=sid
     affected_by_vulnerabilities: []

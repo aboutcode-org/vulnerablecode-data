@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-terser
+package: pkg:deb/debian/node-terser
 versions:
   - purl: pkg:deb/debian/node-terser@4.1.2-8?distro=sid
     affected_by_vulnerabilities:

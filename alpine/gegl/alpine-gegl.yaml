@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/gegl
+package: pkg:alpine/gegl
 versions:
   - purl: pkg:alpine/gegl@0.4.34-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/flask
+package: pkg:deb/ubuntu/flask
 versions:
   - purl: pkg:deb/ubuntu/flask@0.10.1-1
     affected_by_vulnerabilities:

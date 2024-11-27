@@ -1,4 +1,4 @@
-pacakge: pkg:conan/mozjpeg
+package: pkg:conan/mozjpeg
 versions:
   - purl: pkg:conan/mozjpeg@4.0.0
     affected_by_vulnerabilities:

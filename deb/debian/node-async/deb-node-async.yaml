@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-async
+package: pkg:deb/debian/node-async
 versions:
   - purl: pkg:deb/debian/node-async@0?distro=sid
     affected_by_vulnerabilities: []

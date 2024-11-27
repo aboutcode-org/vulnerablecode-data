@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sofia-sip
+package: pkg:deb/debian/sofia-sip
 versions:
   - purl: pkg:deb/debian/sofia-sip@1.12.11%2B20110422.1%2B1e14eea~dfsg-2?distro=sid
     affected_by_vulnerabilities:

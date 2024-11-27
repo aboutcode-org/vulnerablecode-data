@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sane-backends
+package: pkg:deb/debian/sane-backends
 versions:
   - purl: pkg:deb/debian/sane-backends@1.0.11-1?distro=sid
     affected_by_vulnerabilities: []

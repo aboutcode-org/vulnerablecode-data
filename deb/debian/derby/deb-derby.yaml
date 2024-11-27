@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/derby
+package: pkg:deb/debian/derby
 versions:
   - purl: pkg:deb/debian/derby@0?distro=sid
     affected_by_vulnerabilities: []

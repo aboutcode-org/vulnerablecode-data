@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/almanah
+package: pkg:deb/debian/almanah
 versions:
   - purl: pkg:deb/debian/almanah@0.11.1-1?distro=stretch
     affected_by_vulnerabilities: []

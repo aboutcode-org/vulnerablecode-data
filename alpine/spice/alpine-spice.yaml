@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/spice
+package: pkg:alpine/spice
 versions:
   - purl: pkg:alpine/spice@0.12.6-r2?arch=armhf&distroversion=v3.3&reponame=main
     affected_by_vulnerabilities: []

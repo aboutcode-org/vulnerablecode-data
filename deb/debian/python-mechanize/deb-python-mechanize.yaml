@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-mechanize
+package: pkg:deb/debian/python-mechanize
 versions:
   - purl: pkg:deb/debian/python-mechanize@1:0.2.5-3?distro=sid
     affected_by_vulnerabilities:

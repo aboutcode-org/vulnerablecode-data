@@ -1,4 +1,4 @@
-pacakge: pkg:composer/helloxz/imgurl
+package: pkg:composer/helloxz/imgurl
 versions:
   - purl: pkg:composer/helloxz/imgurl@2.31
     affected_by_vulnerabilities:

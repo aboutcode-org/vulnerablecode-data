@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/screen
+package: pkg:alpine/screen
 versions:
   - purl: pkg:alpine/screen@4.5.1?arch=aarch64&distroversion=v3.5&reponame=main
     affected_by_vulnerabilities: []

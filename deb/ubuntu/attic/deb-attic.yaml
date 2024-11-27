@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/attic
+package: pkg:deb/ubuntu/attic
 versions:
   - purl: pkg:deb/ubuntu/attic@0.10-1
     affected_by_vulnerabilities:

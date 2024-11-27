@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-tokio
+package: pkg:deb/debian/rust-tokio
 versions:
   - purl: pkg:deb/debian/rust-tokio@0?distro=sid
     affected_by_vulnerabilities: []

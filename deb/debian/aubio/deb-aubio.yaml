@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/aubio
+package: pkg:deb/debian/aubio
 versions:
   - purl: pkg:deb/debian/aubio@0.4.3-4?distro=stretch
     affected_by_vulnerabilities:

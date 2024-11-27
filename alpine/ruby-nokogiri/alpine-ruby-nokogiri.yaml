@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/ruby-nokogiri
+package: pkg:alpine/ruby-nokogiri
 versions:
   - purl: pkg:alpine/ruby-nokogiri@1.10.4-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

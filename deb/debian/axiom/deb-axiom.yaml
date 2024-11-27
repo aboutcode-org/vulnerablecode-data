@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/axiom
+package: pkg:deb/debian/axiom
 versions:
   - purl: pkg:deb/debian/axiom@20120501-17?distro=sid
     affected_by_vulnerabilities: []

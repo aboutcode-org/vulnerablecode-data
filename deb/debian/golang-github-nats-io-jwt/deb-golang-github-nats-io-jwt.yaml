@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-nats-io-jwt
+package: pkg:deb/debian/golang-github-nats-io-jwt
 versions:
   - purl: pkg:deb/debian/golang-github-nats-io-jwt@0.0~git20181120.285cf2c-4?distro=sid
     affected_by_vulnerabilities:

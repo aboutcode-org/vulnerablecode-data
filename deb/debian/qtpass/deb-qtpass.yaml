@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/qtpass
+package: pkg:deb/debian/qtpass
 versions:
   - purl: pkg:deb/debian/qtpass@1.1.6-1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

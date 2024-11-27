@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnome-system-log
+package: pkg:deb/debian/gnome-system-log
 versions:
   - purl: pkg:deb/debian/gnome-system-log@0?distro=sid
     affected_by_vulnerabilities: []

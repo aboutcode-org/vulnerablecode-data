@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libxi
+package: pkg:deb/debian/libxi
 versions:
   - purl: pkg:deb/debian/libxi@2:1.6.1-1%2Bdeb7u1?distro=sid
     affected_by_vulnerabilities: []

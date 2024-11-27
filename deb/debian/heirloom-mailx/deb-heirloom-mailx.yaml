@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/heirloom-mailx
+package: pkg:deb/debian/heirloom-mailx
 versions:
   - purl: pkg:deb/debian/heirloom-mailx@12.3%2Bcvs20080629-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-attr-encrypted
+package: pkg:deb/debian/ruby-attr-encrypted
 versions:
   - purl: pkg:deb/debian/ruby-attr-encrypted@3.0.1-2?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/kde-workspace
+package: pkg:deb/ubuntu/kde-workspace
 versions:
   - purl: pkg:deb/ubuntu/kde-workspace@4:4.10.0-0ubuntu1
     affected_by_vulnerabilities:

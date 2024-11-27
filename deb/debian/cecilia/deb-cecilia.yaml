@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cecilia
+package: pkg:deb/debian/cecilia
 versions:
   - purl: pkg:deb/debian/cecilia@2.0.5-2.1?distro=sid
     affected_by_vulnerabilities: []

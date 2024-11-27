@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mpv
+package: pkg:deb/debian/mpv
 versions:
   - purl: pkg:deb/debian/mpv@0.23.0-2%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

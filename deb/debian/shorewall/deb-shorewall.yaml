@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/shorewall
+package: pkg:deb/debian/shorewall
 versions:
   - purl: pkg:deb/debian/shorewall@1.2.12-2
     affected_by_vulnerabilities:

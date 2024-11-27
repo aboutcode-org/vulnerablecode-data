@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/yum-utils
+package: pkg:deb/debian/yum-utils
 versions:
   - purl: pkg:deb/debian/yum-utils@1.1.31-2?distro=stretch
     affected_by_vulnerabilities:

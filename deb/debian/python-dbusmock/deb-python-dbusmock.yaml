@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-dbusmock
+package: pkg:deb/debian/python-dbusmock
 versions:
   - purl: pkg:deb/debian/python-dbusmock@0.15.1-1?distro=sid
     affected_by_vulnerabilities: []

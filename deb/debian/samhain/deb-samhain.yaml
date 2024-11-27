@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/samhain
+package: pkg:deb/debian/samhain
 versions:
   - purl: pkg:deb/debian/samhain@2.0.2?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/django-markupfield
+package: pkg:deb/ubuntu/django-markupfield
 versions:
   - purl: pkg:deb/ubuntu/django-markupfield@1.0.0a2-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ardour
+package: pkg:deb/ubuntu/ardour
 versions:
   - purl: pkg:deb/ubuntu/ardour@0.99.2-2build1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libuv1
+package: pkg:deb/debian/libuv1
 versions:
   - purl: pkg:deb/debian/libuv1@0?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kdeconnect
+package: pkg:deb/debian/kdeconnect
 versions:
   - purl: pkg:deb/debian/kdeconnect@1.0.1-1?distro=stretch
     affected_by_vulnerabilities:

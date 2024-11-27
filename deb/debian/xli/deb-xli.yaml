@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xli
+package: pkg:deb/debian/xli
 versions:
   - purl: pkg:deb/debian/xli@1.16-12
     affected_by_vulnerabilities:

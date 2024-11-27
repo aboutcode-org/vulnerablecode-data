@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/milkytracker
+package: pkg:deb/debian/milkytracker
 versions:
   - purl: pkg:deb/debian/milkytracker@0.90.86%2Bdfsg-2?distro=stretch
     affected_by_vulnerabilities: []

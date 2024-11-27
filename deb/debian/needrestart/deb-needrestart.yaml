@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/needrestart
+package: pkg:deb/debian/needrestart
 versions:
   - purl: pkg:deb/debian/needrestart@2.11-3%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

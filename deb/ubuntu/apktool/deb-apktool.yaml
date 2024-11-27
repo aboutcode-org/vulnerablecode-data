@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/apktool
+package: pkg:deb/ubuntu/apktool
 versions:
   - purl: pkg:deb/ubuntu/apktool@2.0.2%2Bdfsg-1
     affected_by_vulnerabilities:

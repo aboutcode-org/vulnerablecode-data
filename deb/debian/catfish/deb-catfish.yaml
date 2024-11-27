@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/catfish
+package: pkg:deb/debian/catfish
 versions:
   - purl: pkg:deb/debian/catfish@1.0.1-1?distro=sid
     affected_by_vulnerabilities: []

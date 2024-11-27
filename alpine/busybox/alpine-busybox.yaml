@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/busybox
+package: pkg:alpine/busybox
 versions:
   - purl: pkg:alpine/busybox@0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

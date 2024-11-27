@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lxc
+package: pkg:deb/debian/lxc
 versions:
   - purl: pkg:deb/debian/lxc@0?distro=stretch
     affected_by_vulnerabilities: []

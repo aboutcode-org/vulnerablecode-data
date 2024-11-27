@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nfs-utils
+package: pkg:deb/debian/nfs-utils
 versions:
   - purl: pkg:deb/debian/nfs-utils@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/unrar-free
+package: pkg:deb/debian/unrar-free
 versions:
   - purl: pkg:deb/debian/unrar-free@1:0.0.1%2Bcvs20140707-1?distro=stretch
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ltris
+package: pkg:deb/debian/ltris
 versions:
   - purl: pkg:deb/debian/ltris@1.0.19-3?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/vice
+package: pkg:deb/debian/vice
 versions:
   - purl: pkg:deb/debian/vice@0.13.0-2
     affected_by_vulnerabilities:

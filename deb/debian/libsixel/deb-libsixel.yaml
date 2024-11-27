@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libsixel
+package: pkg:deb/debian/libsixel
 versions:
   - purl: pkg:deb/debian/libsixel@1.10.3-1?distro=sid
     affected_by_vulnerabilities: []

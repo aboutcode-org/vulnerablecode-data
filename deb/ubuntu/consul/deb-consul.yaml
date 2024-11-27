@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/consul
+package: pkg:deb/ubuntu/consul
 versions:
   - purl: pkg:deb/ubuntu/consul@0.6.4~dfsg-1
     affected_by_vulnerabilities:

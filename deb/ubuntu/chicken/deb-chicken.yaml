@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/chicken
+package: pkg:deb/ubuntu/chicken
 versions:
   - purl: pkg:deb/ubuntu/chicken@1.22-1ubuntu1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lua-cgi
+package: pkg:deb/debian/lua-cgi
 versions:
   - purl: pkg:deb/debian/lua-cgi@0?distro=sid
     affected_by_vulnerabilities: []

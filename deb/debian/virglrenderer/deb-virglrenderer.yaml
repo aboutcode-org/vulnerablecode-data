@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/virglrenderer
+package: pkg:deb/debian/virglrenderer
 versions:
   - purl: pkg:deb/debian/virglrenderer@0?distro=sid
     affected_by_vulnerabilities: []

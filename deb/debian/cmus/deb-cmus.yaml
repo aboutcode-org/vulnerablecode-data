@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cmus
+package: pkg:deb/debian/cmus
 versions:
   - purl: pkg:deb/debian/cmus@2.10.0-1?distro=sid
     affected_by_vulnerabilities: []

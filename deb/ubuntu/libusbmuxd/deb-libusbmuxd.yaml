@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libusbmuxd
+package: pkg:deb/ubuntu/libusbmuxd
 versions:
   - purl: pkg:deb/ubuntu/libusbmuxd@1.0.10-2
     affected_by_vulnerabilities:

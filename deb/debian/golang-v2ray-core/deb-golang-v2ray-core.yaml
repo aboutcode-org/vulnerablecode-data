@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-v2ray-core
+package: pkg:deb/debian/golang-v2ray-core
 versions:
   - purl: pkg:deb/debian/golang-v2ray-core@4.34.0-1?distro=sid
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libytnef
+package: pkg:deb/debian/libytnef
 versions:
   - purl: pkg:deb/debian/libytnef@1.5-5?distro=sid
     affected_by_vulnerabilities: []

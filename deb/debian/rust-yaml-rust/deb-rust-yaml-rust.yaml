@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-yaml-rust
+package: pkg:deb/debian/rust-yaml-rust
 versions:
   - purl: pkg:deb/debian/rust-yaml-rust@0?distro=sid
     affected_by_vulnerabilities: []

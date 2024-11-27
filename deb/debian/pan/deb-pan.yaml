@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pan
+package: pkg:deb/debian/pan
 versions:
   - purl: pkg:deb/debian/pan@0?distro=sid
     affected_by_vulnerabilities: []

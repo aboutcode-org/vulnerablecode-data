@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/wolfssl
+package: pkg:deb/debian/wolfssl
 versions:
   - purl: pkg:deb/debian/wolfssl@0?distro=sid
     affected_by_vulnerabilities: []

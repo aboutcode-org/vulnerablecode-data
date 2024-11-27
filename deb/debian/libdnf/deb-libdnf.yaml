@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libdnf
+package: pkg:deb/debian/libdnf
 versions:
   - purl: pkg:deb/debian/libdnf@0.55.2-6?distro=sid
     affected_by_vulnerabilities: []

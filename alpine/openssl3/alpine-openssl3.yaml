@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/openssl3
+package: pkg:alpine/openssl3
 versions:
   - purl: pkg:alpine/openssl3@0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

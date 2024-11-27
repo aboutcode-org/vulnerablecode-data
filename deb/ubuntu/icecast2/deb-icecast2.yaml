@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/icecast2
+package: pkg:deb/ubuntu/icecast2
 versions:
   - purl: pkg:deb/ubuntu/icecast2@2.0.1.debian-2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pycsw
+package: pkg:deb/debian/pycsw
 versions:
   - purl: pkg:deb/debian/pycsw@2.0.2%2Bdfsg-1?distro=sid
     affected_by_vulnerabilities: []

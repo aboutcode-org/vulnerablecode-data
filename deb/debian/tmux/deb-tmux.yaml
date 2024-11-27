@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tmux
+package: pkg:deb/debian/tmux
 versions:
   - purl: pkg:deb/debian/tmux@0?distro=sid
     affected_by_vulnerabilities: []

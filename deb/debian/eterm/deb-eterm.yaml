@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/eterm
+package: pkg:deb/debian/eterm
 versions:
   - purl: pkg:deb/debian/eterm@0.7-1
     affected_by_vulnerabilities:

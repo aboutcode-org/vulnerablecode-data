@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/f2fs-tools
+package: pkg:deb/debian/f2fs-tools
 versions:
   - purl: pkg:deb/debian/f2fs-tools@1.11.0-1.1?distro=sid
     affected_by_vulnerabilities:

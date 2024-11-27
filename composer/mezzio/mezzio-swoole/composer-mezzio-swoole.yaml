@@ -1,4 +1,4 @@
-pacakge: pkg:composer/mezzio/mezzio-swoole
+package: pkg:composer/mezzio/mezzio-swoole
 versions:
   - purl: pkg:composer/mezzio/mezzio-swoole@0.1.0
     affected_by_vulnerabilities:

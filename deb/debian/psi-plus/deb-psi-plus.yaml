@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/psi-plus
+package: pkg:deb/debian/psi-plus
 versions:
   - purl: pkg:deb/debian/psi-plus@0?distro=sid
     affected_by_vulnerabilities: []

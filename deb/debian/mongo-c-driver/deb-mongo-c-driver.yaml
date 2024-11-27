@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mongo-c-driver
+package: pkg:deb/debian/mongo-c-driver
 versions:
   - purl: pkg:deb/debian/mongo-c-driver@1.13.0-1?distro=sid
     affected_by_vulnerabilities: []

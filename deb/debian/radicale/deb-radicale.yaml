@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/radicale
+package: pkg:deb/debian/radicale
 versions:
   - purl: pkg:deb/debian/radicale@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gst-plugins-base1.0
+package: pkg:deb/ubuntu/gst-plugins-base1.0
 versions:
   - purl: pkg:deb/ubuntu/gst-plugins-base1.0@0.11.91-1
     affected_by_vulnerabilities:

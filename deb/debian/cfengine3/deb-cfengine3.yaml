@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cfengine3
+package: pkg:deb/debian/cfengine3
 versions:
   - purl: pkg:deb/debian/cfengine3@0?distro=sid
     affected_by_vulnerabilities: []

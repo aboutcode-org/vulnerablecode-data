@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/grep
+package: pkg:deb/ubuntu/grep
 versions:
   - purl: pkg:deb/ubuntu/grep@2.10-1
     affected_by_vulnerabilities:

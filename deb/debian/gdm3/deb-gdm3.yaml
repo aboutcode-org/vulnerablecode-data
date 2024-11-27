@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gdm3
+package: pkg:deb/debian/gdm3
 versions:
   - purl: pkg:deb/debian/gdm3@0?distro=sid
     affected_by_vulnerabilities: []

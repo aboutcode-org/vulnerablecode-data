@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/lightdm
+package: pkg:deb/ubuntu/lightdm
 versions:
   - purl: pkg:deb/ubuntu/lightdm@0.2.2-0ubuntu2
     affected_by_vulnerabilities:

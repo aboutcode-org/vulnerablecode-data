@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nmap
+package: pkg:deb/debian/nmap
 versions:
   - purl: pkg:deb/debian/nmap@6.40-0.1?distro=sid
     affected_by_vulnerabilities: []

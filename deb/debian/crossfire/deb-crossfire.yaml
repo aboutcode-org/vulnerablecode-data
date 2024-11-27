@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/crossfire
+package: pkg:deb/debian/crossfire
 versions:
   - purl: pkg:deb/debian/crossfire@0.95.0-2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-matrix-nio
+package: pkg:deb/debian/python-matrix-nio
 versions:
   - purl: pkg:deb/debian/python-matrix-nio@0.16.0-1?distro=sid
     affected_by_vulnerabilities:

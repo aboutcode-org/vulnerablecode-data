@@ -1,4 +1,4 @@
-pacakge: pkg:composer/bugsnag/bugsnag-laravel
+package: pkg:composer/bugsnag/bugsnag-laravel
 versions:
   - purl: pkg:composer/bugsnag/bugsnag-laravel@1.0.0
     affected_by_vulnerabilities:

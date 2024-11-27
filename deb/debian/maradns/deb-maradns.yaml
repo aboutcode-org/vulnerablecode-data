@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/maradns
+package: pkg:deb/debian/maradns
 versions:
   - purl: pkg:deb/debian/maradns@0?distro=sid
     affected_by_vulnerabilities: []

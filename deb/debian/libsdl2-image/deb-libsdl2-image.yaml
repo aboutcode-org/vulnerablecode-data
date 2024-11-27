@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libsdl2-image
+package: pkg:deb/debian/libsdl2-image
 versions:
   - purl: pkg:deb/debian/libsdl2-image@2.0.1%2Bdfsg-2%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/webbuilders-group/silverstripe-kapost-bridge
+package: pkg:composer/webbuilders-group/silverstripe-kapost-bridge
 versions:
   - purl: pkg:composer/webbuilders-group/silverstripe-kapost-bridge@0.1.0
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-untangle
+package: pkg:deb/debian/python-untangle
 versions:
   - purl: pkg:deb/debian/python-untangle@1.2.1-1?distro=sid
     affected_by_vulnerabilities: []

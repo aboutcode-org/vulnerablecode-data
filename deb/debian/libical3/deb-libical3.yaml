@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libical3
+package: pkg:deb/debian/libical3
 versions:
   - purl: pkg:deb/debian/libical3@3.0.1-1?distro=sid
     affected_by_vulnerabilities: []

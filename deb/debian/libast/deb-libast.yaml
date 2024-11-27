@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libast
+package: pkg:deb/debian/libast
 versions:
   - purl: pkg:deb/debian/libast@0.6-0pre2003010606sarge1
     affected_by_vulnerabilities:

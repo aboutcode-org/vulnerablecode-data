@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libhtml-scrubber-perl
+package: pkg:deb/ubuntu/libhtml-scrubber-perl
 versions:
   - purl: pkg:deb/ubuntu/libhtml-scrubber-perl@0.08-1
     affected_by_vulnerabilities:

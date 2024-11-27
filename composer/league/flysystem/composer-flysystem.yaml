@@ -1,4 +1,4 @@
-pacakge: pkg:composer/league/flysystem
+package: pkg:composer/league/flysystem
 versions:
   - purl: pkg:composer/league/flysystem@0.1.0
     affected_by_vulnerabilities:

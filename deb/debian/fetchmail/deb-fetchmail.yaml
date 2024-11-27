@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fetchmail
+package: pkg:deb/debian/fetchmail
 versions:
   - purl: pkg:deb/debian/fetchmail@4.3.9-1
     affected_by_vulnerabilities:

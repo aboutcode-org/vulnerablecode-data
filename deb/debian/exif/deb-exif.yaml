@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/exif
+package: pkg:deb/debian/exif
 versions:
   - purl: pkg:deb/debian/exif@0.6.20-2?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/id3lib3.8.3
+package: pkg:deb/debian/id3lib3.8.3
 versions:
   - purl: pkg:deb/debian/id3lib3.8.3@3.8.3-16.2?distro=sid
     affected_by_vulnerabilities: []

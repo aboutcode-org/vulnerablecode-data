@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-y18n
+package: pkg:deb/debian/node-y18n
 versions:
   - purl: pkg:deb/debian/node-y18n@3.2.1-2?distro=stretch
     affected_by_vulnerabilities:

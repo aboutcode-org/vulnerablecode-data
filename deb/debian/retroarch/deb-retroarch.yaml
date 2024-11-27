@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/retroarch
+package: pkg:deb/debian/retroarch
 versions:
   - purl: pkg:deb/debian/retroarch@0?distro=sid
     affected_by_vulnerabilities: []

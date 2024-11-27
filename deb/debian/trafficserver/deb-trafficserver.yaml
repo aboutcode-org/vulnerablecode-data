@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/trafficserver
+package: pkg:deb/debian/trafficserver
 versions:
   - purl: pkg:deb/debian/trafficserver@0?distro=sid
     affected_by_vulnerabilities: []

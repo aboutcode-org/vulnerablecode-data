@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/e17
+package: pkg:deb/ubuntu/e17
 versions:
   - purl: pkg:deb/ubuntu/e17@0.16.999.063-1
     affected_by_vulnerabilities:

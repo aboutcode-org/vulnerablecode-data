@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tinymux
+package: pkg:deb/debian/tinymux
 versions:
   - purl: pkg:deb/debian/tinymux@2.10.1.13-1?distro=stretch
     affected_by_vulnerabilities: []

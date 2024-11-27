@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/passportjs
+package: pkg:deb/debian/passportjs
 versions:
   - purl: pkg:deb/debian/passportjs@0.1.17-1?distro=sid
     affected_by_vulnerabilities:

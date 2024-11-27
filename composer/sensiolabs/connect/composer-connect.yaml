@@ -1,4 +1,4 @@
-pacakge: pkg:composer/sensiolabs/connect
+package: pkg:composer/sensiolabs/connect
 versions:
   - purl: pkg:composer/sensiolabs/connect@1.0
     affected_by_vulnerabilities:

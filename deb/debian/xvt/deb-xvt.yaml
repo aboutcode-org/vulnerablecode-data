@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xvt
+package: pkg:deb/debian/xvt
 versions:
   - purl: pkg:deb/debian/xvt@2.1-13?distro=stretch
     affected_by_vulnerabilities: []

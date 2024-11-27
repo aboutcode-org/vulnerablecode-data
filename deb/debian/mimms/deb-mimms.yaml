@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mimms
+package: pkg:deb/debian/mimms
 versions:
   - purl: pkg:deb/debian/mimms@0.0.9-1
     affected_by_vulnerabilities:

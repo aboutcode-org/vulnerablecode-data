@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libcroco
+package: pkg:alpine/libcroco
 versions:
   - purl: pkg:alpine/libcroco@0.6.12-r1?arch=aarch64&distroversion=v3.7&reponame=main
     affected_by_vulnerabilities: []

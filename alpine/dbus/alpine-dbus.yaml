@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/dbus
+package: pkg:alpine/dbus
 versions:
   - purl: pkg:alpine/dbus@1.10.28-r0?arch=aarch64&distroversion=v3.7&reponame=main
     affected_by_vulnerabilities: []

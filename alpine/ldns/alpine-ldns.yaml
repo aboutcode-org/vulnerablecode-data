@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/ldns
+package: pkg:alpine/ldns
 versions:
   - purl: pkg:alpine/ldns@1.7.0-r1?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

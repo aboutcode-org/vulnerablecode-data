@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/inotify-tools
+package: pkg:deb/debian/inotify-tools
 versions:
   - purl: pkg:deb/debian/inotify-tools@3.11-1?distro=sid
     affected_by_vulnerabilities: []

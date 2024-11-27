@@ -1,4 +1,4 @@
-pacakge: pkg:composer/laravel/fortify
+package: pkg:composer/laravel/fortify
 versions:
   - purl: pkg:composer/laravel/fortify@0.0.1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tdiary
+package: pkg:deb/debian/tdiary
 versions:
   - purl: pkg:deb/debian/tdiary@2.0.1-1sarge1
     affected_by_vulnerabilities:

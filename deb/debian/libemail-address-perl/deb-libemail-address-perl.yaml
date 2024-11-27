@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libemail-address-perl
+package: pkg:deb/debian/libemail-address-perl
 versions:
   - purl: pkg:deb/debian/libemail-address-perl@1.905-1?distro=sid
     affected_by_vulnerabilities: []

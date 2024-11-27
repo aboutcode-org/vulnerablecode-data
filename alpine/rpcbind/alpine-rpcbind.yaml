@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/rpcbind
+package: pkg:alpine/rpcbind
 versions:
   - purl: pkg:alpine/rpcbind@0.2.4-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

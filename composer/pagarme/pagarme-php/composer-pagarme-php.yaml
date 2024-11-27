@@ -1,4 +1,4 @@
-pacakge: pkg:composer/pagarme/pagarme-php
+package: pkg:composer/pagarme/pagarme-php
 versions:
   - purl: pkg:composer/pagarme/pagarme-php@0.0.0
     affected_by_vulnerabilities:

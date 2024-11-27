@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/spice-vdagent
+package: pkg:deb/debian/spice-vdagent
 versions:
   - purl: pkg:deb/debian/spice-vdagent@0.17.0-1?distro=stretch
     affected_by_vulnerabilities: []

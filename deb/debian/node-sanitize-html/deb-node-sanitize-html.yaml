@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-sanitize-html
+package: pkg:deb/debian/node-sanitize-html
 versions:
   - purl: pkg:deb/debian/node-sanitize-html@0?distro=sid
     affected_by_vulnerabilities: []

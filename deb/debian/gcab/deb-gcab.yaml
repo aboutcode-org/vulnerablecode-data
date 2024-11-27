@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gcab
+package: pkg:deb/debian/gcab
 versions:
   - purl: pkg:deb/debian/gcab@0.4-2?distro=sid
     affected_by_vulnerabilities: []

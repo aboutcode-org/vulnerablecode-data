@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-rails-assets-markdown-it
+package: pkg:deb/debian/ruby-rails-assets-markdown-it
 versions:
   - purl: pkg:deb/debian/ruby-rails-assets-markdown-it@4.2.1-1?distro=sid
     affected_by_vulnerabilities: []

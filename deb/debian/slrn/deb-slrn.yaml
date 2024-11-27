@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/slrn
+package: pkg:deb/debian/slrn
 versions:
   - purl: pkg:deb/debian/slrn@0.9.4.3-4
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libjgroups-java
+package: pkg:deb/debian/libjgroups-java
 versions:
   - purl: pkg:deb/debian/libjgroups-java@2.12.2.Final-4?distro=sid
     affected_by_vulnerabilities: []

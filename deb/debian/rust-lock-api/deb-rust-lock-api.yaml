@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-lock-api
+package: pkg:deb/debian/rust-lock-api
 versions:
   - purl: pkg:deb/debian/rust-lock-api@0.1.5-1
     affected_by_vulnerabilities:

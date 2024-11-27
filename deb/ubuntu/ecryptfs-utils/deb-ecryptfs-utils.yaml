@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ecryptfs-utils
+package: pkg:deb/ubuntu/ecryptfs-utils
 versions:
   - purl: pkg:deb/ubuntu/ecryptfs-utils@100-0ubuntu1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-rsa
+package: pkg:deb/debian/python-rsa
 versions:
   - purl: pkg:deb/debian/python-rsa@3.2.3-1.1?distro=sid
     affected_by_vulnerabilities: []

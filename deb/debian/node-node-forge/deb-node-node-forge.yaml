@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-node-forge
+package: pkg:deb/debian/node-node-forge
 versions:
   - purl: pkg:deb/debian/node-node-forge@0.10.0~dfsg-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libretls
+package: pkg:alpine/libretls
 versions:
   - purl: pkg:alpine/libretls@3.3.4-r3?arch=aarch64&distroversion=v3.15&reponame=main
     affected_by_vulnerabilities: []

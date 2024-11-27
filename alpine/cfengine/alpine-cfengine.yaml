@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/cfengine
+package: pkg:alpine/cfengine
 versions:
   - purl: pkg:alpine/cfengine@3.12.2-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

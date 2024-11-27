@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/ruby
+package: pkg:alpine/ruby
 versions:
   - purl: pkg:alpine/ruby@2.2.8-r0?arch=armhf&distroversion=v3.3&reponame=main
     affected_by_vulnerabilities: []

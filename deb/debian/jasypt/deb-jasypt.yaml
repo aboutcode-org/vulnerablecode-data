@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jasypt
+package: pkg:deb/debian/jasypt
 versions:
   - purl: pkg:deb/debian/jasypt@1.9.2-1?distro=sid
     affected_by_vulnerabilities: []

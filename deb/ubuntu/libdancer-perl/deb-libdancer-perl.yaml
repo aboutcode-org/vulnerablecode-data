@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libdancer-perl
+package: pkg:deb/ubuntu/libdancer-perl
 versions:
   - purl: pkg:deb/ubuntu/libdancer-perl@1.1901-1
     affected_by_vulnerabilities:

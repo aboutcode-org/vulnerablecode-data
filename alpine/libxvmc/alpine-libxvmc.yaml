@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libxvmc
+package: pkg:alpine/libxvmc
 versions:
   - purl: pkg:alpine/libxvmc@1.0.9-r1?arch=armhf&distroversion=v3.2&reponame=main
     affected_by_vulnerabilities: []

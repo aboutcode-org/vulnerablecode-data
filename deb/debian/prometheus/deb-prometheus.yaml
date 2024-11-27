@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/prometheus
+package: pkg:deb/debian/prometheus
 versions:
   - purl: pkg:deb/debian/prometheus@0?distro=sid
     affected_by_vulnerabilities: []

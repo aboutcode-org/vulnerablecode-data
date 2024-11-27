@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libgit2-1.0
+package: pkg:alpine/libgit2-1.0
 versions:
   - purl: pkg:alpine/libgit2-1.0@0.24.3-r0?arch=aarch64&distroversion=v3.13&reponame=community
     affected_by_vulnerabilities: []

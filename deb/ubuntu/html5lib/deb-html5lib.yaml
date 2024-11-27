@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/html5lib
+package: pkg:deb/ubuntu/html5lib
 versions:
   - purl: pkg:deb/ubuntu/html5lib@0.10-1
     affected_by_vulnerabilities:

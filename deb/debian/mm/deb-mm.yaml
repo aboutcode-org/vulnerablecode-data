@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mm
+package: pkg:deb/debian/mm
 versions:
   - purl: pkg:deb/debian/mm@1.1.3-6.3
     affected_by_vulnerabilities:

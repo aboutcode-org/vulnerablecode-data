@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/icu
+package: pkg:deb/ubuntu/icu
 versions:
   - purl: pkg:deb/ubuntu/icu@2.1-2
     affected_by_vulnerabilities:

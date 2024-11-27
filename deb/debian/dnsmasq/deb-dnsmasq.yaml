@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dnsmasq
+package: pkg:deb/debian/dnsmasq
 versions:
   - purl: pkg:deb/debian/dnsmasq@0?distro=stretch
     affected_by_vulnerabilities: []

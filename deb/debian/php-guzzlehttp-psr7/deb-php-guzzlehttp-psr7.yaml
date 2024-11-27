@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-guzzlehttp-psr7
+package: pkg:deb/debian/php-guzzlehttp-psr7
 versions:
   - purl: pkg:deb/debian/php-guzzlehttp-psr7@1.4.2-0.1?distro=sid
     affected_by_vulnerabilities:

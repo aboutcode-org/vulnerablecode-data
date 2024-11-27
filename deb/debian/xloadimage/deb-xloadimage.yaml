@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xloadimage
+package: pkg:deb/debian/xloadimage
 versions:
   - purl: pkg:deb/debian/xloadimage@4.1-10woody1
     affected_by_vulnerabilities:

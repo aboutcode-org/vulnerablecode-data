@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/aom
+package: pkg:deb/debian/aom
 versions:
   - purl: pkg:deb/debian/aom@0?distro=sid
     affected_by_vulnerabilities: []

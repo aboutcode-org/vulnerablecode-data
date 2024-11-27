@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/backup-manager
+package: pkg:deb/debian/backup-manager
 versions:
   - purl: pkg:deb/debian/backup-manager@0.5.7-1sarge2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/exempi
+package: pkg:deb/ubuntu/exempi
 versions:
   - purl: pkg:deb/ubuntu/exempi@1.99.4-1
     affected_by_vulnerabilities:

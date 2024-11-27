@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/link-grammar
+package: pkg:deb/debian/link-grammar
 versions:
   - purl: pkg:deb/debian/link-grammar@4.2.5-1?distro=sid
     affected_by_vulnerabilities: []

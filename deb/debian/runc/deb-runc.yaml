@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/runc
+package: pkg:deb/debian/runc
 versions:
   - purl: pkg:deb/debian/runc@0?distro=sid
     affected_by_vulnerabilities: []

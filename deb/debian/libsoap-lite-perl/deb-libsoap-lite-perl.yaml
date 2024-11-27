@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libsoap-lite-perl
+package: pkg:deb/debian/libsoap-lite-perl
 versions:
   - purl: pkg:deb/debian/libsoap-lite-perl@1.19-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-undici
+package: pkg:deb/debian/node-undici
 versions:
   - purl: pkg:deb/debian/node-undici@5.10.0%2Bdfsg1%2B~cs18.9.18.10-1?distro=sid
     affected_by_vulnerabilities: []

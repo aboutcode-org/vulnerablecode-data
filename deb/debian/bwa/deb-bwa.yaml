@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bwa
+package: pkg:deb/debian/bwa
 versions:
   - purl: pkg:deb/debian/bwa@0.7.15-2%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

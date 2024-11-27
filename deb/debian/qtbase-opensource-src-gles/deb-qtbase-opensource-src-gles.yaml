@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/qtbase-opensource-src-gles
+package: pkg:deb/debian/qtbase-opensource-src-gles
 versions:
   - purl: pkg:deb/debian/qtbase-opensource-src-gles@0?distro=sid
     affected_by_vulnerabilities: []

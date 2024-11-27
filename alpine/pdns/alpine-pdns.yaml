@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/pdns
+package: pkg:alpine/pdns
 versions:
   - purl: pkg:alpine/pdns@4.0.3-r0?arch=aarch64&distroversion=v3.5&reponame=community
     affected_by_vulnerabilities: []

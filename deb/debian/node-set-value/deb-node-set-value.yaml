@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-set-value
+package: pkg:deb/debian/node-set-value
 versions:
   - purl: pkg:deb/debian/node-set-value@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ppc64-diag
+package: pkg:deb/debian/ppc64-diag
 versions:
   - purl: pkg:deb/debian/ppc64-diag@2.7.1-5?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/awstats
+package: pkg:deb/debian/awstats
 versions:
   - purl: pkg:deb/debian/awstats@0?distro=sid
     affected_by_vulnerabilities: []

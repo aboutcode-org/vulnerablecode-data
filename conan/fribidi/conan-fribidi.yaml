@@ -1,4 +1,4 @@
-pacakge: pkg:conan/fribidi
+package: pkg:conan/fribidi
 versions:
   - purl: pkg:conan/fribidi@1.0.10
     affected_by_vulnerabilities:

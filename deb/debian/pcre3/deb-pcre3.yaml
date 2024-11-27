@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pcre3
+package: pkg:deb/debian/pcre3
 versions:
   - purl: pkg:deb/debian/pcre3@2:8.35-3.3?distro=sid
     affected_by_vulnerabilities: []

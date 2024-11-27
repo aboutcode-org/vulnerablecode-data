@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/yadifa
+package: pkg:deb/debian/yadifa
 versions:
   - purl: pkg:deb/debian/yadifa@2.2.3-1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

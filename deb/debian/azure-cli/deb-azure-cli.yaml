@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/azure-cli
+package: pkg:deb/debian/azure-cli
 versions:
   - purl: pkg:deb/debian/azure-cli@0?distro=sid
     affected_by_vulnerabilities: []

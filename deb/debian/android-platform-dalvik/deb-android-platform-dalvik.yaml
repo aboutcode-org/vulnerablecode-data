@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/android-platform-dalvik
+package: pkg:deb/debian/android-platform-dalvik
 versions:
   - purl: pkg:deb/debian/android-platform-dalvik@10.0.0%2Br36-1?distro=sid
     affected_by_vulnerabilities: []

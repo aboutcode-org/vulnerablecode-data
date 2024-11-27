@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pcs
+package: pkg:deb/debian/pcs
 versions:
   - purl: pkg:deb/debian/pcs@0?distro=sid
     affected_by_vulnerabilities: []

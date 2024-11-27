@@ -1,4 +1,4 @@
-pacakge: pkg:composer/doctrine/dbal
+package: pkg:composer/doctrine/dbal
 versions:
   - purl: pkg:composer/doctrine/dbal@2.0.0
     affected_by_vulnerabilities:

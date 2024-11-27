@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libtar
+package: pkg:deb/debian/libtar
 versions:
   - purl: pkg:deb/debian/libtar@1.2.20-1?distro=sid
     affected_by_vulnerabilities: []

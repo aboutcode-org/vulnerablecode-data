@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pyxdg
+package: pkg:deb/debian/pyxdg
 versions:
   - purl: pkg:deb/debian/pyxdg@0.25-4?distro=sid
     affected_by_vulnerabilities: []

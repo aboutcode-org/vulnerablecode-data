@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/deluge
+package: pkg:deb/ubuntu/deluge
 versions:
   - purl: pkg:deb/ubuntu/deluge@1.0.7.dfsg-3
     affected_by_vulnerabilities:

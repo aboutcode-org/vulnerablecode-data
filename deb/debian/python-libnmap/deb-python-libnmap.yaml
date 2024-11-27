@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-libnmap
+package: pkg:deb/debian/python-libnmap
 versions:
   - purl: pkg:deb/debian/python-libnmap@0.7.0-1?distro=sid
     affected_by_vulnerabilities:

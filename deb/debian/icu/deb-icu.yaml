@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/icu
+package: pkg:deb/debian/icu
 versions:
   - purl: pkg:deb/debian/icu@0?distro=sid
     affected_by_vulnerabilities: []

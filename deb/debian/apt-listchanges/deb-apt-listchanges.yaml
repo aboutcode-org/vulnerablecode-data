@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/apt-listchanges
+package: pkg:deb/debian/apt-listchanges
 versions:
   - purl: pkg:deb/debian/apt-listchanges@2.82?distro=sid
     affected_by_vulnerabilities: []

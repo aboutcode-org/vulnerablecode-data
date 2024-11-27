@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bsdmainutils
+package: pkg:deb/debian/bsdmainutils
 versions:
   - purl: pkg:deb/debian/bsdmainutils@11.1.2?distro=sid
     affected_by_vulnerabilities: []

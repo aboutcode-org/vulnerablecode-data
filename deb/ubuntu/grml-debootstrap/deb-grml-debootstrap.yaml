@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/grml-debootstrap
+package: pkg:deb/ubuntu/grml-debootstrap
 versions:
   - purl: pkg:deb/ubuntu/grml-debootstrap@0.47
     affected_by_vulnerabilities:

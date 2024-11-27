@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/heimdal
+package: pkg:deb/ubuntu/heimdal
 versions:
   - purl: pkg:deb/ubuntu/heimdal@0.6.2-3
     affected_by_vulnerabilities:

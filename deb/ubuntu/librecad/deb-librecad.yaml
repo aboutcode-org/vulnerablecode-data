@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/librecad
+package: pkg:deb/ubuntu/librecad
 versions:
   - purl: pkg:deb/ubuntu/librecad@1.0.0~beta5-0ubuntu1
     affected_by_vulnerabilities:

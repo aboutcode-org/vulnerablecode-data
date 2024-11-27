@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pycode-browser
+package: pkg:deb/debian/pycode-browser
 versions:
   - purl: pkg:deb/debian/pycode-browser@1:1.0-1?distro=sid
     affected_by_vulnerabilities: []

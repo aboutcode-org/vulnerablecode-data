@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tex-common
+package: pkg:deb/debian/tex-common
 versions:
   - purl: pkg:deb/debian/tex-common@2.09?distro=sid
     affected_by_vulnerabilities: []

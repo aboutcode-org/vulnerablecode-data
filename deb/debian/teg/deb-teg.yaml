@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/teg
+package: pkg:deb/debian/teg
 versions:
   - purl: pkg:deb/debian/teg@0.11.1-1
     affected_by_vulnerabilities:

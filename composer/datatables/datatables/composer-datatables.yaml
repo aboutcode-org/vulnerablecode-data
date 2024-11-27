@@ -1,4 +1,4 @@
-pacakge: pkg:composer/datatables/datatables
+package: pkg:composer/datatables/datatables
 versions:
   - purl: pkg:composer/datatables/datatables@1.10.0
     affected_by_vulnerabilities:

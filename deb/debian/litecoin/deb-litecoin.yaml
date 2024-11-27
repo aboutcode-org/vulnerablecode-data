@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/litecoin
+package: pkg:deb/debian/litecoin
 versions:
   - purl: pkg:deb/debian/litecoin@0.16.3-1?distro=sid
     affected_by_vulnerabilities: []

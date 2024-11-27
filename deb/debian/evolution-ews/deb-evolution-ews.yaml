@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/evolution-ews
+package: pkg:deb/debian/evolution-ews
 versions:
   - purl: pkg:deb/debian/evolution-ews@3.22.6-1?distro=stretch
     affected_by_vulnerabilities:

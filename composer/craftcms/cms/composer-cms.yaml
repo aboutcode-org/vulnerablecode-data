@@ -1,4 +1,4 @@
-pacakge: pkg:composer/craftcms/cms
+package: pkg:composer/craftcms/cms
 versions:
   - purl: pkg:composer/craftcms/cms@1.0.26.1
     affected_by_vulnerabilities:

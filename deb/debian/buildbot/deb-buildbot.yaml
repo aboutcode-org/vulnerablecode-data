@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/buildbot
+package: pkg:deb/debian/buildbot
 versions:
   - purl: pkg:deb/debian/buildbot@0?distro=stretch
     affected_by_vulnerabilities: []

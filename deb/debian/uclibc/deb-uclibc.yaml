@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/uclibc
+package: pkg:deb/debian/uclibc
 versions:
   - purl: pkg:deb/debian/uclibc@1.0.20-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fastapi
+package: pkg:deb/debian/fastapi
 versions:
   - purl: pkg:deb/debian/fastapi@0.63.0-2?distro=sid
     affected_by_vulnerabilities:

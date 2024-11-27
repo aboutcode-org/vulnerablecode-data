@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mailman
+package: pkg:deb/debian/mailman
 versions:
   - purl: pkg:deb/debian/mailman@0?distro=buster
     affected_by_vulnerabilities: []

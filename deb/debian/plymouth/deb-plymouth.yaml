@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/plymouth
+package: pkg:deb/debian/plymouth
 versions:
   - purl: pkg:deb/debian/plymouth@0.9.2-4?distro=stretch
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/as31
+package: pkg:deb/debian/as31
 versions:
   - purl: pkg:deb/debian/as31@2.3.1-5?distro=sid
     affected_by_vulnerabilities: []

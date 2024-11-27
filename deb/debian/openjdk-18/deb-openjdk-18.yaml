@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openjdk-18
+package: pkg:deb/debian/openjdk-18
 versions:
   - purl: pkg:deb/debian/openjdk-18@18.0.1%2B10-1?distro=sid
     affected_by_vulnerabilities: []

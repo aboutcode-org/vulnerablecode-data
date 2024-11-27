@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/virtualbox
+package: pkg:deb/debian/virtualbox
 versions:
   - purl: pkg:deb/debian/virtualbox@0?distro=sid
     affected_by_vulnerabilities: []

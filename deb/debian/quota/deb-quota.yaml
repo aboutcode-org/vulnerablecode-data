@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/quota
+package: pkg:deb/debian/quota
 versions:
   - purl: pkg:deb/debian/quota@4.00~pre1-1?distro=sid
     affected_by_vulnerabilities: []

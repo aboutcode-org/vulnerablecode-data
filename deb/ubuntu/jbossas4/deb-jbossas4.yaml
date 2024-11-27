@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/jbossas4
+package: pkg:deb/ubuntu/jbossas4
 versions:
   - purl: pkg:deb/ubuntu/jbossas4@4.2.2.GA-1
     affected_by_vulnerabilities:

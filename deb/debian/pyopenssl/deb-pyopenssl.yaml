@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pyopenssl
+package: pkg:deb/debian/pyopenssl
 versions:
   - purl: pkg:deb/debian/pyopenssl@0.13-2.1?distro=sid
     affected_by_vulnerabilities: []

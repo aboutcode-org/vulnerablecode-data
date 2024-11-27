@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libvt-ldap-java
+package: pkg:deb/debian/libvt-ldap-java
 versions:
   - purl: pkg:deb/debian/libvt-ldap-java@3.3.8-1?distro=sid
     affected_by_vulnerabilities: []

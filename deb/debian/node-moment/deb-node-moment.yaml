@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-moment
+package: pkg:deb/debian/node-moment
 versions:
   - purl: pkg:deb/debian/node-moment@2.13.0%2Bds-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/discount
+package: pkg:deb/ubuntu/discount
 versions:
   - purl: pkg:deb/ubuntu/discount@2.0.8-1
     affected_by_vulnerabilities:

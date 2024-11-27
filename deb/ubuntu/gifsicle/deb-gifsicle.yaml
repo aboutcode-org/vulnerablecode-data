@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gifsicle
+package: pkg:deb/ubuntu/gifsicle
 versions:
   - purl: pkg:deb/ubuntu/gifsicle@1.44-1
     affected_by_vulnerabilities:

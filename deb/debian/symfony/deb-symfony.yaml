@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/symfony
+package: pkg:deb/debian/symfony
 versions:
   - purl: pkg:deb/debian/symfony@0?distro=sid
     affected_by_vulnerabilities: []

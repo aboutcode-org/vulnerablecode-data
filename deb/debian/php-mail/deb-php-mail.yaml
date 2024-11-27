@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-mail
+package: pkg:deb/debian/php-mail
 versions:
   - purl: pkg:deb/debian/php-mail@1.1.14-2?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rspamd
+package: pkg:deb/debian/rspamd
 versions:
   - purl: pkg:deb/debian/rspamd@1.7.6-1?distro=sid
     affected_by_vulnerabilities: []

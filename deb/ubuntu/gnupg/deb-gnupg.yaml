@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gnupg
+package: pkg:deb/ubuntu/gnupg
 versions:
   - purl: pkg:deb/ubuntu/gnupg@1.2.4-4ubuntu2
     affected_by_vulnerabilities:

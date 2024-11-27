@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/magpierss
+package: pkg:deb/debian/magpierss
 versions:
   - purl: pkg:deb/debian/magpierss@0?distro=buster
     affected_by_vulnerabilities: []

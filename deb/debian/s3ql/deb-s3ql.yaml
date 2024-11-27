@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/s3ql
+package: pkg:deb/debian/s3ql
 versions:
   - purl: pkg:deb/debian/s3ql@2.10.1%2Bdfsg-4?distro=sid
     affected_by_vulnerabilities: []

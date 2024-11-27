@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mupdf
+package: pkg:deb/debian/mupdf
 versions:
   - purl: pkg:deb/debian/mupdf@0?distro=sid
     affected_by_vulnerabilities: []

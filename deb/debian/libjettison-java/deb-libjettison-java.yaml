@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libjettison-java
+package: pkg:deb/debian/libjettison-java
 versions:
   - purl: pkg:deb/debian/libjettison-java@1.4.0-1?distro=sid
     affected_by_vulnerabilities: []

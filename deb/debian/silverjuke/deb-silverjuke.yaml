@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/silverjuke
+package: pkg:deb/debian/silverjuke
 versions:
   - purl: pkg:deb/debian/silverjuke@0?distro=sid
     affected_by_vulnerabilities: []

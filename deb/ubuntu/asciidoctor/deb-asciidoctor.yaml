@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/asciidoctor
+package: pkg:deb/ubuntu/asciidoctor
 versions:
   - purl: pkg:deb/ubuntu/asciidoctor@0.1.3-1
     affected_by_vulnerabilities:

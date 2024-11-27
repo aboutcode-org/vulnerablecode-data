@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-jwcrypto
+package: pkg:deb/debian/python-jwcrypto
 versions:
   - purl: pkg:deb/debian/python-jwcrypto@0.3.2-1?distro=sid
     affected_by_vulnerabilities: []

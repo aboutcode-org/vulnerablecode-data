@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libpam-tacplus
+package: pkg:deb/ubuntu/libpam-tacplus
 versions:
   - purl: pkg:deb/ubuntu/libpam-tacplus@1.3.5-1
     affected_by_vulnerabilities:

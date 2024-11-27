@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/openldap
+package: pkg:alpine/openldap
 versions:
   - purl: pkg:alpine/openldap@2.4.44-r1?arch=armhf&distroversion=v3.3&reponame=main
     affected_by_vulnerabilities: []

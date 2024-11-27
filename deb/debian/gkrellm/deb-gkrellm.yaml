@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gkrellm
+package: pkg:deb/debian/gkrellm
 versions:
   - purl: pkg:deb/debian/gkrellm@0.7.5-3
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kvirc
+package: pkg:deb/debian/kvirc
 versions:
   - purl: pkg:deb/debian/kvirc@0?distro=sid
     affected_by_vulnerabilities: []

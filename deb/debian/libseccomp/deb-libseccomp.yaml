@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libseccomp
+package: pkg:deb/debian/libseccomp
 versions:
   - purl: pkg:deb/debian/libseccomp@2.3.1-2.1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities:

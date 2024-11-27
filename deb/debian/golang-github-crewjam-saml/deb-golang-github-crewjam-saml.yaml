@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-crewjam-saml
+package: pkg:deb/debian/golang-github-crewjam-saml
 versions:
   - purl: pkg:deb/debian/golang-github-crewjam-saml@0.4.10-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/znc
+package: pkg:deb/debian/znc
 versions:
   - purl: pkg:deb/debian/znc@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libcommons-compress-java
+package: pkg:deb/ubuntu/libcommons-compress-java
 versions:
   - purl: pkg:deb/ubuntu/libcommons-compress-java@0~svn604876-1
     affected_by_vulnerabilities:

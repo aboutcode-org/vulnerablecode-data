@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/gd
+package: pkg:alpine/gd
 versions:
   - purl: pkg:alpine/gd@2.2.1-r0?arch=armhf&distroversion=v3.4&reponame=main
     affected_by_vulnerabilities: []

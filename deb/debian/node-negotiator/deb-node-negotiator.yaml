@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-negotiator
+package: pkg:deb/debian/node-negotiator
 versions:
   - purl: pkg:deb/debian/node-negotiator@0.4.8-1?distro=stretch
     affected_by_vulnerabilities:

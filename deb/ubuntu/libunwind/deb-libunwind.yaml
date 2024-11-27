@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libunwind
+package: pkg:deb/ubuntu/libunwind
 versions:
   - purl: pkg:deb/ubuntu/libunwind@0.97-2
     affected_by_vulnerabilities:

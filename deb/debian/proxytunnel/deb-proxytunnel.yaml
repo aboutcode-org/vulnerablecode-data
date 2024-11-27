@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/proxytunnel
+package: pkg:deb/debian/proxytunnel
 versions:
   - purl: pkg:deb/debian/proxytunnel@1.10.20210128-1?distro=sid
     affected_by_vulnerabilities: []

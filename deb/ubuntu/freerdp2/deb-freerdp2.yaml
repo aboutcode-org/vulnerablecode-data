@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/freerdp2
+package: pkg:deb/ubuntu/freerdp2
 versions:
   - purl: pkg:deb/ubuntu/freerdp2@2.0.0~git20161130.1.e60d0d5%2Bdfsg1-1
     affected_by_vulnerabilities:

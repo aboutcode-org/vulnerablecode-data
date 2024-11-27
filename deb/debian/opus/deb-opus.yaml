@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/opus
+package: pkg:deb/debian/opus
 versions:
   - purl: pkg:deb/debian/opus@0.9.14%2B20120615-1%2Bnmu1?distro=sid
     affected_by_vulnerabilities: []

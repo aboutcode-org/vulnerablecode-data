@@ -1,4 +1,4 @@
-pacakge: pkg:composer/lexik/jwt-authentication-bundle
+package: pkg:composer/lexik/jwt-authentication-bundle
 versions:
   - purl: pkg:composer/lexik/jwt-authentication-bundle@1.0.0
     affected_by_vulnerabilities:

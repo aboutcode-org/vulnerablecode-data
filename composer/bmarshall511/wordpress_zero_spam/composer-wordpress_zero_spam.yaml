@@ -1,4 +1,4 @@
-pacakge: pkg:composer/bmarshall511/wordpress_zero_spam
+package: pkg:composer/bmarshall511/wordpress_zero_spam
 versions:
   - purl: pkg:composer/bmarshall511/wordpress_zero_spam@4.10.2
     affected_by_vulnerabilities:

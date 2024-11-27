@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/autopsy
+package: pkg:deb/debian/autopsy
 versions:
   - purl: pkg:deb/debian/autopsy@0?distro=sid
     affected_by_vulnerabilities: []

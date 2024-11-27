@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/google-perftools
+package: pkg:deb/debian/google-perftools
 versions:
   - purl: pkg:deb/debian/google-perftools@0.7-1?distro=sid
     affected_by_vulnerabilities: []

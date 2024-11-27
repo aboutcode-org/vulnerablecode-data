@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libengine-gost-openssl
+package: pkg:deb/debian/libengine-gost-openssl
 versions:
   - purl: pkg:deb/debian/libengine-gost-openssl@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openntpd
+package: pkg:deb/debian/openntpd
 versions:
   - purl: pkg:deb/debian/openntpd@1:6.0p1-1?distro=sid
     affected_by_vulnerabilities: []

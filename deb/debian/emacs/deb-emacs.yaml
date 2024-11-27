@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/emacs
+package: pkg:deb/debian/emacs
 versions:
   - purl: pkg:deb/debian/emacs@1:26.1%2B1-3.2%2Bdeb10u2?distro=sid
     affected_by_vulnerabilities:

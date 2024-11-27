@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gridengine
+package: pkg:deb/ubuntu/gridengine
 versions:
   - purl: pkg:deb/ubuntu/gridengine@6.2-2
     affected_by_vulnerabilities:

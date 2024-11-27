@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/vdr
+package: pkg:deb/debian/vdr
 versions:
   - purl: pkg:deb/debian/vdr@1.0.0-1woody2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/rap2hpoutre/laravel-log-viewer
+package: pkg:composer/rap2hpoutre/laravel-log-viewer
 versions:
   - purl: pkg:composer/rap2hpoutre/laravel-log-viewer@0.1.0
     affected_by_vulnerabilities:

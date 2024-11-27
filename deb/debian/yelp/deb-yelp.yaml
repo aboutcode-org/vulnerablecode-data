@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/yelp
+package: pkg:deb/debian/yelp
 versions:
   - purl: pkg:deb/debian/yelp@2.22.1-4?distro=sid
     affected_by_vulnerabilities: []

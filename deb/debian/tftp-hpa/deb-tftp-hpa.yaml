@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tftp-hpa
+package: pkg:deb/debian/tftp-hpa
 versions:
   - purl: pkg:deb/debian/tftp-hpa@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/oddjob
+package: pkg:deb/debian/oddjob
 versions:
   - purl: pkg:deb/debian/oddjob@0.34.3-2?distro=stretch
     affected_by_vulnerabilities:

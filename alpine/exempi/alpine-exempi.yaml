@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/exempi
+package: pkg:alpine/exempi
 versions:
   - purl: pkg:alpine/exempi@2.5.1-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

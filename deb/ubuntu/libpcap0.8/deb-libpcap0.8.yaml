@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libpcap0.8
+package: pkg:deb/ubuntu/libpcap0.8
 versions:
   - purl: pkg:deb/ubuntu/libpcap0.8@0.8.3-3
     affected_by_vulnerabilities:

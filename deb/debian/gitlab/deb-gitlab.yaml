@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gitlab
+package: pkg:deb/debian/gitlab
 versions:
   - purl: pkg:deb/debian/gitlab@0?distro=sid
     affected_by_vulnerabilities: []

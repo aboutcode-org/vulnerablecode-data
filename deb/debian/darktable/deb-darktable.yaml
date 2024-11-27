@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/darktable
+package: pkg:deb/debian/darktable
 versions:
   - purl: pkg:deb/debian/darktable@0?distro=sid
     affected_by_vulnerabilities: []

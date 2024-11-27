@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gcc-4.8-armhf-cross
+package: pkg:deb/ubuntu/gcc-4.8-armhf-cross
 versions:
   - purl: pkg:deb/ubuntu/gcc-4.8-armhf-cross@0.10
     affected_by_vulnerabilities:

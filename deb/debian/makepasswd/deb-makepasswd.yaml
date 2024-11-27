@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/makepasswd
+package: pkg:deb/debian/makepasswd
 versions:
   - purl: pkg:deb/debian/makepasswd@1.10-10?distro=stretch
     affected_by_vulnerabilities: []

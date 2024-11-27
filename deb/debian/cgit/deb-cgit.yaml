@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cgit
+package: pkg:deb/debian/cgit
 versions:
   - purl: pkg:deb/debian/cgit@0?distro=sid
     affected_by_vulnerabilities: []

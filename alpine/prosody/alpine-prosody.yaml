@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/prosody
+package: pkg:alpine/prosody
 versions:
   - purl: pkg:alpine/prosody@0.10.2-r0?arch=aarch64&distroversion=v3.7&reponame=community
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:conan/cpp-peglib
+package: pkg:conan/cpp-peglib
 versions:
   - purl: pkg:conan/cpp-peglib@0.1.12
     affected_by_vulnerabilities:

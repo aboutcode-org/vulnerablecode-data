@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mariadb-10.6
+package: pkg:deb/debian/mariadb-10.6
 versions:
   - purl: pkg:deb/debian/mariadb-10.6@0?distro=sid
     affected_by_vulnerabilities: []

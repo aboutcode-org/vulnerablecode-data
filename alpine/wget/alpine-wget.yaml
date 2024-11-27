@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/wget
+package: pkg:alpine/wget
 versions:
   - purl: pkg:alpine/wget@1.17.1-r1?arch=armhf&distroversion=v3.4&reponame=main
     affected_by_vulnerabilities: []

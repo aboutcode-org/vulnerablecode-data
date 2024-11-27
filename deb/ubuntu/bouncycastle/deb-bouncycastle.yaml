@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/bouncycastle
+package: pkg:deb/ubuntu/bouncycastle
 versions:
   - purl: pkg:deb/ubuntu/bouncycastle@1.32-0ubuntu1
     affected_by_vulnerabilities:

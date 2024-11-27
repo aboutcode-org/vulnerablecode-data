@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/hiredis
+package: pkg:deb/debian/hiredis
 versions:
   - purl: pkg:deb/debian/hiredis@0.13.3-1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

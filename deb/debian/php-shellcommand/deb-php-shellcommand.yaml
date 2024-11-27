@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-shellcommand
+package: pkg:deb/debian/php-shellcommand
 versions:
   - purl: pkg:deb/debian/php-shellcommand@1.6.1-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fbi
+package: pkg:deb/debian/fbi
 versions:
   - purl: pkg:deb/debian/fbi@1.23
     affected_by_vulnerabilities:

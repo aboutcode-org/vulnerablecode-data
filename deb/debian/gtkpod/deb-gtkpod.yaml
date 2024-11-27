@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gtkpod
+package: pkg:deb/debian/gtkpod
 versions:
   - purl: pkg:deb/debian/gtkpod@0?distro=sid
     affected_by_vulnerabilities: []

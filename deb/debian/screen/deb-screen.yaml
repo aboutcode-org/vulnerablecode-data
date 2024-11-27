@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/screen
+package: pkg:deb/debian/screen
 versions:
   - purl: pkg:deb/debian/screen@0?distro=sid
     affected_by_vulnerabilities: []

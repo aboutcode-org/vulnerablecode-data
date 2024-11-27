@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tiff
+package: pkg:deb/debian/tiff
 versions:
   - purl: pkg:deb/debian/tiff@0?distro=sid
     affected_by_vulnerabilities: []

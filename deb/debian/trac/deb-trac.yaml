@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/trac
+package: pkg:deb/debian/trac
 versions:
   - purl: pkg:deb/debian/trac@0.10.1-1?distro=sid
     affected_by_vulnerabilities: []

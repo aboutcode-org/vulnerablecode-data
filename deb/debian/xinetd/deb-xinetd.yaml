@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xinetd
+package: pkg:deb/debian/xinetd
 versions:
   - purl: pkg:deb/debian/xinetd@1:2.1.8.8.p3-1.1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/wavesurfer
+package: pkg:deb/debian/wavesurfer
 versions:
   - purl: pkg:deb/debian/wavesurfer@0?distro=sid
     affected_by_vulnerabilities: []

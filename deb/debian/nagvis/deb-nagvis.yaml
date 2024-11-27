@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nagvis
+package: pkg:deb/debian/nagvis
 versions:
   - purl: pkg:deb/debian/nagvis@0?distro=sid
     affected_by_vulnerabilities: []

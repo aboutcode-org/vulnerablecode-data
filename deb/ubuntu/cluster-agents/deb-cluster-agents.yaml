@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/cluster-agents
+package: pkg:deb/ubuntu/cluster-agents
 versions:
   - purl: pkg:deb/ubuntu/cluster-agents@1:1.0.2-0ubuntu1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openldap
+package: pkg:deb/debian/openldap
 versions:
   - purl: pkg:deb/debian/openldap@0?distro=sid
     affected_by_vulnerabilities: []

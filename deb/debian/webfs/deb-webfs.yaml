@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/webfs
+package: pkg:deb/debian/webfs
 versions:
   - purl: pkg:deb/debian/webfs@1.17.2
     affected_by_vulnerabilities:

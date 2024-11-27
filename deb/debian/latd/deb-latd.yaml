@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/latd
+package: pkg:deb/debian/latd
 versions:
   - purl: pkg:deb/debian/latd@1.31?distro=sid
     affected_by_vulnerabilities: []

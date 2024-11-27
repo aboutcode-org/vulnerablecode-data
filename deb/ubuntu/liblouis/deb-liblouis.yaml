@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/liblouis
+package: pkg:deb/ubuntu/liblouis
 versions:
   - purl: pkg:deb/ubuntu/liblouis@1.6.1-1
     affected_by_vulnerabilities:

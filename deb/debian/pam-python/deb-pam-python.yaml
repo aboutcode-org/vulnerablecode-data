@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pam-python
+package: pkg:deb/debian/pam-python
 versions:
   - purl: pkg:deb/debian/pam-python@1.0.6-1.1%2Bdeb10u1?distro=sid
     affected_by_vulnerabilities: []

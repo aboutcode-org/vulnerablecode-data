@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/feh
+package: pkg:deb/debian/feh
 versions:
   - purl: pkg:deb/debian/feh@1.12-1?distro=sid
     affected_by_vulnerabilities: []

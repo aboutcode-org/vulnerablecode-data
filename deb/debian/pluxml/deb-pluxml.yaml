@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pluxml
+package: pkg:deb/debian/pluxml
 versions:
   - purl: pkg:deb/debian/pluxml@5.5-2?distro=stretch
     affected_by_vulnerabilities:

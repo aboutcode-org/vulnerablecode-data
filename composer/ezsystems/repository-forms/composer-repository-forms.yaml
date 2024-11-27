@@ -1,4 +1,4 @@
-pacakge: pkg:composer/ezsystems/repository-forms
+package: pkg:composer/ezsystems/repository-forms
 versions:
   - purl: pkg:composer/ezsystems/repository-forms@2.3.0
     affected_by_vulnerabilities:

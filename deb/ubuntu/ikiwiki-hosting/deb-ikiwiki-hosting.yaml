@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ikiwiki-hosting
+package: pkg:deb/ubuntu/ikiwiki-hosting
 versions:
   - purl: pkg:deb/ubuntu/ikiwiki-hosting@0.20110424
     affected_by_vulnerabilities:

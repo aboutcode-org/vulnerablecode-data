@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/scapy
+package: pkg:deb/debian/scapy
 versions:
   - purl: pkg:deb/debian/scapy@0?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ktexteditor
+package: pkg:deb/ubuntu/ktexteditor
 versions:
   - purl: pkg:deb/ubuntu/ktexteditor@5.0.0-0ubuntu1
     affected_by_vulnerabilities:

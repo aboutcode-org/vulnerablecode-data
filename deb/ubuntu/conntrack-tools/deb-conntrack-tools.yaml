@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/conntrack-tools
+package: pkg:deb/ubuntu/conntrack-tools
 versions:
   - purl: pkg:deb/ubuntu/conntrack-tools@0.9.5-0ubuntu1
     affected_by_vulnerabilities:

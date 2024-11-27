@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libmad
+package: pkg:alpine/libmad
 versions:
   - purl: pkg:alpine/libmad@0.15.1b-r8?arch=aarch64&distroversion=v3.7&reponame=main
     affected_by_vulnerabilities: []

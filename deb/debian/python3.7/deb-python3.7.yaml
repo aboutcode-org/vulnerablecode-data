@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python3.7
+package: pkg:deb/debian/python3.7
 versions:
   - purl: pkg:deb/debian/python3.7@0?distro=buster
     affected_by_vulnerabilities: []

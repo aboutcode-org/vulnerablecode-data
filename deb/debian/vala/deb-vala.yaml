@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/vala
+package: pkg:deb/debian/vala
 versions:
   - purl: pkg:deb/debian/vala@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mysql-connector-java
+package: pkg:deb/debian/mysql-connector-java
 versions:
   - purl: pkg:deb/debian/mysql-connector-java@0?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ocp
+package: pkg:deb/debian/ocp
 versions:
   - purl: pkg:deb/debian/ocp@0.1.10rc6-1?distro=sid
     affected_by_vulnerabilities: []

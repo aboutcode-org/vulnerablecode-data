@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libsndfile
+package: pkg:deb/ubuntu/libsndfile
 versions:
   - purl: pkg:deb/ubuntu/libsndfile@1.0.10-1
     affected_by_vulnerabilities:

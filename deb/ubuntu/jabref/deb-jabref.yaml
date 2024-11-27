@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/jabref
+package: pkg:deb/ubuntu/jabref
 versions:
   - purl: pkg:deb/ubuntu/jabref@2.10~beta1%2Bds-2
     affected_by_vulnerabilities:

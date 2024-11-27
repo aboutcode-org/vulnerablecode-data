@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/shtool
+package: pkg:deb/debian/shtool
 versions:
   - purl: pkg:deb/debian/shtool@1.4.8-1
     affected_by_vulnerabilities:

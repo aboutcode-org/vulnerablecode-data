@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fontforge
+package: pkg:deb/debian/fontforge
 versions:
   - purl: pkg:deb/debian/fontforge@0?distro=sid
     affected_by_vulnerabilities: []

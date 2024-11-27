@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/discount
+package: pkg:deb/debian/discount
 versions:
   - purl: pkg:deb/debian/discount@2.2.2-1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

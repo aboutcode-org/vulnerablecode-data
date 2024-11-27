@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/profanity
+package: pkg:deb/debian/profanity
 versions:
   - purl: pkg:deb/debian/profanity@0.10.0-1?distro=sid
     affected_by_vulnerabilities: []

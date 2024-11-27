@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libpff
+package: pkg:deb/ubuntu/libpff
 versions:
   - purl: pkg:deb/ubuntu/libpff@20120802-1
     affected_by_vulnerabilities:

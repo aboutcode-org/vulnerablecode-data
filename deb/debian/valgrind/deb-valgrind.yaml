@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/valgrind
+package: pkg:deb/debian/valgrind
 versions:
   - purl: pkg:deb/debian/valgrind@1:3.12.0~svn20160714-1?distro=stretch
     affected_by_vulnerabilities: []

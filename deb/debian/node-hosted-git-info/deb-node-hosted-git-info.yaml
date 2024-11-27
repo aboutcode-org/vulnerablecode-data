@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-hosted-git-info
+package: pkg:deb/debian/node-hosted-git-info
 versions:
   - purl: pkg:deb/debian/node-hosted-git-info@0?distro=stretch
     affected_by_vulnerabilities: []

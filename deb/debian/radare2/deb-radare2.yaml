@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/radare2
+package: pkg:deb/debian/radare2
 versions:
   - purl: pkg:deb/debian/radare2@0?distro=sid
     affected_by_vulnerabilities: []

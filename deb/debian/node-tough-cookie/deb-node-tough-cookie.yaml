@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-tough-cookie
+package: pkg:deb/debian/node-tough-cookie
 versions:
   - purl: pkg:deb/debian/node-tough-cookie@2.3.4%2Bdfsg-1?distro=sid
     affected_by_vulnerabilities: []

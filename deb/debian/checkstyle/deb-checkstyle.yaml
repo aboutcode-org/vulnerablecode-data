@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/checkstyle
+package: pkg:deb/debian/checkstyle
 versions:
   - purl: pkg:deb/debian/checkstyle@0?distro=sid
     affected_by_vulnerabilities: []

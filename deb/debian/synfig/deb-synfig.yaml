@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/synfig
+package: pkg:deb/debian/synfig
 versions:
   - purl: pkg:deb/debian/synfig@0.61.08-1?distro=sid
     affected_by_vulnerabilities: []

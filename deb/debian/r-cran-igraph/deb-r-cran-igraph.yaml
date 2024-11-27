@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/r-cran-igraph
+package: pkg:deb/debian/r-cran-igraph
 versions:
   - purl: pkg:deb/debian/r-cran-igraph@1.0.1-1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

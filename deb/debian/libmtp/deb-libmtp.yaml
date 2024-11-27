@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libmtp
+package: pkg:deb/debian/libmtp
 versions:
   - purl: pkg:deb/debian/libmtp@1.1.13-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libhttp-daemon-perl
+package: pkg:deb/debian/libhttp-daemon-perl
 versions:
   - purl: pkg:deb/debian/libhttp-daemon-perl@6.01-3?distro=sid
     affected_by_vulnerabilities:

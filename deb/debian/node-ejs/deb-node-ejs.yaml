@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-ejs
+package: pkg:deb/debian/node-ejs
 versions:
   - purl: pkg:deb/debian/node-ejs@2.5.2-1?distro=stretch
     affected_by_vulnerabilities:

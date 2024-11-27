@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/acl
+package: pkg:deb/debian/acl
 versions:
   - purl: pkg:deb/debian/acl@2.2.49-2?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/lhasa
+package: pkg:deb/ubuntu/lhasa
 versions:
   - purl: pkg:deb/ubuntu/lhasa@0.0.6-1
     affected_by_vulnerabilities:

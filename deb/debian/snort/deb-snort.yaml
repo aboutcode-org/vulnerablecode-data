@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/snort
+package: pkg:deb/debian/snort
 versions:
   - purl: pkg:deb/debian/snort@0?distro=sid
     affected_by_vulnerabilities: []

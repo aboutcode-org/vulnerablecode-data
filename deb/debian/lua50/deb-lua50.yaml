@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lua50
+package: pkg:deb/debian/lua50
 versions:
   - purl: pkg:deb/debian/lua50@0?distro=buster
     affected_by_vulnerabilities: []

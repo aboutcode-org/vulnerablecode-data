@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/bluez
+package: pkg:deb/ubuntu/bluez
 versions:
   - purl: pkg:deb/ubuntu/bluez@4.101-0ubuntu1
     affected_by_vulnerabilities:

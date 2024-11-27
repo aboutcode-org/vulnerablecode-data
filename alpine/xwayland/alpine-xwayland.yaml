@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/xwayland
+package: pkg:alpine/xwayland
 versions:
   - purl: pkg:alpine/xwayland@21.1.0-r4?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

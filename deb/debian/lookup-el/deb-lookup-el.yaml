@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lookup-el
+package: pkg:deb/debian/lookup-el
 versions:
   - purl: pkg:deb/debian/lookup-el@1.1-4
     affected_by_vulnerabilities:

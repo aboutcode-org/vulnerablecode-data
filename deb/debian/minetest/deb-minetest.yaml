@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/minetest
+package: pkg:deb/debian/minetest
 versions:
   - purl: pkg:deb/debian/minetest@0.4.15%2Brepack2-1?distro=stretch
     affected_by_vulnerabilities:

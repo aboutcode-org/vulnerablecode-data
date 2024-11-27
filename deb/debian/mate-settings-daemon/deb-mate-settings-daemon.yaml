@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mate-settings-daemon
+package: pkg:deb/debian/mate-settings-daemon
 versions:
   - purl: pkg:deb/debian/mate-settings-daemon@0?distro=sid
     affected_by_vulnerabilities: []

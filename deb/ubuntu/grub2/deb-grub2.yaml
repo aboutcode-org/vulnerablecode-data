@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/grub2
+package: pkg:deb/ubuntu/grub2
 versions:
   - purl: pkg:deb/ubuntu/grub2@0.6%2B20040805-2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gtetrinet
+package: pkg:deb/debian/gtetrinet
 versions:
   - purl: pkg:deb/debian/gtetrinet@0.4.1-9woody1.1
     affected_by_vulnerabilities:

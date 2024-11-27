@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python3-typed-ast
+package: pkg:deb/debian/python3-typed-ast
 versions:
   - purl: pkg:deb/debian/python3-typed-ast@0?distro=stretch
     affected_by_vulnerabilities: []

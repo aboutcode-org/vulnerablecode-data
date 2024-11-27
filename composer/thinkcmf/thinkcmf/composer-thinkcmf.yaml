@@ -1,4 +1,4 @@
-pacakge: pkg:composer/thinkcmf/thinkcmf
+package: pkg:composer/thinkcmf/thinkcmf
 versions:
   - purl: pkg:composer/thinkcmf/thinkcmf@2.2.2
     affected_by_vulnerabilities:

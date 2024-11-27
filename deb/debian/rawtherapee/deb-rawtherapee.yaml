@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rawtherapee
+package: pkg:deb/debian/rawtherapee
 versions:
   - purl: pkg:deb/debian/rawtherapee@0?distro=sid
     affected_by_vulnerabilities: []

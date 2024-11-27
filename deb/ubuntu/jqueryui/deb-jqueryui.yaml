@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/jqueryui
+package: pkg:deb/ubuntu/jqueryui
 versions:
   - purl: pkg:deb/ubuntu/jqueryui@1.10.1%2Bdfsg-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ironic-inspector
+package: pkg:deb/ubuntu/ironic-inspector
 versions:
   - purl: pkg:deb/ubuntu/ironic-inspector@2.2.1-1
     affected_by_vulnerabilities:

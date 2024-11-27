@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-virtualenv
+package: pkg:deb/debian/python-virtualenv
 versions:
   - purl: pkg:deb/debian/python-virtualenv@15.1.0%2Bds-1?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/codeigniter/framework
+package: pkg:composer/codeigniter/framework
 versions:
   - purl: pkg:composer/codeigniter/framework@3.0.0
     affected_by_vulnerabilities:

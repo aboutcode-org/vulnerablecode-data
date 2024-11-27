@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/zoph
+package: pkg:deb/debian/zoph
 versions:
   - purl: pkg:deb/debian/zoph@0.3.3-12sarge3
     affected_by_vulnerabilities:

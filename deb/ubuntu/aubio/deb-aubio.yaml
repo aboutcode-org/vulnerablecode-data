@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/aubio
+package: pkg:deb/ubuntu/aubio
 versions:
   - purl: pkg:deb/ubuntu/aubio@0.3.2-2
     affected_by_vulnerabilities:

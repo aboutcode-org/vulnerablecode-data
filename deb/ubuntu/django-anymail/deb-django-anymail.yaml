@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/django-anymail
+package: pkg:deb/ubuntu/django-anymail
 versions:
   - purl: pkg:deb/ubuntu/django-anymail@0.10-1
     affected_by_vulnerabilities:

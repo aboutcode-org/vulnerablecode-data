@@ -1,4 +1,4 @@
-pacakge: pkg:composer/vova07/yii2-fileapi-widget
+package: pkg:composer/vova07/yii2-fileapi-widget
 versions:
   - purl: pkg:composer/vova07/yii2-fileapi-widget@0.1.0
     affected_by_vulnerabilities:

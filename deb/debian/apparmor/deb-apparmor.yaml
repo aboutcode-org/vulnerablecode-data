@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/apparmor
+package: pkg:deb/debian/apparmor
 versions:
   - purl: pkg:deb/debian/apparmor@0?distro=sid
     affected_by_vulnerabilities: []

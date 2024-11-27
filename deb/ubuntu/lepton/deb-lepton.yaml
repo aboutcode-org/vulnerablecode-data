@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/lepton
+package: pkg:deb/ubuntu/lepton
 versions:
   - purl: pkg:deb/ubuntu/lepton@1.0-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lvm2
+package: pkg:deb/debian/lvm2
 versions:
   - purl: pkg:deb/debian/lvm2@2.02.168-2?distro=stretch
     affected_by_vulnerabilities:

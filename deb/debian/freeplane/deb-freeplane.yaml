@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/freeplane
+package: pkg:deb/debian/freeplane
 versions:
   - purl: pkg:deb/debian/freeplane@1.5.18-1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

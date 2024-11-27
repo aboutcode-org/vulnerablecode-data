@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/augeas
+package: pkg:deb/ubuntu/augeas
 versions:
   - purl: pkg:deb/ubuntu/augeas@0.10.0-0ubuntu1
     affected_by_vulnerabilities:

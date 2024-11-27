@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/shairport-sync
+package: pkg:deb/debian/shairport-sync
 versions:
   - purl: pkg:deb/debian/shairport-sync@2.8.6-1?distro=stretch
     affected_by_vulnerabilities:

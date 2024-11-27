@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/qtsvg-opensource-src
+package: pkg:deb/debian/qtsvg-opensource-src
 versions:
   - purl: pkg:deb/debian/qtsvg-opensource-src@5.11.3-2?distro=sid
     affected_by_vulnerabilities:

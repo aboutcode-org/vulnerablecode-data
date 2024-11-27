@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pagure
+package: pkg:deb/debian/pagure
 versions:
   - purl: pkg:deb/debian/pagure@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-bottle
+package: pkg:deb/debian/python-bottle
 versions:
   - purl: pkg:deb/debian/python-bottle@0.12.11-1?distro=sid
     affected_by_vulnerabilities: []

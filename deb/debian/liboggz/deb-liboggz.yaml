@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/liboggz
+package: pkg:deb/debian/liboggz
 versions:
   - purl: pkg:deb/debian/liboggz@0.9.9-1?distro=sid
     affected_by_vulnerabilities: []

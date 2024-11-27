@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libtirpc
+package: pkg:deb/ubuntu/libtirpc
 versions:
   - purl: pkg:deb/ubuntu/libtirpc@0.2.0-2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/smarty4
+package: pkg:deb/debian/smarty4
 versions:
   - purl: pkg:deb/debian/smarty4@4.1.1-1?distro=sid
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/speech-dispatcher
+package: pkg:deb/debian/speech-dispatcher
 versions:
   - purl: pkg:deb/debian/speech-dispatcher@0.10.2-2%2Bdeb11u1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/flex
+package: pkg:deb/ubuntu/flex
 versions:
   - purl: pkg:deb/ubuntu/flex@2.5.31-26ubuntu1
     affected_by_vulnerabilities:

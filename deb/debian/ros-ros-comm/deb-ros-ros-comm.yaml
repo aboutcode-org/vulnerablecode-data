@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ros-ros-comm
+package: pkg:deb/debian/ros-ros-comm
 versions:
   - purl: pkg:deb/debian/ros-ros-comm@1.12.6-2%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

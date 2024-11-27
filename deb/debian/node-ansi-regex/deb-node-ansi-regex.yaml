@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-ansi-regex
+package: pkg:deb/debian/node-ansi-regex
 versions:
   - purl: pkg:deb/debian/node-ansi-regex@0?distro=stretch
     affected_by_vulnerabilities: []

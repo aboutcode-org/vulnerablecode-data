@@ -1,4 +1,4 @@
-pacakge: pkg:conan/hdf5
+package: pkg:conan/hdf5
 versions:
   - purl: pkg:conan/hdf5@1.10.5
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-hoek
+package: pkg:deb/debian/node-hoek
 versions:
   - purl: pkg:deb/debian/node-hoek@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/acm
+package: pkg:deb/debian/acm
 versions:
   - purl: pkg:deb/debian/acm@4.7-6
     affected_by_vulnerabilities:

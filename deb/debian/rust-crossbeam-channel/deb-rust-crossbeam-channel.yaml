@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-crossbeam-channel
+package: pkg:deb/debian/rust-crossbeam-channel
 versions:
   - purl: pkg:deb/debian/rust-crossbeam-channel@0?distro=sid
     affected_by_vulnerabilities: []

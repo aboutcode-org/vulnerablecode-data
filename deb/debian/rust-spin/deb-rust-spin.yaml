@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-spin
+package: pkg:deb/debian/rust-spin
 versions:
   - purl: pkg:deb/debian/rust-spin@0.4.10-1?distro=sid
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:conan/mbedtls
+package: pkg:conan/mbedtls
 versions:
   - purl: pkg:conan/mbedtls@2.16.3-apache
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/flac
+package: pkg:deb/ubuntu/flac
 versions:
   - purl: pkg:deb/ubuntu/flac@1.1.0-11
     affected_by_vulnerabilities:

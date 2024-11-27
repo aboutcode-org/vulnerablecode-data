@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gtk-vnc
+package: pkg:deb/debian/gtk-vnc
 versions:
   - purl: pkg:deb/debian/gtk-vnc@0.4.3-1?distro=sid
     affected_by_vulnerabilities: []

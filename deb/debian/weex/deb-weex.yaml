@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/weex
+package: pkg:deb/debian/weex
 versions:
   - purl: pkg:deb/debian/weex@2.6.1-4woody1
     affected_by_vulnerabilities:

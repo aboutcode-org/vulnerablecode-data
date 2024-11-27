@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libjs-swfupload
+package: pkg:deb/debian/libjs-swfupload
 versions:
   - purl: pkg:deb/debian/libjs-swfupload@2.2.0.1%2Bds1-2?distro=stretch
     affected_by_vulnerabilities: []

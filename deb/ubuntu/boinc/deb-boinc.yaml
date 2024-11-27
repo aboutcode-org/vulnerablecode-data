@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/boinc
+package: pkg:deb/ubuntu/boinc
 versions:
   - purl: pkg:deb/ubuntu/boinc@5.10.27-1
     affected_by_vulnerabilities:

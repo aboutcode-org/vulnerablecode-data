@@ -1,4 +1,4 @@
-pacakge: pkg:composer/piwik/piwik
+package: pkg:composer/piwik/piwik
 versions:
   - purl: pkg:composer/piwik/piwik@1.10
     affected_by_vulnerabilities:

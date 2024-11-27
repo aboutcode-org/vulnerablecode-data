@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/django-filter
+package: pkg:deb/debian/django-filter
 versions:
   - purl: pkg:deb/debian/django-filter@0.13.0-1?distro=stretch
     affected_by_vulnerabilities:

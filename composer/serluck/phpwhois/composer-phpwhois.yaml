@@ -1,4 +1,4 @@
-pacakge: pkg:composer/serluck/phpwhois
+package: pkg:composer/serluck/phpwhois
 versions:
   - purl: pkg:composer/serluck/phpwhois@4.2.3
     affected_by_vulnerabilities:

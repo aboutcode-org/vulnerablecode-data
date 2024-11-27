@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pure-ftpd
+package: pkg:deb/debian/pure-ftpd
 versions:
   - purl: pkg:deb/debian/pure-ftpd@0?distro=sid
     affected_by_vulnerabilities: []

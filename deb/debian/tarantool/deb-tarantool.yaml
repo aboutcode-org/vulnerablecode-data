@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tarantool
+package: pkg:deb/debian/tarantool
 versions:
   - purl: pkg:deb/debian/tarantool@1.7.2.385.g952d79e-1?distro=sid
     affected_by_vulnerabilities: []

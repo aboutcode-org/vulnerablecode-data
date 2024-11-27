@@ -1,4 +1,4 @@
-pacakge: pkg:composer/munkireport/softwareupdate
+package: pkg:composer/munkireport/softwareupdate
 versions:
   - purl: pkg:composer/munkireport/softwareupdate@1.1
     affected_by_vulnerabilities:

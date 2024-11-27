@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/glpi
+package: pkg:deb/ubuntu/glpi
 versions:
   - purl: pkg:deb/ubuntu/glpi@0.68.2-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gnupg2
+package: pkg:deb/ubuntu/gnupg2
 versions:
   - purl: pkg:deb/ubuntu/gnupg2@1.9.15-3ubuntu5
     affected_by_vulnerabilities:

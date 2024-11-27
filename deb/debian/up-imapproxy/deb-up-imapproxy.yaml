@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/up-imapproxy
+package: pkg:deb/debian/up-imapproxy
 versions:
   - purl: pkg:deb/debian/up-imapproxy@1.2.2%2B1.2.3rc2-1?distro=sid
     affected_by_vulnerabilities: []

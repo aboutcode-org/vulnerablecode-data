@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/smb4k
+package: pkg:deb/debian/smb4k
 versions:
   - purl: pkg:deb/debian/smb4k@0.5.2-1
     affected_by_vulnerabilities:

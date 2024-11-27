@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/getmail4
+package: pkg:deb/ubuntu/getmail4
 versions:
   - purl: pkg:deb/ubuntu/getmail4@4.14.0-1.1
     affected_by_vulnerabilities:

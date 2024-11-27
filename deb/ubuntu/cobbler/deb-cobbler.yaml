@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/cobbler
+package: pkg:deb/ubuntu/cobbler
 versions:
   - purl: pkg:deb/ubuntu/cobbler@2.1.0-0ubuntu1
     affected_by_vulnerabilities:

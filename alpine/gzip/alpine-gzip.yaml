@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/gzip
+package: pkg:alpine/gzip
 versions:
   - purl: pkg:alpine/gzip@1.12-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

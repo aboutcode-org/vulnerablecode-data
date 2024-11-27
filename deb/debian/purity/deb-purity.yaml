@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/purity
+package: pkg:deb/debian/purity
 versions:
   - purl: pkg:deb/debian/purity@1-14.2
     affected_by_vulnerabilities:

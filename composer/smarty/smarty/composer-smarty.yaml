@@ -1,4 +1,4 @@
-pacakge: pkg:composer/smarty/smarty
+package: pkg:composer/smarty/smarty
 versions:
   - purl: pkg:composer/smarty/smarty@2.6.24
     affected_by_vulnerabilities:

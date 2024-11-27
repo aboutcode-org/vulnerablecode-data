@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libevent
+package: pkg:deb/ubuntu/libevent
 versions:
   - purl: pkg:deb/ubuntu/libevent@0.8-1
     affected_by_vulnerabilities:

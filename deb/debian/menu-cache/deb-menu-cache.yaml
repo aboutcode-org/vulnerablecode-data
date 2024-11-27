@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/menu-cache
+package: pkg:deb/debian/menu-cache
 versions:
   - purl: pkg:deb/debian/menu-cache@1.0.2-3?distro=sid
     affected_by_vulnerabilities: []

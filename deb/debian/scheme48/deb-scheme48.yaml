@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/scheme48
+package: pkg:deb/debian/scheme48
 versions:
   - purl: pkg:deb/debian/scheme48@1.9.2-1?distro=sid
     affected_by_vulnerabilities: []

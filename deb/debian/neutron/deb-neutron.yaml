@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/neutron
+package: pkg:deb/debian/neutron
 versions:
   - purl: pkg:deb/debian/neutron@0?distro=sid
     affected_by_vulnerabilities: []

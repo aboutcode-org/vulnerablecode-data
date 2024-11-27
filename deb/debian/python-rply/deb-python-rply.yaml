@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-rply
+package: pkg:deb/debian/python-rply
 versions:
   - purl: pkg:deb/debian/python-rply@0.7.1-1?distro=sid
     affected_by_vulnerabilities: []

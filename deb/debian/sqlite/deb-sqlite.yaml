@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sqlite
+package: pkg:deb/debian/sqlite
 versions:
   - purl: pkg:deb/debian/sqlite@2.4.7-1
     affected_by_vulnerabilities:

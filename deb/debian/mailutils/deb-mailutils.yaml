@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mailutils
+package: pkg:deb/debian/mailutils
 versions:
   - purl: pkg:deb/debian/mailutils@1:0.5-4?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/docker.io
+package: pkg:deb/ubuntu/docker.io
 versions:
   - purl: pkg:deb/ubuntu/docker.io@0.11.1~dfsg1-1
     affected_by_vulnerabilities:

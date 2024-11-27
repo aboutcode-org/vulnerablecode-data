@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libxrender
+package: pkg:deb/debian/libxrender
 versions:
   - purl: pkg:deb/debian/libxrender@1:0.9.10-1?distro=sid
     affected_by_vulnerabilities: []

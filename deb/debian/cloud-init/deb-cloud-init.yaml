@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cloud-init
+package: pkg:deb/debian/cloud-init
 versions:
   - purl: pkg:deb/debian/cloud-init@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-jquery
+package: pkg:deb/debian/node-jquery
 versions:
   - purl: pkg:deb/debian/node-jquery@2.2.4%2Bdfsg-4?distro=sid
     affected_by_vulnerabilities:

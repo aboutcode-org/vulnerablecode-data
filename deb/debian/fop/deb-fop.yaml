@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fop
+package: pkg:deb/debian/fop
 versions:
   - purl: pkg:deb/debian/fop@1:2.1-6?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/grip
+package: pkg:deb/debian/grip
 versions:
   - purl: pkg:deb/debian/grip@2.91-1
     affected_by_vulnerabilities:

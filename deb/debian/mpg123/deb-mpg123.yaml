@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mpg123
+package: pkg:deb/debian/mpg123
 versions:
   - purl: pkg:deb/debian/mpg123@0.59o-2
     affected_by_vulnerabilities:

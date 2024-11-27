@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/isc-kea
+package: pkg:deb/debian/isc-kea
 versions:
   - purl: pkg:deb/debian/isc-kea@0?distro=sid
     affected_by_vulnerabilities: []

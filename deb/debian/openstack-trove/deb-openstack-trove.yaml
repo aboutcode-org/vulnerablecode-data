@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openstack-trove
+package: pkg:deb/debian/openstack-trove
 versions:
   - purl: pkg:deb/debian/openstack-trove@1:17.0.0-1?distro=sid
     affected_by_vulnerabilities: []

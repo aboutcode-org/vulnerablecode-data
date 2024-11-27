@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rhythmbox
+package: pkg:deb/debian/rhythmbox
 versions:
   - purl: pkg:deb/debian/rhythmbox@2.97-2.1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/httpx
+package: pkg:deb/debian/httpx
 versions:
   - purl: pkg:deb/debian/httpx@0.16.1-1?distro=sid
     affected_by_vulnerabilities:

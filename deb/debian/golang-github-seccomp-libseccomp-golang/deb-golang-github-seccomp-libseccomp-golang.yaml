@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-seccomp-libseccomp-golang
+package: pkg:deb/debian/golang-github-seccomp-libseccomp-golang
 versions:
   - purl: pkg:deb/debian/golang-github-seccomp-libseccomp-golang@0.0~git20150813.0.1b506fc-2?distro=stretch
     affected_by_vulnerabilities: []

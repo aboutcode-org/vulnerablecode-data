@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/spamassassin
+package: pkg:alpine/spamassassin
 versions:
   - purl: pkg:alpine/spamassassin@3.4.2-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

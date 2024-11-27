@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/busybox
+package: pkg:deb/ubuntu/busybox
 versions:
   - purl: pkg:deb/ubuntu/busybox@1:0.60.5-2.1
     affected_by_vulnerabilities:

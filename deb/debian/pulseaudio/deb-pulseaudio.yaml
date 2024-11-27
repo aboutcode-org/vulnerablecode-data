@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pulseaudio
+package: pkg:deb/debian/pulseaudio
 versions:
   - purl: pkg:deb/debian/pulseaudio@0?distro=sid
     affected_by_vulnerabilities: []

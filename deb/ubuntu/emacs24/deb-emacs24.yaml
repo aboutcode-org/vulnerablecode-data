@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/emacs24
+package: pkg:deb/ubuntu/emacs24
 versions:
   - purl: pkg:deb/ubuntu/emacs24@24.1%2B1-2ubuntu1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bip
+package: pkg:deb/debian/bip
 versions:
   - purl: pkg:deb/debian/bip@0.8.6-1?distro=sid
     affected_by_vulnerabilities: []

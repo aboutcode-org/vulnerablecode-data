@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/highlight.js
+package: pkg:deb/debian/highlight.js
 versions:
   - purl: pkg:deb/debian/highlight.js@8.2%2Bds-5?distro=stretch
     affected_by_vulnerabilities: []

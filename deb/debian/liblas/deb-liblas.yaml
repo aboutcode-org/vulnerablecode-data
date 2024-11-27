@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/liblas
+package: pkg:deb/debian/liblas
 versions:
   - purl: pkg:deb/debian/liblas@1.8.1-10?distro=buster
     affected_by_vulnerabilities: []

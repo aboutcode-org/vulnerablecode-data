@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openacs
+package: pkg:deb/debian/openacs
 versions:
   - purl: pkg:deb/debian/openacs@0?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gnome-autoar
+package: pkg:deb/ubuntu/gnome-autoar
 versions:
   - purl: pkg:deb/ubuntu/gnome-autoar@0.1.1-3
     affected_by_vulnerabilities:

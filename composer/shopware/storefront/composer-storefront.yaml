@@ -1,4 +1,4 @@
-pacakge: pkg:composer/shopware/storefront
+package: pkg:composer/shopware/storefront
 versions:
   - purl: pkg:composer/shopware/storefront@6.0.0%2Bea2
     affected_by_vulnerabilities:

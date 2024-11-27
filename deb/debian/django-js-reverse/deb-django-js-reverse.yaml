@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/django-js-reverse
+package: pkg:deb/debian/django-js-reverse
 versions:
   - purl: pkg:deb/debian/django-js-reverse@0?distro=sid
     affected_by_vulnerabilities: []

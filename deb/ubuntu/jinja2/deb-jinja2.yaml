@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/jinja2
+package: pkg:deb/ubuntu/jinja2
 versions:
   - purl: pkg:deb/ubuntu/jinja2@2.0-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-pycadf
+package: pkg:deb/debian/python-pycadf
 versions:
   - purl: pkg:deb/debian/python-pycadf@0.5.1-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/kea
+package: pkg:alpine/kea
 versions:
   - purl: pkg:alpine/kea@1.7.2-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

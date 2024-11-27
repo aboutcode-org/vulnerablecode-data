@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tomboy
+package: pkg:deb/debian/tomboy
 versions:
   - purl: pkg:deb/debian/tomboy@0.8.1-2?distro=stretch
     affected_by_vulnerabilities: []

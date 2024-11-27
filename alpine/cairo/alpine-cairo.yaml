@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/cairo
+package: pkg:alpine/cairo
 versions:
   - purl: pkg:alpine/cairo@1.16.0-r1?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

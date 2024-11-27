@@ -1,4 +1,4 @@
-pacakge: pkg:composer/limesurvey/limesurvey
+package: pkg:composer/limesurvey/limesurvey
 versions:
   - purl: pkg:composer/limesurvey/limesurvey@2.2.5
     affected_by_vulnerabilities:

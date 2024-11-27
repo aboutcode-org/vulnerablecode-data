@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dhis-tools-dns
+package: pkg:deb/debian/dhis-tools-dns
 versions:
   - purl: pkg:deb/debian/dhis-tools-dns@5.0-3sarge1
     affected_by_vulnerabilities:

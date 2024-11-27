@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-cryptography
+package: pkg:deb/debian/python-cryptography
 versions:
   - purl: pkg:deb/debian/python-cryptography@0?distro=stretch
     affected_by_vulnerabilities: []

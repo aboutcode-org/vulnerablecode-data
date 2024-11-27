@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/freeimage
+package: pkg:deb/debian/freeimage
 versions:
   - purl: pkg:deb/debian/freeimage@3.15.4-5?distro=sid
     affected_by_vulnerabilities: []

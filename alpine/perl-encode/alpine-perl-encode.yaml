@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/perl-encode
+package: pkg:alpine/perl-encode
 versions:
   - purl: pkg:alpine/perl-encode@3.12-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

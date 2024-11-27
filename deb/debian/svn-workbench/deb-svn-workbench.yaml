@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/svn-workbench
+package: pkg:deb/debian/svn-workbench
 versions:
   - purl: pkg:deb/debian/svn-workbench@1.7.0-1?distro=buster
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/facter
+package: pkg:deb/debian/facter
 versions:
   - purl: pkg:deb/debian/facter@0?distro=sid
     affected_by_vulnerabilities: []

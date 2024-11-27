@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libpano13
+package: pkg:deb/debian/libpano13
 versions:
   - purl: pkg:deb/debian/libpano13@2.9.19%2Bdfsg-2?distro=stretch
     affected_by_vulnerabilities: []

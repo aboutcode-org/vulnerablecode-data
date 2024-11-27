@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/less
+package: pkg:deb/debian/less
 versions:
   - purl: pkg:deb/debian/less@0?distro=sid
     affected_by_vulnerabilities: []

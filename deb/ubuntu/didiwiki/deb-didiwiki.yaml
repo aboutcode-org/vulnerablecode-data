@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/didiwiki
+package: pkg:deb/ubuntu/didiwiki
 versions:
   - purl: pkg:deb/ubuntu/didiwiki@0.5-10
     affected_by_vulnerabilities:

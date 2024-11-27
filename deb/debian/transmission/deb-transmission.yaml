@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/transmission
+package: pkg:deb/debian/transmission
 versions:
   - purl: pkg:deb/debian/transmission@1.61-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ipython
+package: pkg:deb/ubuntu/ipython
 versions:
   - purl: pkg:deb/ubuntu/ipython@0.10-1
     affected_by_vulnerabilities:

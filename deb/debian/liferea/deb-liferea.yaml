@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/liferea
+package: pkg:deb/debian/liferea
 versions:
   - purl: pkg:deb/debian/liferea@0.9.1-1
     affected_by_vulnerabilities:

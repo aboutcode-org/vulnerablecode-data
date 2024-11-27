@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libosinfo
+package: pkg:deb/debian/libosinfo
 versions:
   - purl: pkg:deb/debian/libosinfo@1.0.0-2?distro=stretch
     affected_by_vulnerabilities:

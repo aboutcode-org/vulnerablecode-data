@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mlterm
+package: pkg:deb/debian/mlterm
 versions:
   - purl: pkg:deb/debian/mlterm@2.4.0.cvs20020414-1
     affected_by_vulnerabilities:

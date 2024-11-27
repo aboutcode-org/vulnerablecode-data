@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gradle
+package: pkg:deb/debian/gradle
 versions:
   - purl: pkg:deb/debian/gradle@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/planet-venus
+package: pkg:deb/debian/planet-venus
 versions:
   - purl: pkg:deb/debian/planet-venus@0~bzr116-1?distro=buster
     affected_by_vulnerabilities: []

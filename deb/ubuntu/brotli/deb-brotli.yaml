@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/brotli
+package: pkg:deb/ubuntu/brotli
 versions:
   - purl: pkg:deb/ubuntu/brotli@0.2.0%2Bdfsg-1
     affected_by_vulnerabilities:

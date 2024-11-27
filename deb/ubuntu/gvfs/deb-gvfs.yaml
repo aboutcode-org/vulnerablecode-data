@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gvfs
+package: pkg:deb/ubuntu/gvfs
 versions:
   - purl: pkg:deb/ubuntu/gvfs@0.0.2-0ubuntu1
     affected_by_vulnerabilities:

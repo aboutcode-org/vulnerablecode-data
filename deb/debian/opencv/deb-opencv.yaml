@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/opencv
+package: pkg:deb/debian/opencv
 versions:
   - purl: pkg:deb/debian/opencv@0?distro=sid
     affected_by_vulnerabilities: []

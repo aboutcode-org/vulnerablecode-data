@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/merkaartor
+package: pkg:deb/debian/merkaartor
 versions:
   - purl: pkg:deb/debian/merkaartor@0.14%2Bsvnfixes~20090912-2?distro=sid
     affected_by_vulnerabilities: []

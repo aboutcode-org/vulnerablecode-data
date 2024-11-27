@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mldonkey
+package: pkg:deb/debian/mldonkey
 versions:
   - purl: pkg:deb/debian/mldonkey@0?distro=sid
     affected_by_vulnerabilities: []

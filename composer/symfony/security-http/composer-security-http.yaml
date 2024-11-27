@@ -1,4 +1,4 @@
-pacakge: pkg:composer/symfony/security-http
+package: pkg:composer/symfony/security-http
 versions:
   - purl: pkg:composer/symfony/security-http@2.4.0
     affected_by_vulnerabilities:

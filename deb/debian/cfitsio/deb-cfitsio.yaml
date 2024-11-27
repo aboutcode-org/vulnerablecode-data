@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cfitsio
+package: pkg:deb/debian/cfitsio
 versions:
   - purl: pkg:deb/debian/cfitsio@3.410-1?distro=stretch
     affected_by_vulnerabilities:

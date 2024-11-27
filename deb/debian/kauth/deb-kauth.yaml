@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kauth
+package: pkg:deb/debian/kauth
 versions:
   - purl: pkg:deb/debian/kauth@5.100.0-1?distro=sid
     affected_by_vulnerabilities: []

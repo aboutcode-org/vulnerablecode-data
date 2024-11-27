@@ -1,4 +1,4 @@
-pacakge: pkg:composer/pear/archive_tar
+package: pkg:composer/pear/archive_tar
 versions:
   - purl: pkg:composer/pear/archive_tar@1.3.11
     affected_by_vulnerabilities:

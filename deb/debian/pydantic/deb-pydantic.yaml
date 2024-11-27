@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pydantic
+package: pkg:deb/debian/pydantic
 versions:
   - purl: pkg:deb/debian/pydantic@1.10.2-1?distro=sid
     affected_by_vulnerabilities: []

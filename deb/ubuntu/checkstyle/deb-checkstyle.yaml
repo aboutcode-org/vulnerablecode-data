@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/checkstyle
+package: pkg:deb/ubuntu/checkstyle
 versions:
   - purl: pkg:deb/ubuntu/checkstyle@3.4-3
     affected_by_vulnerabilities:

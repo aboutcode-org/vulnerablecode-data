@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libjifty-dbi-perl
+package: pkg:deb/debian/libjifty-dbi-perl
 versions:
   - purl: pkg:deb/debian/libjifty-dbi-perl@0.68-1?distro=sid
     affected_by_vulnerabilities: []

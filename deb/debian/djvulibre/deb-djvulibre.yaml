@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/djvulibre
+package: pkg:deb/debian/djvulibre
 versions:
   - purl: pkg:deb/debian/djvulibre@3.5.25.3-1?distro=sid
     affected_by_vulnerabilities: []

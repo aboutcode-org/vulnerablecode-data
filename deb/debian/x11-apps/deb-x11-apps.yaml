@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/x11-apps
+package: pkg:deb/debian/x11-apps
 versions:
   - purl: pkg:deb/debian/x11-apps@7.7~1?distro=sid
     affected_by_vulnerabilities: []

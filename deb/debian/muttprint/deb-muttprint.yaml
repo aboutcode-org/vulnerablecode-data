@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/muttprint
+package: pkg:deb/debian/muttprint
 versions:
   - purl: pkg:deb/debian/muttprint@0.72d-10?distro=sid
     affected_by_vulnerabilities: []

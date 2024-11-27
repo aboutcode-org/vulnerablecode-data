@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/novnc
+package: pkg:deb/debian/novnc
 versions:
   - purl: pkg:deb/debian/novnc@1:0.4%2Bdfsg%2B1%2B20131010%2Bgitf68af8af3d-4?distro=sid
     affected_by_vulnerabilities: []

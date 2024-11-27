@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/cfitsio
+package: pkg:deb/ubuntu/cfitsio
 versions:
   - purl: pkg:deb/ubuntu/cfitsio@2.490-1
     affected_by_vulnerabilities:

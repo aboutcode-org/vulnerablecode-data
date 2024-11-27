@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/amanda
+package: pkg:deb/debian/amanda
 versions:
   - purl: pkg:deb/debian/amanda@1:3.3.9-5?distro=stretch
     affected_by_vulnerabilities: []

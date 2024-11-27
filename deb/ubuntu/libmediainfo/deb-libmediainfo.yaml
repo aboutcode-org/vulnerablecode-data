@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libmediainfo
+package: pkg:deb/ubuntu/libmediainfo
 versions:
   - purl: pkg:deb/ubuntu/libmediainfo@0.7.52-1
     affected_by_vulnerabilities:

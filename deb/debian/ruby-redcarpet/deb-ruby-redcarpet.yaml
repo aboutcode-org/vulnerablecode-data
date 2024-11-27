@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-redcarpet
+package: pkg:deb/debian/ruby-redcarpet
 versions:
   - purl: pkg:deb/debian/ruby-redcarpet@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/owl
+package: pkg:deb/debian/owl
 versions:
   - purl: pkg:deb/debian/owl@2.2.2-1?distro=stretch
     affected_by_vulnerabilities: []

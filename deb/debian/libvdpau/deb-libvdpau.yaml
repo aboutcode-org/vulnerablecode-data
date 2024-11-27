@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libvdpau
+package: pkg:deb/debian/libvdpau
 versions:
   - purl: pkg:deb/debian/libvdpau@1.1.1-1?distro=sid
     affected_by_vulnerabilities: []

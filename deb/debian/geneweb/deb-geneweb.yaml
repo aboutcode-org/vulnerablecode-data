@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/geneweb
+package: pkg:deb/debian/geneweb
 versions:
   - purl: pkg:deb/debian/geneweb@4.06-2woody1
     affected_by_vulnerabilities:

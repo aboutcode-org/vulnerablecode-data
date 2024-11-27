@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nbd
+package: pkg:deb/debian/nbd
 versions:
   - purl: pkg:deb/debian/nbd@0?distro=stretch
     affected_by_vulnerabilities: []

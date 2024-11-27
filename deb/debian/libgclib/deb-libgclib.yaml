@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libgclib
+package: pkg:deb/debian/libgclib
 versions:
   - purl: pkg:deb/debian/libgclib@0.11.10%2Bds-2?distro=sid
     affected_by_vulnerabilities:

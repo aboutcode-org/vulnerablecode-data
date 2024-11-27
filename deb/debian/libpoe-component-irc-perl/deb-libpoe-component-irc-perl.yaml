@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libpoe-component-irc-perl
+package: pkg:deb/debian/libpoe-component-irc-perl
 versions:
   - purl: pkg:deb/debian/libpoe-component-irc-perl@6.32%2Bdfsg-1?distro=sid
     affected_by_vulnerabilities: []

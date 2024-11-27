@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jackd2
+package: pkg:deb/debian/jackd2
 versions:
   - purl: pkg:deb/debian/jackd2@1.9.10%2B20150825git1ed50c92~dfsg-5?distro=stretch
     affected_by_vulnerabilities:

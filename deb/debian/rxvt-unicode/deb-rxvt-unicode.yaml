@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rxvt-unicode
+package: pkg:deb/debian/rxvt-unicode
 versions:
   - purl: pkg:deb/debian/rxvt-unicode@3.8-1?distro=sid
     affected_by_vulnerabilities: []

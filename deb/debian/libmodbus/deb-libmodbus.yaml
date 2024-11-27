@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libmodbus
+package: pkg:deb/debian/libmodbus
 versions:
   - purl: pkg:deb/debian/libmodbus@3.0.6-2?distro=stretch
     affected_by_vulnerabilities: []

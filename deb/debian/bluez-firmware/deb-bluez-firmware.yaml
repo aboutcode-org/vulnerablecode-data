@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bluez-firmware
+package: pkg:deb/debian/bluez-firmware
 versions:
   - purl: pkg:deb/debian/bluez-firmware@0?distro=buster
     affected_by_vulnerabilities: []

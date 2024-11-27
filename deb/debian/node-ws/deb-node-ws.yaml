@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-ws
+package: pkg:deb/debian/node-ws
 versions:
   - purl: pkg:deb/debian/node-ws@1.0.1%2Bds1.e6ddaae4-1?distro=sid
     affected_by_vulnerabilities: []

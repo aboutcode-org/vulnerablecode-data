@@ -1,4 +1,4 @@
-pacakge: pkg:composer/spatie/browsershot
+package: pkg:composer/spatie/browsershot
 versions:
   - purl: pkg:composer/spatie/browsershot@0.1.0
     affected_by_vulnerabilities:

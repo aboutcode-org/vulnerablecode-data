@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libsoap-lite-perl
+package: pkg:deb/ubuntu/libsoap-lite-perl
 versions:
   - purl: pkg:deb/ubuntu/libsoap-lite-perl@0.710.10-1
     affected_by_vulnerabilities:

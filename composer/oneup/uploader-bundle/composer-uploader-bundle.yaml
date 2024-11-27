@@ -1,4 +1,4 @@
-pacakge: pkg:composer/oneup/uploader-bundle
+package: pkg:composer/oneup/uploader-bundle
 versions:
   - purl: pkg:composer/oneup/uploader-bundle@0.9.0
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libcatalyst-plugin-static-simple-perl
+package: pkg:deb/debian/libcatalyst-plugin-static-simple-perl
 versions:
   - purl: pkg:deb/debian/libcatalyst-plugin-static-simple-perl@0.33-1?distro=stretch
     affected_by_vulnerabilities:

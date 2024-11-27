@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nautilus
+package: pkg:deb/debian/nautilus
 versions:
   - purl: pkg:deb/debian/nautilus@0?distro=stretch
     affected_by_vulnerabilities: []

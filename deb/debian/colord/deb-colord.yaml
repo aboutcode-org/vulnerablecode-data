@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/colord
+package: pkg:deb/debian/colord
 versions:
   - purl: pkg:deb/debian/colord@0.1.15-1?distro=sid
     affected_by_vulnerabilities: []

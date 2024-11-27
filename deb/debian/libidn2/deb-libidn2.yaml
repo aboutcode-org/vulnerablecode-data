@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libidn2
+package: pkg:deb/debian/libidn2
 versions:
   - purl: pkg:deb/debian/libidn2@2.0.5-1%2Bdeb10u1?distro=sid
     affected_by_vulnerabilities:

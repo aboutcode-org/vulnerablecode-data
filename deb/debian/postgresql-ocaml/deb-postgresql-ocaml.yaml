@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/postgresql-ocaml
+package: pkg:deb/debian/postgresql-ocaml
 versions:
   - purl: pkg:deb/debian/postgresql-ocaml@1.12.1-1?distro=sid
     affected_by_vulnerabilities: []

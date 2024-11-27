@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libidn
+package: pkg:alpine/libidn
 versions:
   - purl: pkg:alpine/libidn@1.33-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

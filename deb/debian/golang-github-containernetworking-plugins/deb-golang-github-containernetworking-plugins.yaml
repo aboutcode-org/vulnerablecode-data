@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-containernetworking-plugins
+package: pkg:deb/debian/golang-github-containernetworking-plugins
 versions:
   - purl: pkg:deb/debian/golang-github-containernetworking-plugins@0?distro=sid
     affected_by_vulnerabilities: []

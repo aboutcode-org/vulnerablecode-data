@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openjdk-21
+package: pkg:deb/debian/openjdk-21
 versions:
   - purl: pkg:deb/debian/openjdk-21@21~7ea-1?distro=sid
     affected_by_vulnerabilities: []

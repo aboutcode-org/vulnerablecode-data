@@ -1,4 +1,4 @@
-pacakge: pkg:conan/cairo
+package: pkg:conan/cairo
 versions:
   - purl: pkg:conan/cairo@1.16.0
     affected_by_vulnerabilities:

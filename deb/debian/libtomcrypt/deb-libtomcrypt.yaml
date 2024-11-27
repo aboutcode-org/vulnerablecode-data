@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libtomcrypt
+package: pkg:deb/debian/libtomcrypt
 versions:
   - purl: pkg:deb/debian/libtomcrypt@1.17-8?distro=sid
     affected_by_vulnerabilities: []

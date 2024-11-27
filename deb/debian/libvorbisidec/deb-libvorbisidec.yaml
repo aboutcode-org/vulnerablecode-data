@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libvorbisidec
+package: pkg:deb/debian/libvorbisidec
 versions:
   - purl: pkg:deb/debian/libvorbisidec@0?distro=sid
     affected_by_vulnerabilities: []

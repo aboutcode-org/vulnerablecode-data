@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/minidlna
+package: pkg:alpine/minidlna
 versions:
   - purl: pkg:alpine/minidlna@1.2.1-r2?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

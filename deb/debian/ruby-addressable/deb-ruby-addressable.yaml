@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-addressable
+package: pkg:deb/debian/ruby-addressable
 versions:
   - purl: pkg:deb/debian/ruby-addressable@2.4.0-1?distro=stretch
     affected_by_vulnerabilities:

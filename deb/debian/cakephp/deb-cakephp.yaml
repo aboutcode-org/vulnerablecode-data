@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cakephp
+package: pkg:deb/debian/cakephp
 versions:
   - purl: pkg:deb/debian/cakephp@0?distro=sid
     affected_by_vulnerabilities: []

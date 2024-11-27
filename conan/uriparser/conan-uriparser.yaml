@@ -1,4 +1,4 @@
-pacakge: pkg:conan/uriparser
+package: pkg:conan/uriparser
 versions:
   - purl: pkg:conan/uriparser@0.9.3
     affected_by_vulnerabilities:

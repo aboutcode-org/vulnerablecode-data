@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gnuchess
+package: pkg:deb/ubuntu/gnuchess
 versions:
   - purl: pkg:deb/ubuntu/gnuchess@5.07-2
     affected_by_vulnerabilities:

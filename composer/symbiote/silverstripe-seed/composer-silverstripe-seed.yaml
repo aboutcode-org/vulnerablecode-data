@@ -1,4 +1,4 @@
-pacakge: pkg:composer/symbiote/silverstripe-seed
+package: pkg:composer/symbiote/silverstripe-seed
 versions:
   - purl: pkg:composer/symbiote/silverstripe-seed@1.1.0
     affected_by_vulnerabilities:

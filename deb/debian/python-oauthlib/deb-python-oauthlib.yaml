@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-oauthlib
+package: pkg:deb/debian/python-oauthlib
 versions:
   - purl: pkg:deb/debian/python-oauthlib@0?distro=sid
     affected_by_vulnerabilities: []

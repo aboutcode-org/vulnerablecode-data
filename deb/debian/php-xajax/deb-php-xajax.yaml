@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-xajax
+package: pkg:deb/debian/php-xajax
 versions:
   - purl: pkg:deb/debian/php-xajax@0.2.4-2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/snapd
+package: pkg:deb/debian/snapd
 versions:
   - purl: pkg:deb/debian/snapd@0?distro=stretch
     affected_by_vulnerabilities: []

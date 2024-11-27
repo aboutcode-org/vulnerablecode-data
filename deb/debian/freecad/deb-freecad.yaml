@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/freecad
+package: pkg:deb/debian/freecad
 versions:
   - purl: pkg:deb/debian/freecad@0?distro=sid
     affected_by_vulnerabilities: []

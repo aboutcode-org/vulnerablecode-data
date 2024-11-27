@@ -1,4 +1,4 @@
-pacakge: pkg:composer/yab/quarx
+package: pkg:composer/yab/quarx
 versions:
   - purl: pkg:composer/yab/quarx@0.1.1
     affected_by_vulnerabilities:

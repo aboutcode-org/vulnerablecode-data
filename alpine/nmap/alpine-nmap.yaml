@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/nmap
+package: pkg:alpine/nmap
 versions:
   - purl: pkg:alpine/nmap@7.60-r3?arch=aarch64&distroversion=v3.7&reponame=main
     affected_by_vulnerabilities: []

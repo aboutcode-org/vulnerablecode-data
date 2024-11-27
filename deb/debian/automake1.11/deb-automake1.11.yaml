@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/automake1.11
+package: pkg:deb/debian/automake1.11
 versions:
   - purl: pkg:deb/debian/automake1.11@1:1.11.6-1?distro=sid
     affected_by_vulnerabilities: []

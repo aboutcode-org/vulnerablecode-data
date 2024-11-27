@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/fex
+package: pkg:deb/ubuntu/fex
 versions:
   - purl: pkg:deb/ubuntu/fex@20091210%2Bdebian0-2
     affected_by_vulnerabilities:

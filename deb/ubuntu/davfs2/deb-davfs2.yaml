@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/davfs2
+package: pkg:deb/ubuntu/davfs2
 versions:
   - purl: pkg:deb/ubuntu/davfs2@0.2.3-2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/qt6-base
+package: pkg:deb/debian/qt6-base
 versions:
   - purl: pkg:deb/debian/qt6-base@0?distro=sid
     affected_by_vulnerabilities: []

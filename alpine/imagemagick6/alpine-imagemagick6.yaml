@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/imagemagick6
+package: pkg:alpine/imagemagick6
 versions:
   - purl: pkg:alpine/imagemagick6@6.9.10.37-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sox
+package: pkg:deb/debian/sox
 versions:
   - purl: pkg:deb/debian/sox@11gamma-cb3-5
     affected_by_vulnerabilities:

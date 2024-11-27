@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libcrypt-cbc-perl
+package: pkg:deb/debian/libcrypt-cbc-perl
 versions:
   - purl: pkg:deb/debian/libcrypt-cbc-perl@2.12-1sarge2
     affected_by_vulnerabilities:

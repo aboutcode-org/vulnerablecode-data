@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/containerd
+package: pkg:deb/debian/containerd
 versions:
   - purl: pkg:deb/debian/containerd@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-openid
+package: pkg:deb/debian/ruby-openid
 versions:
   - purl: pkg:deb/debian/ruby-openid@2.1.8debian-6?distro=sid
     affected_by_vulnerabilities: []

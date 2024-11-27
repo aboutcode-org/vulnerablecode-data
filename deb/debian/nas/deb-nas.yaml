@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nas
+package: pkg:deb/debian/nas
 versions:
   - purl: pkg:deb/debian/nas@1.2p5-11
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pdf.js
+package: pkg:deb/debian/pdf.js
 versions:
   - purl: pkg:deb/debian/pdf.js@1.1.366%2Bdfsg-1?distro=sid
     affected_by_vulnerabilities: []

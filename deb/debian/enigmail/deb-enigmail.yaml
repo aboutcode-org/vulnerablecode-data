@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/enigmail
+package: pkg:deb/debian/enigmail
 versions:
   - purl: pkg:deb/debian/enigmail@2:0.91-4sarge2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libcrypt-eksblowfish-perl
+package: pkg:deb/debian/libcrypt-eksblowfish-perl
 versions:
   - purl: pkg:deb/debian/libcrypt-eksblowfish-perl@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libpgobject-util-dbadmin-perl
+package: pkg:deb/ubuntu/libpgobject-util-dbadmin-perl
 versions:
   - purl: pkg:deb/ubuntu/libpgobject-util-dbadmin-perl@0.100.0-1
     affected_by_vulnerabilities:

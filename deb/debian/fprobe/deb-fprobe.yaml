@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fprobe
+package: pkg:deb/debian/fprobe
 versions:
   - purl: pkg:deb/debian/fprobe@0.4-3
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/exceedone/exment
+package: pkg:composer/exceedone/exment
 versions:
   - purl: pkg:composer/exceedone/exment@0.1.1
     affected_by_vulnerabilities:

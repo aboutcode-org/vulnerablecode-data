@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/adplug
+package: pkg:deb/debian/adplug
 versions:
   - purl: pkg:deb/debian/adplug@2.0.1-1?distro=sid
     affected_by_vulnerabilities: []

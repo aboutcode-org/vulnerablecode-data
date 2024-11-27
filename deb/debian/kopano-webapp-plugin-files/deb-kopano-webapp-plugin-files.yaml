@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kopano-webapp-plugin-files
+package: pkg:deb/debian/kopano-webapp-plugin-files
 versions:
   - purl: pkg:deb/debian/kopano-webapp-plugin-files@2.1.5%2Bdfsg1-1?distro=sid
     affected_by_vulnerabilities:

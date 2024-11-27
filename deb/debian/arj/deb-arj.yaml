@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/arj
+package: pkg:deb/debian/arj
 versions:
   - purl: pkg:deb/debian/arj@0?distro=sid
     affected_by_vulnerabilities: []

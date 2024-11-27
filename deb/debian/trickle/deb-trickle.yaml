@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/trickle
+package: pkg:deb/debian/trickle
 versions:
   - purl: pkg:deb/debian/trickle@1.07-10?distro=stretch
     affected_by_vulnerabilities: []

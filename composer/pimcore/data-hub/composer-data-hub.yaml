@@ -1,4 +1,4 @@
-pacakge: pkg:composer/pimcore/data-hub
+package: pkg:composer/pimcore/data-hub
 versions:
   - purl: pkg:composer/pimcore/data-hub@0.1
     affected_by_vulnerabilities:

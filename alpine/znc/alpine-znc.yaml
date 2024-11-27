@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/znc
+package: pkg:alpine/znc
 versions:
   - purl: pkg:alpine/znc@1.7.1-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

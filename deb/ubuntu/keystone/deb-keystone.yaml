@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/keystone
+package: pkg:deb/ubuntu/keystone
 versions:
   - purl: pkg:deb/ubuntu/keystone@1.0~d4~20110823.1078-0ubuntu1
     affected_by_vulnerabilities:

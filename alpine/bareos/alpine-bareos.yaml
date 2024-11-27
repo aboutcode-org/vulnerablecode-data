@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/bareos
+package: pkg:alpine/bareos
 versions:
   - purl: pkg:alpine/bareos@18.2.9-r0?arch=aarch64&distroversion=v3.12&reponame=community
     affected_by_vulnerabilities: []

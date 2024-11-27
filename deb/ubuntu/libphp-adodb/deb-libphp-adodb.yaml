@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libphp-adodb
+package: pkg:deb/ubuntu/libphp-adodb
 versions:
   - purl: pkg:deb/ubuntu/libphp-adodb@4.21-1
     affected_by_vulnerabilities:

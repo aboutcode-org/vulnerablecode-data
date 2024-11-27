@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fso-gsmd
+package: pkg:deb/debian/fso-gsmd
 versions:
   - purl: pkg:deb/debian/fso-gsmd@0.12.0-4?distro=stretch
     affected_by_vulnerabilities: []

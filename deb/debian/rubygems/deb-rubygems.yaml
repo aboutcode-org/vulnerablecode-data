@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rubygems
+package: pkg:deb/debian/rubygems
 versions:
   - purl: pkg:deb/debian/rubygems@0?distro=sid
     affected_by_vulnerabilities: []

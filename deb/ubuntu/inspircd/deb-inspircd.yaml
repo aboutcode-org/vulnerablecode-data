@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/inspircd
+package: pkg:deb/ubuntu/inspircd
 versions:
   - purl: pkg:deb/ubuntu/inspircd@1.1.15%2Bdfsg-1
     affected_by_vulnerabilities:

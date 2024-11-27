@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/firefox
+package: pkg:deb/debian/firefox
 versions:
   - purl: pkg:deb/debian/firefox@0?distro=sid
     affected_by_vulnerabilities: []

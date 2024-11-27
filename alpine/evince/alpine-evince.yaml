@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/evince
+package: pkg:alpine/evince
 versions:
   - purl: pkg:alpine/evince@3.24.0-r2?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

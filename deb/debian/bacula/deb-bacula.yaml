@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bacula
+package: pkg:deb/debian/bacula
 versions:
   - purl: pkg:deb/debian/bacula@1.36.2-2sarge1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/elefant/cms
+package: pkg:composer/elefant/cms
 versions:
   - purl: pkg:composer/elefant/cms@1.3.13
     affected_by_vulnerabilities: []

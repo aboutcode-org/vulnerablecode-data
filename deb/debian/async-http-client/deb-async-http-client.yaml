@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/async-http-client
+package: pkg:deb/debian/async-http-client
 versions:
   - purl: pkg:deb/debian/async-http-client@0?distro=sid
     affected_by_vulnerabilities: []

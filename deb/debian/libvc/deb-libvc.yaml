@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libvc
+package: pkg:deb/debian/libvc
 versions:
   - purl: pkg:deb/debian/libvc@003-4?distro=sid
     affected_by_vulnerabilities: []

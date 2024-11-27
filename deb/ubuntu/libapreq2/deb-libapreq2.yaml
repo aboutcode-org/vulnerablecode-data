@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libapreq2
+package: pkg:deb/ubuntu/libapreq2
 versions:
   - purl: pkg:deb/ubuntu/libapreq2@2.06-dev-2
     affected_by_vulnerabilities:

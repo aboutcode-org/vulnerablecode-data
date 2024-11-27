@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/netkit-tftp
+package: pkg:deb/debian/netkit-tftp
 versions:
   - purl: pkg:deb/debian/netkit-tftp@0?distro=sid
     affected_by_vulnerabilities: []

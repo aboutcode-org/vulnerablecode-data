@@ -1,4 +1,4 @@
-pacakge: pkg:composer/zendframework/zend-feed
+package: pkg:composer/zendframework/zend-feed
 versions:
   - purl: pkg:composer/zendframework/zend-feed@1.0.0
     affected_by_vulnerabilities:

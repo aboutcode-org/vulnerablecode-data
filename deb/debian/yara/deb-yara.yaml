@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/yara
+package: pkg:deb/debian/yara
 versions:
   - purl: pkg:deb/debian/yara@0?distro=stretch
     affected_by_vulnerabilities: []

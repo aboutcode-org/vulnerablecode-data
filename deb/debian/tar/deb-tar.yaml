@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tar
+package: pkg:deb/debian/tar
 versions:
   - purl: pkg:deb/debian/tar@1.12-6
     affected_by_vulnerabilities:

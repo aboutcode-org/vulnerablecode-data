@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libzip
+package: pkg:alpine/libzip
 versions:
   - purl: pkg:alpine/libzip@1.2.0-r2?arch=aarch64&distroversion=v3.6&reponame=community
     affected_by_vulnerabilities: []

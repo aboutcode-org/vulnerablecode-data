@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/acpi-support
+package: pkg:deb/debian/acpi-support
 versions:
   - purl: pkg:deb/debian/acpi-support@0.142-2?distro=sid
     affected_by_vulnerabilities: []

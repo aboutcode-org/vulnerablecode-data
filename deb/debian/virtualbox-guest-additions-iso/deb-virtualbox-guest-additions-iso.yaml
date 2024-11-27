@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/virtualbox-guest-additions-iso
+package: pkg:deb/debian/virtualbox-guest-additions-iso
 versions:
   - purl: pkg:deb/debian/virtualbox-guest-additions-iso@4.0.10-1?distro=sid
     affected_by_vulnerabilities: []

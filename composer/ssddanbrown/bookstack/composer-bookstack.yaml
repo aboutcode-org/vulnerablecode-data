@@ -1,4 +1,4 @@
-pacakge: pkg:composer/ssddanbrown/bookstack
+package: pkg:composer/ssddanbrown/bookstack
 versions:
   - purl: pkg:composer/ssddanbrown/bookstack@0.10.0
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/neovim
+package: pkg:alpine/neovim
 versions:
   - purl: pkg:alpine/neovim@0.1.6-r1?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

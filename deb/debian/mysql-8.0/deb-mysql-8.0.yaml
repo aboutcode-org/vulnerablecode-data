@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mysql-8.0
+package: pkg:deb/debian/mysql-8.0
 versions:
   - purl: pkg:deb/debian/mysql-8.0@0?distro=sid
     affected_by_vulnerabilities: []

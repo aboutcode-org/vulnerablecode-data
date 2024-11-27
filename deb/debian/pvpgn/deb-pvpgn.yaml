@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pvpgn
+package: pkg:deb/debian/pvpgn
 versions:
   - purl: pkg:deb/debian/pvpgn@1.6.4%2B20040826-1?distro=sid
     affected_by_vulnerabilities: []

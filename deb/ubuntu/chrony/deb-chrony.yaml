@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/chrony
+package: pkg:deb/ubuntu/chrony
 versions:
   - purl: pkg:deb/ubuntu/chrony@1.20-5
     affected_by_vulnerabilities:

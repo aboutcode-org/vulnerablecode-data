@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/chromium
+package: pkg:deb/debian/chromium
 versions:
   - purl: pkg:deb/debian/chromium@0?distro=sid
     affected_by_vulnerabilities: []

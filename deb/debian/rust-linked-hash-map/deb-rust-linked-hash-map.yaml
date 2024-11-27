@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-linked-hash-map
+package: pkg:deb/debian/rust-linked-hash-map
 versions:
   - purl: pkg:deb/debian/rust-linked-hash-map@0.5.1-1?distro=sid
     affected_by_vulnerabilities:

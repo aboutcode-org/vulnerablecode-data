@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jags
+package: pkg:deb/debian/jags
 versions:
   - purl: pkg:deb/debian/jags@1.0.4-1?distro=sid
     affected_by_vulnerabilities: []

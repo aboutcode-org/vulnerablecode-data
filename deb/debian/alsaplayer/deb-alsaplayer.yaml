@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/alsaplayer
+package: pkg:deb/debian/alsaplayer
 versions:
   - purl: pkg:deb/debian/alsaplayer@0.99.26-2.1
     affected_by_vulnerabilities:

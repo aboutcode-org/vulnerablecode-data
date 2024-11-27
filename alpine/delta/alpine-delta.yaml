@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/delta
+package: pkg:alpine/delta
 versions:
   - purl: pkg:alpine/delta@0.13.0-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

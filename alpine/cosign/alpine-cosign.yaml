@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/cosign
+package: pkg:alpine/cosign
 versions:
   - purl: pkg:alpine/cosign@1.10.1-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

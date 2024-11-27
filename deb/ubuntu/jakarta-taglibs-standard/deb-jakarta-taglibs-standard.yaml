@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/jakarta-taglibs-standard
+package: pkg:deb/ubuntu/jakarta-taglibs-standard
 versions:
   - purl: pkg:deb/ubuntu/jakarta-taglibs-standard@1.1.2-1
     affected_by_vulnerabilities:

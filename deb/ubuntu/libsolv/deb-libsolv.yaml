@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libsolv
+package: pkg:deb/ubuntu/libsolv
 versions:
   - purl: pkg:deb/ubuntu/libsolv@0.6.11-1
     affected_by_vulnerabilities:

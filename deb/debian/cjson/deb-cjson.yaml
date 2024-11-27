@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cjson
+package: pkg:deb/debian/cjson
 versions:
   - purl: pkg:deb/debian/cjson@0?distro=sid
     affected_by_vulnerabilities: []

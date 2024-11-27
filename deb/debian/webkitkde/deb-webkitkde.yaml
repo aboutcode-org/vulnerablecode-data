@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/webkitkde
+package: pkg:deb/debian/webkitkde
 versions:
   - purl: pkg:deb/debian/webkitkde@0.4svn1059630-1?distro=stretch
     affected_by_vulnerabilities: []

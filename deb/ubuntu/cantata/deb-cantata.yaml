@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/cantata
+package: pkg:deb/ubuntu/cantata
 versions:
   - purl: pkg:deb/ubuntu/cantata@0.9.2-0ubuntu1
     affected_by_vulnerabilities:

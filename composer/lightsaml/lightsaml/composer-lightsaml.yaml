@@ -1,4 +1,4 @@
-pacakge: pkg:composer/lightsaml/lightsaml
+package: pkg:composer/lightsaml/lightsaml
 versions:
   - purl: pkg:composer/lightsaml/lightsaml@0.1.0
     affected_by_vulnerabilities:

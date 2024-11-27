@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libupnp
+package: pkg:deb/debian/libupnp
 versions:
   - purl: pkg:deb/debian/libupnp@1:1.6.17-1.2?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/iptables
+package: pkg:deb/debian/iptables
 versions:
   - purl: pkg:deb/debian/iptables@1.2.11-10
     affected_by_vulnerabilities: []

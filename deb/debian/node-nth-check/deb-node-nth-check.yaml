@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-nth-check
+package: pkg:deb/debian/node-nth-check
 versions:
   - purl: pkg:deb/debian/node-nth-check@1.0.1-1?distro=sid
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/chasen
+package: pkg:deb/debian/chasen
 versions:
   - purl: pkg:deb/debian/chasen@2.4.4-17?distro=sid
     affected_by_vulnerabilities: []

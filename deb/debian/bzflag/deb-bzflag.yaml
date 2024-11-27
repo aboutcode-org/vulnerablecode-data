@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bzflag
+package: pkg:deb/debian/bzflag
 versions:
   - purl: pkg:deb/debian/bzflag@1.7d-1
     affected_by_vulnerabilities:

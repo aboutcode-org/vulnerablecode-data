@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cscope
+package: pkg:deb/debian/cscope
 versions:
   - purl: pkg:deb/debian/cscope@15.3-1woody2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/haskell-cmark-gfm
+package: pkg:deb/debian/haskell-cmark-gfm
 versions:
   - purl: pkg:deb/debian/haskell-cmark-gfm@0.1.5-2?distro=sid
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/buildah
+package: pkg:alpine/buildah
 versions:
   - purl: pkg:alpine/buildah@1.14.4-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

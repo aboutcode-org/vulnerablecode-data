@@ -1,4 +1,4 @@
-pacakge: pkg:composer/impresscms/impresscms
+package: pkg:composer/impresscms/impresscms
 versions:
   - purl: pkg:composer/impresscms/impresscms@1.4.0
     affected_by_vulnerabilities:

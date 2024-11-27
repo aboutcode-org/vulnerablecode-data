@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/archvsync
+package: pkg:deb/debian/archvsync
 versions:
   - purl: pkg:deb/debian/archvsync@20171017?distro=sid
     affected_by_vulnerabilities: []

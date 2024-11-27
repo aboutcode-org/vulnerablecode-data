@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-django
+package: pkg:deb/debian/python-django
 versions:
   - purl: pkg:deb/debian/python-django@0?distro=sid
     affected_by_vulnerabilities: []

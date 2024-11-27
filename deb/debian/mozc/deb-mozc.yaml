@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mozc
+package: pkg:deb/debian/mozc
 versions:
   - purl: pkg:deb/debian/mozc@1.12.1599.102-1?distro=sid
     affected_by_vulnerabilities: []

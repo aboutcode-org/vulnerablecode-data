@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/autokey
+package: pkg:deb/debian/autokey
 versions:
   - purl: pkg:deb/debian/autokey@0.61.3-2?distro=sid
     affected_by_vulnerabilities: []

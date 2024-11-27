@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libconvert-uulib-perl
+package: pkg:deb/debian/libconvert-uulib-perl
 versions:
   - purl: pkg:deb/debian/libconvert-uulib-perl@0?distro=sid
     affected_by_vulnerabilities: []

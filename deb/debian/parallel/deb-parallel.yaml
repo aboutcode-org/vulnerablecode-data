@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/parallel
+package: pkg:deb/debian/parallel
 versions:
   - purl: pkg:deb/debian/parallel@20161222-1?distro=sid
     affected_by_vulnerabilities: []

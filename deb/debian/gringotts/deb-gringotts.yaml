@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gringotts
+package: pkg:deb/debian/gringotts
 versions:
   - purl: pkg:deb/debian/gringotts@0?distro=sid
     affected_by_vulnerabilities: []

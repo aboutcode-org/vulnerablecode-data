@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libssh
+package: pkg:alpine/libssh
 versions:
   - purl: pkg:alpine/libssh@0.7.6-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

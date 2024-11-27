@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libsamplerate
+package: pkg:deb/ubuntu/libsamplerate
 versions:
   - purl: pkg:deb/ubuntu/libsamplerate@0.1.0-1
     affected_by_vulnerabilities:

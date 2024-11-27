@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/flim
+package: pkg:deb/debian/flim
 versions:
   - purl: pkg:deb/debian/flim@1:1.12.7-14
     affected_by_vulnerabilities:

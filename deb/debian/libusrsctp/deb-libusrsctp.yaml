@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libusrsctp
+package: pkg:deb/debian/libusrsctp
 versions:
   - purl: pkg:deb/debian/libusrsctp@0.9.3.0%2B20190127-2?distro=sid
     affected_by_vulnerabilities:

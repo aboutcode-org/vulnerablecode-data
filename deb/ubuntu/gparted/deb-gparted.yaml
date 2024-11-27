@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gparted
+package: pkg:deb/ubuntu/gparted
 versions:
   - purl: pkg:deb/ubuntu/gparted@0.0.8%2Bcvs2005022001-0ubuntu1
     affected_by_vulnerabilities:

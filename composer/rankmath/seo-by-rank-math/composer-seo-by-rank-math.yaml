@@ -1,4 +1,4 @@
-pacakge: pkg:composer/rankmath/seo-by-rank-math
+package: pkg:composer/rankmath/seo-by-rank-math
 versions:
   - purl: pkg:composer/rankmath/seo-by-rank-math@1.0.44
     affected_by_vulnerabilities:

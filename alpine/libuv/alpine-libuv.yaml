@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libuv
+package: pkg:alpine/libuv
 versions:
   - purl: pkg:alpine/libuv@1.38.1-r0?arch=aarch64&distroversion=v3.12&reponame=main
     affected_by_vulnerabilities: []

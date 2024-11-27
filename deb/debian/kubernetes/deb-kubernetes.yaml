@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kubernetes
+package: pkg:deb/debian/kubernetes
 versions:
   - purl: pkg:deb/debian/kubernetes@0?distro=sid
     affected_by_vulnerabilities: []

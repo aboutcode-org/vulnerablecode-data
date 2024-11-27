@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/admesh
+package: pkg:deb/debian/admesh
 versions:
   - purl: pkg:deb/debian/admesh@0.98.2-3?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/passenger
+package: pkg:deb/debian/passenger
 versions:
   - purl: pkg:deb/debian/passenger@0?distro=sid
     affected_by_vulnerabilities: []

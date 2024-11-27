@@ -1,4 +1,4 @@
-pacakge: pkg:composer/symfony/http-foundation
+package: pkg:composer/symfony/http-foundation
 versions:
   - purl: pkg:composer/symfony/http-foundation@2.0.0
     affected_by_vulnerabilities:

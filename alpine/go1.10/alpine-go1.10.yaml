@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/go1.10
+package: pkg:alpine/go1.10
 versions:
   - purl: pkg:alpine/go1.10@1.9.4-r0?arch=aarch64&distroversion=v3.7&reponame=community
     affected_by_vulnerabilities: []

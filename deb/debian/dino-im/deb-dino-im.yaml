@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dino-im
+package: pkg:deb/debian/dino-im
 versions:
   - purl: pkg:deb/debian/dino-im@0.0.git20181129-1%2Bdeb10u1?distro=sid
     affected_by_vulnerabilities:

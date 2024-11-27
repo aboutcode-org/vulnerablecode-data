@@ -1,4 +1,4 @@
-pacakge: pkg:composer/prestashop/gamification
+package: pkg:composer/prestashop/gamification
 versions:
   - purl: pkg:composer/prestashop/gamification@1.11.0
     affected_by_vulnerabilities:

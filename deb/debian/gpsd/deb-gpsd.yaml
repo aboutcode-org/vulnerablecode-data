@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gpsd
+package: pkg:deb/debian/gpsd
 versions:
   - purl: pkg:deb/debian/gpsd@2.7-4?distro=sid
     affected_by_vulnerabilities: []

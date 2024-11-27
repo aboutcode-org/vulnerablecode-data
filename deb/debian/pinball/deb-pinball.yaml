@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pinball
+package: pkg:deb/debian/pinball
 versions:
   - purl: pkg:deb/debian/pinball@0.3.1-11?distro=sid
     affected_by_vulnerabilities: []

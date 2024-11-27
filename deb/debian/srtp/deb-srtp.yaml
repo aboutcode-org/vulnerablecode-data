@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/srtp
+package: pkg:deb/debian/srtp
 versions:
   - purl: pkg:deb/debian/srtp@1.4.5~20130609~dfsg-1?distro=stretch
     affected_by_vulnerabilities: []

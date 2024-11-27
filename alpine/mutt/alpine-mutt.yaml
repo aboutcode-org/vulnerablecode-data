@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/mutt
+package: pkg:alpine/mutt
 versions:
   - purl: pkg:alpine/mutt@1.10.1-r0?arch=aarch64&distroversion=v3.5&reponame=main
     affected_by_vulnerabilities: []

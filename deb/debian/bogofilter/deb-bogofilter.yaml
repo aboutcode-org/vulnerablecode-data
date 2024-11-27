@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bogofilter
+package: pkg:deb/debian/bogofilter
 versions:
   - purl: pkg:deb/debian/bogofilter@0.9.0.5?distro=sid
     affected_by_vulnerabilities: []

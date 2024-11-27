@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-1.8
+package: pkg:deb/debian/golang-1.8
 versions:
   - purl: pkg:deb/debian/golang-1.8@0?distro=stretch
     affected_by_vulnerabilities: []

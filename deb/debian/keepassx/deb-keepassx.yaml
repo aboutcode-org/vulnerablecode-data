@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/keepassx
+package: pkg:deb/debian/keepassx
 versions:
   - purl: pkg:deb/debian/keepassx@0.4.3%2Bdfsg-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/wp-premium/gravityforms
+package: pkg:composer/wp-premium/gravityforms
 versions:
   - purl: pkg:composer/wp-premium/gravityforms@2.2.6.5
     affected_by_vulnerabilities:

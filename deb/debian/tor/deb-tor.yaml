@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tor
+package: pkg:deb/debian/tor
 versions:
   - purl: pkg:deb/debian/tor@0?distro=sid
     affected_by_vulnerabilities: []

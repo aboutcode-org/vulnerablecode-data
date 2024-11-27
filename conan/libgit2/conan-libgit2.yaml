@@ -1,4 +1,4 @@
-pacakge: pkg:conan/libgit2
+package: pkg:conan/libgit2
 versions:
   - purl: pkg:conan/libgit2@0.27.10
     affected_by_vulnerabilities:

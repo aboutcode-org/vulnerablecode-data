@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/magics%2B%2B
+package: pkg:deb/debian/magics%2B%2B
 versions:
   - purl: pkg:deb/debian/magics%2B%2B@2.10.0.dfsg-5.1?distro=sid
     affected_by_vulnerabilities: []

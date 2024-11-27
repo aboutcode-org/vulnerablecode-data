@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/surf
+package: pkg:deb/debian/surf
 versions:
   - purl: pkg:deb/debian/surf@0.4.1-6?distro=sid
     affected_by_vulnerabilities: []

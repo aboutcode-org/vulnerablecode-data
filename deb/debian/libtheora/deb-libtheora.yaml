@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libtheora
+package: pkg:deb/debian/libtheora
 versions:
   - purl: pkg:deb/debian/libtheora@1.1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/squid
+package: pkg:deb/debian/squid
 versions:
   - purl: pkg:deb/debian/squid@0?distro=sid
     affected_by_vulnerabilities: []

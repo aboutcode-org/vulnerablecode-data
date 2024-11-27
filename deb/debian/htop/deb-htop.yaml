@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/htop
+package: pkg:deb/debian/htop
 versions:
   - purl: pkg:deb/debian/htop@0.8.1-2?distro=sid
     affected_by_vulnerabilities: []

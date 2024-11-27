@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/yubico-pam
+package: pkg:deb/debian/yubico-pam
 versions:
   - purl: pkg:deb/debian/yubico-pam@2.10-1?distro=sid
     affected_by_vulnerabilities: []

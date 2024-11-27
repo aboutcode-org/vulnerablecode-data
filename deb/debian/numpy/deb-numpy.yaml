@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/numpy
+package: pkg:deb/debian/numpy
 versions:
   - purl: pkg:deb/debian/numpy@1:1.19.5-1?distro=sid
     affected_by_vulnerabilities:

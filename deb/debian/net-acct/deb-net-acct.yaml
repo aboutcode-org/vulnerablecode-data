@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/net-acct
+package: pkg:deb/debian/net-acct
 versions:
   - purl: pkg:deb/debian/net-acct@0.5-6
     affected_by_vulnerabilities:

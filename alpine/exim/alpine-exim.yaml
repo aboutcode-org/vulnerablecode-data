@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/exim
+package: pkg:alpine/exim
 versions:
   - purl: pkg:alpine/exim@4.89.1-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

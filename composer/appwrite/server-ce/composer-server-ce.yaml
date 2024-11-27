@@ -1,4 +1,4 @@
-pacakge: pkg:composer/appwrite/server-ce
+package: pkg:composer/appwrite/server-ce
 versions:
   - purl: pkg:composer/appwrite/server-ce@0.10.0
     affected_by_vulnerabilities:

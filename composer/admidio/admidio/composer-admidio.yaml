@@ -1,4 +1,4 @@
-pacakge: pkg:composer/admidio/admidio
+package: pkg:composer/admidio/admidio
 versions:
   - purl: pkg:composer/admidio/admidio@4.1.0
     affected_by_vulnerabilities:

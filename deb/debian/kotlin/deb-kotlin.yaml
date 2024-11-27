@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kotlin
+package: pkg:deb/debian/kotlin
 versions:
   - purl: pkg:deb/debian/kotlin@0?distro=sid
     affected_by_vulnerabilities: []

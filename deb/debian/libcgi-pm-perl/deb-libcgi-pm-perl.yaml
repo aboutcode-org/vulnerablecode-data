@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libcgi-pm-perl
+package: pkg:deb/debian/libcgi-pm-perl
 versions:
   - purl: pkg:deb/debian/libcgi-pm-perl@3.50-1?distro=sid
     affected_by_vulnerabilities: []

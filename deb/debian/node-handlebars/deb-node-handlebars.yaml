@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-handlebars
+package: pkg:deb/debian/node-handlebars
 versions:
   - purl: pkg:deb/debian/node-handlebars@0?distro=sid
     affected_by_vulnerabilities: []

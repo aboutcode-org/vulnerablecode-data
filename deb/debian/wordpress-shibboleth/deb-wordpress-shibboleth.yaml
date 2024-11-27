@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/wordpress-shibboleth
+package: pkg:deb/debian/wordpress-shibboleth
 versions:
   - purl: pkg:deb/debian/wordpress-shibboleth@1.4-2%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

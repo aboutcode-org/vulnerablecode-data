@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/coreutils
+package: pkg:deb/ubuntu/coreutils
 versions:
   - purl: pkg:deb/ubuntu/coreutils@5.0.91-2
     affected_by_vulnerabilities:

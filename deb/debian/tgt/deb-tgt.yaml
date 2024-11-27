@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tgt
+package: pkg:deb/debian/tgt
 versions:
   - purl: pkg:deb/debian/tgt@1:1.0.3-2?distro=sid
     affected_by_vulnerabilities: []

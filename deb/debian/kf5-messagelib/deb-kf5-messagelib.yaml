@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kf5-messagelib
+package: pkg:deb/debian/kf5-messagelib
 versions:
   - purl: pkg:deb/debian/kf5-messagelib@0?distro=sid
     affected_by_vulnerabilities: []

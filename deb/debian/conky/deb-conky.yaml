@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/conky
+package: pkg:deb/debian/conky
 versions:
   - purl: pkg:deb/debian/conky@1.10.6-1?distro=stretch
     affected_by_vulnerabilities: []

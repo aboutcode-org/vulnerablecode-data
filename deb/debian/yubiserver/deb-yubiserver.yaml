@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/yubiserver
+package: pkg:deb/debian/yubiserver
 versions:
   - purl: pkg:deb/debian/yubiserver@0.6-1?distro=sid
     affected_by_vulnerabilities: []

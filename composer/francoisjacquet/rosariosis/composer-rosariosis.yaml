@@ -1,4 +1,4 @@
-pacakge: pkg:composer/francoisjacquet/rosariosis
+package: pkg:composer/francoisjacquet/rosariosis
 versions:
   - purl: pkg:composer/francoisjacquet/rosariosis@10.1
     affected_by_vulnerabilities:

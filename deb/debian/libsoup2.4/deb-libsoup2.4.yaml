@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libsoup2.4
+package: pkg:deb/debian/libsoup2.4
 versions:
   - purl: pkg:deb/debian/libsoup2.4@0?distro=sid
     affected_by_vulnerabilities: []

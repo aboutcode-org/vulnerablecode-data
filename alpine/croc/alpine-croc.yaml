@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/croc
+package: pkg:alpine/croc
 versions:
   - purl: pkg:alpine/croc@9.1.0-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

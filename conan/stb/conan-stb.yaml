@@ -1,4 +1,4 @@
-pacakge: pkg:conan/stb
+package: pkg:conan/stb
 versions:
   - purl: pkg:conan/stb@cci.20200203
     affected_by_vulnerabilities:

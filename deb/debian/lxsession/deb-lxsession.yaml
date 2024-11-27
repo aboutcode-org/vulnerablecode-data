@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lxsession
+package: pkg:deb/debian/lxsession
 versions:
   - purl: pkg:deb/debian/lxsession@0.4.4-3?distro=sid
     affected_by_vulnerabilities: []

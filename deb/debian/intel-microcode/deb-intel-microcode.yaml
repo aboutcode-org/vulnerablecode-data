@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/intel-microcode
+package: pkg:deb/debian/intel-microcode
 versions:
   - purl: pkg:deb/debian/intel-microcode@3.20180425.1?distro=sid
     affected_by_vulnerabilities: []

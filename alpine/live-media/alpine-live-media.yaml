@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/live-media
+package: pkg:alpine/live-media
 versions:
   - purl: pkg:alpine/live-media@2022.02.07-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

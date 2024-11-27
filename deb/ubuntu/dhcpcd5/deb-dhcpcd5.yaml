@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/dhcpcd5
+package: pkg:deb/ubuntu/dhcpcd5
 versions:
   - purl: pkg:deb/ubuntu/dhcpcd5@5.2.12-1
     affected_by_vulnerabilities:

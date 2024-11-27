@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/timeshift
+package: pkg:deb/debian/timeshift
 versions:
   - purl: pkg:deb/debian/timeshift@19.01%2Bds-2%2Bdeb10u1?distro=sid
     affected_by_vulnerabilities: []

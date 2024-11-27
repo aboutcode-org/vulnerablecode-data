@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/redis
+package: pkg:alpine/redis
 versions:
   - purl: pkg:alpine/redis@3.2.12-r0?arch=aarch64&distroversion=v3.5&reponame=main
     affected_by_vulnerabilities: []

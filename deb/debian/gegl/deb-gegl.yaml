@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gegl
+package: pkg:deb/debian/gegl
 versions:
   - purl: pkg:deb/debian/gegl@0.2.0-2%2Bnmu1?distro=sid
     affected_by_vulnerabilities: []

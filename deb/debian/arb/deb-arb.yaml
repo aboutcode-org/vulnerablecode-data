@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/arb
+package: pkg:deb/debian/arb
 versions:
   - purl: pkg:deb/debian/arb@0.0.20071207.1-5?distro=sid
     affected_by_vulnerabilities: []

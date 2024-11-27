@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libspiro
+package: pkg:deb/debian/libspiro
 versions:
   - purl: pkg:deb/debian/libspiro@1:0.5.20150702-4?distro=stretch
     affected_by_vulnerabilities:

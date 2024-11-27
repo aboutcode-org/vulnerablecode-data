@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/telepathy-idle
+package: pkg:deb/debian/telepathy-idle
 versions:
   - purl: pkg:deb/debian/telepathy-idle@0.1.15-1?distro=sid
     affected_by_vulnerabilities: []

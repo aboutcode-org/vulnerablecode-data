@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gif2png
+package: pkg:deb/debian/gif2png
 versions:
   - purl: pkg:deb/debian/gif2png@2.5.2-1?distro=stretch
     affected_by_vulnerabilities: []

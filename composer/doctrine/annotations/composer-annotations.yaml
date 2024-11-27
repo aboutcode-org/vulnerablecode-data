@@ -1,4 +1,4 @@
-pacakge: pkg:composer/doctrine/annotations
+package: pkg:composer/doctrine/annotations
 versions:
   - purl: pkg:composer/doctrine/annotations@1.0
     affected_by_vulnerabilities:

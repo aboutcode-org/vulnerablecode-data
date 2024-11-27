@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ekg
+package: pkg:deb/debian/ekg
 versions:
   - purl: pkg:deb/debian/ekg@1:1.5%2B20050712%2B1.6rc2-1?distro=stretch
     affected_by_vulnerabilities: []

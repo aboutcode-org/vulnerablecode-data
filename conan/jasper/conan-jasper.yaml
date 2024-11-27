@@ -1,4 +1,4 @@
-pacakge: pkg:conan/jasper
+package: pkg:conan/jasper
 versions:
   - purl: pkg:conan/jasper@2.0.14
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libdbd-mysql-perl
+package: pkg:deb/debian/libdbd-mysql-perl
 versions:
   - purl: pkg:deb/debian/libdbd-mysql-perl@4.033-1?distro=sid
     affected_by_vulnerabilities: []

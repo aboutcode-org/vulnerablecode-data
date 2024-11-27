@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/apache2
+package: pkg:alpine/apache2
 versions:
   - purl: pkg:alpine/apache2@2.4.23-r1?arch=armhf&distroversion=v3.4&reponame=main
     affected_by_vulnerabilities: []

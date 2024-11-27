@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xmlsec1
+package: pkg:deb/debian/xmlsec1
 versions:
   - purl: pkg:deb/debian/xmlsec1@1.2.12-1?distro=sid
     affected_by_vulnerabilities: []

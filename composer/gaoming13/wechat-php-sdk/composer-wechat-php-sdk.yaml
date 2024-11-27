@@ -1,4 +1,4 @@
-pacakge: pkg:composer/gaoming13/wechat-php-sdk
+package: pkg:composer/gaoming13/wechat-php-sdk
 versions:
   - purl: pkg:composer/gaoming13/wechat-php-sdk@1.0
     affected_by_vulnerabilities:

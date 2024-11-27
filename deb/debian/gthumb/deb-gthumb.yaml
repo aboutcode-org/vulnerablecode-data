@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gthumb
+package: pkg:deb/debian/gthumb
 versions:
   - purl: pkg:deb/debian/gthumb@3:3.11.1-0.1?distro=sid
     affected_by_vulnerabilities: []

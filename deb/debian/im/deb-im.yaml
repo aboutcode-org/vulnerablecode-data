@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/im
+package: pkg:deb/debian/im
 versions:
   - purl: pkg:deb/debian/im@1:100-3
     affected_by_vulnerabilities:

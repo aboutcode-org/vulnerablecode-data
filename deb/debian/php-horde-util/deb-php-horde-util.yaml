@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php-horde-util
+package: pkg:deb/debian/php-horde-util
 versions:
   - purl: pkg:deb/debian/php-horde-util@2.3.0-1?distro=sid
     affected_by_vulnerabilities: []

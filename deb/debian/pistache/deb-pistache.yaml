@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pistache
+package: pkg:deb/debian/pistache
 versions:
   - purl: pkg:deb/debian/pistache@0?distro=sid
     affected_by_vulnerabilities: []

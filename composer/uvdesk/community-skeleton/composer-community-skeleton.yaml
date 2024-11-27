@@ -1,4 +1,4 @@
-pacakge: pkg:composer/uvdesk/community-skeleton
+package: pkg:composer/uvdesk/community-skeleton
 versions:
   - purl: pkg:composer/uvdesk/community-skeleton@1.0.0
     affected_by_vulnerabilities:

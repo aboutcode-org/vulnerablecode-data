@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/patchwork
+package: pkg:alpine/patchwork
 versions:
   - purl: pkg:alpine/patchwork@1.1.3-r1?arch=aarch64&distroversion=v3.7&reponame=main
     affected_by_vulnerabilities: []

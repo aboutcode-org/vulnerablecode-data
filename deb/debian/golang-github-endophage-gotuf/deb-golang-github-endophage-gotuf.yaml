@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-endophage-gotuf
+package: pkg:deb/debian/golang-github-endophage-gotuf
 versions:
   - purl: pkg:deb/debian/golang-github-endophage-gotuf@0?distro=stretch
     affected_by_vulnerabilities: []

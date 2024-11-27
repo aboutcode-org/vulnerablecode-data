@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ktexteditor
+package: pkg:deb/debian/ktexteditor
 versions:
   - purl: pkg:deb/debian/ktexteditor@0?distro=stretch
     affected_by_vulnerabilities: []

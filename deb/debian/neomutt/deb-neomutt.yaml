@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/neomutt
+package: pkg:deb/debian/neomutt
 versions:
   - purl: pkg:deb/debian/neomutt@0?distro=sid
     affected_by_vulnerabilities: []

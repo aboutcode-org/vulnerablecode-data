@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mongo-java-driver
+package: pkg:deb/debian/mongo-java-driver
 versions:
   - purl: pkg:deb/debian/mongo-java-driver@0?distro=sid
     affected_by_vulnerabilities: []

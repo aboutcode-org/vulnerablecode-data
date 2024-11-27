@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ekiga
+package: pkg:deb/debian/ekiga
 versions:
   - purl: pkg:deb/debian/ekiga@0?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libxslt
+package: pkg:deb/ubuntu/libxslt
 versions:
   - purl: pkg:deb/ubuntu/libxslt@1.1.12-3ubuntu3
     affected_by_vulnerabilities:

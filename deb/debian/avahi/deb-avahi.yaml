@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/avahi
+package: pkg:deb/debian/avahi
 versions:
   - purl: pkg:deb/debian/avahi@0?distro=sid
     affected_by_vulnerabilities: []

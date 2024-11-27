@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/streamripper
+package: pkg:deb/debian/streamripper
 versions:
   - purl: pkg:deb/debian/streamripper@1.61.25-2?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fish
+package: pkg:deb/debian/fish
 versions:
   - purl: pkg:deb/debian/fish@0?distro=sid
     affected_by_vulnerabilities: []

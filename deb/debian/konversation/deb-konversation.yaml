@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/konversation
+package: pkg:deb/debian/konversation
 versions:
   - purl: pkg:deb/debian/konversation@0.15-3?distro=sid
     affected_by_vulnerabilities: []

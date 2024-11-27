@@ -1,4 +1,4 @@
-pacakge: pkg:composer/zendframework/zend-captcha
+package: pkg:composer/zendframework/zend-captcha
 versions:
   - purl: pkg:composer/zendframework/zend-captcha@2.0.0
     affected_by_vulnerabilities:

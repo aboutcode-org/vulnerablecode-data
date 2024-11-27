@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/aria2
+package: pkg:deb/debian/aria2
 versions:
   - purl: pkg:deb/debian/aria2@1.2.0-1?distro=sid
     affected_by_vulnerabilities: []

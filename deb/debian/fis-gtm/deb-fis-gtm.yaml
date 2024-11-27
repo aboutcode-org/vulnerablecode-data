@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fis-gtm
+package: pkg:deb/debian/fis-gtm
 versions:
   - purl: pkg:deb/debian/fis-gtm@6.3-007-1?distro=sid
     affected_by_vulnerabilities:

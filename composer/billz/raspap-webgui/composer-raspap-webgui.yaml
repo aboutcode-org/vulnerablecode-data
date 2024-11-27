@@ -1,4 +1,4 @@
-pacakge: pkg:composer/billz/raspap-webgui
+package: pkg:composer/billz/raspap-webgui
 versions:
   - purl: pkg:composer/billz/raspap-webgui@2.4.1
     affected_by_vulnerabilities:

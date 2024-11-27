@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/litmus
+package: pkg:deb/debian/litmus
 versions:
   - purl: pkg:deb/debian/litmus@0.13-1?distro=sid
     affected_by_vulnerabilities: []

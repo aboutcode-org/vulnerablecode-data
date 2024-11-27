@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/eject
+package: pkg:deb/ubuntu/eject
 versions:
   - purl: pkg:deb/ubuntu/eject@2.0.13deb-13ubuntu1
     affected_by_vulnerabilities:

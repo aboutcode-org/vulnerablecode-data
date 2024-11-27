@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/icinga
+package: pkg:deb/debian/icinga
 versions:
   - purl: pkg:deb/debian/icinga@0?distro=buster
     affected_by_vulnerabilities: []

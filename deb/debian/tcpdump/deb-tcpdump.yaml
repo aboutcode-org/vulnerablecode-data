@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tcpdump
+package: pkg:deb/debian/tcpdump
 versions:
   - purl: pkg:deb/debian/tcpdump@0?distro=sid
     affected_by_vulnerabilities: []

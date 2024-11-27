@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pymongo
+package: pkg:deb/debian/pymongo
 versions:
   - purl: pkg:deb/debian/pymongo@2.5.2-1?distro=sid
     affected_by_vulnerabilities: []

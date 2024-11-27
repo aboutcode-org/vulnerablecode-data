@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/memcached
+package: pkg:deb/debian/memcached
 versions:
   - purl: pkg:deb/debian/memcached@0?distro=sid
     affected_by_vulnerabilities: []

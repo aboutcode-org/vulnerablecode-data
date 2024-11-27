@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/icu
+package: pkg:alpine/icu
 versions:
   - purl: pkg:alpine/icu@55.1-r3?arch=armhf&distroversion=v3.2&reponame=main
     affected_by_vulnerabilities: []

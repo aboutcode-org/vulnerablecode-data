@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/cakephp
+package: pkg:deb/ubuntu/cakephp
 versions:
   - purl: pkg:deb/ubuntu/cakephp@1.1.14.4797-1
     affected_by_vulnerabilities:

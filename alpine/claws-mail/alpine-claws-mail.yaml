@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/claws-mail
+package: pkg:alpine/claws-mail
 versions:
   - purl: pkg:alpine/claws-mail@3.17.6-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

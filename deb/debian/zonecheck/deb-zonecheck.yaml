@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/zonecheck
+package: pkg:deb/debian/zonecheck
 versions:
   - purl: pkg:deb/debian/zonecheck@2.1.1-1?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dash
+package: pkg:deb/debian/dash
 versions:
   - purl: pkg:deb/debian/dash@0?distro=sid
     affected_by_vulnerabilities: []

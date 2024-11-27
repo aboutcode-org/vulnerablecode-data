@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/yard
+package: pkg:deb/debian/yard
 versions:
   - purl: pkg:deb/debian/yard@0.9.12-1?distro=sid
     affected_by_vulnerabilities: []

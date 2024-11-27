@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/playmidi
+package: pkg:deb/debian/playmidi
 versions:
   - purl: pkg:deb/debian/playmidi@2.3-17
     affected_by_vulnerabilities:

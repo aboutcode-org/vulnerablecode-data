@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/audiofile
+package: pkg:deb/ubuntu/audiofile
 versions:
   - purl: pkg:deb/ubuntu/audiofile@0.2.6-4
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nspr
+package: pkg:deb/debian/nspr
 versions:
   - purl: pkg:deb/debian/nspr@2:4.10.10-1?distro=sid
     affected_by_vulnerabilities: []

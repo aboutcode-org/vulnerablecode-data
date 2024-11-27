@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-httplib2
+package: pkg:deb/debian/python-httplib2
 versions:
   - purl: pkg:deb/debian/python-httplib2@0.11.3-2?distro=sid
     affected_by_vulnerabilities:

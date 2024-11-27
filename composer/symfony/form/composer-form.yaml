@@ -1,4 +1,4 @@
-pacakge: pkg:composer/symfony/form
+package: pkg:composer/symfony/form
 versions:
   - purl: pkg:composer/symfony/form@2.0.10
     affected_by_vulnerabilities:

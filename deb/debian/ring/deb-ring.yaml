@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ring
+package: pkg:deb/debian/ring
 versions:
   - purl: pkg:deb/debian/ring@0?distro=sid
     affected_by_vulnerabilities: []

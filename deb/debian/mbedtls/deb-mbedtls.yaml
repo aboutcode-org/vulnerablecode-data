@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mbedtls
+package: pkg:deb/debian/mbedtls
 versions:
   - purl: pkg:deb/debian/mbedtls@0?distro=sid
     affected_by_vulnerabilities: []

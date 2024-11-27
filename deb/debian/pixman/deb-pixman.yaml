@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pixman
+package: pkg:deb/debian/pixman
 versions:
   - purl: pkg:deb/debian/pixman@0.26.0-4?distro=sid
     affected_by_vulnerabilities: []

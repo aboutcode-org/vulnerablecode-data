@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libfile-spec-perl
+package: pkg:deb/ubuntu/libfile-spec-perl
 versions:
   - purl: pkg:deb/ubuntu/libfile-spec-perl@0.90-1
     affected_by_vulnerabilities:

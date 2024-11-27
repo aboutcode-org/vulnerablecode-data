@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libmspack
+package: pkg:alpine/libmspack
 versions:
   - purl: pkg:alpine/libmspack@0.10.1_alpha-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

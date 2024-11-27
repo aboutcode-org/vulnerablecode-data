@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/prewikka
+package: pkg:deb/debian/prewikka
 versions:
   - purl: pkg:deb/debian/prewikka@1.0.0-1.1?distro=sid
     affected_by_vulnerabilities: []

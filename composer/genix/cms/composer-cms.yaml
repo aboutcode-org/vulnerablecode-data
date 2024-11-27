@@ -1,4 +1,4 @@
-pacakge: pkg:composer/genix/cms
+package: pkg:composer/genix/cms
 versions:
   - purl: pkg:composer/genix/cms@0.0.8
     affected_by_vulnerabilities:

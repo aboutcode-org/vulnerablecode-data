@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/asn1c
+package: pkg:deb/debian/asn1c
 versions:
   - purl: pkg:deb/debian/asn1c@0?distro=sid
     affected_by_vulnerabilities: []

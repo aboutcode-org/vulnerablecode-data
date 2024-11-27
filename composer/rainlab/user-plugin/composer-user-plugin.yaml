@@ -1,4 +1,4 @@
-pacakge: pkg:composer/rainlab/user-plugin
+package: pkg:composer/rainlab/user-plugin
 versions:
   - purl: pkg:composer/rainlab/user-plugin@1.4.5
     affected_by_vulnerabilities:

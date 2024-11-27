@@ -1,4 +1,4 @@
-pacakge: pkg:composer/hov/jobfair
+package: pkg:composer/hov/jobfair
 versions:
   - purl: pkg:composer/hov/jobfair@1.0.13
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bsd-mailx
+package: pkg:deb/debian/bsd-mailx
 versions:
   - purl: pkg:deb/debian/bsd-mailx@8.1.2-0.20071201cvs-1?distro=sid
     affected_by_vulnerabilities: []

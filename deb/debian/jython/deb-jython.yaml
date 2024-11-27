@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jython
+package: pkg:deb/debian/jython
 versions:
   - purl: pkg:deb/debian/jython@2.5.3-16%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities:

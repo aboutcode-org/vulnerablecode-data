@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/systemtap
+package: pkg:deb/debian/systemtap
 versions:
   - purl: pkg:deb/debian/systemtap@0.0.20090314-2?distro=sid
     affected_by_vulnerabilities: []

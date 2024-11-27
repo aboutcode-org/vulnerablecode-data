@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tinyxml
+package: pkg:deb/debian/tinyxml
 versions:
   - purl: pkg:deb/debian/tinyxml@2.6.2-4?distro=sid
     affected_by_vulnerabilities:

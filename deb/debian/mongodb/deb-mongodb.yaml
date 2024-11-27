@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mongodb
+package: pkg:deb/debian/mongodb
 versions:
   - purl: pkg:deb/debian/mongodb@0?distro=stretch
     affected_by_vulnerabilities: []

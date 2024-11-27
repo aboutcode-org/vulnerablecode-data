@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/lrzip
+package: pkg:alpine/lrzip
 versions:
   - purl: pkg:alpine/lrzip@0.640-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

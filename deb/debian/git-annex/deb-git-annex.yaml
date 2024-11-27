@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/git-annex
+package: pkg:deb/debian/git-annex
 versions:
   - purl: pkg:deb/debian/git-annex@10.20220504-1?distro=sid
     affected_by_vulnerabilities: []

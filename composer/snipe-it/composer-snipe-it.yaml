@@ -1,4 +1,4 @@
-pacakge: pkg:composer/snipe-it
+package: pkg:composer/snipe-it
 versions:
   - purl: pkg:composer/snipe-it@5.3.6
     affected_by_vulnerabilities: []

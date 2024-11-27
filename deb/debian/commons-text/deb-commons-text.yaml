@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/commons-text
+package: pkg:deb/debian/commons-text
 versions:
   - purl: pkg:deb/debian/commons-text@1.10.0-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libyang
+package: pkg:deb/debian/libyang
 versions:
   - purl: pkg:deb/debian/libyang@0.16.105-1%2Bdeb10u1?distro=sid
     affected_by_vulnerabilities:

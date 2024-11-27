@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/mupdf
+package: pkg:alpine/mupdf
 versions:
   - purl: pkg:alpine/mupdf@1.10a-r1?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

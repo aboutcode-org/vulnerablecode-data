@@ -1,4 +1,4 @@
-pacakge: pkg:composer/swag/paypal
+package: pkg:composer/swag/paypal
 versions:
   - purl: pkg:composer/swag/paypal@0.10.0
     affected_by_vulnerabilities:

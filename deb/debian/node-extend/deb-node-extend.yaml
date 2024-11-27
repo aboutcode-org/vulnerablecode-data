@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-extend
+package: pkg:deb/debian/node-extend
 versions:
   - purl: pkg:deb/debian/node-extend@0?distro=sid
     affected_by_vulnerabilities: []

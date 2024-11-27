@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gnuplot
+package: pkg:deb/ubuntu/gnuplot
 versions:
   - purl: pkg:deb/ubuntu/gnuplot@4.0.0-2
     affected_by_vulnerabilities:

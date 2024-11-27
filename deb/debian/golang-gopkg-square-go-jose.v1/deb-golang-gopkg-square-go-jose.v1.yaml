@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-gopkg-square-go-jose.v1
+package: pkg:deb/debian/golang-gopkg-square-go-jose.v1
 versions:
   - purl: pkg:deb/debian/golang-gopkg-square-go-jose.v1@1.0.5-1?distro=sid
     affected_by_vulnerabilities: []

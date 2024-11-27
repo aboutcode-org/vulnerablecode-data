@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/exiftags
+package: pkg:deb/debian/exiftags
 versions:
   - purl: pkg:deb/debian/exiftags@1.01-0.1?distro=sid
     affected_by_vulnerabilities: []

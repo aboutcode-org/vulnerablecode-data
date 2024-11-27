@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libxml2
+package: pkg:deb/debian/libxml2
 versions:
   - purl: pkg:deb/debian/libxml2@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nuitka
+package: pkg:deb/debian/nuitka
 versions:
   - purl: pkg:deb/debian/nuitka@0.6.11.3%2Bds-1.2?distro=sid
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/froxlor/froxlor
+package: pkg:composer/froxlor/froxlor
 versions:
   - purl: pkg:composer/froxlor/froxlor@0.10.0
     affected_by_vulnerabilities:

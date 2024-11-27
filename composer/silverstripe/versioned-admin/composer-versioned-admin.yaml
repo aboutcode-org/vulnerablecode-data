@@ -1,4 +1,4 @@
-pacakge: pkg:composer/silverstripe/versioned-admin
+package: pkg:composer/silverstripe/versioned-admin
 versions:
   - purl: pkg:composer/silverstripe/versioned-admin@1.0.0
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/asyncpg
+package: pkg:deb/debian/asyncpg
 versions:
   - purl: pkg:deb/debian/asyncpg@0.21.0-1?distro=sid
     affected_by_vulnerabilities: []

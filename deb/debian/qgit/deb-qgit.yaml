@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/qgit
+package: pkg:deb/debian/qgit
 versions:
   - purl: pkg:deb/debian/qgit@1.5.5-1.1?distro=sid
     affected_by_vulnerabilities: []

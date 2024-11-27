@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-treq
+package: pkg:deb/debian/python-treq
 versions:
   - purl: pkg:deb/debian/python-treq@15.1.0-1?distro=stretch
     affected_by_vulnerabilities: []

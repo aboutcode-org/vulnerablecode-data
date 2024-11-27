@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/spamassassin
+package: pkg:deb/debian/spamassassin
 versions:
   - purl: pkg:deb/debian/spamassassin@2.20-1woody4
     affected_by_vulnerabilities:

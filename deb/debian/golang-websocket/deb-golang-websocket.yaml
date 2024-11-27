@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-websocket
+package: pkg:deb/debian/golang-websocket
 versions:
   - purl: pkg:deb/debian/golang-websocket@1.1.0-1?distro=stretch
     affected_by_vulnerabilities: []

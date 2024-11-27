@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/dogtag-pki
+package: pkg:deb/ubuntu/dogtag-pki
 versions:
   - purl: pkg:deb/ubuntu/dogtag-pki@10.2.0-2
     affected_by_vulnerabilities:

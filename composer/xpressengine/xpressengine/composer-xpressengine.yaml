@@ -1,4 +1,4 @@
-pacakge: pkg:composer/xpressengine/xpressengine
+package: pkg:composer/xpressengine/xpressengine
 versions:
   - purl: pkg:composer/xpressengine/xpressengine@3.0.0
     affected_by_vulnerabilities:

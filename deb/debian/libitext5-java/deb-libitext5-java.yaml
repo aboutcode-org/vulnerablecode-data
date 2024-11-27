@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libitext5-java
+package: pkg:deb/debian/libitext5-java
 versions:
   - purl: pkg:deb/debian/libitext5-java@5.5.13-1?distro=sid
     affected_by_vulnerabilities:

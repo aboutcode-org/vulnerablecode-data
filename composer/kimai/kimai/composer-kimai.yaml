@@ -1,4 +1,4 @@
-pacakge: pkg:composer/kimai/kimai
+package: pkg:composer/kimai/kimai
 versions:
   - purl: pkg:composer/kimai/kimai@0.1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libplack-perl
+package: pkg:deb/ubuntu/libplack-perl
 versions:
   - purl: pkg:deb/ubuntu/libplack-perl@0.9938-1
     affected_by_vulnerabilities:

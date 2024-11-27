@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/qt6-declarative
+package: pkg:deb/debian/qt6-declarative
 versions:
   - purl: pkg:deb/debian/qt6-declarative@6.4.2%2Bdfsg-1?distro=sid
     affected_by_vulnerabilities: []

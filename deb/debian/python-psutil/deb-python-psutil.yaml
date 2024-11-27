@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-psutil
+package: pkg:deb/debian/python-psutil
 versions:
   - purl: pkg:deb/debian/python-psutil@5.0.1-1?distro=stretch
     affected_by_vulnerabilities:

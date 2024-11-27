@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libmodule-signature-perl
+package: pkg:deb/ubuntu/libmodule-signature-perl
 versions:
   - purl: pkg:deb/ubuntu/libmodule-signature-perl@0.35-2
     affected_by_vulnerabilities:

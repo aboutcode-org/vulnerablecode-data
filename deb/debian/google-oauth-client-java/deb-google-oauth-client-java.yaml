@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/google-oauth-client-java
+package: pkg:deb/debian/google-oauth-client-java
 versions:
   - purl: pkg:deb/debian/google-oauth-client-java@1.28.0-2?distro=sid
     affected_by_vulnerabilities:

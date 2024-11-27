@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/klibc
+package: pkg:deb/debian/klibc
 versions:
   - purl: pkg:deb/debian/klibc@0?distro=sid
     affected_by_vulnerabilities: []

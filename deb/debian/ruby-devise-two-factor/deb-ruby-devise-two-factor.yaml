@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-devise-two-factor
+package: pkg:deb/debian/ruby-devise-two-factor
 versions:
   - purl: pkg:deb/debian/ruby-devise-two-factor@2.0.0-1?distro=sid
     affected_by_vulnerabilities: []

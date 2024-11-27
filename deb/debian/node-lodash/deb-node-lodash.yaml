@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-lodash
+package: pkg:deb/debian/node-lodash
 versions:
   - purl: pkg:deb/debian/node-lodash@4.16.6%2Bdfsg-2?distro=stretch
     affected_by_vulnerabilities:

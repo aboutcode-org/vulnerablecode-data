@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/almanah
+package: pkg:deb/ubuntu/almanah
 versions:
   - purl: pkg:deb/ubuntu/almanah@0.10.0-1~exp1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/laminas/laminas-diactoros
+package: pkg:composer/laminas/laminas-diactoros
 versions:
   - purl: pkg:composer/laminas/laminas-diactoros@1.0.0
     affected_by_vulnerabilities:

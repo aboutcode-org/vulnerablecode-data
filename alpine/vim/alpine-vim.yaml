@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/vim
+package: pkg:alpine/vim
 versions:
   - purl: pkg:alpine/vim@7.4.1831-r2?arch=armhf&distroversion=v3.4&reponame=main
     affected_by_vulnerabilities: []

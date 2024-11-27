@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libxml2
+package: pkg:deb/ubuntu/libxml2
 versions:
   - purl: pkg:deb/ubuntu/libxml2@2.6.11-3ubuntu1
     affected_by_vulnerabilities:

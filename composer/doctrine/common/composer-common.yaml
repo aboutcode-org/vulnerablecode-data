@@ -1,4 +1,4 @@
-pacakge: pkg:composer/doctrine/common
+package: pkg:composer/doctrine/common
 versions:
   - purl: pkg:composer/doctrine/common@2.1.3
     affected_by_vulnerabilities:

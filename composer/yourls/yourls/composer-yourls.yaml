@@ -1,4 +1,4 @@
-pacakge: pkg:composer/yourls/yourls
+package: pkg:composer/yourls/yourls
 versions:
   - purl: pkg:composer/yourls/yourls@1.5.0
     affected_by_vulnerabilities:

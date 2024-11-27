@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/exfat-utils
+package: pkg:deb/debian/exfat-utils
 versions:
   - purl: pkg:deb/debian/exfat-utils@1.2.1-1?distro=buster
     affected_by_vulnerabilities: []

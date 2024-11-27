@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pcmanfm
+package: pkg:deb/debian/pcmanfm
 versions:
   - purl: pkg:deb/debian/pcmanfm@1.2.5-3?distro=sid
     affected_by_vulnerabilities: []

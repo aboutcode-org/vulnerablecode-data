@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libgsf
+package: pkg:deb/ubuntu/libgsf
 versions:
   - purl: pkg:deb/ubuntu/libgsf@1.11.1-1ubuntu1
     affected_by_vulnerabilities:

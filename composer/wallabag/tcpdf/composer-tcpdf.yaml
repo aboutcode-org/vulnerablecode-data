@@ -1,4 +1,4 @@
-pacakge: pkg:composer/wallabag/tcpdf
+package: pkg:composer/wallabag/tcpdf
 versions:
   - purl: pkg:composer/wallabag/tcpdf@6.0.013
     affected_by_vulnerabilities:

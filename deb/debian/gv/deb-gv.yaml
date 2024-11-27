@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gv
+package: pkg:deb/debian/gv
 versions:
   - purl: pkg:deb/debian/gv@1:3.5.8-17
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-py
+package: pkg:deb/debian/python-py
 versions:
   - purl: pkg:deb/debian/python-py@1.10.0-1?distro=sid
     affected_by_vulnerabilities: []

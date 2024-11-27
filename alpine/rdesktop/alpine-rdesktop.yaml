@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/rdesktop
+package: pkg:alpine/rdesktop
 versions:
   - purl: pkg:alpine/rdesktop@1.8.6-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

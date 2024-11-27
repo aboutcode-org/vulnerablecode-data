@@ -1,4 +1,4 @@
-pacakge: pkg:composer/contao-components/mediaelement
+package: pkg:composer/contao-components/mediaelement
 versions:
   - purl: pkg:composer/contao-components/mediaelement@2.14.2
     affected_by_vulnerabilities:

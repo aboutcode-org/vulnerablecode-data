@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/db5.3
+package: pkg:deb/debian/db5.3
 versions:
   - purl: pkg:deb/debian/db5.3@5.3.28-12%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities:

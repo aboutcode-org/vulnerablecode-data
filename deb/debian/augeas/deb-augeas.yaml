@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/augeas
+package: pkg:deb/debian/augeas
 versions:
   - purl: pkg:deb/debian/augeas@1.0.0-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mgetty
+package: pkg:deb/debian/mgetty
 versions:
   - purl: pkg:deb/debian/mgetty@1.1.14-2
     affected_by_vulnerabilities:

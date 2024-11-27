@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/lzo2
+package: pkg:deb/debian/lzo2
 versions:
   - purl: pkg:deb/debian/lzo2@2.08-1?distro=sid
     affected_by_vulnerabilities: []

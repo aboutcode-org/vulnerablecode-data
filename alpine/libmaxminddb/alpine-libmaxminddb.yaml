@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libmaxminddb
+package: pkg:alpine/libmaxminddb
 versions:
   - purl: pkg:alpine/libmaxminddb@1.3.2-r1?arch=aarch64&distroversion=v3.10&reponame=main
     affected_by_vulnerabilities: []

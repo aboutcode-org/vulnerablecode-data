@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/picolibc
+package: pkg:deb/debian/picolibc
 versions:
   - purl: pkg:deb/debian/picolibc@0?distro=sid
     affected_by_vulnerabilities: []

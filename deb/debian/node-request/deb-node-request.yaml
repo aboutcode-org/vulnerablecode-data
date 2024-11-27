@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-request
+package: pkg:deb/debian/node-request
 versions:
   - purl: pkg:deb/debian/node-request@2.26.1-1?distro=stretch
     affected_by_vulnerabilities:

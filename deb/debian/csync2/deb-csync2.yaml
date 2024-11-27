@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/csync2
+package: pkg:deb/debian/csync2
 versions:
   - purl: pkg:deb/debian/csync2@2.0-22-gce67c55-1%2Bdeb10u1?distro=sid
     affected_by_vulnerabilities:

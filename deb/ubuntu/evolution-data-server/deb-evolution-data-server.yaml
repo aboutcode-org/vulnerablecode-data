@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/evolution-data-server
+package: pkg:deb/ubuntu/evolution-data-server
 versions:
   - purl: pkg:deb/ubuntu/evolution-data-server@1.0.2-0ubuntu2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/cloud-init
+package: pkg:deb/ubuntu/cloud-init
 versions:
   - purl: pkg:deb/ubuntu/cloud-init@0.5.10-0ubuntu1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gcc-arm-none-eabi
+package: pkg:deb/ubuntu/gcc-arm-none-eabi
 versions:
   - purl: pkg:deb/ubuntu/gcc-arm-none-eabi@10
     affected_by_vulnerabilities:

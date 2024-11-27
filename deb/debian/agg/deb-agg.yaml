@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/agg
+package: pkg:deb/debian/agg
 versions:
   - purl: pkg:deb/debian/agg@1:2.4-r127%2Bdfsg1-1?distro=sid
     affected_by_vulnerabilities: []

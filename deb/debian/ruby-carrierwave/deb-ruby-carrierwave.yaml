@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-carrierwave
+package: pkg:deb/debian/ruby-carrierwave
 versions:
   - purl: pkg:deb/debian/ruby-carrierwave@0.10.0%2Bgh-4?distro=stretch
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:conan/uwebsockets
+package: pkg:conan/uwebsockets
 versions:
   - purl: pkg:conan/uwebsockets@19.1.0
     affected_by_vulnerabilities:

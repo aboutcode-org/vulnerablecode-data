@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/typespeed
+package: pkg:deb/debian/typespeed
 versions:
   - purl: pkg:deb/debian/typespeed@0.4.0-5
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rc
+package: pkg:deb/debian/rc
 versions:
   - purl: pkg:deb/debian/rc@1.7.1-5?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openrazer
+package: pkg:deb/debian/openrazer
 versions:
   - purl: pkg:deb/debian/openrazer@2.4.0%2Bdfsg-1?distro=sid
     affected_by_vulnerabilities:

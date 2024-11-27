@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/svgpp
+package: pkg:deb/debian/svgpp
 versions:
   - purl: pkg:deb/debian/svgpp@1.2.3%2Bdfsg1-5?distro=sid
     affected_by_vulnerabilities: []

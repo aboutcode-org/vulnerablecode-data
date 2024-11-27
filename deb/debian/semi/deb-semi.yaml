@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/semi
+package: pkg:deb/debian/semi
 versions:
   - purl: pkg:deb/debian/semi@1.13.7%2Bemiko.1.13.9.20000105-3
     affected_by_vulnerabilities:

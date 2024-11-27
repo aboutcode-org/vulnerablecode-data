@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dwarfutils
+package: pkg:deb/debian/dwarfutils
 versions:
   - purl: pkg:deb/debian/dwarfutils@0?distro=sid
     affected_by_vulnerabilities: []

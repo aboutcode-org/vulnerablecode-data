@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ceilometer
+package: pkg:deb/ubuntu/ceilometer
 versions:
   - purl: pkg:deb/ubuntu/ceilometer@0.1-0ubuntu1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/flarum/sticky
+package: pkg:composer/flarum/sticky
 versions:
   - purl: pkg:composer/flarum/sticky@0.1.0
     affected_by_vulnerabilities:

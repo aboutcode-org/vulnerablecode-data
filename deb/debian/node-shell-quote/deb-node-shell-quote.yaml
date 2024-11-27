@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-shell-quote
+package: pkg:deb/debian/node-shell-quote
 versions:
   - purl: pkg:deb/debian/node-shell-quote@0?distro=sid
     affected_by_vulnerabilities: []

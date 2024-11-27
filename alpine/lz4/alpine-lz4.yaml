@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/lz4
+package: pkg:alpine/lz4
 versions:
   - purl: pkg:alpine/lz4@1.9.1-r1?arch=aarch64&distroversion=v3.10&reponame=main
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/logilab-common
+package: pkg:deb/debian/logilab-common
 versions:
   - purl: pkg:deb/debian/logilab-common@0.61.0-1?distro=sid
     affected_by_vulnerabilities: []

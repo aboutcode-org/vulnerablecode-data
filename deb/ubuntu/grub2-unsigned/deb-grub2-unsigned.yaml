@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/grub2-unsigned
+package: pkg:deb/ubuntu/grub2-unsigned
 versions:
   - purl: pkg:deb/ubuntu/grub2-unsigned@2.04-1ubuntu42
     affected_by_vulnerabilities:

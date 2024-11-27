@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/myrepos
+package: pkg:deb/debian/myrepos
 versions:
   - purl: pkg:deb/debian/myrepos@1.20160123?distro=stretch
     affected_by_vulnerabilities:

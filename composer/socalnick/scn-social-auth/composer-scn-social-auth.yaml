@@ -1,4 +1,4 @@
-pacakge: pkg:composer/socalnick/scn-social-auth
+package: pkg:composer/socalnick/scn-social-auth
 versions:
   - purl: pkg:composer/socalnick/scn-social-auth@1.0.0
     affected_by_vulnerabilities:

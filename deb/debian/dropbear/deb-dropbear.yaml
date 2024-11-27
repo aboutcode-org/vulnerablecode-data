@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dropbear
+package: pkg:deb/debian/dropbear
 versions:
   - purl: pkg:deb/debian/dropbear@0.43-2?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/silverstripe/graphql
+package: pkg:composer/silverstripe/graphql
 versions:
   - purl: pkg:composer/silverstripe/graphql@0.2.0
     affected_by_vulnerabilities:

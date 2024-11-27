@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mathtex
+package: pkg:deb/debian/mathtex
 versions:
   - purl: pkg:deb/debian/mathtex@1.03-1?distro=sid
     affected_by_vulnerabilities: []

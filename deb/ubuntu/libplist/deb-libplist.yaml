@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libplist
+package: pkg:deb/ubuntu/libplist
 versions:
   - purl: pkg:deb/ubuntu/libplist@0.12-1
     affected_by_vulnerabilities:

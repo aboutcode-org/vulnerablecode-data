@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/binwalk
+package: pkg:deb/debian/binwalk
 versions:
   - purl: pkg:deb/debian/binwalk@2.1.2~git20180830%2Bdfsg1-1?distro=sid
     affected_by_vulnerabilities:

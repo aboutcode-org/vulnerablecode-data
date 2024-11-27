@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ceph-deploy
+package: pkg:deb/ubuntu/ceph-deploy
 versions:
   - purl: pkg:deb/ubuntu/ceph-deploy@1.0-0ubuntu1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openid4java
+package: pkg:deb/debian/openid4java
 versions:
   - purl: pkg:deb/debian/openid4java@0.9.6.662-1?distro=sid
     affected_by_vulnerabilities: []

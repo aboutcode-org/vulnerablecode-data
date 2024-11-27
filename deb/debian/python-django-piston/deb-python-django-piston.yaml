@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-django-piston
+package: pkg:deb/debian/python-django-piston
 versions:
   - purl: pkg:deb/debian/python-django-piston@0.2.2-2?distro=stretch
     affected_by_vulnerabilities: []

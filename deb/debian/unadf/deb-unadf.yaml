@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/unadf
+package: pkg:deb/debian/unadf
 versions:
   - purl: pkg:deb/debian/unadf@0.7.11a-4?distro=sid
     affected_by_vulnerabilities: []

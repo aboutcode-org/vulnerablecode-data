@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ocaml
+package: pkg:deb/debian/ocaml
 versions:
   - purl: pkg:deb/debian/ocaml@0?distro=sid
     affected_by_vulnerabilities: []

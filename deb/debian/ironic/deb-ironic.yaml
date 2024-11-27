@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ironic
+package: pkg:deb/debian/ironic
 versions:
   - purl: pkg:deb/debian/ironic@1:11.1.0-6?distro=sid
     affected_by_vulnerabilities: []

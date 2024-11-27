@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/bash
+package: pkg:deb/ubuntu/bash
 versions:
   - purl: pkg:deb/ubuntu/bash@2.05b-2-15ubuntu5
     affected_by_vulnerabilities:

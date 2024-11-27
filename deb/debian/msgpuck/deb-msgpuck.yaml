@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/msgpuck
+package: pkg:deb/debian/msgpuck
 versions:
   - purl: pkg:deb/debian/msgpuck@1.0.3-1.1?distro=sid
     affected_by_vulnerabilities: []

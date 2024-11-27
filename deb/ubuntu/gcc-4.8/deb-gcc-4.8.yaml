@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gcc-4.8
+package: pkg:deb/ubuntu/gcc-4.8
 versions:
   - purl: pkg:deb/ubuntu/gcc-4.8@4.8.0-4ubuntu1
     affected_by_vulnerabilities:

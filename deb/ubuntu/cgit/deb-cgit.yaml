@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/cgit
+package: pkg:deb/ubuntu/cgit
 versions:
   - purl: pkg:deb/ubuntu/cgit@0.10.2.git2.0.1-3
     affected_by_vulnerabilities:

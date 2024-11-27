@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/migrationtools
+package: pkg:deb/debian/migrationtools
 versions:
   - purl: pkg:deb/debian/migrationtools@40-1
     affected_by_vulnerabilities:

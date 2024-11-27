@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bzip2
+package: pkg:deb/debian/bzip2
 versions:
   - purl: pkg:deb/debian/bzip2@0.1pl2-5
     affected_by_vulnerabilities:

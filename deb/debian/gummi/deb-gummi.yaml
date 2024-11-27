@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gummi
+package: pkg:deb/debian/gummi
 versions:
   - purl: pkg:deb/debian/gummi@0.6.5-6?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libopenmpt
+package: pkg:deb/ubuntu/libopenmpt
 versions:
   - purl: pkg:deb/ubuntu/libopenmpt@0.2.7025~beta20.1-1
     affected_by_vulnerabilities:

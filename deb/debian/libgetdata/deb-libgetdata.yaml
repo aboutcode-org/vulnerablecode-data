@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libgetdata
+package: pkg:deb/debian/libgetdata
 versions:
   - purl: pkg:deb/debian/libgetdata@0.10.0-10?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libnl3
+package: pkg:deb/ubuntu/libnl3
 versions:
   - purl: pkg:deb/ubuntu/libnl3@3.0-1
     affected_by_vulnerabilities:

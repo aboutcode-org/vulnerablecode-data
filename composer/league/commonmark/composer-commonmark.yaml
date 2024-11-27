@@ -1,4 +1,4 @@
-pacakge: pkg:composer/league/commonmark
+package: pkg:composer/league/commonmark
 versions:
   - purl: pkg:composer/league/commonmark@0.1.0
     affected_by_vulnerabilities:

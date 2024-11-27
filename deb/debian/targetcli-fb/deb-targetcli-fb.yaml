@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/targetcli-fb
+package: pkg:deb/debian/targetcli-fb
 versions:
   - purl: pkg:deb/debian/targetcli-fb@0?distro=sid
     affected_by_vulnerabilities: []

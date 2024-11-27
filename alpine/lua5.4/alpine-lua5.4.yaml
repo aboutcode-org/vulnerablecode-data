@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/lua5.4
+package: pkg:alpine/lua5.4
 versions:
   - purl: pkg:alpine/lua5.4@5.3.5-r2?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

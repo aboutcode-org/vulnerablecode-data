@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/groonga
+package: pkg:deb/ubuntu/groonga
 versions:
   - purl: pkg:deb/ubuntu/groonga@4.0.6.1-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libxml-libxml-perl
+package: pkg:deb/debian/libxml-libxml-perl
 versions:
   - purl: pkg:deb/debian/libxml-libxml-perl@2.0116%2Bdfsg-2?distro=sid
     affected_by_vulnerabilities: []

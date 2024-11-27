@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/abcm2ps
+package: pkg:deb/debian/abcm2ps
 versions:
   - purl: pkg:deb/debian/abcm2ps@4.8.5-1?distro=sid
     affected_by_vulnerabilities: []

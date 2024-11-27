@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/mqtt-client
+package: pkg:deb/debian/mqtt-client
 versions:
   - purl: pkg:deb/debian/mqtt-client@1.14-1?distro=stretch
     affected_by_vulnerabilities: []

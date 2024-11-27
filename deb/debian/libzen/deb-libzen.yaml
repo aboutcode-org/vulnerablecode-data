@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libzen
+package: pkg:deb/debian/libzen
 versions:
   - purl: pkg:deb/debian/libzen@0.4.37-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/freeipa
+package: pkg:deb/debian/freeipa
 versions:
   - purl: pkg:deb/debian/freeipa@0?distro=sid
     affected_by_vulnerabilities: []

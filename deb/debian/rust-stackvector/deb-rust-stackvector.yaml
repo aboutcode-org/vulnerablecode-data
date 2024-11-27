@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-stackvector
+package: pkg:deb/debian/rust-stackvector
 versions:
   - purl: pkg:deb/debian/rust-stackvector@1.0.6-3?distro=sid
     affected_by_vulnerabilities: []

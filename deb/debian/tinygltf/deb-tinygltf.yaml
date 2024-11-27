@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tinygltf
+package: pkg:deb/debian/tinygltf
 versions:
   - purl: pkg:deb/debian/tinygltf@2.5.0%2Bdfsg-3?distro=sid
     affected_by_vulnerabilities:

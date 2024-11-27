@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/bsd-mailx
+package: pkg:deb/ubuntu/bsd-mailx
 versions:
   - purl: pkg:deb/ubuntu/bsd-mailx@8.1.2-0.20071201cvs-3
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/coturn
+package: pkg:deb/debian/coturn
 versions:
   - purl: pkg:deb/debian/coturn@4.5.0.5-1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

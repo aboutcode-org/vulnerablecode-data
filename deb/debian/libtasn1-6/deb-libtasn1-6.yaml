@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libtasn1-6
+package: pkg:deb/debian/libtasn1-6
 versions:
   - purl: pkg:deb/debian/libtasn1-6@3.6-1?distro=sid
     affected_by_vulnerabilities: []

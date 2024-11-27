@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/boa
+package: pkg:deb/ubuntu/boa
 versions:
   - purl: pkg:deb/ubuntu/boa@0.94.13-5
     affected_by_vulnerabilities:

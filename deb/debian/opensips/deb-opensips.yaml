@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/opensips
+package: pkg:deb/debian/opensips
 versions:
   - purl: pkg:deb/debian/opensips@0?distro=stretch
     affected_by_vulnerabilities: []

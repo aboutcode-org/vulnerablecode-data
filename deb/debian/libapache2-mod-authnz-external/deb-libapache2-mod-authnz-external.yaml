@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libapache2-mod-authnz-external
+package: pkg:deb/debian/libapache2-mod-authnz-external
 versions:
   - purl: pkg:deb/debian/libapache2-mod-authnz-external@3.2.4-2.1?distro=sid
     affected_by_vulnerabilities: []

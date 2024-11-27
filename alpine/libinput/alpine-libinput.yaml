@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libinput
+package: pkg:alpine/libinput
 versions:
   - purl: pkg:alpine/libinput@1.19.4-r0?arch=aarch64&distroversion=v3.15&reponame=community
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/cachethq/cachet
+package: pkg:composer/cachethq/cachet
 versions:
   - purl: pkg:composer/cachethq/cachet@0.1.0-alpha
     affected_by_vulnerabilities:

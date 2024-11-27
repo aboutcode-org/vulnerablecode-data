@@ -1,4 +1,4 @@
-pacakge: pkg:composer/fooman/tcpdf
+package: pkg:composer/fooman/tcpdf
 versions:
   - purl: pkg:composer/fooman/tcpdf@6.0.013
     affected_by_vulnerabilities:

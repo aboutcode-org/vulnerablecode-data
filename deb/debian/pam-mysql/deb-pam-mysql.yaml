@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pam-mysql
+package: pkg:deb/debian/pam-mysql
 versions:
   - purl: pkg:deb/debian/pam-mysql@0.4.7-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-image-processing
+package: pkg:deb/debian/ruby-image-processing
 versions:
   - purl: pkg:deb/debian/ruby-image-processing@1.10.3-1?distro=sid
     affected_by_vulnerabilities:

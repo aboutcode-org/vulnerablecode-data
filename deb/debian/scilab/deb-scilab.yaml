@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/scilab
+package: pkg:deb/debian/scilab
 versions:
   - purl: pkg:deb/debian/scilab@4.1.2-6?distro=sid
     affected_by_vulnerabilities: []

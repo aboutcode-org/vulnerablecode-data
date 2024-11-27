@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/percona-toolkit
+package: pkg:deb/debian/percona-toolkit
 versions:
   - purl: pkg:deb/debian/percona-toolkit@2.2.13-1?distro=sid
     affected_by_vulnerabilities: []

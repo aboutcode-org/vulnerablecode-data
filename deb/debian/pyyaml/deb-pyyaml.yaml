@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pyyaml
+package: pkg:deb/debian/pyyaml
 versions:
   - purl: pkg:deb/debian/pyyaml@0?distro=sid
     affected_by_vulnerabilities: []

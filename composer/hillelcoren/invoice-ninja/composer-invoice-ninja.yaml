@@ -1,4 +1,4 @@
-pacakge: pkg:composer/hillelcoren/invoice-ninja
+package: pkg:composer/hillelcoren/invoice-ninja
 versions:
   - purl: pkg:composer/hillelcoren/invoice-ninja@1.0.2
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libcloud
+package: pkg:deb/debian/libcloud
 versions:
   - purl: pkg:deb/debian/libcloud@0?distro=sid
     affected_by_vulnerabilities: []

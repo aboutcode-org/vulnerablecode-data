@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/postgis
+package: pkg:deb/debian/postgis
 versions:
   - purl: pkg:deb/debian/postgis@2.3.1%2Bdfsg-2?distro=stretch
     affected_by_vulnerabilities: []

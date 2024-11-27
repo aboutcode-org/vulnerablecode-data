@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-github-gin-gonic-gin
+package: pkg:deb/debian/golang-github-gin-gonic-gin
 versions:
   - purl: pkg:deb/debian/golang-github-gin-gonic-gin@1.3.0%2Bdfsg1-3
     affected_by_vulnerabilities:

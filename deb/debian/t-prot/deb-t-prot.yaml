@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/t-prot
+package: pkg:deb/debian/t-prot
 versions:
   - purl: pkg:deb/debian/t-prot@2.8-1?distro=sid
     affected_by_vulnerabilities: []

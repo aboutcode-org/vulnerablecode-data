@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/crossfire-maps
+package: pkg:deb/debian/crossfire-maps
 versions:
   - purl: pkg:deb/debian/crossfire-maps@1.11.0-2?distro=sid
     affected_by_vulnerabilities: []

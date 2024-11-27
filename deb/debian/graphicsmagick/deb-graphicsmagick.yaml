@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/graphicsmagick
+package: pkg:deb/debian/graphicsmagick
 versions:
   - purl: pkg:deb/debian/graphicsmagick@0?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/py3-jwt
+package: pkg:alpine/py3-jwt
 versions:
   - purl: pkg:alpine/py3-jwt@2.4.0-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

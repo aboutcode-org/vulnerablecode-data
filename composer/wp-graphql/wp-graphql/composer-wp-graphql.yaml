@@ -1,4 +1,4 @@
-pacakge: pkg:composer/wp-graphql/wp-graphql
+package: pkg:composer/wp-graphql/wp-graphql
 versions:
   - purl: pkg:composer/wp-graphql/wp-graphql@0.0.10
     affected_by_vulnerabilities:

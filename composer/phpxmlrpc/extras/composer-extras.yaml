@@ -1,4 +1,4 @@
-pacakge: pkg:composer/phpxmlrpc/extras
+package: pkg:composer/phpxmlrpc/extras
 versions:
   - purl: pkg:composer/phpxmlrpc/extras@0.5.1
     affected_by_vulnerabilities:

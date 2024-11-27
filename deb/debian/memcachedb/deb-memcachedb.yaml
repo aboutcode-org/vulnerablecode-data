@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/memcachedb
+package: pkg:deb/debian/memcachedb
 versions:
   - purl: pkg:deb/debian/memcachedb@1.2.0-12?distro=stretch
     affected_by_vulnerabilities: []

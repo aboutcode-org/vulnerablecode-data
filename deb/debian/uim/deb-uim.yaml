@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/uim
+package: pkg:deb/debian/uim
 versions:
   - purl: pkg:deb/debian/uim@1:0.4.6beta2-1?distro=sid
     affected_by_vulnerabilities: []

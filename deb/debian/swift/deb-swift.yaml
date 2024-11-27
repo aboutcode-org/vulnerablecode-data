@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/swift
+package: pkg:deb/debian/swift
 versions:
   - purl: pkg:deb/debian/swift@0?distro=sid
     affected_by_vulnerabilities: []

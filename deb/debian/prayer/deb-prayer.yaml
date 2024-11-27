@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/prayer
+package: pkg:deb/debian/prayer
 versions:
   - purl: pkg:deb/debian/prayer@1.3.5-dfsg1-4?distro=stretch
     affected_by_vulnerabilities:

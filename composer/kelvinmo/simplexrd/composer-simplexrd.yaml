@@ -1,4 +1,4 @@
-pacakge: pkg:composer/kelvinmo/simplexrd
+package: pkg:composer/kelvinmo/simplexrd
 versions:
   - purl: pkg:composer/kelvinmo/simplexrd@2.2
     affected_by_vulnerabilities:

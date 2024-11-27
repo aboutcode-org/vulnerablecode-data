@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libsolv
+package: pkg:deb/debian/libsolv
 versions:
   - purl: pkg:deb/debian/libsolv@0.6.24-1%2Bdeb9u2?distro=stretch
     affected_by_vulnerabilities:

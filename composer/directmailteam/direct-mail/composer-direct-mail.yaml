@@ -1,4 +1,4 @@
-pacakge: pkg:composer/directmailteam/direct-mail
+package: pkg:composer/directmailteam/direct-mail
 versions:
   - purl: pkg:composer/directmailteam/direct-mail@5.0
     affected_by_vulnerabilities:

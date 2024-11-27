@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/alien-arena
+package: pkg:deb/debian/alien-arena
 versions:
   - purl: pkg:deb/debian/alien-arena@6.05-4.1?distro=sid
     affected_by_vulnerabilities: []

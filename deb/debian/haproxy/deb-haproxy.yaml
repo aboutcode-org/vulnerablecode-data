@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/haproxy
+package: pkg:deb/debian/haproxy
 versions:
   - purl: pkg:deb/debian/haproxy@0?distro=sid
     affected_by_vulnerabilities: []

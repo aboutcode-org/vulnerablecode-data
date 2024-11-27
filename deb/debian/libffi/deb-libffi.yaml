@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libffi
+package: pkg:deb/debian/libffi
 versions:
   - purl: pkg:deb/debian/libffi@3.2.1-4?distro=sid
     affected_by_vulnerabilities: []

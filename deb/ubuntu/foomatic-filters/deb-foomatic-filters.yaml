@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/foomatic-filters
+package: pkg:deb/ubuntu/foomatic-filters
 versions:
   - purl: pkg:deb/ubuntu/foomatic-filters@3.0.1-20040621-1ubuntu1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/imwheel
+package: pkg:deb/debian/imwheel
 versions:
   - purl: pkg:deb/debian/imwheel@0.9.6-2.1
     affected_by_vulnerabilities:

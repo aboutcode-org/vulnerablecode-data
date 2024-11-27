@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ipsec-tools
+package: pkg:deb/debian/ipsec-tools
 versions:
   - purl: pkg:deb/debian/ipsec-tools@0.2.5-2?distro=stretch
     affected_by_vulnerabilities: []

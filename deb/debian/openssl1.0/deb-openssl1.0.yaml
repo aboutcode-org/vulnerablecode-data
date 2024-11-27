@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openssl1.0
+package: pkg:deb/debian/openssl1.0
 versions:
   - purl: pkg:deb/debian/openssl1.0@0?distro=stretch
     affected_by_vulnerabilities: []

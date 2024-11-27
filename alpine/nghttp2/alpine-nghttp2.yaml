@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/nghttp2
+package: pkg:alpine/nghttp2
 versions:
   - purl: pkg:alpine/nghttp2@1.35.1-r1?arch=aarch64&distroversion=v3.9&reponame=main
     affected_by_vulnerabilities: []

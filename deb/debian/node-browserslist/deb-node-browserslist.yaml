@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-browserslist
+package: pkg:deb/debian/node-browserslist
 versions:
   - purl: pkg:deb/debian/node-browserslist@2.11.3-1?distro=sid
     affected_by_vulnerabilities:

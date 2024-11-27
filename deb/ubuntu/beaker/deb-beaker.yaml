@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/beaker
+package: pkg:deb/ubuntu/beaker
 versions:
   - purl: pkg:deb/ubuntu/beaker@0.6.1-1
     affected_by_vulnerabilities:

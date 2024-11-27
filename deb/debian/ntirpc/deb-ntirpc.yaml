@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ntirpc
+package: pkg:deb/debian/ntirpc
 versions:
   - purl: pkg:deb/debian/ntirpc@1.4.4-1?distro=sid
     affected_by_vulnerabilities: []

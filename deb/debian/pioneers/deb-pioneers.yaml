@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pioneers
+package: pkg:deb/debian/pioneers
 versions:
   - purl: pkg:deb/debian/pioneers@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pcal
+package: pkg:deb/debian/pcal
 versions:
   - purl: pkg:deb/debian/pcal@4.11.0-3?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/poco
+package: pkg:deb/debian/poco
 versions:
   - purl: pkg:deb/debian/poco@1.10.0-6%2Bdeb11u1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/upx-ucl
+package: pkg:deb/debian/upx-ucl
 versions:
   - purl: pkg:deb/debian/upx-ucl@1.03%2Brepack-5?distro=sid
     affected_by_vulnerabilities: []

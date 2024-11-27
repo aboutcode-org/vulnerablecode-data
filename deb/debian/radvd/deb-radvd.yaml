@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/radvd
+package: pkg:deb/debian/radvd
 versions:
   - purl: pkg:deb/debian/radvd@1:1.8-1.1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/eclipse-wtp
+package: pkg:deb/debian/eclipse-wtp
 versions:
   - purl: pkg:deb/debian/eclipse-wtp@0?distro=sid
     affected_by_vulnerabilities: []

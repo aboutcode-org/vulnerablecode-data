@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/fossil
+package: pkg:deb/ubuntu/fossil
 versions:
   - purl: pkg:deb/ubuntu/fossil@1:1.19-1
     affected_by_vulnerabilities:

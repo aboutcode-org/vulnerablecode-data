@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-xmlhttprequest
+package: pkg:deb/debian/node-xmlhttprequest
 versions:
   - purl: pkg:deb/debian/node-xmlhttprequest@1.6.0-1?distro=stretch
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jupyter-server
+package: pkg:deb/debian/jupyter-server
 versions:
   - purl: pkg:deb/debian/jupyter-server@1.0.7-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tinyobjloader
+package: pkg:deb/debian/tinyobjloader
 versions:
   - purl: pkg:deb/debian/tinyobjloader@2.0.0~rc10%2Bdfsg-2
     affected_by_vulnerabilities: []

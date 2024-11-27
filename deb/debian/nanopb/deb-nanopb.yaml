@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nanopb
+package: pkg:deb/debian/nanopb
 versions:
   - purl: pkg:deb/debian/nanopb@0?distro=sid
     affected_by_vulnerabilities: []

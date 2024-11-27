@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/banshee
+package: pkg:deb/ubuntu/banshee
 versions:
   - purl: pkg:deb/ubuntu/banshee@0.10-0ubuntu4
     affected_by_vulnerabilities:

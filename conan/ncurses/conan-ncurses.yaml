@@ -1,4 +1,4 @@
-pacakge: pkg:conan/ncurses
+package: pkg:conan/ncurses
 versions:
   - purl: pkg:conan/ncurses@6.2
     affected_by_vulnerabilities:

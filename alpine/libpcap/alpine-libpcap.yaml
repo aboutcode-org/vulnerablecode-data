@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libpcap
+package: pkg:alpine/libpcap
 versions:
   - purl: pkg:alpine/libpcap@1.1.1-r0?arch=aarch64&distroversion=v3.10&reponame=main
     affected_by_vulnerabilities: []

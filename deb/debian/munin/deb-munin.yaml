@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/munin
+package: pkg:deb/debian/munin
 versions:
   - purl: pkg:deb/debian/munin@2.0.18-1?distro=sid
     affected_by_vulnerabilities: []

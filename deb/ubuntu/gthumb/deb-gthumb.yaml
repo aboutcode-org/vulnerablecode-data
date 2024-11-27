@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gthumb
+package: pkg:deb/ubuntu/gthumb
 versions:
   - purl: pkg:deb/ubuntu/gthumb@3:2.10.0-0ubuntu1
     affected_by_vulnerabilities:

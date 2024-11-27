@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/quagga
+package: pkg:alpine/quagga
 versions:
   - purl: pkg:alpine/quagga@0.99.24.1-r6?arch=armhf&distroversion=v3.3&reponame=main
     affected_by_vulnerabilities: []

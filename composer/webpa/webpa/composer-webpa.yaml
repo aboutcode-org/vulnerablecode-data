@@ -1,4 +1,4 @@
-pacakge: pkg:composer/webpa/webpa
+package: pkg:composer/webpa/webpa
 versions:
   - purl: pkg:composer/webpa/webpa@3.0.0
     affected_by_vulnerabilities:

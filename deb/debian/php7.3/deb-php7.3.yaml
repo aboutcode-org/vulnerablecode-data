@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/php7.3
+package: pkg:deb/debian/php7.3
 versions:
   - purl: pkg:deb/debian/php7.3@0?distro=buster
     affected_by_vulnerabilities: []

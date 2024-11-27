@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libksba
+package: pkg:deb/debian/libksba
 versions:
   - purl: pkg:deb/debian/libksba@0.9.14-1?distro=sid
     affected_by_vulnerabilities: []

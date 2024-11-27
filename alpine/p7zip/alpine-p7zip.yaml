@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/p7zip
+package: pkg:alpine/p7zip
 versions:
   - purl: pkg:alpine/p7zip@16.02-r1?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

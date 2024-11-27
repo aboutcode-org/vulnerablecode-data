@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/jupyter-notebook
+package: pkg:deb/debian/jupyter-notebook
 versions:
   - purl: pkg:deb/debian/jupyter-notebook@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libcommons-fileupload-java
+package: pkg:deb/ubuntu/libcommons-fileupload-java
 versions:
   - purl: pkg:deb/ubuntu/libcommons-fileupload-java@1.0-10
     affected_by_vulnerabilities:

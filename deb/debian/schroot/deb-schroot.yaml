@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/schroot
+package: pkg:deb/debian/schroot
 versions:
   - purl: pkg:deb/debian/schroot@1.6.10-12?distro=sid
     affected_by_vulnerabilities: []

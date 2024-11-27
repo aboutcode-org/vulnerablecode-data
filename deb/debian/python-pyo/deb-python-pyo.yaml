@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-pyo
+package: pkg:deb/debian/python-pyo
 versions:
   - purl: pkg:deb/debian/python-pyo@0.8.2-1?distro=stretch
     affected_by_vulnerabilities:

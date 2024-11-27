@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/perdition
+package: pkg:deb/debian/perdition
 versions:
   - purl: pkg:deb/debian/perdition@1.17.1-1?distro=sid
     affected_by_vulnerabilities: []

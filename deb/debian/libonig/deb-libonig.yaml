@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libonig
+package: pkg:deb/debian/libonig
 versions:
   - purl: pkg:deb/debian/libonig@0?distro=stretch
     affected_by_vulnerabilities: []

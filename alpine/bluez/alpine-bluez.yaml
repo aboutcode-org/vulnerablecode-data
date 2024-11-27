@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/bluez
+package: pkg:alpine/bluez
 versions:
   - purl: pkg:alpine/bluez@5.36-r1?arch=armhf&distroversion=v3.3&reponame=main
     affected_by_vulnerabilities: []

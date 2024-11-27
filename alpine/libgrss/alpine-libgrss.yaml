@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libgrss
+package: pkg:alpine/libgrss
 versions:
   - purl: pkg:alpine/libgrss@0.7.0-r1?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

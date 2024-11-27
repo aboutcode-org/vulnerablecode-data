@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/spamass-milter
+package: pkg:deb/debian/spamass-milter
 versions:
   - purl: pkg:deb/debian/spamass-milter@0.3.1-9?distro=sid
     affected_by_vulnerabilities: []

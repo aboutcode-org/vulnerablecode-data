@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/tnef
+package: pkg:deb/debian/tnef
 versions:
   - purl: pkg:deb/debian/tnef@1.4.12-1.1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nvidia-graphics-drivers-legacy-304xx
+package: pkg:deb/debian/nvidia-graphics-drivers-legacy-304xx
 versions:
   - purl: pkg:deb/debian/nvidia-graphics-drivers-legacy-304xx@0?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/f2fs-tools
+package: pkg:alpine/f2fs-tools
 versions:
   - purl: pkg:alpine/f2fs-tools@1.14.0-r0?arch=aarch64&distroversion=edge&reponame=main
     affected_by_vulnerabilities: []

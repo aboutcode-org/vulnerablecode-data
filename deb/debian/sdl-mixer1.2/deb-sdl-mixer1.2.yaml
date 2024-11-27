@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sdl-mixer1.2
+package: pkg:deb/debian/sdl-mixer1.2
 versions:
   - purl: pkg:deb/debian/sdl-mixer1.2@1.2.12-11?distro=stretch
     affected_by_vulnerabilities: []

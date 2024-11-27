@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/varnish-modules
+package: pkg:deb/debian/varnish-modules
 versions:
   - purl: pkg:deb/debian/varnish-modules@0?distro=sid
     affected_by_vulnerabilities: []

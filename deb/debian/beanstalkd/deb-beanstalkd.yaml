@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/beanstalkd
+package: pkg:deb/debian/beanstalkd
 versions:
   - purl: pkg:deb/debian/beanstalkd@1.10-4?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/feh
+package: pkg:deb/ubuntu/feh
 versions:
   - purl: pkg:deb/ubuntu/feh@1.10-1
     affected_by_vulnerabilities:

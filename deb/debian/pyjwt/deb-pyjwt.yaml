@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pyjwt
+package: pkg:deb/debian/pyjwt
 versions:
   - purl: pkg:deb/debian/pyjwt@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/open-vm-tools
+package: pkg:deb/debian/open-vm-tools
 versions:
   - purl: pkg:deb/debian/open-vm-tools@2:10.1.5-5055683-4%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

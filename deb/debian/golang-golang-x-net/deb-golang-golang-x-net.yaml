@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/golang-golang-x-net
+package: pkg:deb/debian/golang-golang-x-net
 versions:
   - purl: pkg:deb/debian/golang-golang-x-net@0?distro=sid
     affected_by_vulnerabilities: []

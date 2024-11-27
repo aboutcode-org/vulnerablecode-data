@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/neomutt
+package: pkg:alpine/neomutt
 versions:
   - purl: pkg:alpine/neomutt@20211015-r0?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/olm
+package: pkg:deb/debian/olm
 versions:
   - purl: pkg:deb/debian/olm@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/conkeror
+package: pkg:deb/debian/conkeror
 versions:
   - purl: pkg:deb/debian/conkeror@0?distro=stretch
     affected_by_vulnerabilities: []

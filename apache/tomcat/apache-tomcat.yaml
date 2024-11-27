@@ -1,4 +1,4 @@
-pacakge: pkg:apache/tomcat
+package: pkg:apache/tomcat
 versions:
   - purl: pkg:apache/tomcat@10.0.0
     affected_by_vulnerabilities:

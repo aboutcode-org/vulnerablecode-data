@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/kconfig
+package: pkg:deb/debian/kconfig
 versions:
   - purl: pkg:deb/debian/kconfig@5.100.1-1?distro=sid
     affected_by_vulnerabilities: []

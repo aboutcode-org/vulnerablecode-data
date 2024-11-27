@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/e2fsprogs
+package: pkg:deb/debian/e2fsprogs
 versions:
   - purl: pkg:deb/debian/e2fsprogs@1.40.3-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/srt
+package: pkg:deb/debian/srt
 versions:
   - purl: pkg:deb/debian/srt@1.4.0-1?distro=sid
     affected_by_vulnerabilities: []

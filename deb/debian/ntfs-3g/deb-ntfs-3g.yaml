@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ntfs-3g
+package: pkg:deb/debian/ntfs-3g
 versions:
   - purl: pkg:deb/debian/ntfs-3g@1:1.913-2?distro=sid
     affected_by_vulnerabilities: []

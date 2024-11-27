@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xen
+package: pkg:deb/debian/xen
 versions:
   - purl: pkg:deb/debian/xen@0?distro=sid
     affected_by_vulnerabilities: []

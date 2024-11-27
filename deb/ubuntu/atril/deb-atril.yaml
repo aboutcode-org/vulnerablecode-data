@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/atril
+package: pkg:deb/ubuntu/atril
 versions:
   - purl: pkg:deb/ubuntu/atril@1.10.2%2Brepack1-1
     affected_by_vulnerabilities:

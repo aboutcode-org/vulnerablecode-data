@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/limnoria
+package: pkg:deb/debian/limnoria
 versions:
   - purl: pkg:deb/debian/limnoria@2017.01.10-1%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities: []

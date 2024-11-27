@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libspring-java
+package: pkg:deb/ubuntu/libspring-java
 versions:
   - purl: pkg:deb/ubuntu/libspring-java@3.0.5.RELEASE-2
     affected_by_vulnerabilities:

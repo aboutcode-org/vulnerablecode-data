@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gambas3
+package: pkg:deb/debian/gambas3
 versions:
   - purl: pkg:deb/debian/gambas3@3.12.2-1?distro=sid
     affected_by_vulnerabilities: []

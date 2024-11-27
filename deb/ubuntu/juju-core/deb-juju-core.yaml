@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/juju-core
+package: pkg:deb/ubuntu/juju-core
 versions:
   - purl: pkg:deb/ubuntu/juju-core@1.10.0.1-0ubuntu1~ubuntu13.04.1
     affected_by_vulnerabilities:

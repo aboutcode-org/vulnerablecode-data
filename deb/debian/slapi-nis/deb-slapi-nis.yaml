@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/slapi-nis
+package: pkg:deb/debian/slapi-nis
 versions:
   - purl: pkg:deb/debian/slapi-nis@0.54.2-1?distro=sid
     affected_by_vulnerabilities: []

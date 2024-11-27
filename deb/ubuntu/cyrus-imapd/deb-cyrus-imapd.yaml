@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/cyrus-imapd
+package: pkg:deb/ubuntu/cyrus-imapd
 versions:
   - purl: pkg:deb/ubuntu/cyrus-imapd@1.5.19-20
     affected_by_vulnerabilities:

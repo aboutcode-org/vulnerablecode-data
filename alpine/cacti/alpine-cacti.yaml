@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/cacti
+package: pkg:alpine/cacti
 versions:
   - purl: pkg:alpine/cacti@0.8.8g-r1?arch=armhf&distroversion=v3.2&reponame=main
     affected_by_vulnerabilities: []

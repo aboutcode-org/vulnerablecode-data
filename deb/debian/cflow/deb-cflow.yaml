@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cflow
+package: pkg:deb/debian/cflow
 versions:
   - purl: pkg:deb/debian/cflow@1:1.4%2Bdfsg1-3?distro=stretch
     affected_by_vulnerabilities:

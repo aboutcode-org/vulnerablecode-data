@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/phpmyadmin
+package: pkg:deb/debian/phpmyadmin
 versions:
   - purl: pkg:deb/debian/phpmyadmin@0?distro=sid
     affected_by_vulnerabilities: []

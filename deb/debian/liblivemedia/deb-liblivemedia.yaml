@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/liblivemedia
+package: pkg:deb/debian/liblivemedia
 versions:
   - purl: pkg:deb/debian/liblivemedia@0?distro=buster
     affected_by_vulnerabilities: []

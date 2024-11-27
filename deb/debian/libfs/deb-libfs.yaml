@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libfs
+package: pkg:deb/debian/libfs
 versions:
   - purl: pkg:deb/debian/libfs@2:1.0.4-1%2Bdeb7u1?distro=sid
     affected_by_vulnerabilities: []

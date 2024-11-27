@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/android-tools
+package: pkg:deb/debian/android-tools
 versions:
   - purl: pkg:deb/debian/android-tools@4.2.2%2Bgit20130529-5.1?distro=buster
     affected_by_vulnerabilities: []

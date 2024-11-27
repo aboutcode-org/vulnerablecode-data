@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/freerdp
+package: pkg:deb/debian/freerdp
 versions:
   - purl: pkg:deb/debian/freerdp@0?distro=stretch
     affected_by_vulnerabilities: []

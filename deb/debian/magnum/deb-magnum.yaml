@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/magnum
+package: pkg:deb/debian/magnum
 versions:
   - purl: pkg:deb/debian/magnum@11.0.0-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-webpack
+package: pkg:deb/debian/node-webpack
 versions:
   - purl: pkg:deb/debian/node-webpack@3.5.6-3.1?distro=sid
     affected_by_vulnerabilities:

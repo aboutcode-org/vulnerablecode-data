@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/fastd
+package: pkg:deb/debian/fastd
 versions:
   - purl: pkg:deb/debian/fastd@18-2?distro=stretch
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/po4a
+package: pkg:deb/debian/po4a
 versions:
   - purl: pkg:deb/debian/po4a@0.31-1?distro=sid
     affected_by_vulnerabilities: []

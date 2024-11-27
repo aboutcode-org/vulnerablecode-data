@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/systemd-shim
+package: pkg:deb/debian/systemd-shim
 versions:
   - purl: pkg:deb/debian/systemd-shim@10-3?distro=stretch
     affected_by_vulnerabilities: []

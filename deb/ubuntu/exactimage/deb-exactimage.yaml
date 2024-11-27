@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/exactimage
+package: pkg:deb/ubuntu/exactimage
 versions:
   - purl: pkg:deb/ubuntu/exactimage@0.7.2-1
     affected_by_vulnerabilities:

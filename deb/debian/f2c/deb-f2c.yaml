@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/f2c
+package: pkg:deb/debian/f2c
 versions:
   - purl: pkg:deb/debian/f2c@19971204-3
     affected_by_vulnerabilities:

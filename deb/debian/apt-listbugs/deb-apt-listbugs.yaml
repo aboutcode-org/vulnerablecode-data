@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/apt-listbugs
+package: pkg:deb/debian/apt-listbugs
 versions:
   - purl: pkg:deb/debian/apt-listbugs@0.1.10?distro=sid
     affected_by_vulnerabilities: []

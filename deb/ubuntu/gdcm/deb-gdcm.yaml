@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gdcm
+package: pkg:deb/ubuntu/gdcm
 versions:
   - purl: pkg:deb/ubuntu/gdcm@2.0.10-1
     affected_by_vulnerabilities:

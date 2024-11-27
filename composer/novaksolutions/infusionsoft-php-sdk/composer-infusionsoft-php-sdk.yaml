@@ -1,4 +1,4 @@
-pacakge: pkg:composer/novaksolutions/infusionsoft-php-sdk
+package: pkg:composer/novaksolutions/infusionsoft-php-sdk
 versions:
   - purl: pkg:composer/novaksolutions/infusionsoft-php-sdk@2016.0.0-10-31
     affected_by_vulnerabilities:

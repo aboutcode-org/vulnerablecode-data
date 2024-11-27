@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/dcmtk
+package: pkg:deb/debian/dcmtk
 versions:
   - purl: pkg:deb/debian/dcmtk@3.6.1~20150629-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/enigmail
+package: pkg:deb/ubuntu/enigmail
 versions:
   - purl: pkg:deb/ubuntu/enigmail@2:0.86.1-1
     affected_by_vulnerabilities:

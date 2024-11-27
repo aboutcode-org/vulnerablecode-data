@@ -1,4 +1,4 @@
-pacakge: pkg:composer/nukeviet/nukeviet
+package: pkg:composer/nukeviet/nukeviet
 versions:
   - purl: pkg:composer/nukeviet/nukeviet@4.0.10
     affected_by_vulnerabilities:

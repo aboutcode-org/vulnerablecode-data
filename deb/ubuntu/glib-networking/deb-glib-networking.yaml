@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/glib-networking
+package: pkg:deb/ubuntu/glib-networking
 versions:
   - purl: pkg:deb/ubuntu/glib-networking@2.27.90-1
     affected_by_vulnerabilities:

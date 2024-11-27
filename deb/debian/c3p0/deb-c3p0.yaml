@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/c3p0
+package: pkg:deb/debian/c3p0
 versions:
   - purl: pkg:deb/debian/c3p0@0.9.1.2-10?distro=sid
     affected_by_vulnerabilities: []

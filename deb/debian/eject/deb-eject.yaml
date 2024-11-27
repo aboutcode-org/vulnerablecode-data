@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/eject
+package: pkg:deb/debian/eject
 versions:
   - purl: pkg:deb/debian/eject@1.5-6
     affected_by_vulnerabilities:

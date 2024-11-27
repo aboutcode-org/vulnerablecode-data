@@ -1,4 +1,4 @@
-pacakge: pkg:composer/phpmyadmin/phpmyadmin
+package: pkg:composer/phpmyadmin/phpmyadmin
 versions:
   - purl: pkg:composer/phpmyadmin/phpmyadmin@4.0.0
     affected_by_vulnerabilities:

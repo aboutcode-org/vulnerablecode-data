@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/c-ares
+package: pkg:deb/debian/c-ares
 versions:
   - purl: pkg:deb/debian/c-ares@0?distro=sid
     affected_by_vulnerabilities: []

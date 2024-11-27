@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/bareftp
+package: pkg:deb/debian/bareftp
 versions:
   - purl: pkg:deb/debian/bareftp@0.3.4-1.1?distro=stretch
     affected_by_vulnerabilities: []

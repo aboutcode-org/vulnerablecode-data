@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-ansi-up
+package: pkg:deb/debian/node-ansi-up
 versions:
   - purl: pkg:deb/debian/node-ansi-up@5.0.0%2Bdfsg-1?distro=sid
     affected_by_vulnerabilities: []

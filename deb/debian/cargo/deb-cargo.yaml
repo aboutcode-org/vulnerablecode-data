@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cargo
+package: pkg:deb/debian/cargo
 versions:
   - purl: pkg:deb/debian/cargo@0.17.0-1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnome-autoar
+package: pkg:deb/debian/gnome-autoar
 versions:
   - purl: pkg:deb/debian/gnome-autoar@0?distro=sid
     affected_by_vulnerabilities: []

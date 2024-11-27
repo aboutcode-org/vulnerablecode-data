@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/heimdal
+package: pkg:deb/debian/heimdal
 versions:
   - purl: pkg:deb/debian/heimdal@0?distro=sid
     affected_by_vulnerabilities: []

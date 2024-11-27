@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sigil
+package: pkg:deb/debian/sigil
 versions:
   - purl: pkg:deb/debian/sigil@0.9.13%2Bdfsg-1?distro=sid
     affected_by_vulnerabilities:

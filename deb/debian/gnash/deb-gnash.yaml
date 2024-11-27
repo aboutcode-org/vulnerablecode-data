@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gnash
+package: pkg:deb/debian/gnash
 versions:
   - purl: pkg:deb/debian/gnash@0.7.2%2Bcvs20070518.1557-1?distro=stretch
     affected_by_vulnerabilities: []

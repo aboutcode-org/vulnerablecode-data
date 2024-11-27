@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sqlparse
+package: pkg:deb/debian/sqlparse
 versions:
   - purl: pkg:deb/debian/sqlparse@0?distro=sid
     affected_by_vulnerabilities: []

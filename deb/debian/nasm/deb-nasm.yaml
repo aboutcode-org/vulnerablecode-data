@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nasm
+package: pkg:deb/debian/nasm
 versions:
   - purl: pkg:deb/debian/nasm@0?distro=sid
     affected_by_vulnerabilities: []

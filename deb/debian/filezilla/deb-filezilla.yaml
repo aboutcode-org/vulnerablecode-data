@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/filezilla
+package: pkg:deb/debian/filezilla
 versions:
   - purl: pkg:deb/debian/filezilla@0?distro=sid
     affected_by_vulnerabilities: []

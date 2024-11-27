@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/janus
+package: pkg:deb/debian/janus
 versions:
   - purl: pkg:deb/debian/janus@0.10.1-1?distro=sid
     affected_by_vulnerabilities: []

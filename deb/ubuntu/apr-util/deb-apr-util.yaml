@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/apr-util
+package: pkg:deb/ubuntu/apr-util
 versions:
   - purl: pkg:deb/ubuntu/apr-util@1.2.12%2Bdfsg-2
     affected_by_vulnerabilities:

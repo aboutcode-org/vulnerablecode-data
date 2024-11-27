@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libu2f-host
+package: pkg:deb/debian/libu2f-host
 versions:
   - purl: pkg:deb/debian/libu2f-host@1.1.10-3?distro=sid
     affected_by_vulnerabilities: []

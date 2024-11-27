@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/uap-core
+package: pkg:deb/debian/uap-core
 versions:
   - purl: pkg:deb/debian/uap-core@1:0.12.0-1?distro=sid
     affected_by_vulnerabilities: []

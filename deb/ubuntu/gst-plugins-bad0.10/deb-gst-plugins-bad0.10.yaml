@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/gst-plugins-bad0.10
+package: pkg:deb/ubuntu/gst-plugins-bad0.10
 versions:
   - purl: pkg:deb/ubuntu/gst-plugins-bad0.10@0.10.0.3-0ubuntu1
     affected_by_vulnerabilities:

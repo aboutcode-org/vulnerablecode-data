@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/chef
+package: pkg:deb/debian/chef
 versions:
   - purl: pkg:deb/debian/chef@0.10.10-1?distro=buster
     affected_by_vulnerabilities: []

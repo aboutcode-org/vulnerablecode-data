@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pwgen
+package: pkg:deb/debian/pwgen
 versions:
   - purl: pkg:deb/debian/pwgen@2.07-1?distro=sid
     affected_by_vulnerabilities: []

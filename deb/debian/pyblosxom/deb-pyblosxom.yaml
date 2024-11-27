@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pyblosxom
+package: pkg:deb/debian/pyblosxom
 versions:
   - purl: pkg:deb/debian/pyblosxom@1.2-1
     affected_by_vulnerabilities:

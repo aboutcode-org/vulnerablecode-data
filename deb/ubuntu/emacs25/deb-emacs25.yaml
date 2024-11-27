@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/emacs25
+package: pkg:deb/ubuntu/emacs25
 versions:
   - purl: pkg:deb/ubuntu/emacs25@25.1%2B1-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/ruby-sanitize
+package: pkg:deb/debian/ruby-sanitize
 versions:
   - purl: pkg:deb/debian/ruby-sanitize@0?distro=stretch
     affected_by_vulnerabilities: []

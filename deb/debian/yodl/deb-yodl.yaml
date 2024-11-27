@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/yodl
+package: pkg:deb/debian/yodl
 versions:
   - purl: pkg:deb/debian/yodl@3.07.01-1?distro=sid
     affected_by_vulnerabilities: []

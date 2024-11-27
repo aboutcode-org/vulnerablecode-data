@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/offlineimap
+package: pkg:deb/debian/offlineimap
 versions:
   - purl: pkg:deb/debian/offlineimap@6.3.2~rc3-2?distro=buster
     affected_by_vulnerabilities: []

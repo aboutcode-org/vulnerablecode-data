@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/django-anymail
+package: pkg:deb/debian/django-anymail
 versions:
   - purl: pkg:deb/debian/django-anymail@0.8-2%2Bdeb9u1?distro=stretch
     affected_by_vulnerabilities:

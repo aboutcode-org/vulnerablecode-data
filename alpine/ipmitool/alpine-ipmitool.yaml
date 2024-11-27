@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/ipmitool
+package: pkg:alpine/ipmitool
 versions:
   - purl: pkg:alpine/ipmitool@1.8.18-r9?arch=aarch64&distroversion=edge&reponame=community
     affected_by_vulnerabilities: []

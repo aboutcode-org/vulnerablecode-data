@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/luajit
+package: pkg:alpine/luajit
 versions:
   - purl: pkg:alpine/luajit@2.2.0-r3?arch=aarch64&distroversion=v3.13&reponame=main
     affected_by_vulnerabilities: []

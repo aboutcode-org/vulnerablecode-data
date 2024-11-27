@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/condor
+package: pkg:deb/debian/condor
 versions:
   - purl: pkg:deb/debian/condor@0?distro=sid
     affected_by_vulnerabilities: []

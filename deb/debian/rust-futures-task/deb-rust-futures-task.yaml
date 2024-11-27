@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rust-futures-task
+package: pkg:deb/debian/rust-futures-task
 versions:
   - purl: pkg:deb/debian/rust-futures-task@0?distro=sid
     affected_by_vulnerabilities: []

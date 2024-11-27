@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/nuget
+package: pkg:deb/debian/nuget
 versions:
   - purl: pkg:deb/debian/nuget@0?distro=sid
     affected_by_vulnerabilities: []

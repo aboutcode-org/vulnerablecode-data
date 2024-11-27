@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/libtasn1
+package: pkg:alpine/libtasn1
 versions:
   - purl: pkg:alpine/libtasn1@4.10-r1?arch=aarch64&distroversion=v3.6&reponame=main
     affected_by_vulnerabilities: []

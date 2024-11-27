@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/xmlrpc-c
+package: pkg:deb/debian/xmlrpc-c
 versions:
   - purl: pkg:deb/debian/xmlrpc-c@1.06.27-1.1?distro=sid
     affected_by_vulnerabilities: []

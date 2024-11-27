@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/weechat-scripts
+package: pkg:deb/debian/weechat-scripts
 versions:
   - purl: pkg:deb/debian/weechat-scripts@20070425-0.1?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/fontforge
+package: pkg:deb/ubuntu/fontforge
 versions:
   - purl: pkg:deb/ubuntu/fontforge@0.0.20040618-1ubuntu1
     affected_by_vulnerabilities:

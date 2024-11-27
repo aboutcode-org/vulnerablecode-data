@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/festival
+package: pkg:deb/debian/festival
 versions:
   - purl: pkg:deb/debian/festival@0?distro=sid
     affected_by_vulnerabilities: []

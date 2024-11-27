@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libnl3
+package: pkg:deb/debian/libnl3
 versions:
   - purl: pkg:deb/debian/libnl3@0?distro=sid
     affected_by_vulnerabilities: []

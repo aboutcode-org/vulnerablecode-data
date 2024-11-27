@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/cifs-utils
+package: pkg:deb/debian/cifs-utils
 versions:
   - purl: pkg:deb/debian/cifs-utils@2:4.5-1?distro=sid
     affected_by_vulnerabilities: []

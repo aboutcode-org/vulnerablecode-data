@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/node-sshpk
+package: pkg:deb/debian/node-sshpk
 versions:
   - purl: pkg:deb/debian/node-sshpk@1.13.1%2Bdfsg-2?distro=sid
     affected_by_vulnerabilities: []

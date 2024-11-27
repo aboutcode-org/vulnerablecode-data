@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/gitit
+package: pkg:deb/debian/gitit
 versions:
   - purl: pkg:deb/debian/gitit@0.12.1.1%2Bdfsg-6?distro=stretch
     affected_by_vulnerabilities:

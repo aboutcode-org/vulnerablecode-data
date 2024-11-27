@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libjpeg
+package: pkg:deb/debian/libjpeg
 versions:
   - purl: pkg:deb/debian/libjpeg@0.0~git20200925.f145908-1?distro=sid
     affected_by_vulnerabilities: []

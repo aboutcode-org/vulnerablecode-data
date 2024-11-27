@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/liblivemedia
+package: pkg:deb/ubuntu/liblivemedia
 versions:
   - purl: pkg:deb/ubuntu/liblivemedia@2004.04.23-1
     affected_by_vulnerabilities:

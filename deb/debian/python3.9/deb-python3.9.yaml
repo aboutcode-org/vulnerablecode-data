@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python3.9
+package: pkg:deb/debian/python3.9
 versions:
   - purl: pkg:deb/debian/python3.9@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libu2f-host
+package: pkg:deb/ubuntu/libu2f-host
 versions:
   - purl: pkg:deb/ubuntu/libu2f-host@0.0.4-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/capnproto
+package: pkg:deb/ubuntu/capnproto
 versions:
   - purl: pkg:deb/ubuntu/capnproto@0.2.1-1
     affected_by_vulnerabilities:

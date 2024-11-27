@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/rabbitmq-server
+package: pkg:deb/debian/rabbitmq-server
 versions:
   - purl: pkg:deb/debian/rabbitmq-server@0?distro=sid
     affected_by_vulnerabilities: []

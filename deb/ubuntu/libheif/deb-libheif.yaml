@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libheif
+package: pkg:deb/ubuntu/libheif
 versions:
   - purl: pkg:deb/ubuntu/libheif@1.1.0-2
     affected_by_vulnerabilities:

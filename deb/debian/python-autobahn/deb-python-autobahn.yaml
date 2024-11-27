@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/python-autobahn
+package: pkg:deb/debian/python-autobahn
 versions:
   - purl: pkg:deb/debian/python-autobahn@0.14.1%2Bdfsg1-2?distro=stretch
     affected_by_vulnerabilities:

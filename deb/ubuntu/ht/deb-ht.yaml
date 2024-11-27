@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/ht
+package: pkg:deb/ubuntu/ht
 versions:
   - purl: pkg:deb/ubuntu/ht@0.7.3-0.1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openscenegraph
+package: pkg:deb/debian/openscenegraph
 versions:
   - purl: pkg:deb/debian/openscenegraph@2.8.0-1?distro=sid
     affected_by_vulnerabilities: []

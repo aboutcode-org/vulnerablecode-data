@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/arc
+package: pkg:deb/ubuntu/arc
 versions:
   - purl: pkg:deb/ubuntu/arc@5.21j-2
     affected_by_vulnerabilities:

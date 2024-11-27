@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libidn2
+package: pkg:deb/ubuntu/libidn2
 versions:
   - purl: pkg:deb/ubuntu/libidn2@2.0.4-1
     affected_by_vulnerabilities:

@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/unrar-nonfree
+package: pkg:deb/debian/unrar-nonfree
 versions:
   - purl: pkg:deb/debian/unrar-nonfree@1:3.5.2-0.2
     affected_by_vulnerabilities:

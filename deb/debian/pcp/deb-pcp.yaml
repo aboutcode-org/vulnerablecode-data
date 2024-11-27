@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pcp
+package: pkg:deb/debian/pcp
 versions:
   - purl: pkg:deb/debian/pcp@3.6.5?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:composer/web-auth/webauthn-framework
+package: pkg:composer/web-auth/webauthn-framework
 versions:
   - purl: pkg:composer/web-auth/webauthn-framework@1.0.0
     affected_by_vulnerabilities:

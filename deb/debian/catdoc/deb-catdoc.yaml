@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/catdoc
+package: pkg:deb/debian/catdoc
 versions:
   - purl: pkg:deb/debian/catdoc@0.33-3
     affected_by_vulnerabilities:

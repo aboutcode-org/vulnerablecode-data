@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libhtp
+package: pkg:deb/debian/libhtp
 versions:
   - purl: pkg:deb/debian/libhtp@1:0.5.28-1?distro=sid
     affected_by_vulnerabilities: []

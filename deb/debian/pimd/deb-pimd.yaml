@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/pimd
+package: pkg:deb/debian/pimd
 versions:
   - purl: pkg:deb/debian/pimd@2.1.6-1?distro=sid
     affected_by_vulnerabilities: []

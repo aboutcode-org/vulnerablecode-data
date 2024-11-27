@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/libupnp4
+package: pkg:deb/ubuntu/libupnp4
 versions:
   - purl: pkg:deb/ubuntu/libupnp4@1.8.0~cvs20080628-2
     affected_by_vulnerabilities:

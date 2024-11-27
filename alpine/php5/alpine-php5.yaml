@@ -1,4 +1,4 @@
-pacakge: pkg:alpine/php5
+package: pkg:alpine/php5
 versions:
   - purl: pkg:alpine/php5@5.6.31-r0?arch=aarch64&distroversion=v3.6&reponame=community
     affected_by_vulnerabilities: []

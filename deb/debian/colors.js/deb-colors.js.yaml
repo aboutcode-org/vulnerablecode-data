@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/colors.js
+package: pkg:deb/debian/colors.js
 versions:
   - purl: pkg:deb/debian/colors.js@0?distro=sid
     affected_by_vulnerabilities: []

@@ -1,4 +1,4 @@
-pacakge: pkg:conan/harfbuzz
+package: pkg:conan/harfbuzz
 versions:
   - purl: pkg:conan/harfbuzz@2.6.8
     affected_by_vulnerabilities:

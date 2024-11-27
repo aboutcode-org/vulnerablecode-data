@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/openvswitch
+package: pkg:deb/debian/openvswitch
 versions:
   - purl: pkg:deb/debian/openvswitch@0?distro=sid
     affected_by_vulnerabilities: []

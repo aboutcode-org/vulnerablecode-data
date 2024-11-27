@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/libapache2-mod-fcgid
+package: pkg:deb/debian/libapache2-mod-fcgid
 versions:
   - purl: pkg:deb/debian/libapache2-mod-fcgid@1:2.3.6-1?distro=sid
     affected_by_vulnerabilities: []

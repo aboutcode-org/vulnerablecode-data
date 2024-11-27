@@ -1,4 +1,4 @@
-pacakge: pkg:deb/ubuntu/darktable
+package: pkg:deb/ubuntu/darktable
 versions:
   - purl: pkg:deb/ubuntu/darktable@0.8-3
     affected_by_vulnerabilities:

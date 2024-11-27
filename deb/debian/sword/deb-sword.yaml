@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/sword
+package: pkg:deb/debian/sword
 versions:
   - purl: pkg:deb/debian/sword@1.5.3-3woody2
     affected_by_vulnerabilities:

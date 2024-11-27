@@ -1,4 +1,4 @@
-pacakge: pkg:deb/debian/hiki
+package: pkg:deb/debian/hiki
 versions:
   - purl: pkg:deb/debian/hiki@0.6.5-2
     affected_by_vulnerabilities:
