@@ -1,0 +1,39 @@
+vulnerability_id: VCID-7c5t-n97d-fbck
+aliases:
+  - CVE-2024-23651
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-23651.json
+  - score: '0.00067'
+    scoring_system: epss
+    scoring_elements: '0.30517'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-23651
+weaknesses:
+  - CWE-362
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-23651.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-23651
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2262224
+    reference_type:
+    reference_id: 2262224
+  - url: https://security.gentoo.org/glsa/202407-12
+    reference_type:
+    reference_id: GLSA-202407-12
+  - url: https://security.gentoo.org/glsa/202407-25
+    reference_type:
+    reference_id: GLSA-202407-25
+  - url: https://security.gentoo.org/glsa/202409-29
+    reference_type:
+    reference_id: GLSA-202409-29

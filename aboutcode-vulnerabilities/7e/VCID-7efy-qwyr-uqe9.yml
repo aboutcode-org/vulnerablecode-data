@@ -1,0 +1,89 @@
+vulnerability_id: VCID-7efy-qwyr-uqe9
+aliases:
+  - CVE-2021-38492
+summary:
+severities:
+  - score: '6.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-38492.json
+  - score: '0.00305'
+    scoring_system: epss
+    scoring_elements: '0.70112'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-38492
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2351
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2353
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-38
+  - score: none
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-39
+  - score: low
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-40
+  - score: low
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-41
+  - score: none
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-42
+weaknesses:
+  - CWE-829
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-38492.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-38492
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2002118
+    reference_type:
+    reference_id: 2002118
+  - url: https://security.archlinux.org/AVG-2351
+    reference_type:
+    reference_id: AVG-2351
+  - url: https://security.archlinux.org/AVG-2353
+    reference_type:
+    reference_id: AVG-2353
+  - url: https://security.gentoo.org/glsa/202208-14
+    reference_type:
+    reference_id: GLSA-202208-14
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-38
+    reference_type:
+    reference_id: mfsa2021-38
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-39
+    reference_type:
+    reference_id: mfsa2021-39
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-40
+    reference_type:
+    reference_id: mfsa2021-40
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-41
+    reference_type:
+    reference_id: mfsa2021-41
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-42
+    reference_type:
+    reference_id: mfsa2021-42

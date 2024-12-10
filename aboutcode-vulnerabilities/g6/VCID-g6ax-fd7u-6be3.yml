@@ -1,0 +1,85 @@
+vulnerability_id: VCID-g6ax-fd7u-6be3
+aliases:
+  - CVE-2012-0804
+summary:
+severities:
+  - score: '0.00748'
+    scoring_system: epss
+    scoring_elements: '0.81264'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2012-0804
+  - score: '10.0'
+    scoring_system: cvssv2
+    scoring_elements: AV:N/AC:L/Au:N/C:C/I:C/A:C
+    published_at:
+    url: https://nvd.nist.gov/vuln/detail/CVE-2012-0804
+weaknesses:
+  - CWE-122
+  - CWE-119
+references:
+  - url: http://lists.opensuse.org/opensuse-updates/2012-02/msg00064.html
+    reference_type:
+    reference_id:
+  - url: http://rhn.redhat.com/errata/RHSA-2012-0321.html
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2012-0804.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2012-0804
+    reference_type:
+    reference_id:
+  - url: http://secunia.com/advisories/47869
+    reference_type:
+    reference_id:
+  - url: http://secunia.com/advisories/48063
+    reference_type:
+    reference_id:
+  - url: http://secunia.com/advisories/48142
+    reference_type:
+    reference_id:
+  - url: http://secunia.com/advisories/48150
+    reference_type:
+    reference_id:
+  - url: https://exchange.xforce.ibmcloud.com/vulnerabilities/73097
+    reference_type:
+    reference_id:
+  - url: http://ubuntu.com/usn/usn-1371-1
+    reference_type:
+    reference_id:
+  - url: http://www.debian.org/security/2012/dsa-2407
+    reference_type:
+    reference_id:
+  - url: http://www.mandriva.com/security/advisories?name=MDVSA-2012:044
+    reference_type:
+    reference_id:
+  - url: http://www.osvdb.org/78987
+    reference_type:
+    reference_id:
+  - url: http://www.securityfocus.com/bid/51943
+    reference_type:
+    reference_id:
+  - url: http://www.securitytracker.com/id?1026719
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=784141
+    reference_type:
+    reference_id: 784141
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:cvs:cvs:1.11:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:cvs:cvs:1.11:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:cvs:cvs:1.12:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:cvs:cvs:1.12:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2012-0804
+    reference_type:
+    reference_id: CVE-2012-0804
+  - url: https://security.gentoo.org/glsa/201701-44
+    reference_type:
+    reference_id: GLSA-201701-44
+  - url: https://access.redhat.com/errata/RHSA-2012:0321
+    reference_type:
+    reference_id: RHSA-2012:0321
+  - url: https://usn.ubuntu.com/1371-1/
+    reference_type:
+    reference_id: USN-1371-1

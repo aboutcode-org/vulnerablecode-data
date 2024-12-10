@@ -1,0 +1,43 @@
+vulnerability_id: VCID-3kxt-xv73-fkdg
+aliases:
+  - CVE-2021-21193
+summary:
+severities:
+  - score: '0.01139'
+    scoring_system: epss
+    scoring_elements: '0.85062'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-21193
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1633
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1683
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-21193
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=985142
+    reference_type:
+    reference_id: 985142
+  - url: https://security.archlinux.org/ASA-202103-19
+    reference_type:
+    reference_id: ASA-202103-19
+  - url: https://security.archlinux.org/ASA-202103-9
+    reference_type:
+    reference_id: ASA-202103-9
+  - url: https://security.archlinux.org/AVG-1633
+    reference_type:
+    reference_id: AVG-1633
+  - url: https://security.archlinux.org/AVG-1683
+    reference_type:
+    reference_id: AVG-1683
+  - url: https://security.gentoo.org/glsa/202104-08
+    reference_type:
+    reference_id: GLSA-202104-08

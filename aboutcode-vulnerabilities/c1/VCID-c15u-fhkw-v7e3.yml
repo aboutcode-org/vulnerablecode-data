@@ -1,0 +1,172 @@
+vulnerability_id: VCID-c15u-fhkw-v7e3
+aliases:
+  - CVE-2019-15903
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-15903.json
+  - score: '0.00456'
+    scoring_system: epss
+    scoring_elements: '0.75641'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-15903
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1053
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1054
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1055
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-33
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-34
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-35
+weaknesses:
+  - CWE-122
+  - CWE-125
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-15903.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-15903
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11755
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11757
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11759
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11760
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11761
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11762
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11763
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11764
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-15903
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1752592
+    reference_type:
+    reference_id: 1752592
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=939394
+    reference_type:
+    reference_id: 939394
+  - url: https://security.archlinux.org/ASA-201910-15
+    reference_type:
+    reference_id: ASA-201910-15
+  - url: https://security.archlinux.org/ASA-201910-16
+    reference_type:
+    reference_id: ASA-201910-16
+  - url: https://security.archlinux.org/ASA-201910-17
+    reference_type:
+    reference_id: ASA-201910-17
+  - url: https://security.archlinux.org/AVG-1053
+    reference_type:
+    reference_id: AVG-1053
+  - url: https://security.archlinux.org/AVG-1054
+    reference_type:
+    reference_id: AVG-1054
+  - url: https://security.archlinux.org/AVG-1055
+    reference_type:
+    reference_id: AVG-1055
+  - url: https://security.gentoo.org/glsa/201911-08
+    reference_type:
+    reference_id: GLSA-201911-08
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-33
+    reference_type:
+    reference_id: mfsa2019-33
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-34
+    reference_type:
+    reference_id: mfsa2019-34
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-35
+    reference_type:
+    reference_id: mfsa2019-35
+  - url: https://access.redhat.com/errata/RHSA-2019:3193
+    reference_type:
+    reference_id: RHSA-2019:3193
+  - url: https://access.redhat.com/errata/RHSA-2019:3196
+    reference_type:
+    reference_id: RHSA-2019:3196
+  - url: https://access.redhat.com/errata/RHSA-2019:3210
+    reference_type:
+    reference_id: RHSA-2019:3210
+  - url: https://access.redhat.com/errata/RHSA-2019:3237
+    reference_type:
+    reference_id: RHSA-2019:3237
+  - url: https://access.redhat.com/errata/RHSA-2019:3756
+    reference_type:
+    reference_id: RHSA-2019:3756
+  - url: https://access.redhat.com/errata/RHSA-2020:2644
+    reference_type:
+    reference_id: RHSA-2020:2644
+  - url: https://access.redhat.com/errata/RHSA-2020:2646
+    reference_type:
+    reference_id: RHSA-2020:2646
+  - url: https://access.redhat.com/errata/RHSA-2020:3952
+    reference_type:
+    reference_id: RHSA-2020:3952
+  - url: https://access.redhat.com/errata/RHSA-2020:4484
+    reference_type:
+    reference_id: RHSA-2020:4484
+  - url: https://access.redhat.com/errata/RHSA-2021:0949
+    reference_type:
+    reference_id: RHSA-2021:0949
+  - url: https://usn.ubuntu.com/4132-1/
+    reference_type:
+    reference_id: USN-4132-1
+  - url: https://usn.ubuntu.com/4132-2/
+    reference_type:
+    reference_id: USN-4132-2
+  - url: https://usn.ubuntu.com/4165-1/
+    reference_type:
+    reference_id: USN-4165-1
+  - url: https://usn.ubuntu.com/4202-1/
+    reference_type:
+    reference_id: USN-4202-1
+  - url: https://usn.ubuntu.com/4335-1/
+    reference_type:
+    reference_id: USN-4335-1
+  - url: https://usn.ubuntu.com/USN-4852-1/
+    reference_type:
+    reference_id: USN-USN-4852-1
+  - url: https://usn.ubuntu.com/USN-5455-1/
+    reference_type:
+    reference_id: USN-USN-5455-1

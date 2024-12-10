@@ -1,0 +1,48 @@
+vulnerability_id: VCID-8xqu-fpp8-f3fu
+aliases:
+  - CVE-2022-27404
+summary:
+severities:
+  - score: '7.6'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-27404.json
+  - score: '0.01056'
+    scoring_system: epss
+    scoring_elements: '0.84389'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-27404
+weaknesses:
+  - CWE-787
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-27404.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-27404
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1010183
+    reference_type:
+    reference_id: 1010183
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2077989
+    reference_type:
+    reference_id: 2077989
+  - url: https://security.gentoo.org/glsa/202402-06
+    reference_type:
+    reference_id: GLSA-202402-06
+  - url: https://access.redhat.com/errata/RHSA-2022:7745
+    reference_type:
+    reference_id: RHSA-2022:7745
+  - url: https://access.redhat.com/errata/RHSA-2022:8340
+    reference_type:
+    reference_id: RHSA-2022:8340
+  - url: https://access.redhat.com/errata/RHSA-2024:0420
+    reference_type:
+    reference_id: RHSA-2024:0420
+  - url: https://usn.ubuntu.com/5528-1/
+    reference_type:
+    reference_id: USN-5528-1

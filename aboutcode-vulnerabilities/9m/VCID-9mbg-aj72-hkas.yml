@@ -1,0 +1,58 @@
+vulnerability_id: VCID-9mbg-aj72-hkas
+aliases:
+  - CVE-2023-44398
+  - GHSA-hrw9-ggg3-3r4r
+  - PYSEC-2023-233
+summary: Exiv2 is a C++ library and a command-line utility to read, write, delete and modify
+  Exif, IPTC, XMP and ICC image metadata. An out-of-bounds write was found in Exiv2 version
+  v0.28.0. The vulnerable function, `BmffImage::brotliUncompress`, is new in v0.28.0, so earlier
+  versions of Exiv2 are _not_ affected. The out-of-bounds write is triggered when Exiv2 is used
+  to read the metadata of a crafted image file. An attacker could potentially exploit the vulnerability
+  to gain code execution, if they can trick the victim into running Exiv2 on a crafted image
+  file. This bug is fixed in version v0.28.1. Users are advised to upgrade. There are no known
+  workarounds for this vulnerability.
+severities:
+  - score: '6.6'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-44398.json
+  - score: '0.00098'
+    scoring_system: epss
+    scoring_elements: '0.41772'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-44398
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/Exiv2/exiv2/commit/e884a0955359107f4031c74a07406df7e99929a5
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/Exiv2/exiv2/security/advisories/GHSA-hrw9-ggg3-3r4r
+weaknesses:
+  - CWE-787
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-44398.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-44398
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://github.com/Exiv2/exiv2/commit/e884a0955359107f4031c74a07406df7e99929a5
+    reference_type:
+    reference_id:
+  - url: https://github.com/Exiv2/exiv2/security/advisories/GHSA-hrw9-ggg3-3r4r
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2248428
+    reference_type:
+    reference_id: 2248428
+  - url: https://security.gentoo.org/glsa/202312-06
+    reference_type:
+    reference_id: GLSA-202312-06

@@ -1,0 +1,15 @@
+vulnerability_id: VCID-1fb1-p15q-mbaa
+aliases:
+  - CVE-2023-51448
+summary:
+severities:
+  - score: '0.00111'
+    scoring_system: epss
+    scoring_elements: '0.45166'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-51448
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-51448
+    reference_type:
+    reference_id:

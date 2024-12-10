@@ -1,0 +1,68 @@
+vulnerability_id: VCID-k9en-sahp-sfgw
+aliases:
+  - CVE-2021-29473
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-29473.json
+  - score: '0.00223'
+    scoring_system: epss
+    scoring_elements: '0.60833'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-29473
+  - score: Low
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1772
+weaknesses:
+  - CWE-125
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-29473.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-29473
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-20421
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-29457
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-29473
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31292
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3482
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1954065
+    reference_type:
+    reference_id: '1954065'
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=987736
+    reference_type:
+    reference_id: 987736
+  - url: https://security.archlinux.org/ASA-202106-54
+    reference_type:
+    reference_id: ASA-202106-54
+  - url: https://security.archlinux.org/AVG-1772
+    reference_type:
+    reference_id: AVG-1772
+  - url: https://security.gentoo.org/glsa/202312-06
+    reference_type:
+    reference_id: GLSA-202312-06
+  - url: https://access.redhat.com/errata/RHSA-2021:4173
+    reference_type:
+    reference_id: RHSA-2021:4173
+  - url: https://usn.ubuntu.com/4964-1/
+    reference_type:
+    reference_id: USN-4964-1

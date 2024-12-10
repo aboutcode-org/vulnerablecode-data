@@ -1,0 +1,49 @@
+vulnerability_id: VCID-2yff-f8fc-hkbw
+aliases:
+  - CVE-2021-45960
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-45960.json
+  - score: '0.01022'
+    scoring_system: epss
+    scoring_elements: '0.84120'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-45960
+weaknesses:
+  - CWE-682
+  - CWE-130
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-45960.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-45960
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1002994
+    reference_type:
+    reference_id: 1002994
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2044451
+    reference_type:
+    reference_id: 2044451
+  - url: https://security.gentoo.org/glsa/202209-24
+    reference_type:
+    reference_id: GLSA-202209-24
+  - url: https://access.redhat.com/errata/RHSA-2022:0951
+    reference_type:
+    reference_id: RHSA-2022:0951
+  - url: https://access.redhat.com/errata/RHSA-2022:1069
+    reference_type:
+    reference_id: RHSA-2022:1069
+  - url: https://access.redhat.com/errata/RHSA-2022:7144
+    reference_type:
+    reference_id: RHSA-2022:7144
+  - url: https://usn.ubuntu.com/5288-1/
+    reference_type:
+    reference_id: USN-5288-1

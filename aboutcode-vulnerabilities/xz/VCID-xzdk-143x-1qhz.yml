@@ -1,0 +1,18 @@
+vulnerability_id: VCID-xzdk-143x-1qhz
+aliases:
+  - CVE-2020-14212
+summary:
+severities:
+  - score: '0.00391'
+    scoring_system: epss
+    scoring_elements: '0.73729'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-14212
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-14212
+    reference_type:
+    reference_id:
+  - url: https://security.gentoo.org/glsa/202007-58
+    reference_type:
+    reference_id: GLSA-202007-58

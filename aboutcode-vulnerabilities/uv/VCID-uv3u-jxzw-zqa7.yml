@@ -1,0 +1,155 @@
+vulnerability_id: VCID-uv3u-jxzw-zqa7
+aliases:
+  - CVE-2024-32002
+summary:
+severities:
+  - score: '9.0'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-32002.json
+  - score: '0.00152'
+    scoring_system: epss
+    scoring_elements: '0.51982'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-32002
+  - score: '9.1'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/git/git/commit/97065761333fd62db1912d81b489db938d8c991d
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:T/P:M/B:A/M:M/D:R/2024-05-29T14:18:00Z/
+    published_at:
+    url: https://github.com/git/git/commit/97065761333fd62db1912d81b489db938d8c991d
+  - score: '9.1'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/git/git/security/advisories/GHSA-8h77-4q3w-gfgv
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:T/P:M/B:A/M:M/D:R/2024-05-29T14:18:00Z/
+    published_at:
+    url: https://github.com/git/git/security/advisories/GHSA-8h77-4q3w-gfgv
+  - score: '9.1'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://git-scm.com/docs/git-clone#Documentation/git-clone.txt---recurse-submodulesltpathspecgt
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:T/P:M/B:A/M:M/D:R/2024-05-29T14:18:00Z/
+    published_at:
+    url: https://git-scm.com/docs/git-clone#Documentation/git-clone.txt---recurse-submodulesltpathspecgt
+  - score: '9.1'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://git-scm.com/docs/git-config#Documentation/git-config.txt-coresymlinks
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:T/P:M/B:A/M:M/D:R/2024-05-29T14:18:00Z/
+    published_at:
+    url: https://git-scm.com/docs/git-config#Documentation/git-config.txt-coresymlinks
+  - score: '3.9'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:L/UI:R/S:C/C:N/I:L/A:L
+    published_at:
+    url: https://lists.debian.org/debian-lts-announce/2024/06/msg00018.html
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-19T18:49:36Z/
+    published_at:
+    url: https://lists.debian.org/debian-lts-announce/2024/06/msg00018.html
+  - score: '3.9'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:L/UI:R/S:C/C:N/I:L/A:L
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/S4CK4IYTXEOBZTEM5K3T6LWOIZ3S44AR/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-11T20:29:23Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/S4CK4IYTXEOBZTEM5K3T6LWOIZ3S44AR/
+  - score: '3.9'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:L/UI:R/S:C/C:N/I:L/A:L
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/05/14/2
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-11T20:29:23Z/
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/05/14/2
+weaknesses:
+  - CWE-22
+  - CWE-434
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-32002.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-32002
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1071160
+    reference_type:
+    reference_id: 1071160
+  - url: http://www.openwall.com/lists/oss-security/2024/05/14/2
+    reference_type:
+    reference_id: 2
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2280421
+    reference_type:
+    reference_id: 2280421
+  - url: https://github.com/git/git/commit/97065761333fd62db1912d81b489db938d8c991d
+    reference_type:
+    reference_id: 97065761333fd62db1912d81b489db938d8c991d
+  - url: https://github.com/git/git/security/advisories/GHSA-8h77-4q3w-gfgv
+    reference_type:
+    reference_id: GHSA-8h77-4q3w-gfgv
+  - url: https://git-scm.com/docs/git-clone#Documentation/git-clone.txt---recurse-submodulesltpathspecgt
+    reference_type:
+    reference_id: git-clone.txt---recurse-submodulesltpathspecgt
+  - url: https://git-scm.com/docs/git-config#Documentation/git-config.txt-coresymlinks
+    reference_type:
+    reference_id: git-config.txt-coresymlinks
+  - url: https://lists.debian.org/debian-lts-announce/2024/06/msg00018.html
+    reference_type:
+    reference_id: msg00018.html
+  - url: https://access.redhat.com/errata/RHSA-2024:4083
+    reference_type:
+    reference_id: RHSA-2024:4083
+  - url: https://access.redhat.com/errata/RHSA-2024:4084
+    reference_type:
+    reference_id: RHSA-2024:4084
+  - url: https://access.redhat.com/errata/RHSA-2024:4368
+    reference_type:
+    reference_id: RHSA-2024:4368
+  - url: https://access.redhat.com/errata/RHSA-2024:4579
+    reference_type:
+    reference_id: RHSA-2024:4579
+  - url: https://access.redhat.com/errata/RHSA-2024:6027
+    reference_type:
+    reference_id: RHSA-2024:6027
+  - url: https://access.redhat.com/errata/RHSA-2024:6028
+    reference_type:
+    reference_id: RHSA-2024:6028
+  - url: https://access.redhat.com/errata/RHSA-2024:6610
+    reference_type:
+    reference_id: RHSA-2024:6610
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/S4CK4IYTXEOBZTEM5K3T6LWOIZ3S44AR/
+    reference_type:
+    reference_id: S4CK4IYTXEOBZTEM5K3T6LWOIZ3S44AR
+  - url: https://usn.ubuntu.com/6793-1/
+    reference_type:
+    reference_id: USN-6793-1
+  - url: https://usn.ubuntu.com/6793-2/
+    reference_type:
+    reference_id: USN-6793-2
+  - url: https://usn.ubuntu.com/7023-1/
+    reference_type:
+    reference_id: USN-7023-1

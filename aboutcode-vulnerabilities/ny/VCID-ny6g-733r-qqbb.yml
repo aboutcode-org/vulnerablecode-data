@@ -1,0 +1,49 @@
+vulnerability_id: VCID-ny6g-733r-qqbb
+aliases:
+  - CVE-2023-28260
+  - GHSA-w4m3-43gp-x8hx
+summary:
+severities:
+  - score: '7.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-28260.json
+  - score: '0.00241'
+    scoring_system: epss
+    scoring_elements: '0.64438'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-28260
+weaknesses:
+  - CWE-491
+  - CWE-1035
+  - CWE-78
+  - CWE-937
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-28260.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-28260
+    reference_type:
+    reference_id:
+  - url: https://www.cve.org/CVERecord?id=CVE-2023-28260
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2185016
+    reference_type:
+    reference_id: 2185016
+  - url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28260
+    reference_type:
+    reference_id: CVE-2023-28260
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2023-28260
+    reference_type:
+    reference_id: CVE-2023-28260
+  - url: https://github.com/advisories/GHSA-w4m3-43gp-x8hx
+    reference_type:
+    reference_id: GHSA-w4m3-43gp-x8hx
+  - url: https://github.com/dotnet/runtime/security/advisories/GHSA-w4m3-43gp-x8hx
+    reference_type:
+    reference_id: GHSA-w4m3-43gp-x8hx
+  - url: https://usn.ubuntu.com/6006-1/
+    reference_type:
+    reference_id: USN-6006-1

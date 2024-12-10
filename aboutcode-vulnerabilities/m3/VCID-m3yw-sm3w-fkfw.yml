@@ -1,0 +1,45 @@
+vulnerability_id: VCID-m3yw-sm3w-fkfw
+aliases:
+  - CVE-2018-18584
+summary:
+severities:
+  - score: '5.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-18584.json
+  - score: '0.27540'
+    scoring_system: epss
+    scoring_elements: '0.96892'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-18584
+weaknesses:
+  - CWE-787
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-18584.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-18584
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1644214
+    reference_type:
+    reference_id: 1644214
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=911640
+    reference_type:
+    reference_id: 911640
+  - url: https://security.gentoo.org/glsa/201903-20
+    reference_type:
+    reference_id: GLSA-201903-20
+  - url: https://access.redhat.com/errata/RHSA-2019:2049
+    reference_type:
+    reference_id: RHSA-2019:2049
+  - url: https://usn.ubuntu.com/3814-1/
+    reference_type:
+    reference_id: USN-3814-1
+  - url: https://usn.ubuntu.com/3814-2/
+    reference_type:
+    reference_id: USN-3814-2
+  - url: https://usn.ubuntu.com/3814-3/
+    reference_type:
+    reference_id: USN-3814-3

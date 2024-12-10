@@ -1,0 +1,102 @@
+vulnerability_id: VCID-bas7-5nnn-augh
+aliases:
+  - CVE-2024-33871
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-33871.json
+  - score: '0.00045'
+    scoring_system: epss
+    scoring_elements: '0.16440'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-33871
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://bugs.ghostscript.com/show_bug.cgi?id=707754
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-05T14:13:10Z/
+    published_at:
+    url: https://bugs.ghostscript.com/show_bug.cgi?id=707754
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://cgit.ghostscript.com/cgi-bin/cgit.cgi/ghostpdl.git/commit/?id=7145885041bb52cc23964f0aa2aec1b1c82b5908
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-05T14:13:10Z/
+    published_at:
+    url: https://cgit.ghostscript.com/cgi-bin/cgit.cgi/ghostpdl.git/commit/?id=7145885041bb52cc23964f0aa2aec1b1c82b5908
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://www.openwall.com/lists/oss-security/2024/06/28/2
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-22T16:38:36Z/
+    published_at:
+    url: https://www.openwall.com/lists/oss-security/2024/06/28/2
+weaknesses:
+  - CWE-20
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-33871.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-33871
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://www.openwall.com/lists/oss-security/2024/06/28/2
+    reference_type:
+    reference_id: 2
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2283508
+    reference_type:
+    reference_id: 2283508
+  - url: https://security.gentoo.org/glsa/202409-03
+    reference_type:
+    reference_id: GLSA-202409-03
+  - url: https://cgit.ghostscript.com/cgi-bin/cgit.cgi/ghostpdl.git/commit/?id=7145885041bb52cc23964f0aa2aec1b1c82b5908
+    reference_type:
+    reference_id: ?id=7145885041bb52cc23964f0aa2aec1b1c82b5908
+  - url: https://access.redhat.com/errata/RHSA-2024:3999
+    reference_type:
+    reference_id: RHSA-2024:3999
+  - url: https://access.redhat.com/errata/RHSA-2024:4000
+    reference_type:
+    reference_id: RHSA-2024:4000
+  - url: https://access.redhat.com/errata/RHSA-2024:4014
+    reference_type:
+    reference_id: RHSA-2024:4014
+  - url: https://access.redhat.com/errata/RHSA-2024:4462
+    reference_type:
+    reference_id: RHSA-2024:4462
+  - url: https://access.redhat.com/errata/RHSA-2024:4527
+    reference_type:
+    reference_id: RHSA-2024:4527
+  - url: https://access.redhat.com/errata/RHSA-2024:4537
+    reference_type:
+    reference_id: RHSA-2024:4537
+  - url: https://access.redhat.com/errata/RHSA-2024:4541
+    reference_type:
+    reference_id: RHSA-2024:4541
+  - url: https://access.redhat.com/errata/RHSA-2024:4544
+    reference_type:
+    reference_id: RHSA-2024:4544
+  - url: https://access.redhat.com/errata/RHSA-2024:4549
+    reference_type:
+    reference_id: RHSA-2024:4549
+  - url: https://bugs.ghostscript.com/show_bug.cgi?id=707754
+    reference_type:
+    reference_id: show_bug.cgi?id=707754
+  - url: https://usn.ubuntu.com/6835-1/
+    reference_type:
+    reference_id: USN-6835-1

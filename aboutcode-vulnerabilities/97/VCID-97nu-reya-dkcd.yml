@@ -1,0 +1,41 @@
+vulnerability_id: VCID-97nu-reya-dkcd
+aliases:
+  - CVE-2023-50472
+summary:
+severities:
+  - score: '4.0'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-50472.json
+  - score: '0.00046'
+    scoring_system: epss
+    scoring_elements: '0.17845'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-50472
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:P/P:M/B:A/M:M/D:T/2024-08-28T14:11:27Z/
+    published_at:
+    url: https://github.com/DaveGamble/cJSON/issues/803
+weaknesses:
+  - CWE-476
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-50472.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-50472
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1059287
+    reference_type:
+    reference_id: 1059287
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2254643
+    reference_type:
+    reference_id: 2254643
+  - url: https://github.com/DaveGamble/cJSON/issues/803
+    reference_type:
+    reference_id: 803
+  - url: https://usn.ubuntu.com/6784-1/
+    reference_type:
+    reference_id: USN-6784-1

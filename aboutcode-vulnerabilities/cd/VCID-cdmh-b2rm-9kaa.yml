@@ -1,0 +1,74 @@
+vulnerability_id: VCID-cdmh-b2rm-9kaa
+aliases:
+  - CVE-2024-26190
+summary:
+severities:
+  - score: '0.00046'
+    scoring_system: epss
+    scoring_elements: '0.17845'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-26190
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C
+    published_at:
+    url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-26190
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-03-12T18:40:23Z/
+    published_at:
+    url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-26190
+weaknesses:
+  - CWE-400
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-26190
+    reference_type:
+    reference_id:
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:.net:7.0.0:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:.net:7.0.0:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:.net:8.0.0:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:.net:8.0.0:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:powershell:7.3:-:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:powershell:7.3:-:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:powershell:7.4:-:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:powershell:7.4:-:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:visual_studio:2022:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:visual_studio:2022:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:visual_studio_2022:17.4:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:visual_studio_2022:17.4:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:o:microsoft:windows_11_21H2:10.0.22000.2836:*:*:*:*:*:arm64:*
+    reference_type:
+    reference_id: cpe:2.3:o:microsoft:windows_11_21H2:10.0.22000.2836:*:*:*:*:*:arm64:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:o:microsoft:windows_11_21H2:10.0.22000.2836:*:*:*:*:*:x64:*
+    reference_type:
+    reference_id: cpe:2.3:o:microsoft:windows_11_21H2:10.0.22000.2836:*:*:*:*:*:x64:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:o:microsoft:windows_11_22H2:10.0.22621.3296:*:*:*:*:*:arm64:*
+    reference_type:
+    reference_id: cpe:2.3:o:microsoft:windows_11_22H2:10.0.22621.3296:*:*:*:*:*:arm64:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:o:microsoft:windows_11_22H2:10.0.22621.3296:*:*:*:*:*:x64:*
+    reference_type:
+    reference_id: cpe:2.3:o:microsoft:windows_11_22H2:10.0.22621.3296:*:*:*:*:*:x64:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:o:microsoft:windows_11_23H2:10.0.22631.3296:*:*:*:*:*:arm64:*
+    reference_type:
+    reference_id: cpe:2.3:o:microsoft:windows_11_23H2:10.0.22631.3296:*:*:*:*:*:arm64:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:o:microsoft:windows_11_23H2:10.0.22631.3296:*:*:*:*:*:x64:*
+    reference_type:
+    reference_id: cpe:2.3:o:microsoft:windows_11_23H2:10.0.22631.3296:*:*:*:*:*:x64:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:o:microsoft:windows_server_2022:10.0.20348.2333:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:o:microsoft:windows_server_2022:10.0.20348.2333:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:o:microsoft:windows_server_2022:10.0.20348.2340:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:o:microsoft:windows_server_2022:10.0.20348.2340:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:o:microsoft:windows_server_23h2:10.0.25398.763:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:o:microsoft:windows_server_23h2:10.0.25398.763:*:*:*:*:*:*:*
+  - url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-26190
+    reference_type:
+    reference_id: CVE-2024-26190

@@ -1,0 +1,63 @@
+vulnerability_id: VCID-cq4a-f7b7-4yax
+aliases:
+  - CVE-2017-7507
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-7507.json
+  - score: '0.28451'
+    scoring_system: epss
+    scoring_elements: '0.96937'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2017-7507
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-294
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-295
+weaknesses: []
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-7507.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2017-7507
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-7507
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1454621
+    reference_type:
+    reference_id: 1454621
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=864560
+    reference_type:
+    reference_id: 864560
+  - url: https://security.archlinux.org/ASA-201706-12
+    reference_type:
+    reference_id: ASA-201706-12
+  - url: https://security.archlinux.org/ASA-201707-6
+    reference_type:
+    reference_id: ASA-201707-6
+  - url: https://security.archlinux.org/AVG-294
+    reference_type:
+    reference_id: AVG-294
+  - url: https://security.archlinux.org/AVG-295
+    reference_type:
+    reference_id: AVG-295
+  - url: https://security.gentoo.org/glsa/201710-15
+    reference_type:
+    reference_id: GLSA-201710-15
+  - url: https://access.redhat.com/errata/RHSA-2017:2292
+    reference_type:
+    reference_id: RHSA-2017:2292
+  - url: https://usn.ubuntu.com/3318-1/
+    reference_type:
+    reference_id: USN-3318-1

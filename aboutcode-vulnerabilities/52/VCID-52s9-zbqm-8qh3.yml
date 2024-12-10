@@ -1,0 +1,171 @@
+vulnerability_id: VCID-52s9-zbqm-8qh3
+aliases:
+  - CVE-2024-24789
+summary:
+severities:
+  - score: '8.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:3718
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-05-13T17:59:41Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:3718
+  - score: '8.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:5258
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-05-13T17:59:41Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:5258
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-24789.json
+  - score: '0.00043'
+    scoring_system: epss
+    scoring_elements: '0.10566'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-24789
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:L
+    published_at:
+    url: https://go.dev/cl/585397
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-06T15:26:12Z/
+    published_at:
+    url: https://go.dev/cl/585397
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:L
+    published_at:
+    url: https://go.dev/issue/66869
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-06T15:26:12Z/
+    published_at:
+    url: https://go.dev/issue/66869
+  - score: '9.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://groups.google.com/g/golang-announce/c/XbxouI9gY7k/m/TuoGEhxIEwAJ
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:T/P:M/B:A/M:M/D:T/2024-08-07T14:59:19Z/
+    published_at:
+    url: https://groups.google.com/g/golang-announce/c/XbxouI9gY7k/m/TuoGEhxIEwAJ
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:L
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/U5YAEIA6IUHUNGJ7AIXXPQT6D2GYENX7/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-06T15:26:12Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/U5YAEIA6IUHUNGJ7AIXXPQT6D2GYENX7/
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:L
+    published_at:
+    url: https://pkg.go.dev/vuln/GO-2024-2888
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-06T15:26:12Z/
+    published_at:
+    url: https://pkg.go.dev/vuln/GO-2024-2888
+  - score: '9.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/06/04/1
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:T/P:M/B:A/M:M/D:T/2024-08-07T14:59:19Z/
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/06/04/1
+weaknesses:
+  - CWE-20
+  - CWE-390
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-24789.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-24789
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: http://www.openwall.com/lists/oss-security/2024/06/04/1
+    reference_type:
+    reference_id: 1
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2292668
+    reference_type:
+    reference_id: 2292668
+  - url: https://go.dev/cl/585397
+    reference_type:
+    reference_id: 585397
+  - url: https://go.dev/issue/66869
+    reference_type:
+    reference_id: 66869
+  - url: https://pkg.go.dev/vuln/GO-2024-2888
+    reference_type:
+    reference_id: GO-2024-2888
+  - url: https://access.redhat.com/errata/RHSA-2024:3718
+    reference_type:
+    reference_id: RHSA-2024:3718
+  - url: https://access.redhat.com/errata/RHSA-2024:3722
+    reference_type:
+    reference_id: RHSA-2024:3722
+  - url: https://access.redhat.com/errata/RHSA-2024:4212
+    reference_type:
+    reference_id: RHSA-2024:4212
+  - url: https://access.redhat.com/errata/RHSA-2024:4237
+    reference_type:
+    reference_id: RHSA-2024:4237
+  - url: https://access.redhat.com/errata/RHSA-2024:4785
+    reference_type:
+    reference_id: RHSA-2024:4785
+  - url: https://access.redhat.com/errata/RHSA-2024:4867
+    reference_type:
+    reference_id: RHSA-2024:4867
+  - url: https://access.redhat.com/errata/RHSA-2024:4872
+    reference_type:
+    reference_id: RHSA-2024:4872
+  - url: https://access.redhat.com/errata/RHSA-2024:4982
+    reference_type:
+    reference_id: RHSA-2024:4982
+  - url: https://access.redhat.com/errata/RHSA-2024:5094
+    reference_type:
+    reference_id: RHSA-2024:5094
+  - url: https://access.redhat.com/errata/RHSA-2024:5258
+    reference_type:
+    reference_id: RHSA-2024:5258
+  - url: https://access.redhat.com/errata/RHSA-2024:5291
+    reference_type:
+    reference_id: RHSA-2024:5291
+  - url: https://access.redhat.com/errata/RHSA-2024:6004
+    reference_type:
+    reference_id: RHSA-2024:6004
+  - url: https://access.redhat.com/errata/RHSA-2024:6755
+    reference_type:
+    reference_id: RHSA-2024:6755
+  - url: https://groups.google.com/g/golang-announce/c/XbxouI9gY7k/m/TuoGEhxIEwAJ
+    reference_type:
+    reference_id: TuoGEhxIEwAJ
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/U5YAEIA6IUHUNGJ7AIXXPQT6D2GYENX7/
+    reference_type:
+    reference_id: U5YAEIA6IUHUNGJ7AIXXPQT6D2GYENX7
+  - url: https://usn.ubuntu.com/6886-1/
+    reference_type:
+    reference_id: USN-6886-1

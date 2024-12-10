@@ -1,0 +1,100 @@
+vulnerability_id: VCID-k98w-n5tm-jbbw
+aliases:
+  - CVE-2019-1348
+summary:
+severities:
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-19T18:49:36Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2019:4356
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-19T18:49:36Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2020:0002
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-19T18:49:36Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2020:0228
+  - score: '3.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-1348.json
+  - score: '0.00047'
+    scoring_system: epss
+    scoring_elements: '0.18019'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-1348
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1073
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1075
+weaknesses:
+  - CWE-20
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-1348.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-1348
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-1348
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-1349
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-1352
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-1353
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-1387
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1781953
+    reference_type:
+    reference_id: 1781953
+  - url: https://security.archlinux.org/ASA-201912-5
+    reference_type:
+    reference_id: ASA-201912-5
+  - url: https://security.archlinux.org/ASA-201912-6
+    reference_type:
+    reference_id: ASA-201912-6
+  - url: https://security.archlinux.org/AVG-1073
+    reference_type:
+    reference_id: AVG-1073
+  - url: https://security.archlinux.org/AVG-1075
+    reference_type:
+    reference_id: AVG-1075
+  - url: https://security.gentoo.org/glsa/202003-30
+    reference_type:
+    reference_id: GLSA-202003-30
+  - url: https://security.gentoo.org/glsa/202003-42
+    reference_type:
+    reference_id: GLSA-202003-42
+  - url: https://access.redhat.com/errata/RHSA-2019:4356
+    reference_type:
+    reference_id: RHSA-2019:4356
+  - url: https://access.redhat.com/errata/RHSA-2020:0002
+    reference_type:
+    reference_id: RHSA-2020:0002
+  - url: https://access.redhat.com/errata/RHSA-2020:0228
+    reference_type:
+    reference_id: RHSA-2020:0228
+  - url: https://usn.ubuntu.com/4220-1/
+    reference_type:
+    reference_id: USN-4220-1

@@ -1,0 +1,15 @@
+vulnerability_id: VCID-fnd4-mbku-9ffw
+aliases:
+  - CVE-2021-41145
+summary:
+severities:
+  - score: '0.00117'
+    scoring_system: epss
+    scoring_elements: '0.46401'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-41145
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-41145
+    reference_type:
+    reference_id:

@@ -1,0 +1,27 @@
+vulnerability_id: VCID-q115-qzbf-rfee
+aliases:
+  - CVE-2019-13312
+summary:
+severities:
+  - score: '0.00577'
+    scoring_system: epss
+    scoring_elements: '0.78339'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-13312
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-13312
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://security.gentoo.org/glsa/202003-65
+    reference_type:
+    reference_id: GLSA-202003-65
+  - url: https://security.gentoo.org/glsa/202007-58
+    reference_type:
+    reference_id: GLSA-202007-58
+  - url: https://usn.ubuntu.com/4431-1/
+    reference_type:
+    reference_id: USN-4431-1

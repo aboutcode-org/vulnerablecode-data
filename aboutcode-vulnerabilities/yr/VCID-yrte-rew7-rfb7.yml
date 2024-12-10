@@ -1,0 +1,29 @@
+vulnerability_id: VCID-yrte-rew7-rfb7
+aliases:
+  - CVE-2021-38115
+summary:
+severities:
+  - score: '0.00473'
+    scoring_system: epss
+    scoring_elements: '0.76030'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-38115
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2258
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-38115
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=991912
+    reference_type:
+    reference_id: 991912
+  - url: https://security.archlinux.org/AVG-2258
+    reference_type:
+    reference_id: AVG-2258
+  - url: https://usn.ubuntu.com/5068-1/
+    reference_type:
+    reference_id: USN-5068-1

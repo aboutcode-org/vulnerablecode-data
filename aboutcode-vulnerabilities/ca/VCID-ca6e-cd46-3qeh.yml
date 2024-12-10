@@ -1,0 +1,30 @@
+vulnerability_id: VCID-ca6e-cd46-3qeh
+aliases:
+  - CVE-2019-15961
+summary:
+severities:
+  - score: '0.01728'
+    scoring_system: epss
+    scoring_elements: '0.88194'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-15961
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-15961
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=945265
+    reference_type:
+    reference_id: 945265
+  - url: https://security.gentoo.org/glsa/202003-46
+    reference_type:
+    reference_id: GLSA-202003-46
+  - url: https://usn.ubuntu.com/4230-1/
+    reference_type:
+    reference_id: USN-4230-1
+  - url: https://usn.ubuntu.com/4230-2/
+    reference_type:
+    reference_id: USN-4230-2

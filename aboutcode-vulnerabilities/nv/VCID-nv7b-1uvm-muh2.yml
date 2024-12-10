@@ -1,0 +1,27 @@
+vulnerability_id: VCID-nv7b-1uvm-muh2
+aliases:
+  - CVE-2020-12672
+summary:
+severities:
+  - score: '0.00182'
+    scoring_system: epss
+    scoring_elements: '0.56032'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-12672
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-12672
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=960000
+    reference_type:
+    reference_id: 960000
+  - url: https://security.gentoo.org/glsa/202209-19
+    reference_type:
+    reference_id: GLSA-202209-19
+  - url: https://usn.ubuntu.com/5974-1/
+    reference_type:
+    reference_id: USN-5974-1
+  - url: https://usn.ubuntu.com/USN-5190-1/
+    reference_type:
+    reference_id: USN-USN-5190-1

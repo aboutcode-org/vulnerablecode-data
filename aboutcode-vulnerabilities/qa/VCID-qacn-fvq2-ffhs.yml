@@ -1,0 +1,48 @@
+vulnerability_id: VCID-qacn-fvq2-ffhs
+aliases:
+  - CVE-2022-3094
+summary:
+severities:
+  - score: '6.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-3094.json
+  - score: '0.00093'
+    scoring_system: epss
+    scoring_elements: '0.40445'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-3094
+weaknesses:
+  - CWE-20
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-3094.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-3094
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2164032
+    reference_type:
+    reference_id: 2164032
+  - url: https://access.redhat.com/errata/RHSA-2023:2261
+    reference_type:
+    reference_id: RHSA-2023:2261
+  - url: https://access.redhat.com/errata/RHSA-2023:2792
+    reference_type:
+    reference_id: RHSA-2023:2792
+  - url: https://access.redhat.com/errata/RHSA-2023:7177
+    reference_type:
+    reference_id: RHSA-2023:7177
+  - url: https://access.redhat.com/errata/RHSA-2024:1406
+    reference_type:
+    reference_id: RHSA-2024:1406
+  - url: https://access.redhat.com/errata/RHSA-2024:2720
+    reference_type:
+    reference_id: RHSA-2024:2720
+  - url: https://usn.ubuntu.com/5827-1/
+    reference_type:
+    reference_id: USN-5827-1

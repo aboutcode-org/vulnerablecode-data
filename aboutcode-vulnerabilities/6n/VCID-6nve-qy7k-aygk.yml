@@ -1,0 +1,151 @@
+vulnerability_id: VCID-6nve-qy7k-aygk
+aliases:
+  - CVE-2024-47175
+summary:
+severities:
+  - score: '7.7'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-47175.json
+  - score: '0.00045'
+    scoring_system: epss
+    scoring_elements: '0.14954'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-47175
+  - score: '9.1'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/OpenPrinting/cups-browsed/security/advisories/GHSA-rj88-6mr5-rcw8
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:T/P:M/B:A/M:M/D:R/2024-09-27T14:38:10Z/
+    published_at:
+    url: https://github.com/OpenPrinting/cups-browsed/security/advisories/GHSA-rj88-6mr5-rcw8
+  - score: '9.1'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/OpenPrinting/cups-filters/security/advisories/GHSA-p9rh-jxmq-gq47
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:T/P:M/B:A/M:M/D:R/2024-09-27T14:38:10Z/
+    published_at:
+    url: https://github.com/OpenPrinting/cups-filters/security/advisories/GHSA-p9rh-jxmq-gq47
+  - score: '9.1'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/OpenPrinting/libcupsfilters/security/advisories/GHSA-w63j-6g73-wmg5
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:T/P:M/B:A/M:M/D:R/2024-09-27T14:38:10Z/
+    published_at:
+    url: https://github.com/OpenPrinting/libcupsfilters/security/advisories/GHSA-w63j-6g73-wmg5
+  - score: '9.1'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/OpenPrinting/libppd/security/advisories/GHSA-7xfx-47qg-grp6
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:T/P:M/B:A/M:M/D:R/2024-09-27T14:38:10Z/
+    published_at:
+    url: https://github.com/OpenPrinting/libppd/security/advisories/GHSA-7xfx-47qg-grp6
+  - score: '9.1'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://www.cups.org
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:T/P:M/B:A/M:M/D:R/2024-09-27T14:38:10Z/
+    published_at:
+    url: https://www.cups.org
+  - score: '9.1'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:T/P:M/B:A/M:M/D:R/2024-09-27T14:38:10Z/
+    published_at:
+    url: https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I
+weaknesses:
+  - CWE-77
+  - CWE-20
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-47175.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-47175
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2314256
+    reference_type:
+    reference_id: 2314256
+  - url: https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I
+    reference_type:
+    reference_id: Attacking-UNIX-systems-via-CUPS-Part-I
+  - url: https://github.com/OpenPrinting/libppd/security/advisories/GHSA-7xfx-47qg-grp6
+    reference_type:
+    reference_id: GHSA-7xfx-47qg-grp6
+  - url: https://github.com/OpenPrinting/cups-filters/security/advisories/GHSA-p9rh-jxmq-gq47
+    reference_type:
+    reference_id: GHSA-p9rh-jxmq-gq47
+  - url: https://github.com/OpenPrinting/cups-browsed/security/advisories/GHSA-rj88-6mr5-rcw8
+    reference_type:
+    reference_id: GHSA-rj88-6mr5-rcw8
+  - url: https://github.com/OpenPrinting/libcupsfilters/security/advisories/GHSA-w63j-6g73-wmg5
+    reference_type:
+    reference_id: GHSA-w63j-6g73-wmg5
+  - url: https://access.redhat.com/errata/RHSA-2024:7346
+    reference_type:
+    reference_id: RHSA-2024:7346
+  - url: https://access.redhat.com/errata/RHSA-2024:7461
+    reference_type:
+    reference_id: RHSA-2024:7461
+  - url: https://access.redhat.com/errata/RHSA-2024:7462
+    reference_type:
+    reference_id: RHSA-2024:7462
+  - url: https://access.redhat.com/errata/RHSA-2024:7463
+    reference_type:
+    reference_id: RHSA-2024:7463
+  - url: https://access.redhat.com/errata/RHSA-2024:7503
+    reference_type:
+    reference_id: RHSA-2024:7503
+  - url: https://access.redhat.com/errata/RHSA-2024:7504
+    reference_type:
+    reference_id: RHSA-2024:7504
+  - url: https://access.redhat.com/errata/RHSA-2024:7506
+    reference_type:
+    reference_id: RHSA-2024:7506
+  - url: https://access.redhat.com/errata/RHSA-2024:7551
+    reference_type:
+    reference_id: RHSA-2024:7551
+  - url: https://access.redhat.com/errata/RHSA-2024:7553
+    reference_type:
+    reference_id: RHSA-2024:7553
+  - url: https://access.redhat.com/errata/RHSA-2024:7623
+    reference_type:
+    reference_id: RHSA-2024:7623
+  - url: https://usn.ubuntu.com/7041-1/
+    reference_type:
+    reference_id: USN-7041-1
+  - url: https://usn.ubuntu.com/7041-2/
+    reference_type:
+    reference_id: USN-7041-2
+  - url: https://usn.ubuntu.com/7041-3/
+    reference_type:
+    reference_id: USN-7041-3
+  - url: https://usn.ubuntu.com/7045-1/
+    reference_type:
+    reference_id: USN-7045-1
+  - url: https://www.cups.org
+    reference_type:
+    reference_id: www.cups.org

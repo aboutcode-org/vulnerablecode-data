@@ -1,0 +1,56 @@
+vulnerability_id: VCID-s7vf-q4v8-d3bq
+aliases:
+  - CVE-2021-21284
+summary:
+severities:
+  - score: '6.0'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:C/C:N/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-21284.json
+  - score: '0.00047'
+    scoring_system: epss
+    scoring_elements: '0.18019'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-21284
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1528
+weaknesses:
+  - CWE-732
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-21284.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-21284
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15157
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15257
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-21284
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-21285
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1924740
+    reference_type:
+    reference_id: '1924740'
+  - url: https://security.archlinux.org/ASA-202102-12
+    reference_type:
+    reference_id: ASA-202102-12
+  - url: https://security.archlinux.org/AVG-1528
+    reference_type:
+    reference_id: AVG-1528
+  - url: https://security.gentoo.org/glsa/202107-23
+    reference_type:
+    reference_id: GLSA-202107-23

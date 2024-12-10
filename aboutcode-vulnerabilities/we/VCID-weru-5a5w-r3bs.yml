@@ -1,0 +1,121 @@
+vulnerability_id: VCID-weru-5a5w-r3bs
+aliases:
+  - CVE-2024-4076
+summary:
+severities:
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:6009
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-13T20:18:31Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:6009
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:6406
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-13T20:18:31Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:6406
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-4076.json
+  - score: '0.00045'
+    scoring_system: epss
+    scoring_elements: '0.16440'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-4076
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://kb.isc.org/docs/cve-2024-4076
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-23T15:10:37Z/
+    published_at:
+    url: https://kb.isc.org/docs/cve-2024-4076
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/07/23/1
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-23T17:12:04Z/
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/07/23/1
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/07/31/2
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-23T17:12:04Z/
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/07/31/2
+weaknesses: []
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-4076.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-4076
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: http://www.openwall.com/lists/oss-security/2024/07/23/1
+    reference_type:
+    reference_id: 1
+  - url: http://www.openwall.com/lists/oss-security/2024/07/31/2
+    reference_type:
+    reference_id: 2
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2298904
+    reference_type:
+    reference_id: 2298904
+  - url: https://kb.isc.org/docs/cve-2024-4076
+    reference_type:
+    reference_id: cve-2024-4076
+  - url: https://access.redhat.com/errata/RHSA-2024:5231
+    reference_type:
+    reference_id: RHSA-2024:5231
+  - url: https://access.redhat.com/errata/RHSA-2024:5390
+    reference_type:
+    reference_id: RHSA-2024:5390
+  - url: https://access.redhat.com/errata/RHSA-2024:5418
+    reference_type:
+    reference_id: RHSA-2024:5418
+  - url: https://access.redhat.com/errata/RHSA-2024:5525
+    reference_type:
+    reference_id: RHSA-2024:5525
+  - url: https://access.redhat.com/errata/RHSA-2024:5813
+    reference_type:
+    reference_id: RHSA-2024:5813
+  - url: https://access.redhat.com/errata/RHSA-2024:5907
+    reference_type:
+    reference_id: RHSA-2024:5907
+  - url: https://access.redhat.com/errata/RHSA-2024:6004
+    reference_type:
+    reference_id: RHSA-2024:6004
+  - url: https://access.redhat.com/errata/RHSA-2024:6009
+    reference_type:
+    reference_id: RHSA-2024:6009
+  - url: https://access.redhat.com/errata/RHSA-2024:6013
+    reference_type:
+    reference_id: RHSA-2024:6013
+  - url: https://access.redhat.com/errata/RHSA-2024:6406
+    reference_type:
+    reference_id: RHSA-2024:6406
+  - url: https://usn.ubuntu.com/6909-1/
+    reference_type:
+    reference_id: USN-6909-1

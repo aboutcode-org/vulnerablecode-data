@@ -1,0 +1,51 @@
+vulnerability_id: VCID-g6gc-1e66-cbd7
+aliases:
+  - CVE-2023-36049
+summary:
+severities:
+  - score: '9.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-36049.json
+  - score: '0.00102'
+    scoring_system: epss
+    scoring_elements: '0.42560'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-36049
+weaknesses:
+  - CWE-94
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-36049.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-36049
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2248883
+    reference_type:
+    reference_id: 2248883
+  - url: https://access.redhat.com/errata/RHSA-2023:7253
+    reference_type:
+    reference_id: RHSA-2023:7253
+  - url: https://access.redhat.com/errata/RHSA-2023:7254
+    reference_type:
+    reference_id: RHSA-2023:7254
+  - url: https://access.redhat.com/errata/RHSA-2023:7255
+    reference_type:
+    reference_id: RHSA-2023:7255
+  - url: https://access.redhat.com/errata/RHSA-2023:7256
+    reference_type:
+    reference_id: RHSA-2023:7256
+  - url: https://access.redhat.com/errata/RHSA-2023:7257
+    reference_type:
+    reference_id: RHSA-2023:7257
+  - url: https://access.redhat.com/errata/RHSA-2023:7258
+    reference_type:
+    reference_id: RHSA-2023:7258
+  - url: https://access.redhat.com/errata/RHSA-2023:7259
+    reference_type:
+    reference_id: RHSA-2023:7259
+  - url: https://usn.ubuntu.com/6480-1/
+    reference_type:
+    reference_id: USN-6480-1

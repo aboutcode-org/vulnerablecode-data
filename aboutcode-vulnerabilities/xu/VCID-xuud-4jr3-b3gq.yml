@@ -1,0 +1,18 @@
+vulnerability_id: VCID-xuud-4jr3-b3gq
+aliases:
+  - CVE-2020-13614
+summary:
+severities:
+  - score: '0.00283'
+    scoring_system: epss
+    scoring_elements: '0.69003'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-13614
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-13614
+    reference_type:
+    reference_id:
+  - url: https://usn.ubuntu.com/USN-4872-1/
+    reference_type:
+    reference_id: USN-USN-4872-1

@@ -1,0 +1,18 @@
+vulnerability_id: VCID-3n27-7451-afag
+aliases:
+  - CVE-2022-37781
+summary:
+severities:
+  - score: '0.00081'
+    scoring_system: epss
+    scoring_elements: '0.35524'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-37781
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-37781
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1017754
+    reference_type:
+    reference_id: 1017754

@@ -1,0 +1,121 @@
+vulnerability_id: VCID-rwee-83qh-6khg
+aliases:
+  - CVE-2021-43536
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-43536.json
+  - score: '0.01905'
+    scoring_system: epss
+    scoring_elements: '0.88843'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-43536
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2606
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2608
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-52
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-53
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-54
+weaknesses:
+  - CWE-1021
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-43536.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-43536
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2030105
+    reference_type:
+    reference_id: 2030105
+  - url: https://security.archlinux.org/ASA-202112-8
+    reference_type:
+    reference_id: ASA-202112-8
+  - url: https://security.archlinux.org/ASA-202112-9
+    reference_type:
+    reference_id: ASA-202112-9
+  - url: https://security.archlinux.org/AVG-2606
+    reference_type:
+    reference_id: AVG-2606
+  - url: https://security.archlinux.org/AVG-2608
+    reference_type:
+    reference_id: AVG-2608
+  - url: https://security.gentoo.org/glsa/202202-03
+    reference_type:
+    reference_id: GLSA-202202-03
+  - url: https://security.gentoo.org/glsa/202208-14
+    reference_type:
+    reference_id: GLSA-202208-14
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-52
+    reference_type:
+    reference_id: mfsa2021-52
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-53
+    reference_type:
+    reference_id: mfsa2021-53
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-54
+    reference_type:
+    reference_id: mfsa2021-54
+  - url: https://access.redhat.com/errata/RHSA-2021:5013
+    reference_type:
+    reference_id: RHSA-2021:5013
+  - url: https://access.redhat.com/errata/RHSA-2021:5014
+    reference_type:
+    reference_id: RHSA-2021:5014
+  - url: https://access.redhat.com/errata/RHSA-2021:5015
+    reference_type:
+    reference_id: RHSA-2021:5015
+  - url: https://access.redhat.com/errata/RHSA-2021:5016
+    reference_type:
+    reference_id: RHSA-2021:5016
+  - url: https://access.redhat.com/errata/RHSA-2021:5017
+    reference_type:
+    reference_id: RHSA-2021:5017
+  - url: https://access.redhat.com/errata/RHSA-2021:5045
+    reference_type:
+    reference_id: RHSA-2021:5045
+  - url: https://access.redhat.com/errata/RHSA-2021:5046
+    reference_type:
+    reference_id: RHSA-2021:5046
+  - url: https://access.redhat.com/errata/RHSA-2021:5047
+    reference_type:
+    reference_id: RHSA-2021:5047
+  - url: https://access.redhat.com/errata/RHSA-2021:5048
+    reference_type:
+    reference_id: RHSA-2021:5048
+  - url: https://access.redhat.com/errata/RHSA-2021:5055
+    reference_type:
+    reference_id: RHSA-2021:5055
+  - url: https://usn.ubuntu.com/5186-1/
+    reference_type:
+    reference_id: USN-5186-1
+  - url: https://usn.ubuntu.com/5246-1/
+    reference_type:
+    reference_id: USN-5246-1
+  - url: https://usn.ubuntu.com/5248-1/
+    reference_type:
+    reference_id: USN-5248-1

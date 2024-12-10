@@ -1,0 +1,48 @@
+vulnerability_id: VCID-p9z8-2dre-p3hd
+aliases:
+  - CVE-2016-3189
+summary:
+severities:
+  - score: '0.03568'
+    scoring_system: epss
+    scoring_elements: '0.91784'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-3189
+  - score: Low
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-4
+weaknesses:
+  - CWE-416
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-3189.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-3189
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1319648
+    reference_type:
+    reference_id: 1319648
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=827744
+    reference_type:
+    reference_id: 827744
+  - url: https://security.archlinux.org/ASA-201702-19
+    reference_type:
+    reference_id: ASA-201702-19
+  - url: https://security.archlinux.org/AVG-4
+    reference_type:
+    reference_id: AVG-4
+  - url: https://security.gentoo.org/glsa/201708-08
+    reference_type:
+    reference_id: GLSA-201708-08
+  - url: https://usn.ubuntu.com/4038-1/
+    reference_type:
+    reference_id: USN-4038-1
+  - url: https://usn.ubuntu.com/4038-2/
+    reference_type:
+    reference_id: USN-4038-2

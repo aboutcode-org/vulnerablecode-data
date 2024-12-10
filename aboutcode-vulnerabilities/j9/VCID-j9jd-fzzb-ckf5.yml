@@ -1,0 +1,33 @@
+vulnerability_id: VCID-j9jd-fzzb-ckf5
+aliases:
+  - CVE-2020-5291
+summary:
+severities:
+  - score: '7.2'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:L/UI:R/S:C/C:H/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-5291.json
+  - score: '0.00044'
+    scoring_system: epss
+    scoring_elements: '0.13409'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-5291
+weaknesses:
+  - CWE-648
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-5291.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-5291
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1823504
+    reference_type:
+    reference_id: 1823504
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=955441
+    reference_type:
+    reference_id: 955441

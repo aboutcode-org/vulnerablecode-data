@@ -1,0 +1,71 @@
+vulnerability_id: VCID-pefw-em2p-p7c2
+aliases:
+  - CVE-2020-8285
+summary:
+severities:
+  - score: '6.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-8285.json
+  - score: '0.00710'
+    scoring_system: epss
+    scoring_elements: '0.80753'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-8285
+  - score: Medium
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2020-8285.html
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1337
+weaknesses:
+  - CWE-674
+  - CWE-121
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-8285.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-8285
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2020-8285.html
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://hackerone.com/reports/1045844
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1902687
+    reference_type:
+    reference_id: '1902687'
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=977162
+    reference_type:
+    reference_id: 977162
+  - url: https://security.archlinux.org/AVG-1337
+    reference_type:
+    reference_id: AVG-1337
+  - url: https://security.gentoo.org/glsa/202012-14
+    reference_type:
+    reference_id: GLSA-202012-14
+  - url: https://access.redhat.com/errata/RHSA-2021:1610
+    reference_type:
+    reference_id: RHSA-2021:1610
+  - url: https://access.redhat.com/errata/RHSA-2021:2471
+    reference_type:
+    reference_id: RHSA-2021:2471
+  - url: https://access.redhat.com/errata/RHSA-2021:2472
+    reference_type:
+    reference_id: RHSA-2021:2472
+  - url: https://usn.ubuntu.com/4665-1/
+    reference_type:
+    reference_id: USN-4665-1
+  - url: https://usn.ubuntu.com/4665-2/
+    reference_type:
+    reference_id: USN-4665-2

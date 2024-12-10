@@ -1,0 +1,27 @@
+vulnerability_id: VCID-uduy-apf5-5qez
+aliases:
+  - CVE-2023-20197
+summary:
+severities:
+  - score: '0.00118'
+    scoring_system: epss
+    scoring_elements: '0.46754'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-20197
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-20197
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1050057
+    reference_type:
+    reference_id: 1050057
+  - url: https://usn.ubuntu.com/6303-1/
+    reference_type:
+    reference_id: USN-6303-1
+  - url: https://usn.ubuntu.com/6303-2/
+    reference_type:
+    reference_id: USN-6303-2

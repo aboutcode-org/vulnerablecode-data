@@ -1,0 +1,33 @@
+vulnerability_id: VCID-ndpm-ywb2-mqe8
+aliases:
+  - CVE-2019-9946
+summary:
+severities:
+  - score: '6.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-9946.json
+  - score: '0.00234'
+    scoring_system: epss
+    scoring_elements: '0.61627'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-9946
+weaknesses:
+  - CWE-841
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-9946.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-9946
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1692712
+    reference_type:
+    reference_id: 1692712
+  - url: https://access.redhat.com/errata/RHSA-2019:3403
+    reference_type:
+    reference_id: RHSA-2019:3403

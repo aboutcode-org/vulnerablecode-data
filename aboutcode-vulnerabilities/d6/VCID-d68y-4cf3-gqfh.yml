@@ -1,0 +1,51 @@
+vulnerability_id: VCID-d68y-4cf3-gqfh
+aliases:
+  - CVE-2022-41716
+summary:
+severities:
+  - score: '0.00102'
+    scoring_system: epss
+    scoring_elements: '0.42540'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-41716
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-08-01T14:02:04Z/
+    published_at:
+    url: https://go.dev/cl/446916
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-08-01T14:02:04Z/
+    published_at:
+    url: https://go.dev/issue/56284
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-08-01T14:02:04Z/
+    published_at:
+    url: https://groups.google.com/g/golang-announce/c/mbHY1UY3BaM/m/hSpmRzk-AgAJ
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-08-01T14:02:04Z/
+    published_at:
+    url: https://pkg.go.dev/vuln/GO-2022-1095
+weaknesses:
+  - CWE-158
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-41716
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://go.dev/cl/446916
+    reference_type:
+    reference_id: 446916
+  - url: https://go.dev/issue/56284
+    reference_type:
+    reference_id: 56284
+  - url: https://pkg.go.dev/vuln/GO-2022-1095
+    reference_type:
+    reference_id: GO-2022-1095
+  - url: https://groups.google.com/g/golang-announce/c/mbHY1UY3BaM/m/hSpmRzk-AgAJ
+    reference_type:
+    reference_id: hSpmRzk-AgAJ

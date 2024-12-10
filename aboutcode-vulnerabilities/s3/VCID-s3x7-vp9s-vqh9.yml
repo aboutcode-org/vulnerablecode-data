@@ -1,0 +1,111 @@
+vulnerability_id: VCID-s3x7-vp9s-vqh9
+aliases:
+  - CVE-2023-29533
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-29533.json
+  - score: '0.00092'
+    scoring_system: epss
+    scoring_elements: '0.40275'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-29533
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-13
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-14
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-15
+weaknesses:
+  - CWE-425
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-29533.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-29533
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2186101
+    reference_type:
+    reference_id: 2186101
+  - url: https://security.gentoo.org/glsa/202305-35
+    reference_type:
+    reference_id: GLSA-202305-35
+  - url: https://security.gentoo.org/glsa/202305-36
+    reference_type:
+    reference_id: GLSA-202305-36
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-13
+    reference_type:
+    reference_id: mfsa2023-13
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-14
+    reference_type:
+    reference_id: mfsa2023-14
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-15
+    reference_type:
+    reference_id: mfsa2023-15
+  - url: https://access.redhat.com/errata/RHSA-2023:1785
+    reference_type:
+    reference_id: RHSA-2023:1785
+  - url: https://access.redhat.com/errata/RHSA-2023:1786
+    reference_type:
+    reference_id: RHSA-2023:1786
+  - url: https://access.redhat.com/errata/RHSA-2023:1787
+    reference_type:
+    reference_id: RHSA-2023:1787
+  - url: https://access.redhat.com/errata/RHSA-2023:1788
+    reference_type:
+    reference_id: RHSA-2023:1788
+  - url: https://access.redhat.com/errata/RHSA-2023:1789
+    reference_type:
+    reference_id: RHSA-2023:1789
+  - url: https://access.redhat.com/errata/RHSA-2023:1790
+    reference_type:
+    reference_id: RHSA-2023:1790
+  - url: https://access.redhat.com/errata/RHSA-2023:1791
+    reference_type:
+    reference_id: RHSA-2023:1791
+  - url: https://access.redhat.com/errata/RHSA-2023:1792
+    reference_type:
+    reference_id: RHSA-2023:1792
+  - url: https://access.redhat.com/errata/RHSA-2023:1802
+    reference_type:
+    reference_id: RHSA-2023:1802
+  - url: https://access.redhat.com/errata/RHSA-2023:1803
+    reference_type:
+    reference_id: RHSA-2023:1803
+  - url: https://access.redhat.com/errata/RHSA-2023:1804
+    reference_type:
+    reference_id: RHSA-2023:1804
+  - url: https://access.redhat.com/errata/RHSA-2023:1805
+    reference_type:
+    reference_id: RHSA-2023:1805
+  - url: https://access.redhat.com/errata/RHSA-2023:1806
+    reference_type:
+    reference_id: RHSA-2023:1806
+  - url: https://access.redhat.com/errata/RHSA-2023:1809
+    reference_type:
+    reference_id: RHSA-2023:1809
+  - url: https://access.redhat.com/errata/RHSA-2023:1810
+    reference_type:
+    reference_id: RHSA-2023:1810
+  - url: https://access.redhat.com/errata/RHSA-2023:1811
+    reference_type:
+    reference_id: RHSA-2023:1811
+  - url: https://usn.ubuntu.com/6010-1/
+    reference_type:
+    reference_id: USN-6010-1
+  - url: https://usn.ubuntu.com/6015-1/
+    reference_type:
+    reference_id: USN-6015-1

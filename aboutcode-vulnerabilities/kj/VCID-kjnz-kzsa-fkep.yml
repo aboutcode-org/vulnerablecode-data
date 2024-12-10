@@ -1,0 +1,124 @@
+vulnerability_id: VCID-kjnz-kzsa-fkep
+aliases:
+  - CVE-2023-35390
+  - GHSA-p8rx-fwgq-rh2f
+summary:
+severities:
+  - score: '7.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-35390.json
+  - score: '0.02137'
+    scoring_system: epss
+    scoring_elements: '0.89510'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-35390
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:P/RL:O/RC:C
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/CL2L4WE5QRT7WEXANYXSKSU43APC5N2V/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-24T20:42:20Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/CL2L4WE5QRT7WEXANYXSKSU43APC5N2V/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:P/RL:O/RC:C
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/NWVZFKTLNMNKPZ755EMRYIA6GHFOWGKY/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-24T20:42:20Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/NWVZFKTLNMNKPZ755EMRYIA6GHFOWGKY/
+  - score: '7.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C
+    published_at:
+    url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-35390
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-06-04T01:21:48Z/
+    published_at:
+    url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-35390
+weaknesses:
+  - CWE-1035
+  - CWE-78
+  - CWE-937
+  - CWE-77
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-35390.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-35390
+    reference_type:
+    reference_id:
+  - url: https://github.com/dotnet/announcements/issues/266
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2228622
+    reference_type:
+    reference_id: 2228622
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/CL2L4WE5QRT7WEXANYXSKSU43APC5N2V/
+    reference_type:
+    reference_id: CL2L4WE5QRT7WEXANYXSKSU43APC5N2V
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:.net:6.0.0:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:.net:6.0.0:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:.net:7.0.0:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:.net:7.0.0:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:visual_studio:2022:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:visual_studio:2022:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:visual_studio_2022:17.2:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:visual_studio_2022:17.2:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:visual_studio_2022:17.4:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:visual_studio_2022:17.4:*:*:*:*:*:*:*
+  - url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-35390
+    reference_type:
+    reference_id: CVE-2023-35390
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2023-35390
+    reference_type:
+    reference_id: CVE-2023-35390
+  - url: https://github.com/advisories/GHSA-p8rx-fwgq-rh2f
+    reference_type:
+    reference_id: GHSA-p8rx-fwgq-rh2f
+  - url: https://github.com/dotnet/sdk/security/advisories/GHSA-p8rx-fwgq-rh2f
+    reference_type:
+    reference_id: GHSA-p8rx-fwgq-rh2f
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/NWVZFKTLNMNKPZ755EMRYIA6GHFOWGKY/
+    reference_type:
+    reference_id: NWVZFKTLNMNKPZ755EMRYIA6GHFOWGKY
+  - url: https://access.redhat.com/errata/RHSA-2023:4639
+    reference_type:
+    reference_id: RHSA-2023:4639
+  - url: https://access.redhat.com/errata/RHSA-2023:4640
+    reference_type:
+    reference_id: RHSA-2023:4640
+  - url: https://access.redhat.com/errata/RHSA-2023:4641
+    reference_type:
+    reference_id: RHSA-2023:4641
+  - url: https://access.redhat.com/errata/RHSA-2023:4642
+    reference_type:
+    reference_id: RHSA-2023:4642
+  - url: https://access.redhat.com/errata/RHSA-2023:4643
+    reference_type:
+    reference_id: RHSA-2023:4643
+  - url: https://access.redhat.com/errata/RHSA-2023:4644
+    reference_type:
+    reference_id: RHSA-2023:4644
+  - url: https://access.redhat.com/errata/RHSA-2023:4645
+    reference_type:
+    reference_id: RHSA-2023:4645
+  - url: https://usn.ubuntu.com/6278-1/
+    reference_type:
+    reference_id: USN-6278-1
+  - url: https://usn.ubuntu.com/6278-2/
+    reference_type:
+    reference_id: USN-6278-2

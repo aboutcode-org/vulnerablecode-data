@@ -1,0 +1,65 @@
+vulnerability_id: VCID-1xtv-g8q8-3udv
+aliases:
+  - CVE-2019-10217
+  - GHSA-p75j-wc34-527c
+  - PYSEC-2019-3
+summary: A flaw was found in ansible 2.8.0 before 2.8.4. Fields managing sensitive data should
+  be set as such by no_log feature. Some of these fields in GCP modules are not set properly.
+  service_account_contents() which is common class for all gcp modules is not setting no_log
+  to True. Any sensitive data managed by that function would be leak as an output when running
+  ansible playbooks.
+severities:
+  - score: '5.7'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:L/UI:R/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-10217.json
+  - score: '0.00188'
+    scoring_system: epss
+    scoring_elements: '0.56752'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-10217
+weaknesses:
+  - CWE-200
+  - CWE-1035
+  - CWE-937
+references:
+  - url: http://lists.opensuse.org/opensuse-security-announce/2020-04/msg00021.html
+    reference_type:
+    reference_id:
+  - url: http://lists.opensuse.org/opensuse-security-announce/2020-04/msg00026.html
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-10217.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-10217
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2019-10217
+    reference_type:
+    reference_id:
+  - url: https://github.com/advisories/GHSA-p75j-wc34-527c
+    reference_type:
+    reference_id:
+  - url: https://github.com/ansible/ansible/issues/56269
+    reference_type:
+    reference_id:
+  - url: https://github.com/ansible/ansible/pull/59427
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1733509
+    reference_type:
+    reference_id: 1733509
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=934128
+    reference_type:
+    reference_id: 934128
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2019-10217
+    reference_type:
+    reference_id: CVE-2019-10217
+  - url: https://access.redhat.com/errata/RHSA-2019:2542
+    reference_type:
+    reference_id: RHSA-2019:2542
+  - url: https://access.redhat.com/errata/RHSA-2019:2543
+    reference_type:
+    reference_id: RHSA-2019:2543

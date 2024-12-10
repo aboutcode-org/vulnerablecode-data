@@ -1,0 +1,167 @@
+vulnerability_id: VCID-vt6t-yf3q-47g8
+aliases:
+  - CVE-2024-2466
+summary:
+severities:
+  - score: '5.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:N/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-2466.json
+  - score: '0.00044'
+    scoring_system: epss
+    scoring_elements: '0.13873'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-2466
+  - score: Medium
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2024-2466.html
+  - score: '6.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N
+    published_at:
+    url: https://curl.se/docs/CVE-2024-2466.json
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-08-23T18:43:18Z/
+    published_at:
+    url: https://curl.se/docs/CVE-2024-2466.json
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: http://seclists.org/fulldisclosure/2024/Jul/18
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-04-05T13:57:02Z/
+    published_at:
+    url: http://seclists.org/fulldisclosure/2024/Jul/18
+  - score: '7.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: http://seclists.org/fulldisclosure/2024/Jul/19
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-30T18:36:54Z/
+    published_at:
+    url: http://seclists.org/fulldisclosure/2024/Jul/19
+  - score: '7.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: http://seclists.org/fulldisclosure/2024/Jul/20
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:N/T:T/P:M/B:A/M:M/D:A/2024-03-09T05:00:52Z/
+    published_at:
+    url: http://seclists.org/fulldisclosure/2024/Jul/20
+  - score: '6.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N
+    published_at:
+    url: https://security.netapp.com/advisory/ntap-20240503-0010/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-08-23T18:43:18Z/
+    published_at:
+    url: https://security.netapp.com/advisory/ntap-20240503-0010/
+  - score: '7.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://support.apple.com/kb/HT214118
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:N/T:T/P:M/B:A/M:M/D:A/2024-03-09T05:00:52Z/
+    published_at:
+    url: https://support.apple.com/kb/HT214118
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://support.apple.com/kb/HT214119
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-04-05T13:57:02Z/
+    published_at:
+    url: https://support.apple.com/kb/HT214119
+  - score: '6.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N
+    published_at:
+    url: https://support.apple.com/kb/HT214120
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-08-23T18:43:18Z/
+    published_at:
+    url: https://support.apple.com/kb/HT214120
+  - score: '6.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/03/27/4
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-08-23T18:43:18Z/
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/03/27/4
+weaknesses:
+  - CWE-297
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-2466.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-2466
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2024-2466.html
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://hackerone.com/reports/2416725
+    reference_type:
+    reference_id:
+  - url: http://seclists.org/fulldisclosure/2024/Jul/18
+    reference_type:
+    reference_id: 18
+  - url: http://seclists.org/fulldisclosure/2024/Jul/19
+    reference_type:
+    reference_id: '19'
+  - url: http://seclists.org/fulldisclosure/2024/Jul/20
+    reference_type:
+    reference_id: 20
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2270497
+    reference_type:
+    reference_id: 2270497
+  - url: http://www.openwall.com/lists/oss-security/2024/03/27/4
+    reference_type:
+    reference_id: 4
+  - url: https://curl.se/docs/CVE-2024-2466.json
+    reference_type:
+    reference_id: CVE-2024-2466.json
+  - url: https://security.gentoo.org/glsa/202409-20
+    reference_type:
+    reference_id: GLSA-202409-20
+  - url: https://support.apple.com/kb/HT214118
+    reference_type:
+    reference_id: HT214118
+  - url: https://support.apple.com/kb/HT214119
+    reference_type:
+    reference_id: HT214119
+  - url: https://support.apple.com/kb/HT214120
+    reference_type:
+    reference_id: HT214120
+  - url: https://security.netapp.com/advisory/ntap-20240503-0010/
+    reference_type:
+    reference_id: ntap-20240503-0010
+  - url: https://access.redhat.com/errata/RHSA-2024:2693
+    reference_type:
+    reference_id: RHSA-2024:2693
+  - url: https://access.redhat.com/errata/RHSA-2024:2694
+    reference_type:
+    reference_id: RHSA-2024:2694

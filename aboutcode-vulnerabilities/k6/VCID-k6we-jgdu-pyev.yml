@@ -1,0 +1,21 @@
+vulnerability_id: VCID-k6we-jgdu-pyev
+aliases:
+  - CVE-2016-1585
+summary:
+severities:
+  - score: '0.00205'
+    scoring_system: epss
+    scoring_elements: '0.58626'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-1585
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-1585
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=929990
+    reference_type:
+    reference_id: 929990
+  - url: https://usn.ubuntu.com/7035-1/
+    reference_type:
+    reference_id: USN-7035-1

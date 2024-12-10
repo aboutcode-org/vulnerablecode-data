@@ -1,0 +1,29 @@
+vulnerability_id: VCID-vtep-wpmx-tuey
+aliases:
+  - CVE-2023-5723
+summary:
+severities:
+  - score: '0.00056'
+    scoring_system: epss
+    scoring_elements: '0.24376'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-5723
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-45
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-5723
+    reference_type:
+    reference_id:
+  - url: https://security.gentoo.org/glsa/202401-10
+    reference_type:
+    reference_id: GLSA-202401-10
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-45
+    reference_type:
+    reference_id: mfsa2023-45
+  - url: https://usn.ubuntu.com/6456-1/
+    reference_type:
+    reference_id: USN-6456-1

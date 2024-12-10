@@ -1,0 +1,35 @@
+vulnerability_id: VCID-sgjz-yy58-u3dr
+aliases:
+  - CVE-2016-6301
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-6301.json
+  - score: '0.04858'
+    scoring_system: epss
+    scoring_elements: '0.92929'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-6301
+weaknesses: []
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-6301.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-6301
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1363710
+    reference_type:
+    reference_id: 1363710
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=833442
+    reference_type:
+    reference_id: 833442
+  - url: https://security.gentoo.org/glsa/201701-05
+    reference_type:
+    reference_id: GLSA-201701-05

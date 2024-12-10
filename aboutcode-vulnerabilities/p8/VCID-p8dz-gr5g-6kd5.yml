@@ -1,0 +1,70 @@
+vulnerability_id: VCID-p8dz-gr5g-6kd5
+aliases:
+  - CVE-2020-8177
+summary:
+severities:
+  - score: '5.4'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:L/UI:R/S:U/C:N/I:H/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-8177.json
+  - score: '0.00099'
+    scoring_system: epss
+    scoring_elements: '0.41857'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-8177
+  - score: Medium
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2020-8177.html
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1194
+weaknesses:
+  - CWE-641
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-8177.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-8177
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2020-8177.html
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://hackerone.com/reports/887462
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1847915
+    reference_type:
+    reference_id: 1847915
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=965281
+    reference_type:
+    reference_id: 965281
+  - url: https://security.archlinux.org/AVG-1194
+    reference_type:
+    reference_id: AVG-1194
+  - url: https://security.gentoo.org/glsa/202007-16
+    reference_type:
+    reference_id: GLSA-202007-16
+  - url: https://access.redhat.com/errata/RHSA-2020:4599
+    reference_type:
+    reference_id: RHSA-2020:4599
+  - url: https://access.redhat.com/errata/RHSA-2020:5002
+    reference_type:
+    reference_id: RHSA-2020:5002
+  - url: https://access.redhat.com/errata/RHSA-2020:5417
+    reference_type:
+    reference_id: RHSA-2020:5417
+  - url: https://access.redhat.com/errata/RHSA-2021:0949
+    reference_type:
+    reference_id: RHSA-2021:0949
+  - url: https://usn.ubuntu.com/4402-1/
+    reference_type:
+    reference_id: USN-4402-1

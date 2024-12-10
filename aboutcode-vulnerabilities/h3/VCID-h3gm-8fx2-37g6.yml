@@ -1,0 +1,37 @@
+vulnerability_id: VCID-h3gm-8fx2-37g6
+aliases:
+  - CVE-2021-23976
+summary:
+severities:
+  - score: '0.00161'
+    scoring_system: epss
+    scoring_elements: '0.53208'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-23976
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1600
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-07
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-23976
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/AVG-1600
+    reference_type:
+    reference_id: AVG-1600
+  - url: https://security.gentoo.org/glsa/202104-10
+    reference_type:
+    reference_id: GLSA-202104-10
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-07
+    reference_type:
+    reference_id: mfsa2021-07

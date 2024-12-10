@@ -1,0 +1,141 @@
+vulnerability_id: VCID-pn2u-1fe4-h7e5
+aliases:
+  - CVE-2018-1000120
+summary:
+severities:
+  - score: '5.4'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:L/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-1000120.json
+  - score: '0.00553'
+    scoring_system: epss
+    scoring_elements: '0.77892'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-1000120
+  - score: High
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2018-1000120.html
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-653
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-654
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-655
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-656
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-660
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-661
+weaknesses:
+  - CWE-787
+  - CWE-122
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-1000120.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-1000120
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2018-1000120.html
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000120
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000121
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000122
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1552628
+    reference_type:
+    reference_id: 1552628
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=893546
+    reference_type:
+    reference_id: 893546
+  - url: https://security.archlinux.org/ASA-201803-15
+    reference_type:
+    reference_id: ASA-201803-15
+  - url: https://security.archlinux.org/ASA-201803-16
+    reference_type:
+    reference_id: ASA-201803-16
+  - url: https://security.archlinux.org/ASA-201803-17
+    reference_type:
+    reference_id: ASA-201803-17
+  - url: https://security.archlinux.org/ASA-201803-18
+    reference_type:
+    reference_id: ASA-201803-18
+  - url: https://security.archlinux.org/ASA-201803-19
+    reference_type:
+    reference_id: ASA-201803-19
+  - url: https://security.archlinux.org/ASA-201803-20
+    reference_type:
+    reference_id: ASA-201803-20
+  - url: https://security.archlinux.org/AVG-653
+    reference_type:
+    reference_id: AVG-653
+  - url: https://security.archlinux.org/AVG-654
+    reference_type:
+    reference_id: AVG-654
+  - url: https://security.archlinux.org/AVG-655
+    reference_type:
+    reference_id: AVG-655
+  - url: https://security.archlinux.org/AVG-656
+    reference_type:
+    reference_id: AVG-656
+  - url: https://security.archlinux.org/AVG-660
+    reference_type:
+    reference_id: AVG-660
+  - url: https://security.archlinux.org/AVG-661
+    reference_type:
+    reference_id: AVG-661
+  - url: https://security.gentoo.org/glsa/201804-04
+    reference_type:
+    reference_id: GLSA-201804-04
+  - url: https://access.redhat.com/errata/RHSA-2018:3157
+    reference_type:
+    reference_id: RHSA-2018:3157
+  - url: https://access.redhat.com/errata/RHSA-2018:3558
+    reference_type:
+    reference_id: RHSA-2018:3558
+  - url: https://access.redhat.com/errata/RHSA-2019:1543
+    reference_type:
+    reference_id: RHSA-2019:1543
+  - url: https://access.redhat.com/errata/RHSA-2020:0544
+    reference_type:
+    reference_id: RHSA-2020:0544
+  - url: https://access.redhat.com/errata/RHSA-2020:0594
+    reference_type:
+    reference_id: RHSA-2020:0594
+  - url: https://usn.ubuntu.com/3598-1/
+    reference_type:
+    reference_id: USN-3598-1
+  - url: https://usn.ubuntu.com/3598-2/
+    reference_type:
+    reference_id: USN-3598-2

@@ -1,0 +1,28 @@
+- purl: pkg:alpine/dendrite@0.9.8-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6p1n-1tvg-r7c6
+- purl: pkg:alpine/dendrite@0.9.8-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6p1n-1tvg-r7c6
+- purl: pkg:alpine/dendrite@0.9.8-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6p1n-1tvg-r7c6
+- purl: pkg:alpine/dendrite@0.9.8-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6p1n-1tvg-r7c6
+- purl: pkg:alpine/dendrite@0.9.8-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6p1n-1tvg-r7c6
+- purl: pkg:alpine/dendrite@0.9.8-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6p1n-1tvg-r7c6
+- purl: pkg:alpine/dendrite@0.9.8-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6p1n-1tvg-r7c6

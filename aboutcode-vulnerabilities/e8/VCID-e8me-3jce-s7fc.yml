@@ -1,0 +1,15 @@
+vulnerability_id: VCID-e8me-3jce-s7fc
+aliases:
+  - CVE-2022-26499
+summary:
+severities:
+  - score: '0.00904'
+    scoring_system: epss
+    scoring_elements: '0.83098'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-26499
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-26499
+    reference_type:
+    reference_id:

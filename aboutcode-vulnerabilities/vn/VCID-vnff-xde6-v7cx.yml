@@ -1,0 +1,18 @@
+vulnerability_id: VCID-vnff-xde6-v7cx
+aliases:
+  - CVE-2019-18610
+summary:
+severities:
+  - score: '0.77875'
+    scoring_system: epss
+    scoring_elements: '0.98302'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-18610
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-18610
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=947377
+    reference_type:
+    reference_id: 947377

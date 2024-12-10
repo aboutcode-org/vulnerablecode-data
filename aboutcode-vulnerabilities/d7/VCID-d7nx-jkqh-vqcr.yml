@@ -1,0 +1,51 @@
+vulnerability_id: VCID-d7nx-jkqh-vqcr
+aliases:
+  - CVE-2020-15657
+summary:
+severities:
+  - score: '7.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-15657.json
+  - score: '0.00115'
+    scoring_system: epss
+    scoring_elements: '0.46082'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-15657
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-30
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-32
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-33
+weaknesses:
+  - CWE-426
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-15657.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-15657
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1861648
+    reference_type:
+    reference_id: 1861648
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-30
+    reference_type:
+    reference_id: mfsa2020-30
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-32
+    reference_type:
+    reference_id: mfsa2020-32
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-33
+    reference_type:
+    reference_id: mfsa2020-33

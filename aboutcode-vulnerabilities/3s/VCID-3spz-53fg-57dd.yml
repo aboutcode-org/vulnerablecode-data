@@ -1,0 +1,68 @@
+vulnerability_id: VCID-3spz-53fg-57dd
+aliases:
+  - CVE-2018-17456
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-17456.json
+  - score: '0.31307'
+    scoring_system: epss
+    scoring_elements: '0.97056'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-17456
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-776
+weaknesses:
+  - CWE-77
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-17456.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-17456
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17456
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1636619
+    reference_type:
+    reference_id: 1636619
+  - url: https://security.archlinux.org/ASA-201810-7
+    reference_type:
+    reference_id: ASA-201810-7
+  - url: https://security.archlinux.org/AVG-776
+    reference_type:
+    reference_id: AVG-776
+  - url: https://gist.github.com/joernchen/38dd6400199a542bc9660ea563dcf2b6
+    reference_type: exploit
+    reference_id: CVE-2018-17456
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/linux/local/45548.txt
+    reference_type: exploit
+    reference_id: CVE-2018-17456
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/linux/local/45631.md
+    reference_type: exploit
+    reference_id: CVE-2018-17456
+  - url: https://marc.info/?l=git&m=153875888916397&w=2
+    reference_type: exploit
+    reference_id: CVE-2018-17456
+  - url: https://access.redhat.com/errata/RHSA-2018:3408
+    reference_type:
+    reference_id: RHSA-2018:3408
+  - url: https://access.redhat.com/errata/RHSA-2018:3541
+    reference_type:
+    reference_id: RHSA-2018:3541
+  - url: https://access.redhat.com/errata/RHSA-2020:0316
+    reference_type:
+    reference_id: RHSA-2020:0316
+  - url: https://usn.ubuntu.com/3791-1/
+    reference_type:
+    reference_id: USN-3791-1

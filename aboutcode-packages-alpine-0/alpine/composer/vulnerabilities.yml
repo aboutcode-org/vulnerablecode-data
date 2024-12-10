@@ -1,0 +1,1052 @@
+- purl: pkg:alpine/composer@2.0.13-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=aarch64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=aarch64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=armhf&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=armhf&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=armv7&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=armv7&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=mips64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=ppc64le&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=ppc64le&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=s390x&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=s390x&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=x86_64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=x86_64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=x86&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=x86&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.0.13-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pek1-3nz2-nffs
+- purl: pkg:alpine/composer@2.1.9-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=aarch64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=armhf&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=armv7&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=ppc64le&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=s390x&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=x86_64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=x86&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.1.9-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v1ur-rat6-xyb5
+- purl: pkg:alpine/composer@2.2.12-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.2.12-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.2.12-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.2.12-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.2.12-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.2.12-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.2.12-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.3.5-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tyjp-6bwy-yqh9
+- purl: pkg:alpine/composer@2.6.4-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.6.4-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-y2g8-37ac-6bah
+- purl: pkg:alpine/composer@2.7.0-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-883x-4eb8-pfh8
+- purl: pkg:alpine/composer@2.7.0-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-883x-4eb8-pfh8
+- purl: pkg:alpine/composer@2.7.0-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-883x-4eb8-pfh8
+- purl: pkg:alpine/composer@2.7.0-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-883x-4eb8-pfh8
+- purl: pkg:alpine/composer@2.7.0-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-883x-4eb8-pfh8
+- purl: pkg:alpine/composer@2.7.0-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-883x-4eb8-pfh8
+- purl: pkg:alpine/composer@2.7.0-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-883x-4eb8-pfh8
+- purl: pkg:alpine/composer@2.7.0-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-883x-4eb8-pfh8
+- purl: pkg:alpine/composer@2.7.0-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-883x-4eb8-pfh8
+- purl: pkg:alpine/composer@2.7.0-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-883x-4eb8-pfh8
+- purl: pkg:alpine/composer@2.7.0-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-883x-4eb8-pfh8
+- purl: pkg:alpine/composer@2.7.0-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-883x-4eb8-pfh8
+- purl: pkg:alpine/composer@2.7.0-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-883x-4eb8-pfh8
+- purl: pkg:alpine/composer@2.7.0-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-883x-4eb8-pfh8
+- purl: pkg:alpine/composer@2.7.0-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-883x-4eb8-pfh8
+- purl: pkg:alpine/composer@2.7.0-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-883x-4eb8-pfh8
+- purl: pkg:alpine/composer@2.7.0-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-883x-4eb8-pfh8
+- purl: pkg:alpine/composer@2.7.0-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-883x-4eb8-pfh8
+- purl: pkg:alpine/composer@2.7.0-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-883x-4eb8-pfh8
+- purl: pkg:alpine/composer@2.7.0-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-883x-4eb8-pfh8
+- purl: pkg:alpine/composer@2.7.0-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-883x-4eb8-pfh8
+- purl: pkg:alpine/composer@2.7.0-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-883x-4eb8-pfh8
+- purl: pkg:alpine/composer@2.7.0-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-883x-4eb8-pfh8
+- purl: pkg:alpine/composer@2.7.0-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-883x-4eb8-pfh8
+- purl: pkg:alpine/composer@2.7.7-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-73h6-wkaz-17be
+    - VCID-hfmh-ttt7-q3ay
+- purl: pkg:alpine/composer@2.7.7-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-73h6-wkaz-17be
+    - VCID-hfmh-ttt7-q3ay
+- purl: pkg:alpine/composer@2.7.7-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-73h6-wkaz-17be
+    - VCID-hfmh-ttt7-q3ay
+- purl: pkg:alpine/composer@2.7.7-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-73h6-wkaz-17be
+    - VCID-hfmh-ttt7-q3ay
+- purl: pkg:alpine/composer@2.7.7-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-73h6-wkaz-17be
+    - VCID-hfmh-ttt7-q3ay
+- purl: pkg:alpine/composer@2.7.7-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-73h6-wkaz-17be
+    - VCID-hfmh-ttt7-q3ay
+- purl: pkg:alpine/composer@2.7.7-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-73h6-wkaz-17be
+    - VCID-hfmh-ttt7-q3ay
+- purl: pkg:alpine/composer@2.7.7-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-73h6-wkaz-17be
+    - VCID-hfmh-ttt7-q3ay
+- purl: pkg:alpine/composer@2.7.7-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-73h6-wkaz-17be
+    - VCID-hfmh-ttt7-q3ay
+- purl: pkg:alpine/composer@2.7.7-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-73h6-wkaz-17be
+    - VCID-hfmh-ttt7-q3ay
+- purl: pkg:alpine/composer@2.7.7-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-73h6-wkaz-17be
+    - VCID-hfmh-ttt7-q3ay
+- purl: pkg:alpine/composer@2.7.7-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-73h6-wkaz-17be
+    - VCID-hfmh-ttt7-q3ay
+- purl: pkg:alpine/composer@2.7.7-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-73h6-wkaz-17be
+    - VCID-hfmh-ttt7-q3ay
+- purl: pkg:alpine/composer@2.7.7-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-73h6-wkaz-17be
+    - VCID-hfmh-ttt7-q3ay
+- purl: pkg:alpine/composer@2.7.7-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-73h6-wkaz-17be
+    - VCID-hfmh-ttt7-q3ay
+- purl: pkg:alpine/composer@2.7.7-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-73h6-wkaz-17be
+    - VCID-hfmh-ttt7-q3ay
+- purl: pkg:alpine/composer@2.7.7-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-73h6-wkaz-17be
+    - VCID-hfmh-ttt7-q3ay
+- purl: pkg:alpine/composer@2.7.7-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-73h6-wkaz-17be
+    - VCID-hfmh-ttt7-q3ay
+- purl: pkg:alpine/composer@2.7.7-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-73h6-wkaz-17be
+    - VCID-hfmh-ttt7-q3ay
+- purl: pkg:alpine/composer@2.7.7-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-73h6-wkaz-17be
+    - VCID-hfmh-ttt7-q3ay
+- purl: pkg:alpine/composer@2.7.7-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-73h6-wkaz-17be
+    - VCID-hfmh-ttt7-q3ay
+- purl: pkg:alpine/composer@2.7.7-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-73h6-wkaz-17be
+    - VCID-hfmh-ttt7-q3ay
+- purl: pkg:alpine/composer@2.7.7-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-73h6-wkaz-17be
+    - VCID-hfmh-ttt7-q3ay
+- purl: pkg:alpine/composer@2.7.7-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-73h6-wkaz-17be
+    - VCID-hfmh-ttt7-q3ay

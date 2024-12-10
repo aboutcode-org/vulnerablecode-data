@@ -1,0 +1,81 @@
+vulnerability_id: VCID-cdxr-taes-x7ex
+aliases:
+  - CVE-2021-41190
+summary:
+severities:
+  - score: '5.0'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:N/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-41190.json
+  - score: '0.00134'
+    scoring_system: epss
+    scoring_elements: '0.49424'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-41190
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2573
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2574
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2591
+weaknesses:
+  - CWE-843
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-41190.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-41190
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2024938
+    reference_type:
+    reference_id: 2024938
+  - url: https://security.archlinux.org/AVG-2573
+    reference_type:
+    reference_id: AVG-2573
+  - url: https://security.archlinux.org/AVG-2574
+    reference_type:
+    reference_id: AVG-2574
+  - url: https://security.archlinux.org/AVG-2591
+    reference_type:
+    reference_id: AVG-2591
+  - url: https://access.redhat.com/errata/RHSA-2022:0055
+    reference_type:
+    reference_id: RHSA-2022:0055
+  - url: https://access.redhat.com/errata/RHSA-2022:0687
+    reference_type:
+    reference_id: RHSA-2022:0687
+  - url: https://access.redhat.com/errata/RHSA-2022:1476
+    reference_type:
+    reference_id: RHSA-2022:1476
+  - url: https://access.redhat.com/errata/RHSA-2022:1734
+    reference_type:
+    reference_id: RHSA-2022:1734
+  - url: https://access.redhat.com/errata/RHSA-2022:4668
+    reference_type:
+    reference_id: RHSA-2022:4668
+  - url: https://access.redhat.com/errata/RHSA-2022:4880
+    reference_type:
+    reference_id: RHSA-2022:4880
+  - url: https://access.redhat.com/errata/RHSA-2022:4956
+    reference_type:
+    reference_id: RHSA-2022:4956
+  - url: https://access.redhat.com/errata/RHSA-2022:5069
+    reference_type:
+    reference_id: RHSA-2022:5069
+  - url: https://access.redhat.com/errata/RHSA-2022:7457
+    reference_type:
+    reference_id: RHSA-2022:7457

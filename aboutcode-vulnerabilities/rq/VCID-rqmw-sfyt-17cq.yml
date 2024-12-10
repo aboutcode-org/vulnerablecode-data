@@ -1,0 +1,118 @@
+vulnerability_id: VCID-rqmw-sfyt-17cq
+aliases:
+  - CVE-2022-29914
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-29914.json
+  - score: '0.00104'
+    scoring_system: epss
+    scoring_elements: '0.43496'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-29914
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2709
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2710
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-16
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-17
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-18
+weaknesses:
+  - CWE-1021
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-29914.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-29914
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2081468
+    reference_type:
+    reference_id: 2081468
+  - url: https://security.archlinux.org/AVG-2709
+    reference_type:
+    reference_id: AVG-2709
+  - url: https://security.archlinux.org/AVG-2710
+    reference_type:
+    reference_id: AVG-2710
+  - url: https://security.gentoo.org/glsa/202208-08
+    reference_type:
+    reference_id: GLSA-202208-08
+  - url: https://security.gentoo.org/glsa/202208-14
+    reference_type:
+    reference_id: GLSA-202208-14
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-16
+    reference_type:
+    reference_id: mfsa2022-16
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-17
+    reference_type:
+    reference_id: mfsa2022-17
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-18
+    reference_type:
+    reference_id: mfsa2022-18
+  - url: https://access.redhat.com/errata/RHSA-2022:1701
+    reference_type:
+    reference_id: RHSA-2022:1701
+  - url: https://access.redhat.com/errata/RHSA-2022:1702
+    reference_type:
+    reference_id: RHSA-2022:1702
+  - url: https://access.redhat.com/errata/RHSA-2022:1703
+    reference_type:
+    reference_id: RHSA-2022:1703
+  - url: https://access.redhat.com/errata/RHSA-2022:1704
+    reference_type:
+    reference_id: RHSA-2022:1704
+  - url: https://access.redhat.com/errata/RHSA-2022:1705
+    reference_type:
+    reference_id: RHSA-2022:1705
+  - url: https://access.redhat.com/errata/RHSA-2022:1724
+    reference_type:
+    reference_id: RHSA-2022:1724
+  - url: https://access.redhat.com/errata/RHSA-2022:1725
+    reference_type:
+    reference_id: RHSA-2022:1725
+  - url: https://access.redhat.com/errata/RHSA-2022:1726
+    reference_type:
+    reference_id: RHSA-2022:1726
+  - url: https://access.redhat.com/errata/RHSA-2022:1727
+    reference_type:
+    reference_id: RHSA-2022:1727
+  - url: https://access.redhat.com/errata/RHSA-2022:1730
+    reference_type:
+    reference_id: RHSA-2022:1730
+  - url: https://access.redhat.com/errata/RHSA-2022:4589
+    reference_type:
+    reference_id: RHSA-2022:4589
+  - url: https://access.redhat.com/errata/RHSA-2022:4590
+    reference_type:
+    reference_id: RHSA-2022:4590
+  - url: https://usn.ubuntu.com/5411-1/
+    reference_type:
+    reference_id: USN-5411-1
+  - url: https://usn.ubuntu.com/5435-1/
+    reference_type:
+    reference_id: USN-5435-1

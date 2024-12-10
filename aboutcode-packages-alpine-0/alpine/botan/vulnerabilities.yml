@@ -1,0 +1,2267 @@
+- purl: pkg:alpine/botan@2.11.0-r4?arch=aarch64&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.11.0-r4?arch=armhf&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.11.0-r4?arch=armv7&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.11.0-r4?arch=ppc64le&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.11.0-r4?arch=s390x&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.11.0-r4?arch=x86_64&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.11.0-r4?arch=x86&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.11.0-r6?arch=aarch64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.11.0-r6?arch=aarch64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.11.0-r6?arch=armhf&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.11.0-r6?arch=armhf&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.11.0-r6?arch=armv7&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.11.0-r6?arch=armv7&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.11.0-r6?arch=mips64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.11.0-r6?arch=mips64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.11.0-r6?arch=ppc64le&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.11.0-r6?arch=ppc64le&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.11.0-r6?arch=s390x&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.11.0-r6?arch=s390x&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.11.0-r6?arch=x86_64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.11.0-r6?arch=x86_64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.11.0-r6?arch=x86&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.11.0-r6?arch=x86&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=aarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=aarch64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=aarch64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=aarch64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=aarch64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=aarch64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=aarch64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=aarch64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=armhf&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=armhf&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=armhf&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=armhf&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=armhf&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=armhf&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=armhf&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=armhf&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=armv7&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=armv7&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=armv7&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=armv7&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=armv7&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=armv7&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=armv7&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=armv7&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=loongarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=ppc64le&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=ppc64le&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=ppc64le&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=ppc64le&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=ppc64le&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=ppc64le&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=ppc64le&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=ppc64le&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=riscv64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=riscv64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=s390x&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=s390x&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=s390x&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=s390x&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=s390x&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=s390x&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=s390x&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=s390x&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=x86_64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=x86_64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=x86_64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=x86_64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=x86_64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=x86_64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=x86_64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=x86_64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=x86&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=x86&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=x86&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=x86&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=x86&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=x86&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=x86&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r0?arch=x86&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5qn-84qp-47eh
+- purl: pkg:alpine/botan@2.17.3-r3?arch=aarch64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.17.3-r3?arch=armhf&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.17.3-r3?arch=armv7&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.17.3-r3?arch=ppc64le&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.17.3-r3?arch=s390x&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.17.3-r3?arch=x86_64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.17.3-r3?arch=x86&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=aarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=aarch64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=aarch64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=aarch64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=aarch64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=aarch64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=aarch64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=armhf&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=armhf&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=armhf&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=armhf&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=armhf&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=armhf&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=armhf&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=armv7&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=armv7&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=armv7&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=armv7&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=armv7&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=armv7&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=armv7&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=loongarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=ppc64le&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=ppc64le&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=ppc64le&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=ppc64le&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=ppc64le&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=ppc64le&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=ppc64le&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=riscv64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=riscv64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=s390x&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=s390x&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=s390x&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=s390x&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=s390x&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=s390x&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=s390x&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=x86_64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=x86_64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=x86_64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=x86_64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=x86_64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=x86_64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=x86_64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=x86&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=x86&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=x86&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=x86&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=x86&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=x86&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.18.1-r3?arch=x86&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jtgw-uz79-afh8
+- purl: pkg:alpine/botan@2.19.4-r0?arch=aarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+- purl: pkg:alpine/botan@2.19.4-r0?arch=aarch64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+- purl: pkg:alpine/botan@2.19.4-r0?arch=armhf&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+- purl: pkg:alpine/botan@2.19.4-r0?arch=armhf&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+- purl: pkg:alpine/botan@2.19.4-r0?arch=armv7&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+- purl: pkg:alpine/botan@2.19.4-r0?arch=armv7&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+- purl: pkg:alpine/botan@2.19.4-r0?arch=loongarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+- purl: pkg:alpine/botan@2.19.4-r0?arch=ppc64le&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+- purl: pkg:alpine/botan@2.19.4-r0?arch=ppc64le&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+- purl: pkg:alpine/botan@2.19.4-r0?arch=riscv64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+- purl: pkg:alpine/botan@2.19.4-r0?arch=riscv64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+- purl: pkg:alpine/botan@2.19.4-r0?arch=s390x&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+- purl: pkg:alpine/botan@2.19.4-r0?arch=s390x&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+- purl: pkg:alpine/botan@2.19.4-r0?arch=x86_64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+- purl: pkg:alpine/botan@2.19.4-r0?arch=x86_64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+- purl: pkg:alpine/botan@2.19.4-r0?arch=x86&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+- purl: pkg:alpine/botan@2.19.4-r0?arch=x86&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+- purl: pkg:alpine/botan@2.19.5-r0?arch=aarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=aarch64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=aarch64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=aarch64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=aarch64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=armhf&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=armhf&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=armhf&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=armhf&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=armhf&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=armv7&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=armv7&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=armv7&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=armv7&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=armv7&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=loongarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=ppc64le&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=ppc64le&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=ppc64le&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=ppc64le&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=ppc64le&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=riscv64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=riscv64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=s390x&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=s390x&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=s390x&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=s390x&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=s390x&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=x86_64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=x86_64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=x86_64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=x86_64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=x86_64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=x86&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=x86&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=x86&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=x86&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2hxc-ry4g-67ct
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.19.5-r0?arch=x86&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan@2.5.0-r0?arch=aarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=aarch64&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=aarch64&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=aarch64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=aarch64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=aarch64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=aarch64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=aarch64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=aarch64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=aarch64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=aarch64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=aarch64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=armhf&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=armhf&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=armhf&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=armhf&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=armhf&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=armhf&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=armhf&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=armhf&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=armhf&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=armhf&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=armhf&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=armhf&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=armv7&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=armv7&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=armv7&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=armv7&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=armv7&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=armv7&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=armv7&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=armv7&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=armv7&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=armv7&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=armv7&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=armv7&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=loongarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=mips64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=mips64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=ppc64le&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=ppc64le&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=ppc64le&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=ppc64le&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=ppc64le&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=ppc64le&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=ppc64le&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=ppc64le&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=ppc64le&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=ppc64le&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=ppc64le&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=ppc64le&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=riscv64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=riscv64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=s390x&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=s390x&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=s390x&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=s390x&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=s390x&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=s390x&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=s390x&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=s390x&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=s390x&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=s390x&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=s390x&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=s390x&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=x86_64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=x86_64&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=x86_64&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=x86_64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=x86_64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=x86_64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=x86_64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=x86_64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=x86_64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=x86_64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=x86_64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=x86_64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=x86&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=x86&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=x86&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=x86&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=x86&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=x86&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=x86&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=x86&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=x86&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=x86&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=x86&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.5.0-r0?arch=x86&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yf97-fz29-5ka2
+- purl: pkg:alpine/botan@2.6.0-r0?arch=aarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=aarch64&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=aarch64&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=aarch64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=aarch64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=aarch64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=aarch64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=aarch64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=aarch64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=aarch64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=aarch64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=aarch64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=armhf&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=armhf&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=armhf&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=armhf&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=armhf&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=armhf&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=armhf&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=armhf&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=armhf&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=armhf&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=armhf&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=armhf&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=armv7&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=armv7&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=armv7&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=armv7&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=armv7&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=armv7&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=armv7&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=armv7&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=armv7&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=armv7&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=armv7&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=armv7&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=loongarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=mips64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=mips64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=ppc64le&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=ppc64le&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=ppc64le&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=ppc64le&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=ppc64le&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=ppc64le&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=ppc64le&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=ppc64le&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=ppc64le&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=ppc64le&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=ppc64le&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=ppc64le&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=riscv64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=riscv64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=s390x&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=s390x&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=s390x&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=s390x&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=s390x&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=s390x&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=s390x&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=s390x&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=s390x&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=s390x&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=s390x&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=s390x&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=x86_64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=x86_64&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=x86_64&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=x86_64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=x86_64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=x86_64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=x86_64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=x86_64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=x86_64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=x86_64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=x86_64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=x86_64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=x86&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=x86&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=x86&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=x86&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=x86&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=x86&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=x86&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=x86&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=x86&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=x86&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=x86&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.6.0-r0?arch=x86&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qpg8-hqhg-2yaf
+- purl: pkg:alpine/botan@2.7.0-r0?arch=aarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=aarch64&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=aarch64&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=aarch64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=aarch64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=aarch64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=aarch64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=aarch64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=aarch64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=aarch64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=aarch64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=aarch64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=armhf&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=armhf&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=armhf&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=armhf&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=armhf&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=armhf&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=armhf&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=armhf&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=armhf&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=armhf&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=armhf&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=armhf&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=armv7&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=armv7&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=armv7&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=armv7&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=armv7&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=armv7&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=armv7&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=armv7&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=armv7&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=armv7&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=armv7&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=armv7&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=loongarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=mips64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=mips64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=ppc64le&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=ppc64le&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=ppc64le&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=ppc64le&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=ppc64le&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=ppc64le&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=ppc64le&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=ppc64le&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=ppc64le&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=ppc64le&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=ppc64le&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=ppc64le&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=riscv64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=riscv64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=s390x&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=s390x&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=s390x&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=s390x&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=s390x&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=s390x&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=s390x&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=s390x&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=s390x&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=s390x&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=s390x&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=s390x&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=x86_64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=x86_64&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=x86_64&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=x86_64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=x86_64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=x86_64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=x86_64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=x86_64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=x86_64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=x86_64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=x86_64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=x86_64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=x86&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=x86&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=x86&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=x86&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=x86&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=x86&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=x86&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=x86&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=x86&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=x86&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=x86&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.7.0-r0?arch=x86&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wbyr-2s5s-33aq
+- purl: pkg:alpine/botan@2.9.0-r0?arch=aarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=aarch64&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=aarch64&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=aarch64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=aarch64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=aarch64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=aarch64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=aarch64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=aarch64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=aarch64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=aarch64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=aarch64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=armhf&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=armhf&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=armhf&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=armhf&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=armhf&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=armhf&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=armhf&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=armhf&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=armhf&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=armhf&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=armhf&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=armhf&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=armv7&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=armv7&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=armv7&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=armv7&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=armv7&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=armv7&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=armv7&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=armv7&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=armv7&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=armv7&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=armv7&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=armv7&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=loongarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=mips64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=mips64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=ppc64le&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=ppc64le&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=ppc64le&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=ppc64le&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=ppc64le&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=ppc64le&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=ppc64le&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=ppc64le&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=ppc64le&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=ppc64le&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=ppc64le&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=ppc64le&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=riscv64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=riscv64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=s390x&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=s390x&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=s390x&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=s390x&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=s390x&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=s390x&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=s390x&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=s390x&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=s390x&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=s390x&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=s390x&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=s390x&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=x86_64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=x86_64&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=x86_64&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=x86_64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=x86_64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=x86_64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=x86_64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=x86_64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=x86_64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=x86_64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=x86_64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=x86_64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=x86&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=x86&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=x86&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=x86&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=x86&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=x86&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=x86&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=x86&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=x86&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=x86&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=x86&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3
+- purl: pkg:alpine/botan@2.9.0-r0?arch=x86&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nb2k-nzuj-23c3

@@ -1,0 +1,43 @@
+vulnerability_id: VCID-afce-fq3n-f7br
+aliases:
+  - CVE-2024-25711
+  - GHSA-33w6-hvmq-gh4x
+  - PYSEC-2024-41
+summary: diffoscope before 256 allows directory traversal via an embedded filename in a GPG
+  file. Contents of any file, such as ../.ssh/id_rsa, may be disclosed to an attacker. This
+  occurs because the value of the gpg --use-embedded-filenames option is trusted.
+severities:
+  - score: '0.00045'
+    scoring_system: epss
+    scoring_elements: '0.16440'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-25711
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-25711
+    reference_type:
+    reference_id:
+  - url: https://github.com/pypa/advisory-database/tree/main/vulns/diffoscope/PYSEC-2024-41.yaml
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/OUNBANAWD6TZH2NRRV4YUIAXEHLUJQ47
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/OUNBANAWD6TZH2NRRV4YUIAXEHLUJQ47/
+    reference_type:
+    reference_id:
+  - url: https://salsa.debian.org/reproducible-builds/diffoscope
+    reference_type:
+    reference_id:
+  - url: https://salsa.debian.org/reproducible-builds/diffoscope/-/commit/dfed769904c27d66a14a5903823d9c8c5aae860e
+    reference_type:
+    reference_id:
+  - url: https://salsa.debian.org/reproducible-builds/diffoscope/-/issues/361
+    reference_type:
+    reference_id:
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2024-25711
+    reference_type:
+    reference_id: CVE-2024-25711
+  - url: https://github.com/advisories/GHSA-33w6-hvmq-gh4x
+    reference_type:
+    reference_id: GHSA-33w6-hvmq-gh4x

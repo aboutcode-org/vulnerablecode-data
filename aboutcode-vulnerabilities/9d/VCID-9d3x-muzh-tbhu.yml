@@ -1,0 +1,38 @@
+vulnerability_id: VCID-9d3x-muzh-tbhu
+aliases:
+  - CVE-2018-1000085
+summary:
+severities:
+  - score: '0.00161'
+    scoring_system: epss
+    scoring_elements: '0.53227'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-1000085
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-602
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-1000085
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/ASA-201803-14
+    reference_type:
+    reference_id: ASA-201803-14
+  - url: https://security.archlinux.org/AVG-602
+    reference_type:
+    reference_id: AVG-602
+  - url: https://security.gentoo.org/glsa/201804-16
+    reference_type:
+    reference_id: GLSA-201804-16
+  - url: https://usn.ubuntu.com/3592-1/
+    reference_type:
+    reference_id: USN-3592-1
+  - url: https://usn.ubuntu.com/3592-2/
+    reference_type:
+    reference_id: USN-3592-2

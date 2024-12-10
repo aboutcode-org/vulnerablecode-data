@@ -1,0 +1,27 @@
+vulnerability_id: VCID-d99n-xnz5-gkba
+aliases:
+  - CVE-2020-3350
+summary:
+severities:
+  - score: '0.00042'
+    scoring_system: epss
+    scoring_elements: '0.05073'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-3350
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-3350
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://security.gentoo.org/glsa/202007-23
+    reference_type:
+    reference_id: GLSA-202007-23
+  - url: https://usn.ubuntu.com/4435-1/
+    reference_type:
+    reference_id: USN-4435-1
+  - url: https://usn.ubuntu.com/4435-2/
+    reference_type:
+    reference_id: USN-4435-2

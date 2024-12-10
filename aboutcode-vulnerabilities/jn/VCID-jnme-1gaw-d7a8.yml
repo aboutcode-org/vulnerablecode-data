@@ -1,0 +1,51 @@
+vulnerability_id: VCID-jnme-1gaw-d7a8
+aliases:
+  - CVE-2023-29545
+summary:
+severities:
+  - score: '6.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-29545.json
+  - score: '0.00100'
+    scoring_system: epss
+    scoring_elements: '0.42122'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-29545
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-13
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-14
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-15
+weaknesses:
+  - CWE-428
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-29545.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-29545
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2186108
+    reference_type:
+    reference_id: 2186108
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-13
+    reference_type:
+    reference_id: mfsa2023-13
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-14
+    reference_type:
+    reference_id: mfsa2023-14
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-15
+    reference_type:
+    reference_id: mfsa2023-15

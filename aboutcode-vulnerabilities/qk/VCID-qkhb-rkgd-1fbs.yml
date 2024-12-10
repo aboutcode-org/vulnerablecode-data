@@ -1,0 +1,58 @@
+vulnerability_id: VCID-qkhb-rkgd-1fbs
+aliases:
+  - CVE-2021-20206
+summary:
+severities:
+  - score: '7.2'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-20206.json
+  - score: '0.00123'
+    scoring_system: epss
+    scoring_elements: '0.47554'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-20206
+weaknesses:
+  - CWE-20
+  - CWE-22
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-20206.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-20206
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1919391
+    reference_type:
+    reference_id: '1919391'
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=983659
+    reference_type:
+    reference_id: 983659
+  - url: https://access.redhat.com/errata/RHSA-2021:0799
+    reference_type:
+    reference_id: RHSA-2021:0799
+  - url: https://access.redhat.com/errata/RHSA-2021:1005
+    reference_type:
+    reference_id: RHSA-2021:1005
+  - url: https://access.redhat.com/errata/RHSA-2021:1007
+    reference_type:
+    reference_id: RHSA-2021:1007
+  - url: https://access.redhat.com/errata/RHSA-2021:1552
+    reference_type:
+    reference_id: RHSA-2021:1552
+  - url: https://access.redhat.com/errata/RHSA-2021:2438
+    reference_type:
+    reference_id: RHSA-2021:2438
+  - url: https://access.redhat.com/errata/RHSA-2021:3001
+    reference_type:
+    reference_id: RHSA-2021:3001
+  - url: https://access.redhat.com/errata/RHSA-2022:0492
+    reference_type:
+    reference_id: RHSA-2022:0492
+  - url: https://access.redhat.com/errata/RHSA-2022:1660
+    reference_type:
+    reference_id: RHSA-2022:1660

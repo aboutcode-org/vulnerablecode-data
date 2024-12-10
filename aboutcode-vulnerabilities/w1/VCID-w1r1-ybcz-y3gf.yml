@@ -1,0 +1,74 @@
+vulnerability_id: VCID-w1r1-ybcz-y3gf
+aliases:
+  - CVE-2023-44429
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-44429.json
+  - score: '0.00046'
+    scoring_system: epss
+    scoring_elements: '0.17114'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-44429
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://gstreamer.freedesktop.org/security/sa-2023-0009.html
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-05-03T16:30:35Z/
+    published_at:
+    url: https://gstreamer.freedesktop.org/security/sa-2023-0009.html
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://www.zerodayinitiative.com/advisories/ZDI-23-1648/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-05-03T16:30:35Z/
+    published_at:
+    url: https://www.zerodayinitiative.com/advisories/ZDI-23-1648/
+weaknesses:
+  - CWE-122
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-44429.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-44429
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1056102
+    reference_type:
+    reference_id: 1056102
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2250247
+    reference_type:
+    reference_id: 2250247
+  - url: https://security.gentoo.org/glsa/202406-06
+    reference_type:
+    reference_id: GLSA-202406-06
+  - url: https://access.redhat.com/errata/RHSA-2023:7791
+    reference_type:
+    reference_id: RHSA-2023:7791
+  - url: https://access.redhat.com/errata/RHSA-2023:7792
+    reference_type:
+    reference_id: RHSA-2023:7792
+  - url: https://access.redhat.com/errata/RHSA-2023:7873
+    reference_type:
+    reference_id: RHSA-2023:7873
+  - url: https://gstreamer.freedesktop.org/security/sa-2023-0009.html
+    reference_type:
+    reference_id: sa-2023-0009.html
+  - url: https://usn.ubuntu.com/6526-1/
+    reference_type:
+    reference_id: USN-6526-1
+  - url: https://www.zerodayinitiative.com/advisories/ZDI-23-1648/
+    reference_type:
+    reference_id: ZDI-23-1648

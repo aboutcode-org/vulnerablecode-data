@@ -1,0 +1,157 @@
+vulnerability_id: VCID-kd4c-nhhz-b7d7
+aliases:
+  - CVE-2024-35235
+summary:
+severities:
+  - score: '4.4'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-35235.json
+  - score: '0.00042'
+    scoring_system: epss
+    scoring_elements: '0.05115'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-35235
+  - score: '4.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://github.com/OpenPrinting/cups/blob/aba917003c8de55e5bf85010f0ecf1f1ddd1408e/cups/http-addr.c#L229-L240
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-11T17:02:39Z/
+    published_at:
+    url: https://github.com/OpenPrinting/cups/blob/aba917003c8de55e5bf85010f0ecf1f1ddd1408e/cups/http-addr.c#L229-L240
+  - score: '4.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://github.com/OpenPrinting/cups/commit/ff1f8a623e090dee8a8aadf12a6a4b25efac143d
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-11T17:02:39Z/
+    published_at:
+    url: https://github.com/OpenPrinting/cups/commit/ff1f8a623e090dee8a8aadf12a6a4b25efac143d
+  - score: '4.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://github.com/OpenPrinting/cups/security/advisories/GHSA-vvwp-mv6j-hw6f
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-11T17:02:39Z/
+    published_at:
+    url: https://github.com/OpenPrinting/cups/security/advisories/GHSA-vvwp-mv6j-hw6f
+  - score: '4.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://git.launchpad.net/ubuntu/+source/apparmor/tree/profiles/apparmor.d/abstractions/user-tmp#n21
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-11T17:02:39Z/
+    published_at:
+    url: https://git.launchpad.net/ubuntu/+source/apparmor/tree/profiles/apparmor.d/abstractions/user-tmp#n21
+  - score: '4.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://lists.debian.org/debian-lts-announce/2024/06/msg00001.html
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-11T17:02:39Z/
+    published_at:
+    url: https://lists.debian.org/debian-lts-announce/2024/06/msg00001.html
+  - score: '4.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/06/11/1
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-11T17:02:39Z/
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/06/11/1
+  - score: '4.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/06/12/4
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-11T17:02:39Z/
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/06/12/4
+  - score: '4.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/06/12/5
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-11T17:02:39Z/
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/06/12/5
+weaknesses:
+  - CWE-277
+  - CWE-59
+  - CWE-252
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-35235.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-35235
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: http://www.openwall.com/lists/oss-security/2024/06/11/1
+    reference_type:
+    reference_id: 1
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1073002
+    reference_type:
+    reference_id: 1073002
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2290318
+    reference_type:
+    reference_id: 2290318
+  - url: http://www.openwall.com/lists/oss-security/2024/06/12/4
+    reference_type:
+    reference_id: 4
+  - url: http://www.openwall.com/lists/oss-security/2024/06/12/5
+    reference_type:
+    reference_id: 5
+  - url: https://github.com/OpenPrinting/cups/commit/ff1f8a623e090dee8a8aadf12a6a4b25efac143d
+    reference_type:
+    reference_id: ff1f8a623e090dee8a8aadf12a6a4b25efac143d
+  - url: https://github.com/OpenPrinting/cups/security/advisories/GHSA-vvwp-mv6j-hw6f
+    reference_type:
+    reference_id: GHSA-vvwp-mv6j-hw6f
+  - url: https://github.com/OpenPrinting/cups/blob/aba917003c8de55e5bf85010f0ecf1f1ddd1408e/cups/http-addr.c#L229-L240
+    reference_type:
+    reference_id: http-addr.c#L229-L240
+  - url: https://lists.debian.org/debian-lts-announce/2024/06/msg00001.html
+    reference_type:
+    reference_id: msg00001.html
+  - url: https://access.redhat.com/errata/RHSA-2024:4265
+    reference_type:
+    reference_id: RHSA-2024:4265
+  - url: https://access.redhat.com/errata/RHSA-2024:4580
+    reference_type:
+    reference_id: RHSA-2024:4580
+  - url: https://access.redhat.com/errata/RHSA-2024:4715
+    reference_type:
+    reference_id: RHSA-2024:4715
+  - url: https://access.redhat.com/errata/RHSA-2024:4776
+    reference_type:
+    reference_id: RHSA-2024:4776
+  - url: https://access.redhat.com/errata/RHSA-2024:5644
+    reference_type:
+    reference_id: RHSA-2024:5644
+  - url: https://git.launchpad.net/ubuntu/+source/apparmor/tree/profiles/apparmor.d/abstractions/user-tmp#n21
+    reference_type:
+    reference_id: user-tmp#n21
+  - url: https://usn.ubuntu.com/6844-1/
+    reference_type:
+    reference_id: USN-6844-1

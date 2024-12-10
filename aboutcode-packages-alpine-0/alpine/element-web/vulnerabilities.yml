@@ -1,0 +1,930 @@
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.26-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5u5c-w5kw-yqad
+    - VCID-vpnx-ykyb-w7gg
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.30-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-78wm-jjn3-xkbu
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.4-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5zc2-ma7s-97ag
+    - VCID-gscb-bxyf-afgx
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.11.7-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-184w-pctk-d3hy
+    - VCID-4rqu-acvg-b3h2
+    - VCID-bqap-curz-mqab
+    - VCID-x37e-mpgn-m3a4
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.8.4-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2fuy-5nku-xfas
+    - VCID-x6ru-y124-1ycv
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb
+- purl: pkg:alpine/element-web@1.9.7-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nm7j-xv1t-wfbb

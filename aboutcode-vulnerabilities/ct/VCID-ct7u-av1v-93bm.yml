@@ -1,0 +1,42 @@
+vulnerability_id: VCID-ct7u-av1v-93bm
+aliases:
+  - CVE-2016-2037
+summary:
+severities:
+  - score: '4.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-2037.json
+  - score: '0.04302'
+    scoring_system: epss
+    scoring_elements: '0.92485'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-2037
+weaknesses:
+  - CWE-787
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-2037.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-2037
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-2037
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1300207
+    reference_type:
+    reference_id: 1300207
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=812401
+    reference_type:
+    reference_id: 812401
+  - url: https://security.gentoo.org/glsa/202407-07
+    reference_type:
+    reference_id: GLSA-202407-07
+  - url: https://usn.ubuntu.com/2906-1/
+    reference_type:
+    reference_id: USN-2906-1

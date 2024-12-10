@@ -1,0 +1,7 @@
+- pkg:alpine/apparmor@3.1.7-r0?arch=aarch64&distroversion=v3.17&reponame=main
+- pkg:alpine/apparmor@3.1.7-r0?arch=armhf&distroversion=v3.17&reponame=main
+- pkg:alpine/apparmor@3.1.7-r0?arch=armv7&distroversion=v3.17&reponame=main
+- pkg:alpine/apparmor@3.1.7-r0?arch=ppc64le&distroversion=v3.17&reponame=main
+- pkg:alpine/apparmor@3.1.7-r0?arch=s390x&distroversion=v3.17&reponame=main
+- pkg:alpine/apparmor@3.1.7-r0?arch=x86_64&distroversion=v3.17&reponame=main
+- pkg:alpine/apparmor@3.1.7-r0?arch=x86&distroversion=v3.17&reponame=main

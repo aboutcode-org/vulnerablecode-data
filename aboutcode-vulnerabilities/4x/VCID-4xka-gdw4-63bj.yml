@@ -1,0 +1,36 @@
+vulnerability_id: VCID-4xka-gdw4-63bj
+aliases:
+  - CVE-2022-27650
+summary:
+severities:
+  - score: '5.6'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-27650.json
+  - score: '0.00232'
+    scoring_system: epss
+    scoring_elements: '0.61533'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-27650
+weaknesses:
+  - CWE-276
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-27650.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-27650
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1009881
+    reference_type:
+    reference_id: 1009881
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2066845
+    reference_type:
+    reference_id: 2066845
+  - url: https://access.redhat.com/errata/RHSA-2022:1762
+    reference_type:
+    reference_id: RHSA-2022:1762
+  - url: https://access.redhat.com/errata/RHSA-2022:1793
+    reference_type:
+    reference_id: RHSA-2022:1793

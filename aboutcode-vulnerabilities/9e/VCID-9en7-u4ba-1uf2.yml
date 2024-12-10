@@ -1,0 +1,37 @@
+vulnerability_id: VCID-9en7-u4ba-1uf2
+aliases:
+  - CVE-2020-15668
+summary:
+severities:
+  - score: '0.00103'
+    scoring_system: epss
+    scoring_elements: '0.42905'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-15668
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-36
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-39
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-15668
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-36
+    reference_type:
+    reference_id: mfsa2020-36
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-39
+    reference_type:
+    reference_id: mfsa2020-39
+  - url: https://usn.ubuntu.com/4474-1/
+    reference_type:
+    reference_id: USN-4474-1

@@ -1,0 +1,30 @@
+vulnerability_id: VCID-53cw-5q8b-5bhx
+aliases:
+  - CVE-2022-36056
+summary:
+severities:
+  - score: '4.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:N/UI:R/S:C/C:L/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-36056.json
+  - score: '0.00044'
+    scoring_system: epss
+    scoring_elements: '0.13623'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-36056
+weaknesses:
+  - CWE-347
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-36056.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-36056
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2128820
+    reference_type:
+    reference_id: 2128820
+  - url: https://access.redhat.com/errata/RHSA-2022:8827
+    reference_type:
+    reference_id: RHSA-2022:8827

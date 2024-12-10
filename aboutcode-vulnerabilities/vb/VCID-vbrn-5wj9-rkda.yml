@@ -1,0 +1,42 @@
+vulnerability_id: VCID-vbrn-5wj9-rkda
+aliases:
+  - CVE-2019-15847
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-15847.json
+  - score: '0.00250'
+    scoring_system: epss
+    scoring_elements: '0.65289'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-15847
+weaknesses:
+  - CWE-331
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-15847.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-15847
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1755523
+    reference_type:
+    reference_id: 1755523
+  - url: https://security.gentoo.org/glsa/202409-22
+    reference_type:
+    reference_id: GLSA-202409-22
+  - url: https://access.redhat.com/errata/RHSA-2020:0924
+    reference_type:
+    reference_id: RHSA-2020:0924
+  - url: https://access.redhat.com/errata/RHSA-2020:1864
+    reference_type:
+    reference_id: RHSA-2020:1864
+  - url: https://access.redhat.com/errata/RHSA-2020:2274
+    reference_type:
+    reference_id: RHSA-2020:2274

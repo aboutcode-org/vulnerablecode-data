@@ -1,0 +1,42 @@
+vulnerability_id: VCID-es89-rrav-myc7
+aliases:
+  - CVE-2019-8696
+summary:
+severities:
+  - score: '3.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:A/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-8696.json
+  - score: '0.00096'
+    scoring_system: epss
+    scoring_elements: '0.41186'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-8696
+weaknesses:
+  - CWE-121
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-8696.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-8696
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1738497
+    reference_type:
+    reference_id: 1738497
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=934957
+    reference_type:
+    reference_id: 934957
+  - url: https://access.redhat.com/errata/RHSA-2020:1765
+    reference_type:
+    reference_id: RHSA-2020:1765
+  - url: https://access.redhat.com/errata/RHSA-2020:3864
+    reference_type:
+    reference_id: RHSA-2020:3864
+  - url: https://usn.ubuntu.com/4105-1/
+    reference_type:
+    reference_id: USN-4105-1

@@ -1,0 +1,45 @@
+vulnerability_id: VCID-x5hf-vfc5-tyb3
+aliases:
+  - CVE-2020-8618
+summary:
+severities:
+  - score: '4.9'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-8618.json
+  - score: '0.00150'
+    scoring_system: epss
+    scoring_elements: '0.51715'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-8618
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1191
+weaknesses:
+  - CWE-125
+  - CWE-617
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-8618.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-8618
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1847242
+    reference_type:
+    reference_id: 1847242
+  - url: https://security.archlinux.org/ASA-202006-13
+    reference_type:
+    reference_id: ASA-202006-13
+  - url: https://security.archlinux.org/AVG-1191
+    reference_type:
+    reference_id: AVG-1191
+  - url: https://usn.ubuntu.com/4399-1/
+    reference_type:
+    reference_id: USN-4399-1

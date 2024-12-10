@@ -1,0 +1,21 @@
+vulnerability_id: VCID-v4vn-dtnc-qkf7
+aliases:
+  - CVE-2016-7122
+summary:
+severities:
+  - score: '0.00097'
+    scoring_system: epss
+    scoring_elements: '0.41421'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-7122
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-7122
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=840434
+    reference_type:
+    reference_id: 840434
+  - url: https://security.gentoo.org/glsa/201701-71
+    reference_type:
+    reference_id: GLSA-201701-71

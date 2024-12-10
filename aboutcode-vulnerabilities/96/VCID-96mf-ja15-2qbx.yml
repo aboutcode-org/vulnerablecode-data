@@ -1,0 +1,42 @@
+vulnerability_id: VCID-96mf-ja15-2qbx
+aliases:
+  - CVE-2023-29403
+summary:
+severities:
+  - score: '7.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-29403.json
+  - score: '0.00078'
+    scoring_system: epss
+    scoring_elements: '0.34839'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-29403
+weaknesses:
+  - CWE-668
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-29403.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-29403
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2216965
+    reference_type:
+    reference_id: 2216965
+  - url: https://security.gentoo.org/glsa/202311-09
+    reference_type:
+    reference_id: GLSA-202311-09
+  - url: https://access.redhat.com/errata/RHSA-2023:3920
+    reference_type:
+    reference_id: RHSA-2023:3920
+  - url: https://access.redhat.com/errata/RHSA-2023:3922
+    reference_type:
+    reference_id: RHSA-2023:3922
+  - url: https://access.redhat.com/errata/RHSA-2023:3923
+    reference_type:
+    reference_id: RHSA-2023:3923
+  - url: https://usn.ubuntu.com/7061-1/
+    reference_type:
+    reference_id: USN-7061-1

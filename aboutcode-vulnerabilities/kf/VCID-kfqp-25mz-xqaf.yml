@@ -1,0 +1,56 @@
+vulnerability_id: VCID-kfqp-25mz-xqaf
+aliases:
+  - CVE-2016-5421
+summary:
+severities:
+  - score: '8.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-5421.json
+  - score: '0.00841'
+    scoring_system: epss
+    scoring_elements: '0.82438'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-5421
+  - score: High
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2016-5421.html
+weaknesses:
+  - CWE-416
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-5421.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-5421
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2016-5421.html
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-5419
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-5420
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-5421
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1362199
+    reference_type:
+    reference_id: 1362199
+  - url: https://security.gentoo.org/glsa/201701-47
+    reference_type:
+    reference_id: GLSA-201701-47
+  - url: https://access.redhat.com/errata/RHSA-2018:3558
+    reference_type:
+    reference_id: RHSA-2018:3558
+  - url: https://usn.ubuntu.com/3048-1/
+    reference_type:
+    reference_id: USN-3048-1

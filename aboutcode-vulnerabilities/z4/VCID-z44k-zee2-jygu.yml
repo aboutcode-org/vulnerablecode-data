@@ -1,0 +1,55 @@
+vulnerability_id: VCID-z44k-zee2-jygu
+aliases:
+  - CVE-2017-7843
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-7843.json
+  - score: '0.00396'
+    scoring_system: epss
+    scoring_elements: '0.73882'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2017-7843
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2017-27
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2017-28
+weaknesses:
+  - CWE-212
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-7843.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2017-7843
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-7843
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1518566
+    reference_type:
+    reference_id: 1518566
+  - url: https://security.gentoo.org/glsa/201802-03
+    reference_type:
+    reference_id: GLSA-201802-03
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2017-27
+    reference_type:
+    reference_id: mfsa2017-27
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2017-28
+    reference_type:
+    reference_id: mfsa2017-28
+  - url: https://access.redhat.com/errata/RHSA-2017:3382
+    reference_type:
+    reference_id: RHSA-2017:3382

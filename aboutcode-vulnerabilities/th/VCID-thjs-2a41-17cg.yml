@@ -1,0 +1,39 @@
+vulnerability_id: VCID-thjs-2a41-17cg
+aliases:
+  - CVE-2018-5741
+summary:
+severities:
+  - score: '6.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-5741.json
+  - score: '0.00319'
+    scoring_system: epss
+    scoring_elements: '0.70920'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-5741
+weaknesses:
+  - CWE-284
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-5741.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-5741
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1631131
+    reference_type:
+    reference_id: 1631131
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=908595
+    reference_type:
+    reference_id: 908595
+  - url: https://security.gentoo.org/glsa/201903-13
+    reference_type:
+    reference_id: GLSA-201903-13
+  - url: https://access.redhat.com/errata/RHSA-2019:2057
+    reference_type:
+    reference_id: RHSA-2019:2057

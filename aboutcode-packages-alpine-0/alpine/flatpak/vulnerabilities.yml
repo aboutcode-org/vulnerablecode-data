@@ -1,0 +1,1552 @@
+- purl: pkg:alpine/flatpak@1.0.7-r0?arch=aarch64&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qkcs-32w3-f3g9
+- purl: pkg:alpine/flatpak@1.0.7-r0?arch=armhf&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qkcs-32w3-f3g9
+- purl: pkg:alpine/flatpak@1.0.7-r0?arch=armv7&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qkcs-32w3-f3g9
+- purl: pkg:alpine/flatpak@1.0.7-r0?arch=ppc64le&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qkcs-32w3-f3g9
+- purl: pkg:alpine/flatpak@1.0.7-r0?arch=s390x&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qkcs-32w3-f3g9
+- purl: pkg:alpine/flatpak@1.0.7-r0?arch=x86_64&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qkcs-32w3-f3g9
+- purl: pkg:alpine/flatpak@1.0.7-r0?arch=x86&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qkcs-32w3-f3g9
+- purl: pkg:alpine/flatpak@1.0.8-r0?arch=aarch64&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.0.8-r0?arch=armhf&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.0.8-r0?arch=armv7&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.0.8-r0?arch=ppc64le&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.0.8-r0?arch=s390x&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.0.8-r0?arch=x86_64&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.0.8-r0?arch=x86&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=aarch64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=aarch64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=armhf&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=armhf&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=armv7&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=armv7&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=mips64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=ppc64le&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=ppc64le&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=s390x&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=s390x&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=x86_64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=x86_64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=x86&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=x86&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.1-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8qww-ap1q-73d1
+- purl: pkg:alpine/flatpak@1.10.5-r0?arch=aarch64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.10.5-r0?arch=armhf&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.10.5-r0?arch=armv7&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.10.5-r0?arch=ppc64le&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.10.5-r0?arch=s390x&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.10.5-r0?arch=x86_64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.10.5-r0?arch=x86&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.2-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vfwf-djqz-5bfp
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.3-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3psb-4w96-9fd4
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.12.5-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mw4a-es1b-ufaq
+- purl: pkg:alpine/flatpak@1.14.10-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tjgp-s2c4-43eg
+- purl: pkg:alpine/flatpak@1.14.10-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tjgp-s2c4-43eg
+- purl: pkg:alpine/flatpak@1.14.10-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tjgp-s2c4-43eg
+- purl: pkg:alpine/flatpak@1.14.10-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tjgp-s2c4-43eg
+- purl: pkg:alpine/flatpak@1.14.10-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tjgp-s2c4-43eg
+- purl: pkg:alpine/flatpak@1.14.10-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tjgp-s2c4-43eg
+- purl: pkg:alpine/flatpak@1.14.10-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tjgp-s2c4-43eg
+- purl: pkg:alpine/flatpak@1.14.10-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tjgp-s2c4-43eg
+- purl: pkg:alpine/flatpak@1.14.10-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tjgp-s2c4-43eg
+- purl: pkg:alpine/flatpak@1.14.10-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tjgp-s2c4-43eg
+- purl: pkg:alpine/flatpak@1.14.10-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tjgp-s2c4-43eg
+- purl: pkg:alpine/flatpak@1.14.10-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tjgp-s2c4-43eg
+- purl: pkg:alpine/flatpak@1.14.10-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tjgp-s2c4-43eg
+- purl: pkg:alpine/flatpak@1.14.10-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tjgp-s2c4-43eg
+- purl: pkg:alpine/flatpak@1.14.10-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tjgp-s2c4-43eg
+- purl: pkg:alpine/flatpak@1.14.10-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tjgp-s2c4-43eg
+- purl: pkg:alpine/flatpak@1.14.10-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tjgp-s2c4-43eg
+- purl: pkg:alpine/flatpak@1.14.6-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r1?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r1?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r1?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r1?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r1?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r1?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r1?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r1?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r1?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r1?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r1?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r1?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r1?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r1?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r1?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r1?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.14.6-r1?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-brbe-qysq-ryay
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=aarch64&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=aarch64&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=aarch64&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=aarch64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=aarch64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=armhf&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=armhf&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=armhf&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=armhf&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=armhf&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=armv7&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=armv7&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=armv7&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=armv7&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=armv7&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=mips64&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=mips64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=ppc64le&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=ppc64le&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=ppc64le&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=ppc64le&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=ppc64le&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=s390x&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=s390x&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=s390x&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=s390x&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=s390x&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=x86_64&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=x86_64&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=x86_64&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=x86_64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=x86_64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=x86&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=x86&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=x86&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=x86&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=x86&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda
+- purl: pkg:alpine/flatpak@1.2.4-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7egh-gy5p-quda

@@ -1,0 +1,63 @@
+vulnerability_id: VCID-9b8w-kvdm-8khn
+aliases:
+  - CVE-2019-11253
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-11253.json
+  - score: '0.02588'
+    scoring_system: epss
+    scoring_elements: '0.90502'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-11253
+weaknesses:
+  - CWE-400
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-11253.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-11253
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1757701
+    reference_type:
+    reference_id: 1757701
+  - url: https://access.redhat.com/errata/RHSA-2019:3132
+    reference_type:
+    reference_id: RHSA-2019:3132
+  - url: https://access.redhat.com/errata/RHSA-2019:3239
+    reference_type:
+    reference_id: RHSA-2019:3239
+  - url: https://access.redhat.com/errata/RHSA-2019:3811
+    reference_type:
+    reference_id: RHSA-2019:3811
+  - url: https://access.redhat.com/errata/RHSA-2019:3905
+    reference_type:
+    reference_id: RHSA-2019:3905
+  - url: https://access.redhat.com/errata/RHSA-2020:2795
+    reference_type:
+    reference_id: RHSA-2020:2795
+  - url: https://access.redhat.com/errata/RHSA-2020:2796
+    reference_type:
+    reference_id: RHSA-2020:2796
+  - url: https://access.redhat.com/errata/RHSA-2020:2799
+    reference_type:
+    reference_id: RHSA-2020:2799
+  - url: https://access.redhat.com/errata/RHSA-2020:2861
+    reference_type:
+    reference_id: RHSA-2020:2861
+  - url: https://access.redhat.com/errata/RHSA-2020:2863
+    reference_type:
+    reference_id: RHSA-2020:2863
+  - url: https://access.redhat.com/errata/RHSA-2020:2870
+    reference_type:
+    reference_id: RHSA-2020:2870
+  - url: https://access.redhat.com/errata/RHSA-2022:2183
+    reference_type:
+    reference_id: RHSA-2022:2183

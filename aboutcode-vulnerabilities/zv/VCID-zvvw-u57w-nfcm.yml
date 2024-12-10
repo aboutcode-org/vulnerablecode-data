@@ -1,0 +1,52 @@
+vulnerability_id: VCID-zvvw-u57w-nfcm
+aliases:
+  - CVE-2023-52722
+summary:
+severities:
+  - score: '5.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-52722.json
+  - score: '0.00043'
+    scoring_system: epss
+    scoring_elements: '0.09705'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-52722
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-29T19:14:51Z/
+    published_at:
+    url: https://cgit.ghostscript.com/cgi-bin/cgit.cgi/ghostpdl.git/commit/?id=afd7188f74918cb51b5fb89f52b54eb16e8acfd1
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-29T19:14:51Z/
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/06/28/2
+weaknesses:
+  - CWE-754
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-52722.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-52722
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: http://www.openwall.com/lists/oss-security/2024/06/28/2
+    reference_type:
+    reference_id: 2
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2278775
+    reference_type:
+    reference_id: 2278775
+  - url: https://security.gentoo.org/glsa/202409-03
+    reference_type:
+    reference_id: GLSA-202409-03
+  - url: https://cgit.ghostscript.com/cgi-bin/cgit.cgi/ghostpdl.git/commit/?id=afd7188f74918cb51b5fb89f52b54eb16e8acfd1
+    reference_type:
+    reference_id: ?id=afd7188f74918cb51b5fb89f52b54eb16e8acfd1
+  - url: https://usn.ubuntu.com/6835-1/
+    reference_type:
+    reference_id: USN-6835-1

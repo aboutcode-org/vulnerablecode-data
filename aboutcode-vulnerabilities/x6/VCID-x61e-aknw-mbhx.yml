@@ -1,0 +1,15 @@
+vulnerability_id: VCID-x61e-aknw-mbhx
+aliases:
+  - CVE-2019-15639
+summary:
+severities:
+  - score: '0.00439'
+    scoring_system: epss
+    scoring_elements: '0.75184'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-15639
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-15639
+    reference_type:
+    reference_id:

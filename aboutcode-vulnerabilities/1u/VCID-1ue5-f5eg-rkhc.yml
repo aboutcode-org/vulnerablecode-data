@@ -1,0 +1,115 @@
+vulnerability_id: VCID-1ue5-f5eg-rkhc
+aliases:
+  - CVE-2019-9813
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-9813.json
+  - score: '0.59083'
+    scoring_system: epss
+    scoring_elements: '0.97812'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-9813
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-930
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-947
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-09
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-10
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-12
+weaknesses:
+  - CWE-843
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-9813.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-9813
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9810
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9813
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1692182
+    reference_type:
+    reference_id: 1692182
+  - url: https://security.archlinux.org/ASA-201903-14
+    reference_type:
+    reference_id: ASA-201903-14
+  - url: https://security.archlinux.org/ASA-201904-4
+    reference_type:
+    reference_id: ASA-201904-4
+  - url: https://security.archlinux.org/AVG-930
+    reference_type:
+    reference_id: AVG-930
+  - url: https://security.archlinux.org/AVG-947
+    reference_type:
+    reference_id: AVG-947
+  - url: https://bugs.chromium.org/p/project-zero/issues/detail?id=1810
+    reference_type: exploit
+    reference_id: CVE-2019-9813
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/multiple/dos/46646.txt
+    reference_type: exploit
+    reference_id: CVE-2019-9813
+  - url: https://security.gentoo.org/glsa/201904-07
+    reference_type:
+    reference_id: GLSA-201904-07
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-09
+    reference_type:
+    reference_id: mfsa2019-09
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-10
+    reference_type:
+    reference_id: mfsa2019-10
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-12
+    reference_type:
+    reference_id: mfsa2019-12
+  - url: https://access.redhat.com/errata/RHSA-2019:0671
+    reference_type:
+    reference_id: RHSA-2019:0671
+  - url: https://access.redhat.com/errata/RHSA-2019:0672
+    reference_type:
+    reference_id: RHSA-2019:0672
+  - url: https://access.redhat.com/errata/RHSA-2019:0680
+    reference_type:
+    reference_id: RHSA-2019:0680
+  - url: https://access.redhat.com/errata/RHSA-2019:0681
+    reference_type:
+    reference_id: RHSA-2019:0681
+  - url: https://access.redhat.com/errata/RHSA-2019:0966
+    reference_type:
+    reference_id: RHSA-2019:0966
+  - url: https://access.redhat.com/errata/RHSA-2019:1144
+    reference_type:
+    reference_id: RHSA-2019:1144
+  - url: https://usn.ubuntu.com/3919-1/
+    reference_type:
+    reference_id: USN-3919-1
+  - url: https://usn.ubuntu.com/3927-1/
+    reference_type:
+    reference_id: USN-3927-1

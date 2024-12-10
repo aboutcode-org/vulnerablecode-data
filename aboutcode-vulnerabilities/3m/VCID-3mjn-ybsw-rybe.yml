@@ -1,0 +1,42 @@
+vulnerability_id: VCID-3mjn-ybsw-rybe
+aliases:
+  - CVE-2019-17402
+summary:
+severities:
+  - score: '6.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-17402.json
+  - score: '0.00231'
+    scoring_system: epss
+    scoring_elements: '0.61470'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-17402
+weaknesses:
+  - CWE-125
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-17402.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-17402
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1773683
+    reference_type:
+    reference_id: 1773683
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=946341
+    reference_type:
+    reference_id: 946341
+  - url: https://access.redhat.com/errata/RHSA-2020:4030
+    reference_type:
+    reference_id: RHSA-2020:4030
+  - url: https://access.redhat.com/errata/RHSA-2021:1758
+    reference_type:
+    reference_id: RHSA-2021:1758
+  - url: https://usn.ubuntu.com/4159-1/
+    reference_type:
+    reference_id: USN-4159-1

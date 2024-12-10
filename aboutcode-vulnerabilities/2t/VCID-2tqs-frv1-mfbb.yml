@@ -1,0 +1,29 @@
+vulnerability_id: VCID-2tqs-frv1-mfbb
+aliases:
+  - CVE-2022-22755
+summary:
+severities:
+  - score: '0.00185'
+    scoring_system: epss
+    scoring_elements: '0.56333'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-22755
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-04
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-22755
+    reference_type:
+    reference_id:
+  - url: https://security.gentoo.org/glsa/202202-03
+    reference_type:
+    reference_id: GLSA-202202-03
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-04
+    reference_type:
+    reference_id: mfsa2022-04
+  - url: https://usn.ubuntu.com/5284-1/
+    reference_type:
+    reference_id: USN-5284-1

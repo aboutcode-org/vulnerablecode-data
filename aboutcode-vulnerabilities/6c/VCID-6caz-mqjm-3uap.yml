@@ -1,0 +1,69 @@
+vulnerability_id: VCID-6caz-mqjm-3uap
+aliases:
+  - CVE-2024-29018
+summary:
+severities:
+  - score: '8.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:7164
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-05-13T17:59:41Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:7164
+  - score: '5.9'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-29018.json
+  - score: '0.00043'
+    scoring_system: epss
+    scoring_elements: '0.09705'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-29018
+  - score: '5.9'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://github.com/moby/moby/pull/46609
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-03-28T19:09:14Z/
+    published_at:
+    url: https://github.com/moby/moby/pull/46609
+  - score: '5.9'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://github.com/moby/moby/security/advisories/GHSA-mq39-4gv4-mvpx
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-03-28T19:09:14Z/
+    published_at:
+    url: https://github.com/moby/moby/security/advisories/GHSA-mq39-4gv4-mvpx
+weaknesses:
+  - CWE-669
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-29018.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-29018
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068460
+    reference_type:
+    reference_id: 1068460
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2270591
+    reference_type:
+    reference_id: 2270591
+  - url: https://github.com/moby/moby/pull/46609
+    reference_type:
+    reference_id: 46609
+  - url: https://github.com/moby/moby/security/advisories/GHSA-mq39-4gv4-mvpx
+    reference_type:
+    reference_id: GHSA-mq39-4gv4-mvpx
+  - url: https://access.redhat.com/errata/RHSA-2024:7164
+    reference_type:
+    reference_id: RHSA-2024:7164

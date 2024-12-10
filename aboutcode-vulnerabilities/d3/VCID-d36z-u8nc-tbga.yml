@@ -1,0 +1,38 @@
+vulnerability_id: VCID-d36z-u8nc-tbga
+aliases:
+  - CVE-2021-3418
+summary:
+severities:
+  - score: '6.4'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:H/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-3418.json
+  - score: '0.00044'
+    scoring_system: epss
+    scoring_elements: '0.13409'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-3418
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1630
+weaknesses:
+  - CWE-281
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-3418.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-3418
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1933757
+    reference_type:
+    reference_id: '1933757'
+  - url: https://security.archlinux.org/AVG-1630
+    reference_type:
+    reference_id: AVG-1630

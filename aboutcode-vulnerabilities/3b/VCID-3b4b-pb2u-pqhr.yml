@@ -1,0 +1,30 @@
+vulnerability_id: VCID-3b4b-pb2u-pqhr
+aliases:
+  - CVE-2021-37529
+summary:
+severities:
+  - score: '5.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-37529.json
+  - score: '0.00055'
+    scoring_system: epss
+    scoring_elements: '0.23727'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-37529
+weaknesses:
+  - CWE-672
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-37529.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-37529
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2044569
+    reference_type:
+    reference_id: 2044569

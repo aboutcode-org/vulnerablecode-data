@@ -1,0 +1,15 @@
+vulnerability_id: VCID-9ecj-bhuc-t3dj
+aliases:
+  - CVE-2023-39364
+summary:
+severities:
+  - score: '0.00083'
+    scoring_system: epss
+    scoring_elements: '0.36174'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-39364
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-39364
+    reference_type:
+    reference_id:

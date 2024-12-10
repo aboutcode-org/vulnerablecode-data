@@ -1,0 +1,21 @@
+vulnerability_id: VCID-qx4s-ps26-bqek
+aliases:
+  - CVE-2020-14929
+summary:
+severities:
+  - score: '0.00945'
+    scoring_system: epss
+    scoring_elements: '0.83470'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-14929
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-14929
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=963179
+    reference_type:
+    reference_id: 963179

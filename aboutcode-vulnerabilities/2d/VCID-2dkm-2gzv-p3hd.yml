@@ -1,0 +1,68 @@
+vulnerability_id: VCID-2dkm-2gzv-p3hd
+aliases:
+  - CVE-2021-25220
+summary:
+severities:
+  - score: '6.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:C/C:N/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-25220.json
+  - score: '0.00173'
+    scoring_system: epss
+    scoring_elements: '0.55015'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-25220
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2661
+weaknesses:
+  - CWE-444
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-25220.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-25220
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2064512
+    reference_type:
+    reference_id: 2064512
+  - url: https://security.archlinux.org/ASA-202204-5
+    reference_type:
+    reference_id: ASA-202204-5
+  - url: https://security.archlinux.org/AVG-2661
+    reference_type:
+    reference_id: AVG-2661
+  - url: https://security.gentoo.org/glsa/202210-25
+    reference_type:
+    reference_id: GLSA-202210-25
+  - url: https://access.redhat.com/errata/RHSA-2022:7643
+    reference_type:
+    reference_id: RHSA-2022:7643
+  - url: https://access.redhat.com/errata/RHSA-2022:7790
+    reference_type:
+    reference_id: RHSA-2022:7790
+  - url: https://access.redhat.com/errata/RHSA-2022:8068
+    reference_type:
+    reference_id: RHSA-2022:8068
+  - url: https://access.redhat.com/errata/RHSA-2022:8385
+    reference_type:
+    reference_id: RHSA-2022:8385
+  - url: https://access.redhat.com/errata/RHSA-2023:0402
+    reference_type:
+    reference_id: RHSA-2023:0402
+  - url: https://access.redhat.com/errata/RHSA-2024:2720
+    reference_type:
+    reference_id: RHSA-2024:2720
+  - url: https://usn.ubuntu.com/5332-1/
+    reference_type:
+    reference_id: USN-5332-1
+  - url: https://usn.ubuntu.com/5332-2/
+    reference_type:
+    reference_id: USN-5332-2

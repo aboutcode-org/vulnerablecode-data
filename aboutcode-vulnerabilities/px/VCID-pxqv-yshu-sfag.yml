@@ -1,0 +1,131 @@
+vulnerability_id: VCID-pxqv-yshu-sfag
+aliases:
+  - CVE-2019-5436
+summary:
+severities:
+  - score: '7.0'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-5436.json
+  - score: '0.05262'
+    scoring_system: epss
+    scoring_elements: '0.93220'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-5436
+  - score: Low
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2019-5436.html
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-959
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-960
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-961
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-962
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-963
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-964
+weaknesses:
+  - CWE-122
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-5436.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-5436
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2019-5436.html
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://hackerone.com/reports/550696
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1710620
+    reference_type:
+    reference_id: 1710620
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=929351
+    reference_type:
+    reference_id: 929351
+  - url: https://security.archlinux.org/ASA-201905-11
+    reference_type:
+    reference_id: ASA-201905-11
+  - url: https://security.archlinux.org/ASA-201905-12
+    reference_type:
+    reference_id: ASA-201905-12
+  - url: https://security.archlinux.org/ASA-201905-13
+    reference_type:
+    reference_id: ASA-201905-13
+  - url: https://security.archlinux.org/ASA-201905-14
+    reference_type:
+    reference_id: ASA-201905-14
+  - url: https://security.archlinux.org/ASA-201905-15
+    reference_type:
+    reference_id: ASA-201905-15
+  - url: https://security.archlinux.org/ASA-201905-16
+    reference_type:
+    reference_id: ASA-201905-16
+  - url: https://security.archlinux.org/AVG-959
+    reference_type:
+    reference_id: AVG-959
+  - url: https://security.archlinux.org/AVG-960
+    reference_type:
+    reference_id: AVG-960
+  - url: https://security.archlinux.org/AVG-961
+    reference_type:
+    reference_id: AVG-961
+  - url: https://security.archlinux.org/AVG-962
+    reference_type:
+    reference_id: AVG-962
+  - url: https://security.archlinux.org/AVG-963
+    reference_type:
+    reference_id: AVG-963
+  - url: https://security.archlinux.org/AVG-964
+    reference_type:
+    reference_id: AVG-964
+  - url: https://security.gentoo.org/glsa/202003-29
+    reference_type:
+    reference_id: GLSA-202003-29
+  - url: https://access.redhat.com/errata/RHSA-2019:1543
+    reference_type:
+    reference_id: RHSA-2019:1543
+  - url: https://access.redhat.com/errata/RHSA-2020:1020
+    reference_type:
+    reference_id: RHSA-2020:1020
+  - url: https://access.redhat.com/errata/RHSA-2020:1792
+    reference_type:
+    reference_id: RHSA-2020:1792
+  - url: https://access.redhat.com/errata/RHSA-2020:2505
+    reference_type:
+    reference_id: RHSA-2020:2505
+  - url: https://usn.ubuntu.com/3993-1/
+    reference_type:
+    reference_id: USN-3993-1
+  - url: https://usn.ubuntu.com/3993-2/
+    reference_type:
+    reference_id: USN-3993-2

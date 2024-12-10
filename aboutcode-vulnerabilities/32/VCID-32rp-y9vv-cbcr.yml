@@ -1,0 +1,33 @@
+vulnerability_id: VCID-32rp-y9vv-cbcr
+aliases:
+  - CVE-2022-2084
+summary:
+severities:
+  - score: '5.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-2084.json
+  - score: '0.00043'
+    scoring_system: epss
+    scoring_elements: '0.09705'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-2084
+weaknesses:
+  - CWE-200
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-2084.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-2084
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1014247
+    reference_type:
+    reference_id: 1014247
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2188198
+    reference_type:
+    reference_id: 2188198
+  - url: https://usn.ubuntu.com/5496-1/
+    reference_type:
+    reference_id: USN-5496-1

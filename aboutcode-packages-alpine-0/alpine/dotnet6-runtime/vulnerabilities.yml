@@ -1,0 +1,3515 @@
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.10-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r35m-txze-nugw
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.12-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8zw-7cfw-zff7
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.13-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-5712-ek8g-zufp
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.14-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cr64-2a6r-x7dh
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.16-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ny6g-733r-qqbb
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.18-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-215x-syxd-mqht
+    - VCID-3b8f-j6xm-6qd3
+    - VCID-5ds2-wn4r-ufbk
+    - VCID-88d7-wqfe-57ae
+    - VCID-8zhv-sf9m-xfau
+    - VCID-9ha2-fzys-b3hn
+    - VCID-mdwt-szxk-dbhq
+    - VCID-nm19-p888-hufn
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.20-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pw97-tpnf-h3b4
+    - VCID-q8ff-6gpe-mbdh
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.21-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kjnz-kzsa-fkep
+    - VCID-vmfq-49sc-73e1
+    - VCID-zprc-95t1-hber
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.22-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.23-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cwba-37uj-jyfj
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.24-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-btsj-nnx4-2bcg
+    - VCID-cwba-37uj-jyfj
+    - VCID-qppj-zysk-f7b5
+    - VCID-rt6g-ugpw-v3e3
+    - VCID-yqse-ade3-gqa7
+    - VCID-z2u6-2c2a-67b3
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.25-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-g6gc-1e66-cbd7
+    - VCID-g79j-jan5-akfc
+- purl: pkg:alpine/dotnet6-runtime@6.0.26-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vb5m-2pt3-jyc3
+    - VCID-xkhs-mnv8-9ba8
+    - VCID-zaav-ausk-pqgy
+- purl: pkg:alpine/dotnet6-runtime@6.0.26-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vb5m-2pt3-jyc3
+    - VCID-xkhs-mnv8-9ba8
+    - VCID-zaav-ausk-pqgy
+- purl: pkg:alpine/dotnet6-runtime@6.0.26-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vb5m-2pt3-jyc3
+    - VCID-xkhs-mnv8-9ba8
+    - VCID-zaav-ausk-pqgy
+- purl: pkg:alpine/dotnet6-runtime@6.0.26-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vb5m-2pt3-jyc3
+    - VCID-xkhs-mnv8-9ba8
+    - VCID-zaav-ausk-pqgy
+- purl: pkg:alpine/dotnet6-runtime@6.0.26-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vb5m-2pt3-jyc3
+    - VCID-xkhs-mnv8-9ba8
+    - VCID-zaav-ausk-pqgy
+- purl: pkg:alpine/dotnet6-runtime@6.0.26-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vb5m-2pt3-jyc3
+    - VCID-xkhs-mnv8-9ba8
+    - VCID-zaav-ausk-pqgy
+- purl: pkg:alpine/dotnet6-runtime@6.0.26-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vb5m-2pt3-jyc3
+    - VCID-xkhs-mnv8-9ba8
+    - VCID-zaav-ausk-pqgy
+- purl: pkg:alpine/dotnet6-runtime@6.0.26-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vb5m-2pt3-jyc3
+    - VCID-xkhs-mnv8-9ba8
+    - VCID-zaav-ausk-pqgy
+- purl: pkg:alpine/dotnet6-runtime@6.0.26-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vb5m-2pt3-jyc3
+    - VCID-xkhs-mnv8-9ba8
+    - VCID-zaav-ausk-pqgy
+- purl: pkg:alpine/dotnet6-runtime@6.0.26-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vb5m-2pt3-jyc3
+    - VCID-xkhs-mnv8-9ba8
+    - VCID-zaav-ausk-pqgy
+- purl: pkg:alpine/dotnet6-runtime@6.0.26-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vb5m-2pt3-jyc3
+    - VCID-xkhs-mnv8-9ba8
+    - VCID-zaav-ausk-pqgy
+- purl: pkg:alpine/dotnet6-runtime@6.0.26-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vb5m-2pt3-jyc3
+    - VCID-xkhs-mnv8-9ba8
+    - VCID-zaav-ausk-pqgy
+- purl: pkg:alpine/dotnet6-runtime@6.0.26-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vb5m-2pt3-jyc3
+    - VCID-xkhs-mnv8-9ba8
+    - VCID-zaav-ausk-pqgy
+- purl: pkg:alpine/dotnet6-runtime@6.0.26-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vb5m-2pt3-jyc3
+    - VCID-xkhs-mnv8-9ba8
+    - VCID-zaav-ausk-pqgy
+- purl: pkg:alpine/dotnet6-runtime@6.0.26-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vb5m-2pt3-jyc3
+    - VCID-xkhs-mnv8-9ba8
+    - VCID-zaav-ausk-pqgy
+- purl: pkg:alpine/dotnet6-runtime@6.0.26-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vb5m-2pt3-jyc3
+    - VCID-xkhs-mnv8-9ba8
+    - VCID-zaav-ausk-pqgy
+- purl: pkg:alpine/dotnet6-runtime@6.0.26-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vb5m-2pt3-jyc3
+    - VCID-xkhs-mnv8-9ba8
+    - VCID-zaav-ausk-pqgy
+- purl: pkg:alpine/dotnet6-runtime@6.0.26-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vb5m-2pt3-jyc3
+    - VCID-xkhs-mnv8-9ba8
+    - VCID-zaav-ausk-pqgy
+- purl: pkg:alpine/dotnet6-runtime@6.0.26-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vb5m-2pt3-jyc3
+    - VCID-xkhs-mnv8-9ba8
+    - VCID-zaav-ausk-pqgy
+- purl: pkg:alpine/dotnet6-runtime@6.0.26-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vb5m-2pt3-jyc3
+    - VCID-xkhs-mnv8-9ba8
+    - VCID-zaav-ausk-pqgy
+- purl: pkg:alpine/dotnet6-runtime@6.0.26-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vb5m-2pt3-jyc3
+    - VCID-xkhs-mnv8-9ba8
+    - VCID-zaav-ausk-pqgy
+- purl: pkg:alpine/dotnet6-runtime@6.0.26-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vb5m-2pt3-jyc3
+    - VCID-xkhs-mnv8-9ba8
+    - VCID-zaav-ausk-pqgy
+- purl: pkg:alpine/dotnet6-runtime@6.0.26-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vb5m-2pt3-jyc3
+    - VCID-xkhs-mnv8-9ba8
+    - VCID-zaav-ausk-pqgy
+- purl: pkg:alpine/dotnet6-runtime@6.0.26-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-vb5m-2pt3-jyc3
+    - VCID-xkhs-mnv8-9ba8
+    - VCID-zaav-ausk-pqgy
+- purl: pkg:alpine/dotnet6-runtime@6.0.27-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4erg-xasd-bff3
+    - VCID-e9pm-me9k-3bdn
+- purl: pkg:alpine/dotnet6-runtime@6.0.27-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4erg-xasd-bff3
+    - VCID-e9pm-me9k-3bdn
+- purl: pkg:alpine/dotnet6-runtime@6.0.27-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4erg-xasd-bff3
+    - VCID-e9pm-me9k-3bdn
+- purl: pkg:alpine/dotnet6-runtime@6.0.27-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4erg-xasd-bff3
+    - VCID-e9pm-me9k-3bdn
+- purl: pkg:alpine/dotnet6-runtime@6.0.27-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4erg-xasd-bff3
+    - VCID-e9pm-me9k-3bdn
+- purl: pkg:alpine/dotnet6-runtime@6.0.27-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4erg-xasd-bff3
+    - VCID-e9pm-me9k-3bdn
+- purl: pkg:alpine/dotnet6-runtime@6.0.27-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4erg-xasd-bff3
+    - VCID-e9pm-me9k-3bdn
+- purl: pkg:alpine/dotnet6-runtime@6.0.27-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4erg-xasd-bff3
+    - VCID-e9pm-me9k-3bdn
+- purl: pkg:alpine/dotnet6-runtime@6.0.27-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4erg-xasd-bff3
+    - VCID-e9pm-me9k-3bdn
+- purl: pkg:alpine/dotnet6-runtime@6.0.27-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4erg-xasd-bff3
+    - VCID-e9pm-me9k-3bdn
+- purl: pkg:alpine/dotnet6-runtime@6.0.27-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4erg-xasd-bff3
+    - VCID-e9pm-me9k-3bdn
+- purl: pkg:alpine/dotnet6-runtime@6.0.27-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4erg-xasd-bff3
+    - VCID-e9pm-me9k-3bdn
+- purl: pkg:alpine/dotnet6-runtime@6.0.27-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4erg-xasd-bff3
+    - VCID-e9pm-me9k-3bdn
+- purl: pkg:alpine/dotnet6-runtime@6.0.27-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4erg-xasd-bff3
+    - VCID-e9pm-me9k-3bdn
+- purl: pkg:alpine/dotnet6-runtime@6.0.27-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4erg-xasd-bff3
+    - VCID-e9pm-me9k-3bdn
+- purl: pkg:alpine/dotnet6-runtime@6.0.27-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4erg-xasd-bff3
+    - VCID-e9pm-me9k-3bdn
+- purl: pkg:alpine/dotnet6-runtime@6.0.27-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4erg-xasd-bff3
+    - VCID-e9pm-me9k-3bdn
+- purl: pkg:alpine/dotnet6-runtime@6.0.27-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4erg-xasd-bff3
+    - VCID-e9pm-me9k-3bdn
+- purl: pkg:alpine/dotnet6-runtime@6.0.27-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4erg-xasd-bff3
+    - VCID-e9pm-me9k-3bdn
+- purl: pkg:alpine/dotnet6-runtime@6.0.27-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4erg-xasd-bff3
+    - VCID-e9pm-me9k-3bdn
+- purl: pkg:alpine/dotnet6-runtime@6.0.27-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4erg-xasd-bff3
+    - VCID-e9pm-me9k-3bdn
+- purl: pkg:alpine/dotnet6-runtime@6.0.27-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4erg-xasd-bff3
+    - VCID-e9pm-me9k-3bdn
+- purl: pkg:alpine/dotnet6-runtime@6.0.27-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4erg-xasd-bff3
+    - VCID-e9pm-me9k-3bdn
+- purl: pkg:alpine/dotnet6-runtime@6.0.27-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4erg-xasd-bff3
+    - VCID-e9pm-me9k-3bdn
+- purl: pkg:alpine/dotnet6-runtime@6.0.29-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-n6t3-mxun-7ubk
+- purl: pkg:alpine/dotnet6-runtime@6.0.29-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-n6t3-mxun-7ubk
+- purl: pkg:alpine/dotnet6-runtime@6.0.29-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-n6t3-mxun-7ubk
+- purl: pkg:alpine/dotnet6-runtime@6.0.29-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-n6t3-mxun-7ubk
+- purl: pkg:alpine/dotnet6-runtime@6.0.29-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-n6t3-mxun-7ubk
+- purl: pkg:alpine/dotnet6-runtime@6.0.29-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-n6t3-mxun-7ubk
+- purl: pkg:alpine/dotnet6-runtime@6.0.29-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-n6t3-mxun-7ubk
+- purl: pkg:alpine/dotnet6-runtime@6.0.29-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-n6t3-mxun-7ubk
+- purl: pkg:alpine/dotnet6-runtime@6.0.29-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-n6t3-mxun-7ubk
+- purl: pkg:alpine/dotnet6-runtime@6.0.29-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-n6t3-mxun-7ubk
+- purl: pkg:alpine/dotnet6-runtime@6.0.29-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-n6t3-mxun-7ubk
+- purl: pkg:alpine/dotnet6-runtime@6.0.29-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-n6t3-mxun-7ubk
+- purl: pkg:alpine/dotnet6-runtime@6.0.29-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-n6t3-mxun-7ubk
+- purl: pkg:alpine/dotnet6-runtime@6.0.29-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-n6t3-mxun-7ubk
+- purl: pkg:alpine/dotnet6-runtime@6.0.29-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-n6t3-mxun-7ubk
+- purl: pkg:alpine/dotnet6-runtime@6.0.29-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-n6t3-mxun-7ubk
+- purl: pkg:alpine/dotnet6-runtime@6.0.29-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-n6t3-mxun-7ubk
+- purl: pkg:alpine/dotnet6-runtime@6.0.29-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-n6t3-mxun-7ubk
+- purl: pkg:alpine/dotnet6-runtime@6.0.29-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-n6t3-mxun-7ubk
+- purl: pkg:alpine/dotnet6-runtime@6.0.29-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-n6t3-mxun-7ubk
+- purl: pkg:alpine/dotnet6-runtime@6.0.29-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-n6t3-mxun-7ubk
+- purl: pkg:alpine/dotnet6-runtime@6.0.29-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-n6t3-mxun-7ubk
+- purl: pkg:alpine/dotnet6-runtime@6.0.29-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-n6t3-mxun-7ubk
+- purl: pkg:alpine/dotnet6-runtime@6.0.29-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-n6t3-mxun-7ubk
+- purl: pkg:alpine/dotnet6-runtime@6.0.31-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9r94-t1g6-xqhn
+- purl: pkg:alpine/dotnet6-runtime@6.0.31-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9r94-t1g6-xqhn
+- purl: pkg:alpine/dotnet6-runtime@6.0.31-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9r94-t1g6-xqhn
+- purl: pkg:alpine/dotnet6-runtime@6.0.31-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9r94-t1g6-xqhn
+- purl: pkg:alpine/dotnet6-runtime@6.0.31-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9r94-t1g6-xqhn
+- purl: pkg:alpine/dotnet6-runtime@6.0.31-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9r94-t1g6-xqhn
+- purl: pkg:alpine/dotnet6-runtime@6.0.31-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9r94-t1g6-xqhn
+- purl: pkg:alpine/dotnet6-runtime@6.0.31-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9r94-t1g6-xqhn
+- purl: pkg:alpine/dotnet6-runtime@6.0.31-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9r94-t1g6-xqhn
+- purl: pkg:alpine/dotnet6-runtime@6.0.31-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9r94-t1g6-xqhn
+- purl: pkg:alpine/dotnet6-runtime@6.0.31-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9r94-t1g6-xqhn
+- purl: pkg:alpine/dotnet6-runtime@6.0.31-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9r94-t1g6-xqhn
+- purl: pkg:alpine/dotnet6-runtime@6.0.31-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9r94-t1g6-xqhn
+- purl: pkg:alpine/dotnet6-runtime@6.0.31-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9r94-t1g6-xqhn
+- purl: pkg:alpine/dotnet6-runtime@6.0.31-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9r94-t1g6-xqhn
+- purl: pkg:alpine/dotnet6-runtime@6.0.31-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9r94-t1g6-xqhn
+- purl: pkg:alpine/dotnet6-runtime@6.0.31-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9r94-t1g6-xqhn
+- purl: pkg:alpine/dotnet6-runtime@6.0.31-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9r94-t1g6-xqhn
+- purl: pkg:alpine/dotnet6-runtime@6.0.31-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9r94-t1g6-xqhn
+- purl: pkg:alpine/dotnet6-runtime@6.0.31-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9r94-t1g6-xqhn
+- purl: pkg:alpine/dotnet6-runtime@6.0.31-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9r94-t1g6-xqhn
+- purl: pkg:alpine/dotnet6-runtime@6.0.31-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9r94-t1g6-xqhn
+- purl: pkg:alpine/dotnet6-runtime@6.0.31-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9r94-t1g6-xqhn
+- purl: pkg:alpine/dotnet6-runtime@6.0.31-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9r94-t1g6-xqhn
+- purl: pkg:alpine/dotnet6-runtime@6.0.32-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e7bf-wgav-6kd5
+    - VCID-kyx3-b8gx-bqdt
+- purl: pkg:alpine/dotnet6-runtime@6.0.32-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e7bf-wgav-6kd5
+    - VCID-kyx3-b8gx-bqdt
+- purl: pkg:alpine/dotnet6-runtime@6.0.32-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e7bf-wgav-6kd5
+    - VCID-kyx3-b8gx-bqdt
+- purl: pkg:alpine/dotnet6-runtime@6.0.32-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e7bf-wgav-6kd5
+    - VCID-kyx3-b8gx-bqdt
+- purl: pkg:alpine/dotnet6-runtime@6.0.32-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e7bf-wgav-6kd5
+    - VCID-kyx3-b8gx-bqdt
+- purl: pkg:alpine/dotnet6-runtime@6.0.32-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e7bf-wgav-6kd5
+    - VCID-kyx3-b8gx-bqdt
+- purl: pkg:alpine/dotnet6-runtime@6.0.32-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e7bf-wgav-6kd5
+    - VCID-kyx3-b8gx-bqdt
+- purl: pkg:alpine/dotnet6-runtime@6.0.32-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e7bf-wgav-6kd5
+    - VCID-kyx3-b8gx-bqdt
+- purl: pkg:alpine/dotnet6-runtime@6.0.32-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e7bf-wgav-6kd5
+    - VCID-kyx3-b8gx-bqdt
+- purl: pkg:alpine/dotnet6-runtime@6.0.32-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e7bf-wgav-6kd5
+    - VCID-kyx3-b8gx-bqdt
+- purl: pkg:alpine/dotnet6-runtime@6.0.32-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e7bf-wgav-6kd5
+    - VCID-kyx3-b8gx-bqdt
+- purl: pkg:alpine/dotnet6-runtime@6.0.32-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e7bf-wgav-6kd5
+    - VCID-kyx3-b8gx-bqdt
+- purl: pkg:alpine/dotnet6-runtime@6.0.32-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e7bf-wgav-6kd5
+    - VCID-kyx3-b8gx-bqdt
+- purl: pkg:alpine/dotnet6-runtime@6.0.32-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e7bf-wgav-6kd5
+    - VCID-kyx3-b8gx-bqdt
+- purl: pkg:alpine/dotnet6-runtime@6.0.32-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e7bf-wgav-6kd5
+    - VCID-kyx3-b8gx-bqdt
+- purl: pkg:alpine/dotnet6-runtime@6.0.32-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e7bf-wgav-6kd5
+    - VCID-kyx3-b8gx-bqdt
+- purl: pkg:alpine/dotnet6-runtime@6.0.32-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e7bf-wgav-6kd5
+    - VCID-kyx3-b8gx-bqdt
+- purl: pkg:alpine/dotnet6-runtime@6.0.35-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-anb3-8guv-suef
+    - VCID-hcj7-dsjh-67bz
+    - VCID-hf8r-ns7m-g7a8
+- purl: pkg:alpine/dotnet6-runtime@6.0.35-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-anb3-8guv-suef
+    - VCID-hcj7-dsjh-67bz
+    - VCID-hf8r-ns7m-g7a8
+- purl: pkg:alpine/dotnet6-runtime@6.0.35-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-anb3-8guv-suef
+    - VCID-hcj7-dsjh-67bz
+    - VCID-hf8r-ns7m-g7a8
+- purl: pkg:alpine/dotnet6-runtime@6.0.35-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-anb3-8guv-suef
+    - VCID-hcj7-dsjh-67bz
+    - VCID-hf8r-ns7m-g7a8
+- purl: pkg:alpine/dotnet6-runtime@6.0.35-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-anb3-8guv-suef
+    - VCID-hcj7-dsjh-67bz
+    - VCID-hf8r-ns7m-g7a8
+- purl: pkg:alpine/dotnet6-runtime@6.0.35-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-anb3-8guv-suef
+    - VCID-hcj7-dsjh-67bz
+    - VCID-hf8r-ns7m-g7a8
+- purl: pkg:alpine/dotnet6-runtime@6.0.35-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-anb3-8guv-suef
+    - VCID-hcj7-dsjh-67bz
+    - VCID-hf8r-ns7m-g7a8
+- purl: pkg:alpine/dotnet6-runtime@6.0.35-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-anb3-8guv-suef
+    - VCID-hcj7-dsjh-67bz
+    - VCID-hf8r-ns7m-g7a8
+- purl: pkg:alpine/dotnet6-runtime@6.0.35-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-anb3-8guv-suef
+    - VCID-hcj7-dsjh-67bz
+    - VCID-hf8r-ns7m-g7a8
+- purl: pkg:alpine/dotnet6-runtime@6.0.35-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-anb3-8guv-suef
+    - VCID-hcj7-dsjh-67bz
+    - VCID-hf8r-ns7m-g7a8
+- purl: pkg:alpine/dotnet6-runtime@6.0.35-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-anb3-8guv-suef
+    - VCID-hcj7-dsjh-67bz
+    - VCID-hf8r-ns7m-g7a8
+- purl: pkg:alpine/dotnet6-runtime@6.0.35-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-anb3-8guv-suef
+    - VCID-hcj7-dsjh-67bz
+    - VCID-hf8r-ns7m-g7a8
+- purl: pkg:alpine/dotnet6-runtime@6.0.35-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-anb3-8guv-suef
+    - VCID-hcj7-dsjh-67bz
+    - VCID-hf8r-ns7m-g7a8
+- purl: pkg:alpine/dotnet6-runtime@6.0.35-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-anb3-8guv-suef
+    - VCID-hcj7-dsjh-67bz
+    - VCID-hf8r-ns7m-g7a8
+- purl: pkg:alpine/dotnet6-runtime@6.0.35-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-anb3-8guv-suef
+    - VCID-hcj7-dsjh-67bz
+    - VCID-hf8r-ns7m-g7a8
+- purl: pkg:alpine/dotnet6-runtime@6.0.35-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-anb3-8guv-suef
+    - VCID-hcj7-dsjh-67bz
+    - VCID-hf8r-ns7m-g7a8
+- purl: pkg:alpine/dotnet6-runtime@6.0.35-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-anb3-8guv-suef
+    - VCID-hcj7-dsjh-67bz
+    - VCID-hf8r-ns7m-g7a8
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.6-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-gmrv-9c37-yua3
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.8-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jyn4-7dut-1udf
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6
+- purl: pkg:alpine/dotnet6-runtime@6.0.9-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1ty1-7d2v-33b6

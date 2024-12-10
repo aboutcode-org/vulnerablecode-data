@@ -1,0 +1,15 @@
+vulnerability_id: VCID-dbxt-b4jb-w7h1
+aliases:
+  - CVE-2020-4042
+summary:
+severities:
+  - score: '0.00090'
+    scoring_system: epss
+    scoring_elements: '0.39374'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-4042
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-4042
+    reference_type:
+    reference_id:

@@ -1,0 +1,95 @@
+vulnerability_id: VCID-wy6q-b1z8-13bp
+aliases:
+  - CVE-2022-43552
+summary:
+severities:
+  - score: '5.9'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-43552.json
+  - score: '0.00149'
+    scoring_system: epss
+    scoring_elements: '0.51581'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-43552
+  - score: Low
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2022-43552.html
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-24T14:27:40Z/
+    published_at:
+    url: http://seclists.org/fulldisclosure/2023/Mar/17
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-24T14:27:40Z/
+    published_at:
+    url: https://security.netapp.com/advisory/ntap-20230214-0002/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-26T20:25:09Z/
+    published_at:
+    url: https://support.apple.com/kb/HT213670
+weaknesses:
+  - CWE-416
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-43552.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-43552
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2022-43552.html
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://hackerone.com/reports/1764858
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1026830
+    reference_type:
+    reference_id: 1026830
+  - url: http://seclists.org/fulldisclosure/2023/Mar/17
+    reference_type:
+    reference_id: 17
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2152652
+    reference_type:
+    reference_id: 2152652
+  - url: https://security.gentoo.org/glsa/202310-12
+    reference_type:
+    reference_id: GLSA-202310-12
+  - url: https://support.apple.com/kb/HT213670
+    reference_type:
+    reference_id: HT213670
+  - url: https://security.netapp.com/advisory/ntap-20230214-0002/
+    reference_type:
+    reference_id: ntap-20230214-0002
+  - url: https://access.redhat.com/errata/RHSA-2023:2478
+    reference_type:
+    reference_id: RHSA-2023:2478
+  - url: https://access.redhat.com/errata/RHSA-2023:2963
+    reference_type:
+    reference_id: RHSA-2023:2963
+  - url: https://access.redhat.com/errata/RHSA-2023:3354
+    reference_type:
+    reference_id: RHSA-2023:3354
+  - url: https://access.redhat.com/errata/RHSA-2023:3355
+    reference_type:
+    reference_id: RHSA-2023:3355
+  - url: https://access.redhat.com/errata/RHSA-2023:7743
+    reference_type:
+    reference_id: RHSA-2023:7743
+  - url: https://access.redhat.com/errata/RHSA-2024:0428
+    reference_type:
+    reference_id: RHSA-2024:0428
+  - url: https://usn.ubuntu.com/5788-1/
+    reference_type:
+    reference_id: USN-5788-1
+  - url: https://usn.ubuntu.com/5894-1/
+    reference_type:
+    reference_id: USN-5894-1

@@ -1,0 +1,38 @@
+vulnerability_id: VCID-f78t-rxa5-fkdr
+aliases:
+  - CVE-2020-25125
+summary:
+severities:
+  - score: '7.0'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-25125.json
+  - score: '0.00287'
+    scoring_system: epss
+    scoring_elements: '0.69261'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-25125
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1218
+weaknesses:
+  - CWE-129
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-25125.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-25125
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1875675
+    reference_type:
+    reference_id: 1875675
+  - url: https://security.archlinux.org/ASA-202009-5
+    reference_type:
+    reference_id: ASA-202009-5
+  - url: https://security.archlinux.org/AVG-1218
+    reference_type:
+    reference_id: AVG-1218

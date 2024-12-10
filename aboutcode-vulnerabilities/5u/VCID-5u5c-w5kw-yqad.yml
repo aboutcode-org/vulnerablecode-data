@@ -1,0 +1,34 @@
+vulnerability_id: VCID-5u5c-w5kw-yqad
+aliases:
+  - CVE-2023-28103
+  - GHSA-6g43-88cp-w5gv
+summary:
+severities:
+  - score: '0.00081'
+    scoring_system: epss
+    scoring_elements: '0.35575'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-28103
+weaknesses:
+  - CWE-1035
+  - CWE-1321
+  - CWE-937
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-28103
+    reference_type:
+    reference_id:
+  - url: https://matrix.org/blog/2023/03/28/security-releases-matrix-js-sdk-24-0-0-and-matrix-react-sdk-3-69-0
+    reference_type:
+    reference_id:
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2023-28103
+    reference_type:
+    reference_id: CVE-2023-28103
+  - url: https://github.com/matrix-org/matrix-react-sdk/security/advisories/GHSA-2x9c-qwgf-94xr
+    reference_type:
+    reference_id: GHSA-2x9c-qwgf-94xr
+  - url: https://github.com/advisories/GHSA-6g43-88cp-w5gv
+    reference_type:
+    reference_id: GHSA-6g43-88cp-w5gv
+  - url: https://github.com/matrix-org/matrix-react-sdk/security/advisories/GHSA-6g43-88cp-w5gv
+    reference_type:
+    reference_id: GHSA-6g43-88cp-w5gv

@@ -1,0 +1,37 @@
+vulnerability_id: VCID-nktk-z5e3-skac
+aliases:
+  - CVE-2019-17025
+summary:
+severities:
+  - score: '0.00629'
+    scoring_system: epss
+    scoring_elements: '0.79333'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-17025
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1084
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-01
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-17025
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/ASA-202001-1
+    reference_type:
+    reference_id: ASA-202001-1
+  - url: https://security.archlinux.org/AVG-1084
+    reference_type:
+    reference_id: AVG-1084
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-01
+    reference_type:
+    reference_id: mfsa2020-01
+  - url: https://usn.ubuntu.com/4234-1/
+    reference_type:
+    reference_id: USN-4234-1

@@ -1,0 +1,57 @@
+vulnerability_id: VCID-gerz-mcha-cqd9
+aliases:
+  - CVE-2018-19409
+summary:
+severities:
+  - score: '7.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-19409.json
+  - score: '0.00740'
+    scoring_system: epss
+    scoring_elements: '0.81151'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-19409
+weaknesses:
+  - CWE-391
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-19409.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-19409
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-19134
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-19409
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-19475
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-19476
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-19477
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-19478
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1652583
+    reference_type:
+    reference_id: 1652583
+  - url: https://security.gentoo.org/glsa/201811-12
+    reference_type:
+    reference_id: GLSA-201811-12
+  - url: https://access.redhat.com/errata/RHSA-2018:3834
+    reference_type:
+    reference_id: RHSA-2018:3834
+  - url: https://usn.ubuntu.com/3831-1/
+    reference_type:
+    reference_id: USN-3831-1

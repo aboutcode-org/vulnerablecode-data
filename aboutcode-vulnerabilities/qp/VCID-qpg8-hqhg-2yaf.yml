@@ -1,0 +1,15 @@
+vulnerability_id: VCID-qpg8-hqhg-2yaf
+aliases:
+  - CVE-2018-9860
+summary:
+severities:
+  - score: '0.00099'
+    scoring_system: epss
+    scoring_elements: '0.41862'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-9860
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-9860
+    reference_type:
+    reference_id:

@@ -1,0 +1,125 @@
+vulnerability_id: VCID-6wvk-bjy1-a3hq
+aliases:
+  - CVE-2018-16876
+  - GHSA-j569-fghw-f9rx
+  - PYSEC-2019-141
+summary: ansible before versions 2.5.14, 2.6.11, 2.7.5 is vulnerable to a information disclosure
+  flaw in vvv+ mode with no_log on that can lead to leakage of sensible data.
+severities:
+  - score: '5.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-16876.json
+  - score: '0.00319'
+    scoring_system: epss
+    scoring_elements: '0.70889'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-16876
+weaknesses:
+  - CWE-200
+  - CWE-937
+  - CWE-1035
+references:
+  - url: http://lists.opensuse.org/opensuse-security-announce/2019-04/msg00021.html
+    reference_type:
+    reference_id:
+  - url: http://lists.opensuse.org/opensuse-security-announce/2019-06/msg00077.html
+    reference_type:
+    reference_id:
+  - url: http://lists.opensuse.org/opensuse-security-announce/2019-08/msg00020.html
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/errata/RHSA-2018:3835
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/errata/RHSA-2018:3836
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/errata/RHSA-2018:3837
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/errata/RHSA-2018:3838
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/errata/RHSA-2019:0564
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/errata/RHSA-2019:0590
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-16876.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-16876
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2018-16876
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-10855
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-10875
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-16837
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-16876
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-3828
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://github.com/ansible/ansible
+    reference_type:
+    reference_id:
+  - url: https://github.com/ansible/ansible/commit/0954942dfdc563f80fd3e388f550aa165ec931da
+    reference_type:
+    reference_id:
+  - url: https://github.com/ansible/ansible/commit/424c68f15ad9f532d73e5afed33ff477f54281a7
+    reference_type:
+    reference_id:
+  - url: https://github.com/ansible/ansible/commit/e0a81d133ffc8f7067182c53cf6a28c724dd1099
+    reference_type:
+    reference_id:
+  - url: https://github.com/ansible/ansible/issues/51318
+    reference_type:
+    reference_id:
+  - url: https://github.com/ansible/ansible/pull/49569
+    reference_type:
+    reference_id:
+  - url: https://github.com/pypa/advisory-database/tree/main/vulns/ansible/PYSEC-2019-141.yaml
+    reference_type:
+    reference_id:
+  - url: https://usn.ubuntu.com/4072-1
+    reference_type:
+    reference_id:
+  - url: https://usn.ubuntu.com/4072-1/
+    reference_type:
+    reference_id:
+  - url: https://web.archive.org/web/20200227100904/http://www.securityfocus.com/bid/106225
+    reference_type:
+    reference_id:
+  - url: https://www.debian.org/security/2019/dsa-4396
+    reference_type:
+    reference_id:
+  - url: http://www.securityfocus.com/bid/106225
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1657330
+    reference_type:
+    reference_id: 1657330
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=916102
+    reference_type:
+    reference_id: 916102
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2018-16876
+    reference_type:
+    reference_id: CVE-2018-16876
+  - url: https://github.com/advisories/GHSA-j569-fghw-f9rx
+    reference_type:
+    reference_id: GHSA-j569-fghw-f9rx

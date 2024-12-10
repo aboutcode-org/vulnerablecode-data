@@ -1,0 +1,45 @@
+vulnerability_id: VCID-9c1m-p6ef-6faw
+aliases:
+  - CVE-2022-39320
+summary:
+severities:
+  - score: '3.7'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:L/UI:R/S:U/C:L/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-39320.json
+  - score: '0.00112'
+    scoring_system: epss
+    scoring_elements: '0.45472'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-39320
+weaknesses:
+  - CWE-125
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-39320.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-39320
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1024511
+    reference_type:
+    reference_id: 1024511
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2143646
+    reference_type:
+    reference_id: 2143646
+  - url: https://security.gentoo.org/glsa/202401-16
+    reference_type:
+    reference_id: GLSA-202401-16
+  - url: https://access.redhat.com/errata/RHSA-2023:2326
+    reference_type:
+    reference_id: RHSA-2023:2326
+  - url: https://access.redhat.com/errata/RHSA-2023:2851
+    reference_type:
+    reference_id: RHSA-2023:2851
+  - url: https://usn.ubuntu.com/5734-1/
+    reference_type:
+    reference_id: USN-5734-1

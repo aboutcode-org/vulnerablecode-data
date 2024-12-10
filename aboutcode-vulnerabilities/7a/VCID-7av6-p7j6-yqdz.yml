@@ -1,0 +1,86 @@
+vulnerability_id: VCID-7av6-p7j6-yqdz
+aliases:
+  - CVE-2018-5711
+summary:
+severities:
+  - score: '4.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-5711.json
+  - score: '0.00238'
+    scoring_system: epss
+    scoring_elements: '0.62036'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-5711
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-865
+weaknesses:
+  - CWE-835
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-5711.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-5711
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-11142
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-11143
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-11144
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-11145
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-11628
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-12932
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-12933
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-12934
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-16642
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-5711
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-5712
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1535246
+    reference_type:
+    reference_id: 1535246
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=887485
+    reference_type:
+    reference_id: 887485
+  - url: https://security.archlinux.org/AVG-865
+    reference_type:
+    reference_id: AVG-865
+  - url: https://security.gentoo.org/glsa/201903-18
+    reference_type:
+    reference_id: GLSA-201903-18
+  - url: https://access.redhat.com/errata/RHSA-2018:1296
+    reference_type:
+    reference_id: RHSA-2018:1296
+  - url: https://access.redhat.com/errata/RHSA-2019:2519
+    reference_type:
+    reference_id: RHSA-2019:2519
+  - url: https://usn.ubuntu.com/3755-1/
+    reference_type:
+    reference_id: USN-3755-1

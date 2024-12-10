@@ -1,0 +1,88 @@
+vulnerability_id: VCID-yzp7-b6ad-e3bx
+aliases:
+  - CVE-2023-31122
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-31122.json
+  - score: '0.01014'
+    scoring_system: epss
+    scoring_elements: '0.84068'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-31122
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-04-05T13:57:02Z/
+    published_at:
+    url: https://lists.debian.org/debian-lts-announce/2024/05/msg00013.html
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-09-11T20:23:50Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/TI3V2YCEUM65QDYPGGNUZ7UONIM5OEXC/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-09-11T20:23:50Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/VZJTT5TEFNSBWVMKCLS6EZ7PI6EJYBCO/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-09-11T20:23:50Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/ZFDNHDH4VLFGDPY6MEZV2RO5N5FLFONW/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:P/P:M/B:A/M:M/D:T/2024-09-11T16:02:28Z/
+    published_at:
+    url: https://security.netapp.com/advisory/ntap-20231027-0011/
+weaknesses:
+  - CWE-125
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-31122.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-31122
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2245332
+    reference_type:
+    reference_id: 2245332
+  - url: https://lists.debian.org/debian-lts-announce/2024/05/msg00013.html
+    reference_type:
+    reference_id: msg00013.html
+  - url: https://security.netapp.com/advisory/ntap-20231027-0011/
+    reference_type:
+    reference_id: ntap-20231027-0011
+  - url: https://access.redhat.com/errata/RHSA-2024:1316
+    reference_type:
+    reference_id: RHSA-2024:1316
+  - url: https://access.redhat.com/errata/RHSA-2024:1317
+    reference_type:
+    reference_id: RHSA-2024:1317
+  - url: https://access.redhat.com/errata/RHSA-2024:2278
+    reference_type:
+    reference_id: RHSA-2024:2278
+  - url: https://access.redhat.com/errata/RHSA-2024:3121
+    reference_type:
+    reference_id: RHSA-2024:3121
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/TI3V2YCEUM65QDYPGGNUZ7UONIM5OEXC/
+    reference_type:
+    reference_id: TI3V2YCEUM65QDYPGGNUZ7UONIM5OEXC
+  - url: https://usn.ubuntu.com/6506-1/
+    reference_type:
+    reference_id: USN-6506-1
+  - url: https://usn.ubuntu.com/6510-1/
+    reference_type:
+    reference_id: USN-6510-1
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/VZJTT5TEFNSBWVMKCLS6EZ7PI6EJYBCO/
+    reference_type:
+    reference_id: VZJTT5TEFNSBWVMKCLS6EZ7PI6EJYBCO
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/ZFDNHDH4VLFGDPY6MEZV2RO5N5FLFONW/
+    reference_type:
+    reference_id: ZFDNHDH4VLFGDPY6MEZV2RO5N5FLFONW

@@ -1,0 +1,130 @@
+vulnerability_id: VCID-tdrt-zm8h-vkcr
+aliases:
+  - CVE-2020-12392
+summary:
+severities:
+  - score: '6.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-12392.json
+  - score: '0.00046'
+    scoring_system: epss
+    scoring_elements: '0.17166'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-12392
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1148
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1155
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-16
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-17
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-18
+weaknesses:
+  - CWE-552
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-12392.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-12392
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12387
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12392
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12395
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12397
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-6831
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1831764
+    reference_type:
+    reference_id: 1831764
+  - url: https://security.archlinux.org/ASA-202005-3
+    reference_type:
+    reference_id: ASA-202005-3
+  - url: https://security.archlinux.org/ASA-202005-7
+    reference_type:
+    reference_id: ASA-202005-7
+  - url: https://security.archlinux.org/AVG-1148
+    reference_type:
+    reference_id: AVG-1148
+  - url: https://security.archlinux.org/AVG-1155
+    reference_type:
+    reference_id: AVG-1155
+  - url: https://security.gentoo.org/glsa/202005-03
+    reference_type:
+    reference_id: GLSA-202005-03
+  - url: https://security.gentoo.org/glsa/202005-04
+    reference_type:
+    reference_id: GLSA-202005-04
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-16
+    reference_type:
+    reference_id: mfsa2020-16
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-17
+    reference_type:
+    reference_id: mfsa2020-17
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-18
+    reference_type:
+    reference_id: mfsa2020-18
+  - url: https://access.redhat.com/errata/RHSA-2020:2031
+    reference_type:
+    reference_id: RHSA-2020:2031
+  - url: https://access.redhat.com/errata/RHSA-2020:2032
+    reference_type:
+    reference_id: RHSA-2020:2032
+  - url: https://access.redhat.com/errata/RHSA-2020:2033
+    reference_type:
+    reference_id: RHSA-2020:2033
+  - url: https://access.redhat.com/errata/RHSA-2020:2036
+    reference_type:
+    reference_id: RHSA-2020:2036
+  - url: https://access.redhat.com/errata/RHSA-2020:2037
+    reference_type:
+    reference_id: RHSA-2020:2037
+  - url: https://access.redhat.com/errata/RHSA-2020:2046
+    reference_type:
+    reference_id: RHSA-2020:2046
+  - url: https://access.redhat.com/errata/RHSA-2020:2047
+    reference_type:
+    reference_id: RHSA-2020:2047
+  - url: https://access.redhat.com/errata/RHSA-2020:2048
+    reference_type:
+    reference_id: RHSA-2020:2048
+  - url: https://access.redhat.com/errata/RHSA-2020:2049
+    reference_type:
+    reference_id: RHSA-2020:2049
+  - url: https://access.redhat.com/errata/RHSA-2020:2050
+    reference_type:
+    reference_id: RHSA-2020:2050
+  - url: https://usn.ubuntu.com/4353-1/
+    reference_type:
+    reference_id: USN-4353-1
+  - url: https://usn.ubuntu.com/4373-1/
+    reference_type:
+    reference_id: USN-4373-1

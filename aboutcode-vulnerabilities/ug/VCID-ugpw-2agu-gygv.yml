@@ -1,0 +1,71 @@
+vulnerability_id: VCID-ugpw-2agu-gygv
+aliases:
+  - CVE-2021-30560
+  - GHSA-fq42-c5rg-92c2
+  - GMS-2022-163
+summary:
+severities:
+  - score: '0.00701'
+    scoring_system: epss
+    scoring_elements: '0.80595'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-30560
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements:
+    published_at:
+    url: https://github.com/sparklemotion/nokogiri/security/advisories/GHSA-fq42-c5rg-92c2
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2166
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2167
+weaknesses:
+  - CWE-1035
+  - CWE-78
+  - CWE-937
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-30560
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://github.com/sparklemotion/nokogiri/security/advisories/GHSA-fq42-c5rg-92c2
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=990079
+    reference_type:
+    reference_id: 990079
+  - url: https://security.archlinux.org/ASA-202107-30
+    reference_type:
+    reference_id: ASA-202107-30
+  - url: https://security.archlinux.org/ASA-202107-31
+    reference_type:
+    reference_id: ASA-202107-31
+  - url: https://security.archlinux.org/AVG-2166
+    reference_type:
+    reference_id: AVG-2166
+  - url: https://security.archlinux.org/AVG-2167
+    reference_type:
+    reference_id: AVG-2167
+  - url: https://github.com/advisories/GHSA-fq42-c5rg-92c2
+    reference_type:
+    reference_id: GHSA-fq42-c5rg-92c2
+  - url: https://security.gentoo.org/glsa/202107-49
+    reference_type:
+    reference_id: GLSA-202107-49
+  - url: https://security.gentoo.org/glsa/202310-23
+    reference_type:
+    reference_id: GLSA-202310-23
+  - url: https://usn.ubuntu.com/5575-1/
+    reference_type:
+    reference_id: USN-5575-1
+  - url: https://usn.ubuntu.com/5575-2/
+    reference_type:
+    reference_id: USN-5575-2

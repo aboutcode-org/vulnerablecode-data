@@ -1,0 +1,73 @@
+vulnerability_id: VCID-3vzy-2dvu-4bfy
+aliases:
+  - CVE-2016-9147
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-9147.json
+  - score: '0.76771'
+    scoring_system: epss
+    scoring_elements: '0.98263'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-9147
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-132
+weaknesses: []
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-9147.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-9147
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9131
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9147
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9444
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1411367
+    reference_type:
+    reference_id: 1411367
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=851063
+    reference_type:
+    reference_id: 851063
+  - url: https://security.archlinux.org/ASA-201701-15
+    reference_type:
+    reference_id: ASA-201701-15
+  - url: https://security.archlinux.org/AVG-132
+    reference_type:
+    reference_id: AVG-132
+  - url: https://security.gentoo.org/glsa/201708-01
+    reference_type:
+    reference_id: GLSA-201708-01
+  - url: https://access.redhat.com/errata/RHSA-2017:0062
+    reference_type:
+    reference_id: RHSA-2017:0062
+  - url: https://access.redhat.com/errata/RHSA-2017:0063
+    reference_type:
+    reference_id: RHSA-2017:0063
+  - url: https://access.redhat.com/errata/RHSA-2017:0064
+    reference_type:
+    reference_id: RHSA-2017:0064
+  - url: https://access.redhat.com/errata/RHSA-2017:1582
+    reference_type:
+    reference_id: RHSA-2017:1582
+  - url: https://access.redhat.com/errata/RHSA-2017:1583
+    reference_type:
+    reference_id: RHSA-2017:1583
+  - url: https://usn.ubuntu.com/3172-1/
+    reference_type:
+    reference_id: USN-3172-1

@@ -1,0 +1,79 @@
+vulnerability_id: VCID-73h6-wkaz-17be
+aliases:
+  - CVE-2024-35241
+  - GHSA-47f6-5gq3-vx9c
+summary:
+severities:
+  - score: '0.00045'
+    scoring_system: epss
+    scoring_elements: '0.16440'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-35241
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/composer/composer/security/advisories/GHSA-47f6-5gq3-vx9c
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-15T20:42:58Z/
+    published_at:
+    url: https://github.com/composer/composer/security/advisories/GHSA-47f6-5gq3-vx9c
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/PO4MU2BC7VR6LMHEX4X7DKGHVFXZV2MC/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-15T20:42:58Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/PO4MU2BC7VR6LMHEX4X7DKGHVFXZV2MC/
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/VLPJHM2WWSYU2F6KHW2BYFGYL4IGTKHC/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-15T20:42:58Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/VLPJHM2WWSYU2F6KHW2BYFGYL4IGTKHC/
+weaknesses:
+  - CWE-77
+  - CWE-937
+  - CWE-1035
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-35241
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://github.com/composer/composer
+    reference_type:
+    reference_id:
+  - url: https://github.com/composer/composer/commit/b93fc6ca437da35ae73d667d0618749c763b67d4
+    reference_type:
+    reference_id:
+  - url: https://github.com/composer/composer/commit/ee28354ca8d33c15949ad7de2ce6656ba3f68704
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1073125
+    reference_type:
+    reference_id: 1073125
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2024-35241
+    reference_type:
+    reference_id: CVE-2024-35241
+  - url: https://github.com/advisories/GHSA-47f6-5gq3-vx9c
+    reference_type:
+    reference_id: GHSA-47f6-5gq3-vx9c
+  - url: https://github.com/composer/composer/security/advisories/GHSA-47f6-5gq3-vx9c
+    reference_type:
+    reference_id: GHSA-47f6-5gq3-vx9c
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/PO4MU2BC7VR6LMHEX4X7DKGHVFXZV2MC/
+    reference_type:
+    reference_id: PO4MU2BC7VR6LMHEX4X7DKGHVFXZV2MC
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/VLPJHM2WWSYU2F6KHW2BYFGYL4IGTKHC/
+    reference_type:
+    reference_id: VLPJHM2WWSYU2F6KHW2BYFGYL4IGTKHC

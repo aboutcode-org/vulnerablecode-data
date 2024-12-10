@@ -1,0 +1,68 @@
+vulnerability_id: VCID-erqc-y6a1-43gg
+aliases:
+  - CVE-2017-1000117
+summary:
+severities:
+  - score: '6.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-1000117.json
+  - score: '0.55180'
+    scoring_system: epss
+    scoring_elements: '0.97713'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2017-1000117
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-377
+weaknesses:
+  - CWE-20
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-1000117.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2017-1000117
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-1000117
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1480386
+    reference_type:
+    reference_id: 1480386
+  - url: https://security.archlinux.org/ASA-201708-6
+    reference_type:
+    reference_id: ASA-201708-6
+  - url: https://security.archlinux.org/AVG-377
+    reference_type:
+    reference_id: AVG-377
+  - url: https://github.com/rapid7/metasploit-framework/blob/202c936868328a4fe665c9d2ea82b8f8a2610b6e/modules/exploits/multi/http/git_submodule_command_exec.rb
+    reference_type: exploit
+    reference_id: CVE-2017-1000117
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/python/remote/42599.rb
+    reference_type: exploit
+    reference_id: CVE-2017-1000117
+  - url: https://security.gentoo.org/glsa/201709-10
+    reference_type:
+    reference_id: GLSA-201709-10
+  - url: https://access.redhat.com/errata/RHSA-2017:2484
+    reference_type:
+    reference_id: RHSA-2017:2484
+  - url: https://access.redhat.com/errata/RHSA-2017:2485
+    reference_type:
+    reference_id: RHSA-2017:2485
+  - url: https://access.redhat.com/errata/RHSA-2017:2491
+    reference_type:
+    reference_id: RHSA-2017:2491
+  - url: https://access.redhat.com/errata/RHSA-2017:2674
+    reference_type:
+    reference_id: RHSA-2017:2674
+  - url: https://usn.ubuntu.com/3387-1/
+    reference_type:
+    reference_id: USN-3387-1

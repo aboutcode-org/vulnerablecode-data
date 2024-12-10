@@ -1,0 +1,18 @@
+vulnerability_id: VCID-j5th-q88h-5ug3
+aliases:
+  - CVE-2018-20683
+summary:
+severities:
+  - score: '0.00362'
+    scoring_system: epss
+    scoring_elements: '0.72705'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-20683
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-20683
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=918849
+    reference_type:
+    reference_id: 918849

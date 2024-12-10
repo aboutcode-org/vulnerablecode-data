@@ -1,0 +1,86 @@
+vulnerability_id: VCID-184w-pctk-d3hy
+aliases:
+  - CVE-2022-39236
+  - GHSA-hvv8-5v86-r45x
+summary:
+severities:
+  - score: '4.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-39236.json
+  - score: '0.00142'
+    scoring_system: epss
+    scoring_elements: '0.50672'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-39236
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-43
+weaknesses:
+  - CWE-20
+  - CWE-1035
+  - CWE-937
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-39236.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-39236
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://github.com/matrix-org/matrix-js-sdk/commit/a587d7c36026fe1fcf93dfff63588abee359be76
+    reference_type:
+    reference_id:
+  - url: https://github.com/matrix-org/matrix-js-sdk/releases/tag/v19.7.0
+    reference_type:
+    reference_id:
+  - url: https://github.com/matrix-org/matrix-spec-proposals/pull/3488
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1021136
+    reference_type:
+    reference_id: 1021136
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2135391
+    reference_type:
+    reference_id: 2135391
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2022-39236
+    reference_type:
+    reference_id: CVE-2022-39236
+  - url: https://github.com/advisories/GHSA-hvv8-5v86-r45x
+    reference_type:
+    reference_id: GHSA-hvv8-5v86-r45x
+  - url: https://github.com/matrix-org/matrix-js-sdk/security/advisories/GHSA-hvv8-5v86-r45x
+    reference_type:
+    reference_id: GHSA-hvv8-5v86-r45x
+  - url: https://security.gentoo.org/glsa/202210-35
+    reference_type:
+    reference_id: GLSA-202210-35
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-43
+    reference_type:
+    reference_id: mfsa2022-43
+  - url: https://access.redhat.com/errata/RHSA-2022:7178
+    reference_type:
+    reference_id: RHSA-2022:7178
+  - url: https://access.redhat.com/errata/RHSA-2022:7181
+    reference_type:
+    reference_id: RHSA-2022:7181
+  - url: https://access.redhat.com/errata/RHSA-2022:7182
+    reference_type:
+    reference_id: RHSA-2022:7182
+  - url: https://access.redhat.com/errata/RHSA-2022:7183
+    reference_type:
+    reference_id: RHSA-2022:7183
+  - url: https://access.redhat.com/errata/RHSA-2022:7184
+    reference_type:
+    reference_id: RHSA-2022:7184
+  - url: https://access.redhat.com/errata/RHSA-2022:7190
+    reference_type:
+    reference_id: RHSA-2022:7190
+  - url: https://usn.ubuntu.com/5724-1/
+    reference_type:
+    reference_id: USN-5724-1

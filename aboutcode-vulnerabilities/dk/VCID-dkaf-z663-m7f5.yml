@@ -1,0 +1,35 @@
+vulnerability_id: VCID-dkaf-z663-m7f5
+aliases:
+  - CVE-2021-30473
+summary:
+severities:
+  - score: '0.00483'
+    scoring_system: epss
+    scoring_elements: '0.76301'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-30473
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1925
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-30473
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=988211
+    reference_type:
+    reference_id: 988211
+  - url: https://security.archlinux.org/AVG-1925
+    reference_type:
+    reference_id: AVG-1925
+  - url: https://security.gentoo.org/glsa/202401-32
+    reference_type:
+    reference_id: GLSA-202401-32
+  - url: https://usn.ubuntu.com/6447-1/
+    reference_type:
+    reference_id: USN-6447-1

@@ -1,0 +1,86 @@
+vulnerability_id: VCID-5gs2-2cmb-wkf4
+aliases:
+  - CVE-2019-0211
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-0211.json
+  - score: '0.96070'
+    scoring_system: epss
+    scoring_elements: '0.99541'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-0211
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-946
+weaknesses:
+  - CWE-250
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-0211.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-0211
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17189
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17199
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-0196
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-0211
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-0217
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-0220
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1694980
+    reference_type:
+    reference_id: 1694980
+  - url: https://security.archlinux.org/ASA-201904-3
+    reference_type:
+    reference_id: ASA-201904-3
+  - url: https://security.archlinux.org/AVG-946
+    reference_type:
+    reference_id: AVG-946
+  - url: https://github.com/cfreal/exploits/blob/ba026fae59974037d744a90cef09224f751bc3e4/CVE-2019-0211-apache/cfreal-carpediem.php
+    reference_type: exploit
+    reference_id: CVE-2019-0211
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/linux/local/46676.php
+    reference_type: exploit
+    reference_id: CVE-2019-0211
+  - url: https://security.gentoo.org/glsa/201904-20
+    reference_type:
+    reference_id: GLSA-201904-20
+  - url: https://access.redhat.com/errata/RHSA-2019:0746
+    reference_type:
+    reference_id: RHSA-2019:0746
+  - url: https://access.redhat.com/errata/RHSA-2019:0980
+    reference_type:
+    reference_id: RHSA-2019:0980
+  - url: https://access.redhat.com/errata/RHSA-2019:1296
+    reference_type:
+    reference_id: RHSA-2019:1296
+  - url: https://access.redhat.com/errata/RHSA-2019:1297
+    reference_type:
+    reference_id: RHSA-2019:1297
+  - url: https://access.redhat.com/errata/RHSA-2019:1543
+    reference_type:
+    reference_id: RHSA-2019:1543
+  - url: https://usn.ubuntu.com/3937-1/
+    reference_type:
+    reference_id: USN-3937-1

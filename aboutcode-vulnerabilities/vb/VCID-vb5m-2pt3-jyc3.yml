@@ -1,0 +1,51 @@
+vulnerability_id: VCID-vb5m-2pt3-jyc3
+aliases:
+  - CVE-2024-21319
+summary:
+severities:
+  - score: '6.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:C/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-21319.json
+  - score: '0.00077'
+    scoring_system: epss
+    scoring_elements: '0.34134'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-21319
+weaknesses:
+  - CWE-400
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-21319.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-21319
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2257566
+    reference_type:
+    reference_id: 2257566
+  - url: https://access.redhat.com/errata/RHSA-2024:0150
+    reference_type:
+    reference_id: RHSA-2024:0150
+  - url: https://access.redhat.com/errata/RHSA-2024:0151
+    reference_type:
+    reference_id: RHSA-2024:0151
+  - url: https://access.redhat.com/errata/RHSA-2024:0152
+    reference_type:
+    reference_id: RHSA-2024:0152
+  - url: https://access.redhat.com/errata/RHSA-2024:0156
+    reference_type:
+    reference_id: RHSA-2024:0156
+  - url: https://access.redhat.com/errata/RHSA-2024:0157
+    reference_type:
+    reference_id: RHSA-2024:0157
+  - url: https://access.redhat.com/errata/RHSA-2024:0158
+    reference_type:
+    reference_id: RHSA-2024:0158
+  - url: https://access.redhat.com/errata/RHSA-2024:0255
+    reference_type:
+    reference_id: RHSA-2024:0255
+  - url: https://usn.ubuntu.com/6578-1/
+    reference_type:
+    reference_id: USN-6578-1

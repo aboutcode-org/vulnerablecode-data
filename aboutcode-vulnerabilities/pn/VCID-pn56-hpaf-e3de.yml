@@ -1,0 +1,110 @@
+vulnerability_id: VCID-pn56-hpaf-e3de
+aliases:
+  - CVE-2022-45418
+summary:
+severities:
+  - score: '6.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-45418.json
+  - score: '0.00091'
+    scoring_system: epss
+    scoring_elements: '0.39844'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-45418
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-47
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-48
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-49
+weaknesses: []
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-45418.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-45418
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2143241
+    reference_type:
+    reference_id: 2143241
+  - url: https://security.gentoo.org/glsa/202211-05
+    reference_type:
+    reference_id: GLSA-202211-05
+  - url: https://security.gentoo.org/glsa/202211-06
+    reference_type:
+    reference_id: GLSA-202211-06
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-47
+    reference_type:
+    reference_id: mfsa2022-47
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-48
+    reference_type:
+    reference_id: mfsa2022-48
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-49
+    reference_type:
+    reference_id: mfsa2022-49
+  - url: https://access.redhat.com/errata/RHSA-2022:8543
+    reference_type:
+    reference_id: RHSA-2022:8543
+  - url: https://access.redhat.com/errata/RHSA-2022:8544
+    reference_type:
+    reference_id: RHSA-2022:8544
+  - url: https://access.redhat.com/errata/RHSA-2022:8545
+    reference_type:
+    reference_id: RHSA-2022:8545
+  - url: https://access.redhat.com/errata/RHSA-2022:8547
+    reference_type:
+    reference_id: RHSA-2022:8547
+  - url: https://access.redhat.com/errata/RHSA-2022:8548
+    reference_type:
+    reference_id: RHSA-2022:8548
+  - url: https://access.redhat.com/errata/RHSA-2022:8549
+    reference_type:
+    reference_id: RHSA-2022:8549
+  - url: https://access.redhat.com/errata/RHSA-2022:8550
+    reference_type:
+    reference_id: RHSA-2022:8550
+  - url: https://access.redhat.com/errata/RHSA-2022:8552
+    reference_type:
+    reference_id: RHSA-2022:8552
+  - url: https://access.redhat.com/errata/RHSA-2022:8553
+    reference_type:
+    reference_id: RHSA-2022:8553
+  - url: https://access.redhat.com/errata/RHSA-2022:8554
+    reference_type:
+    reference_id: RHSA-2022:8554
+  - url: https://access.redhat.com/errata/RHSA-2022:8555
+    reference_type:
+    reference_id: RHSA-2022:8555
+  - url: https://access.redhat.com/errata/RHSA-2022:8556
+    reference_type:
+    reference_id: RHSA-2022:8556
+  - url: https://access.redhat.com/errata/RHSA-2022:8561
+    reference_type:
+    reference_id: RHSA-2022:8561
+  - url: https://access.redhat.com/errata/RHSA-2022:8580
+    reference_type:
+    reference_id: RHSA-2022:8580
+  - url: https://access.redhat.com/errata/RHSA-2022:8979
+    reference_type:
+    reference_id: RHSA-2022:8979
+  - url: https://access.redhat.com/errata/RHSA-2022:8980
+    reference_type:
+    reference_id: RHSA-2022:8980
+  - url: https://usn.ubuntu.com/5726-1/
+    reference_type:
+    reference_id: USN-5726-1
+  - url: https://usn.ubuntu.com/5824-1/
+    reference_type:
+    reference_id: USN-5824-1

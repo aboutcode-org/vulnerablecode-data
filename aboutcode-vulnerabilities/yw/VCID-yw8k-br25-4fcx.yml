@@ -1,0 +1,54 @@
+vulnerability_id: VCID-yw8k-br25-4fcx
+aliases:
+  - CVE-2020-10696
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-10696.json
+  - score: '0.00445'
+    scoring_system: epss
+    scoring_elements: '0.75339'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-10696
+weaknesses:
+  - CWE-22
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-10696.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-10696
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1817651
+    reference_type:
+    reference_id: 1817651
+  - url: https://access.redhat.com/errata/RHSA-2020:1396
+    reference_type:
+    reference_id: RHSA-2020:1396
+  - url: https://access.redhat.com/errata/RHSA-2020:1401
+    reference_type:
+    reference_id: RHSA-2020:1401
+  - url: https://access.redhat.com/errata/RHSA-2020:1449
+    reference_type:
+    reference_id: RHSA-2020:1449
+  - url: https://access.redhat.com/errata/RHSA-2020:1926
+    reference_type:
+    reference_id: RHSA-2020:1926
+  - url: https://access.redhat.com/errata/RHSA-2020:1931
+    reference_type:
+    reference_id: RHSA-2020:1931
+  - url: https://access.redhat.com/errata/RHSA-2020:1932
+    reference_type:
+    reference_id: RHSA-2020:1932
+  - url: https://access.redhat.com/errata/RHSA-2020:2116
+    reference_type:
+    reference_id: RHSA-2020:2116
+  - url: https://access.redhat.com/errata/RHSA-2020:2117
+    reference_type:
+    reference_id: RHSA-2020:2117

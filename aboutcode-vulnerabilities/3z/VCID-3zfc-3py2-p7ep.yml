@@ -1,0 +1,44 @@
+vulnerability_id: VCID-3zfc-3py2-p7ep
+aliases:
+  - CVE-2021-35940
+summary:
+severities:
+  - score: '7.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-35940.json
+  - score: '0.00079'
+    scoring_system: epss
+    scoring_elements: '0.34920'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-35940
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2313
+weaknesses:
+  - CWE-125
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-35940.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-35940
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1980328
+    reference_type:
+    reference_id: '1980328'
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=992789
+    reference_type:
+    reference_id: 992789
+  - url: https://security.archlinux.org/AVG-2313
+    reference_type:
+    reference_id: AVG-2313
+  - url: https://usn.ubuntu.com/5056-1/
+    reference_type:
+    reference_id: USN-5056-1

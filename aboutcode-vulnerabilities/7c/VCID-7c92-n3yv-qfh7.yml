@@ -1,0 +1,24 @@
+vulnerability_id: VCID-7c92-n3yv-qfh7
+aliases:
+  - CVE-2022-3965
+summary:
+severities:
+  - score: '0.00207'
+    scoring_system: epss
+    scoring_elements: '0.58861'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-3965
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-3965
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://security.gentoo.org/glsa/202312-14
+    reference_type:
+    reference_id: GLSA-202312-14
+  - url: https://usn.ubuntu.com/5958-1/
+    reference_type:
+    reference_id: USN-5958-1

@@ -1,0 +1,18 @@
+vulnerability_id: VCID-turh-efc2-2bd1
+aliases:
+  - CVE-2023-39362
+summary:
+severities:
+  - score: '0.02956'
+    scoring_system: epss
+    scoring_elements: '0.91059'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-39362
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-39362
+    reference_type:
+    reference_id:
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/php/webapps/51740.txt
+    reference_type: exploit
+    reference_id: CVE-2023-39362

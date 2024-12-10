@@ -1,0 +1,47 @@
+vulnerability_id: VCID-v85e-jp2r-9yf6
+aliases:
+  - CVE-2022-35260
+summary:
+severities:
+  - score: '5.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-35260.json
+  - score: '0.00169'
+    scoring_system: epss
+    scoring_elements: '0.54394'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-35260
+  - score: Low
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2022-35260.html
+weaknesses:
+  - CWE-121
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-35260.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-35260
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2022-35260.html
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://hackerone.com/reports/1721098
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2135412
+    reference_type:
+    reference_id: 2135412
+  - url: https://security.gentoo.org/glsa/202212-01
+    reference_type:
+    reference_id: GLSA-202212-01
+  - url: https://usn.ubuntu.com/5702-1/
+    reference_type:
+    reference_id: USN-5702-1

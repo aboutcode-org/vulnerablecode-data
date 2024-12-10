@@ -1,0 +1,21 @@
+vulnerability_id: VCID-uwe1-ecyt-vkdn
+aliases:
+  - CVE-2022-24687
+summary:
+severities:
+  - score: '0.00224'
+    scoring_system: epss
+    scoring_elements: '0.60918'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-24687
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-24687
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1006487
+    reference_type:
+    reference_id: 1006487
+  - url: https://security.gentoo.org/glsa/202208-09
+    reference_type:
+    reference_id: GLSA-202208-09

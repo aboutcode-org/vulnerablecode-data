@@ -1,0 +1,70 @@
+vulnerability_id: VCID-dddf-2t7j-qyhj
+aliases:
+  - CVE-2024-35190
+summary:
+severities:
+  - score: '0.00045'
+    scoring_system: epss
+    scoring_elements: '0.16440'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-35190
+  - score: '5.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:L/I:N/A:N
+    published_at:
+    url: https://github.com/asterisk/asterisk/commit/85241bd22936cc15760fd1f65d16c98be7aeaf6d
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-05-17T19:33:53Z/
+    published_at:
+    url: https://github.com/asterisk/asterisk/commit/85241bd22936cc15760fd1f65d16c98be7aeaf6d
+  - score: '5.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:L/I:N/A:N
+    published_at:
+    url: https://github.com/asterisk/asterisk/pull/600
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-05-17T19:33:53Z/
+    published_at:
+    url: https://github.com/asterisk/asterisk/pull/600
+  - score: '5.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:L/I:N/A:N
+    published_at:
+    url: https://github.com/asterisk/asterisk/pull/602
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-05-17T19:33:53Z/
+    published_at:
+    url: https://github.com/asterisk/asterisk/pull/602
+  - score: '5.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:L/I:N/A:N
+    published_at:
+    url: https://github.com/asterisk/asterisk/security/advisories/GHSA-qqxj-v78h-hrf9
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-05-17T19:33:53Z/
+    published_at:
+    url: https://github.com/asterisk/asterisk/security/advisories/GHSA-qqxj-v78h-hrf9
+weaknesses:
+  - CWE-303
+  - CWE-480
+  - CWE-670
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-35190
+    reference_type:
+    reference_id:
+  - url: https://github.com/asterisk/asterisk/pull/600
+    reference_type:
+    reference_id: 600
+  - url: https://github.com/asterisk/asterisk/pull/602
+    reference_type:
+    reference_id: 602
+  - url: https://github.com/asterisk/asterisk/commit/85241bd22936cc15760fd1f65d16c98be7aeaf6d
+    reference_type:
+    reference_id: 85241bd22936cc15760fd1f65d16c98be7aeaf6d
+  - url: https://github.com/asterisk/asterisk/security/advisories/GHSA-qqxj-v78h-hrf9
+    reference_type:
+    reference_id: GHSA-qqxj-v78h-hrf9

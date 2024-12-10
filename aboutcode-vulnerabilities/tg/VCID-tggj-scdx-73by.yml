@@ -1,0 +1,24 @@
+vulnerability_id: VCID-tggj-scdx-73by
+aliases:
+  - CVE-2021-40633
+summary:
+severities:
+  - score: '0.00403'
+    scoring_system: epss
+    scoring_elements: '0.74048'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-40633
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-40633
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1014586
+    reference_type:
+    reference_id: 1014586
+  - url: https://usn.ubuntu.com/6824-1/
+    reference_type:
+    reference_id: USN-6824-1

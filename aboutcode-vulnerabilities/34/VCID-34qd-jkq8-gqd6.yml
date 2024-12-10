@@ -1,0 +1,21 @@
+vulnerability_id: VCID-34qd-jkq8-gqd6
+aliases:
+  - CVE-2020-7106
+summary:
+severities:
+  - score: '0.01779'
+    scoring_system: epss
+    scoring_elements: '0.88369'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-7106
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-7106
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=949996
+    reference_type:
+    reference_id: 949996
+  - url: https://security.gentoo.org/glsa/202003-40
+    reference_type:
+    reference_id: GLSA-202003-40

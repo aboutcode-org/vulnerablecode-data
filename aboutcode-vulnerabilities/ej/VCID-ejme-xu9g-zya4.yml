@@ -1,0 +1,39 @@
+vulnerability_id: VCID-ejme-xu9g-zya4
+aliases:
+  - CVE-2019-9210
+summary:
+severities:
+  - score: '5.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-9210.json
+  - score: '0.00112'
+    scoring_system: epss
+    scoring_elements: '0.45292'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-9210
+weaknesses:
+  - CWE-190
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-9210.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-9210
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1684596
+    reference_type:
+    reference_id: 1684596
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=923416
+    reference_type:
+    reference_id: 923416
+  - url: https://access.redhat.com/errata/RHSA-2020:1037
+    reference_type:
+    reference_id: RHSA-2020:1037
+  - url: https://usn.ubuntu.com/3936-1/
+    reference_type:
+    reference_id: USN-3936-1
+  - url: https://usn.ubuntu.com/3936-2/
+    reference_type:
+    reference_id: USN-3936-2

@@ -1,0 +1,121 @@
+vulnerability_id: VCID-8j3y-3mdh-qfbp
+aliases:
+  - CVE-2021-38561
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-38561.json
+  - score: '0.00163'
+    scoring_system: epss
+    scoring_elements: '0.53504'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-38561
+weaknesses:
+  - CWE-20
+  - CWE-125
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-38561.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-38561
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2100495
+    reference_type:
+    reference_id: 2100495
+  - url: https://access.redhat.com/errata/RHSA-2022:5070
+    reference_type:
+    reference_id: RHSA-2022:5070
+  - url: https://access.redhat.com/errata/RHSA-2022:5525
+    reference_type:
+    reference_id: RHSA-2022:5525
+  - url: https://access.redhat.com/errata/RHSA-2022:5556
+    reference_type:
+    reference_id: RHSA-2022:5556
+  - url: https://access.redhat.com/errata/RHSA-2022:5908
+    reference_type:
+    reference_id: RHSA-2022:5908
+  - url: https://access.redhat.com/errata/RHSA-2022:5909
+    reference_type:
+    reference_id: RHSA-2022:5909
+  - url: https://access.redhat.com/errata/RHSA-2022:6051
+    reference_type:
+    reference_id: RHSA-2022:6051
+  - url: https://access.redhat.com/errata/RHSA-2022:6263
+    reference_type:
+    reference_id: RHSA-2022:6263
+  - url: https://access.redhat.com/errata/RHSA-2022:6287
+    reference_type:
+    reference_id: RHSA-2022:6287
+  - url: https://access.redhat.com/errata/RHSA-2022:6318
+    reference_type:
+    reference_id: RHSA-2022:6318
+  - url: https://access.redhat.com/errata/RHSA-2022:6346
+    reference_type:
+    reference_id: RHSA-2022:6346
+  - url: https://access.redhat.com/errata/RHSA-2022:6526
+    reference_type:
+    reference_id: RHSA-2022:6526
+  - url: https://access.redhat.com/errata/RHSA-2022:6537
+    reference_type:
+    reference_id: RHSA-2022:6537
+  - url: https://access.redhat.com/errata/RHSA-2022:7399
+    reference_type:
+    reference_id: RHSA-2022:7399
+  - url: https://access.redhat.com/errata/RHSA-2022:7401
+    reference_type:
+    reference_id: RHSA-2022:7401
+  - url: https://access.redhat.com/errata/RHSA-2022:8750
+    reference_type:
+    reference_id: RHSA-2022:8750
+  - url: https://access.redhat.com/errata/RHSA-2023:0245
+    reference_type:
+    reference_id: RHSA-2023:0245
+  - url: https://access.redhat.com/errata/RHSA-2023:0407
+    reference_type:
+    reference_id: RHSA-2023:0407
+  - url: https://access.redhat.com/errata/RHSA-2023:0408
+    reference_type:
+    reference_id: RHSA-2023:0408
+  - url: https://access.redhat.com/errata/RHSA-2023:0566
+    reference_type:
+    reference_id: RHSA-2023:0566
+  - url: https://access.redhat.com/errata/RHSA-2023:0652
+    reference_type:
+    reference_id: RHSA-2023:0652
+  - url: https://access.redhat.com/errata/RHSA-2023:0774
+    reference_type:
+    reference_id: RHSA-2023:0774
+  - url: https://access.redhat.com/errata/RHSA-2023:0890
+    reference_type:
+    reference_id: RHSA-2023:0890
+  - url: https://access.redhat.com/errata/RHSA-2023:0895
+    reference_type:
+    reference_id: RHSA-2023:0895
+  - url: https://access.redhat.com/errata/RHSA-2023:1326
+    reference_type:
+    reference_id: RHSA-2023:1326
+  - url: https://access.redhat.com/errata/RHSA-2023:1328
+    reference_type:
+    reference_id: RHSA-2023:1328
+  - url: https://access.redhat.com/errata/RHSA-2023:1409
+    reference_type:
+    reference_id: RHSA-2023:1409
+  - url: https://access.redhat.com/errata/RHSA-2023:1504
+    reference_type:
+    reference_id: RHSA-2023:1504
+  - url: https://access.redhat.com/errata/RHSA-2023:3542
+    reference_type:
+    reference_id: RHSA-2023:3542
+  - url: https://access.redhat.com/errata/RHSA-2023:4310
+    reference_type:
+    reference_id: RHSA-2023:4310
+  - url: https://usn.ubuntu.com/5873-1/
+    reference_type:
+    reference_id: USN-5873-1

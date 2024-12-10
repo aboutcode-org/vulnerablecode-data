@@ -1,0 +1,65 @@
+vulnerability_id: VCID-8gxj-nzjb-y7et
+aliases:
+  - CVE-2020-5260
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-5260.json
+  - score: '0.00418'
+    scoring_system: epss
+    scoring_elements: '0.74527'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-5260
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1133
+weaknesses:
+  - CWE-20
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-5260.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-5260
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-5260
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1822020
+    reference_type:
+    reference_id: 1822020
+  - url: https://security.archlinux.org/ASA-202004-13
+    reference_type:
+    reference_id: ASA-202004-13
+  - url: https://security.archlinux.org/AVG-1133
+    reference_type:
+    reference_id: AVG-1133
+  - url: https://security.gentoo.org/glsa/202004-13
+    reference_type:
+    reference_id: GLSA-202004-13
+  - url: https://access.redhat.com/errata/RHSA-2020:1503
+    reference_type:
+    reference_id: RHSA-2020:1503
+  - url: https://access.redhat.com/errata/RHSA-2020:1511
+    reference_type:
+    reference_id: RHSA-2020:1511
+  - url: https://access.redhat.com/errata/RHSA-2020:1513
+    reference_type:
+    reference_id: RHSA-2020:1513
+  - url: https://access.redhat.com/errata/RHSA-2020:1518
+    reference_type:
+    reference_id: RHSA-2020:1518
+  - url: https://access.redhat.com/errata/RHSA-2020:3581
+    reference_type:
+    reference_id: RHSA-2020:3581
+  - url: https://usn.ubuntu.com/4329-1/
+    reference_type:
+    reference_id: USN-4329-1

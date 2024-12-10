@@ -1,0 +1,84 @@
+vulnerability_id: VCID-z9wh-gqqw-x7ck
+aliases:
+  - CVE-2019-5786
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-5786.json
+  - score: '0.97233'
+    scoring_system: epss
+    scoring_elements: '0.99873'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-5786
+  - score: '10.0'
+    scoring_system: cvssv3
+    scoring_elements:
+    published_at:
+    url: https://electronjs.org/blog/filereader-fix
+  - score: '10.0'
+    scoring_system: cvssv3
+    scoring_elements:
+    published_at:
+    url: https://github.com/nodejs/security-wg/blob/main/vuln/npm/495.json
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-916
+  - score: '10.0'
+    scoring_system: cvssv3
+    scoring_elements:
+    published_at:
+    url: https://security.googleblog.com/2019/03/disclosing-vulnerabilities-to-protect.html
+  - score: '10.0'
+    scoring_system: cvssv3
+    scoring_elements:
+    published_at:
+    url: https://www.cisecurity.org/advisory/a-vulnerability-in-google-chrome-could-allow-for-arbitrary-code-execution_2019-026/
+weaknesses: []
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-5786.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-5786
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-5786
+    reference_type:
+    reference_id:
+  - url: https://electronjs.org/blog/filereader-fix
+    reference_type:
+    reference_id:
+  - url: https://security.googleblog.com/2019/03/disclosing-vulnerabilities-to-protect.html
+    reference_type:
+    reference_id:
+  - url: https://www.cisecurity.org/advisory/a-vulnerability-in-google-chrome-could-allow-for-arbitrary-code-execution_2019-026/
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1685162
+    reference_type:
+    reference_id: 1685162
+  - url: https://github.com/nodejs/security-wg/blob/main/vuln/npm/495.json
+    reference_type:
+    reference_id: 495
+  - url: https://security.archlinux.org/ASA-201903-1
+    reference_type:
+    reference_id: ASA-201903-1
+  - url: https://security.archlinux.org/AVG-916
+    reference_type:
+    reference_id: AVG-916
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/windows_x86/remote/46812.rb
+    reference_type: exploit
+    reference_id: CVE-2019-5786
+  - url: https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/browser/chrome_filereader_uaf.rb
+    reference_type: exploit
+    reference_id: CVE-2019-5786
+  - url: https://security.gentoo.org/glsa/201903-23
+    reference_type:
+    reference_id: GLSA-201903-23
+  - url: https://access.redhat.com/errata/RHSA-2019:0481
+    reference_type:
+    reference_id: RHSA-2019:0481

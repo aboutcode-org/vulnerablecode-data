@@ -1,0 +1,32 @@
+vulnerability_id: VCID-1xmt-avnk-dyax
+aliases:
+  - CVE-2020-35701
+summary:
+severities:
+  - score: '0.01672'
+    scoring_system: epss
+    scoring_elements: '0.87980'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-35701
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1433
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-35701
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=979998
+    reference_type:
+    reference_id: 979998
+  - url: https://security.archlinux.org/AVG-1433
+    reference_type:
+    reference_id: AVG-1433
+  - url: https://security.gentoo.org/glsa/202101-31
+    reference_type:
+    reference_id: GLSA-202101-31
+  - url: https://usn.ubuntu.com/USN-5214-1/
+    reference_type:
+    reference_id: USN-USN-5214-1

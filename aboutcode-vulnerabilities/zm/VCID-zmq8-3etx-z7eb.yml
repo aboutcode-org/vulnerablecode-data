@@ -1,0 +1,120 @@
+vulnerability_id: VCID-zmq8-3etx-z7eb
+aliases:
+  - CVE-2023-0767
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-0767.json
+  - score: '0.00243'
+    scoring_system: epss
+    scoring_elements: '0.64621'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-0767
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-05
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-06
+  - score: low
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-07
+weaknesses:
+  - CWE-119
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-0767.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-0767
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2170377
+    reference_type:
+    reference_id: 2170377
+  - url: https://security.gentoo.org/glsa/202305-35
+    reference_type:
+    reference_id: GLSA-202305-35
+  - url: https://security.gentoo.org/glsa/202305-36
+    reference_type:
+    reference_id: GLSA-202305-36
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-05
+    reference_type:
+    reference_id: mfsa2023-05
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-06
+    reference_type:
+    reference_id: mfsa2023-06
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-07
+    reference_type:
+    reference_id: mfsa2023-07
+  - url: https://access.redhat.com/errata/RHSA-2023:1252
+    reference_type:
+    reference_id: RHSA-2023:1252
+  - url: https://access.redhat.com/errata/RHSA-2023:1332
+    reference_type:
+    reference_id: RHSA-2023:1332
+  - url: https://access.redhat.com/errata/RHSA-2023:1365
+    reference_type:
+    reference_id: RHSA-2023:1365
+  - url: https://access.redhat.com/errata/RHSA-2023:1366
+    reference_type:
+    reference_id: RHSA-2023:1366
+  - url: https://access.redhat.com/errata/RHSA-2023:1368
+    reference_type:
+    reference_id: RHSA-2023:1368
+  - url: https://access.redhat.com/errata/RHSA-2023:1369
+    reference_type:
+    reference_id: RHSA-2023:1369
+  - url: https://access.redhat.com/errata/RHSA-2023:1370
+    reference_type:
+    reference_id: RHSA-2023:1370
+  - url: https://access.redhat.com/errata/RHSA-2023:1406
+    reference_type:
+    reference_id: RHSA-2023:1406
+  - url: https://access.redhat.com/errata/RHSA-2023:1436
+    reference_type:
+    reference_id: RHSA-2023:1436
+  - url: https://access.redhat.com/errata/RHSA-2023:1442
+    reference_type:
+    reference_id: RHSA-2023:1442
+  - url: https://access.redhat.com/errata/RHSA-2023:1443
+    reference_type:
+    reference_id: RHSA-2023:1443
+  - url: https://access.redhat.com/errata/RHSA-2023:1444
+    reference_type:
+    reference_id: RHSA-2023:1444
+  - url: https://access.redhat.com/errata/RHSA-2023:1445
+    reference_type:
+    reference_id: RHSA-2023:1445
+  - url: https://access.redhat.com/errata/RHSA-2023:1472
+    reference_type:
+    reference_id: RHSA-2023:1472
+  - url: https://access.redhat.com/errata/RHSA-2023:1479
+    reference_type:
+    reference_id: RHSA-2023:1479
+  - url: https://access.redhat.com/errata/RHSA-2023:1677
+    reference_type:
+    reference_id: RHSA-2023:1677
+  - url: https://usn.ubuntu.com/5880-1/
+    reference_type:
+    reference_id: USN-5880-1
+  - url: https://usn.ubuntu.com/5892-1/
+    reference_type:
+    reference_id: USN-5892-1
+  - url: https://usn.ubuntu.com/5892-2/
+    reference_type:
+    reference_id: USN-5892-2
+  - url: https://usn.ubuntu.com/5943-1/
+    reference_type:
+    reference_id: USN-5943-1

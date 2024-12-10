@@ -1,0 +1,18 @@
+vulnerability_id: VCID-7ymp-46c3-ebe4
+aliases:
+  - CVE-2021-44273
+summary:
+severities:
+  - score: '0.00083'
+    scoring_system: epss
+    scoring_elements: '0.36030'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-44273
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-44273
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1003125
+    reference_type:
+    reference_id: 1003125

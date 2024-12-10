@@ -1,0 +1,18 @@
+vulnerability_id: VCID-pum9-c5sx-3ugk
+aliases:
+  - CVE-2022-0609
+summary:
+severities:
+  - score: '0.04135'
+    scoring_system: epss
+    scoring_elements: '0.92352'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-0609
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-0609
+    reference_type:
+    reference_id:
+  - url: https://security.gentoo.org/glsa/202202-02
+    reference_type:
+    reference_id: GLSA-202202-02

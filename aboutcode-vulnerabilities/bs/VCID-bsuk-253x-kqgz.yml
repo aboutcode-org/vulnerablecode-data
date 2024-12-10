@@ -1,0 +1,114 @@
+vulnerability_id: VCID-bsuk-253x-kqgz
+aliases:
+  - CVE-2019-3823
+summary:
+severities:
+  - score: '4.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-3823.json
+  - score: '0.00360'
+    scoring_system: epss
+    scoring_elements: '0.72631'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-3823
+  - score: Low
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2019-3823.html
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-873
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-874
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-875
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-876
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-877
+weaknesses:
+  - CWE-125
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-3823.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-3823
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2019-3823.html
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-16890
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-3822
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-3823
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1670256
+    reference_type:
+    reference_id: 1670256
+  - url: https://security.archlinux.org/ASA-201902-10
+    reference_type:
+    reference_id: ASA-201902-10
+  - url: https://security.archlinux.org/ASA-201902-11
+    reference_type:
+    reference_id: ASA-201902-11
+  - url: https://security.archlinux.org/ASA-201902-12
+    reference_type:
+    reference_id: ASA-201902-12
+  - url: https://security.archlinux.org/ASA-201902-13
+    reference_type:
+    reference_id: ASA-201902-13
+  - url: https://security.archlinux.org/ASA-201902-9
+    reference_type:
+    reference_id: ASA-201902-9
+  - url: https://security.archlinux.org/AVG-873
+    reference_type:
+    reference_id: AVG-873
+  - url: https://security.archlinux.org/AVG-874
+    reference_type:
+    reference_id: AVG-874
+  - url: https://security.archlinux.org/AVG-875
+    reference_type:
+    reference_id: AVG-875
+  - url: https://security.archlinux.org/AVG-876
+    reference_type:
+    reference_id: AVG-876
+  - url: https://security.archlinux.org/AVG-877
+    reference_type:
+    reference_id: AVG-877
+  - url: https://security.gentoo.org/glsa/201903-03
+    reference_type:
+    reference_id: GLSA-201903-03
+  - url: https://access.redhat.com/errata/RHSA-2019:1543
+    reference_type:
+    reference_id: RHSA-2019:1543
+  - url: https://access.redhat.com/errata/RHSA-2019:3701
+    reference_type:
+    reference_id: RHSA-2019:3701
+  - url: https://usn.ubuntu.com/3882-1/
+    reference_type:
+    reference_id: USN-3882-1

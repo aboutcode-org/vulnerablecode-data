@@ -1,0 +1,42 @@
+vulnerability_id: VCID-uedg-jzjm-fkhb
+aliases:
+  - CVE-2019-12730
+summary:
+severities:
+  - score: '0.04269'
+    scoring_system: epss
+    scoring_elements: '0.92462'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-12730
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-12730
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-15822
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1999011
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11338
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12730
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9718
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=932469
+    reference_type:
+    reference_id: 932469
+  - url: https://security.gentoo.org/glsa/202003-65
+    reference_type:
+    reference_id: GLSA-202003-65
+  - url: https://usn.ubuntu.com/4431-1/
+    reference_type:
+    reference_id: USN-4431-1

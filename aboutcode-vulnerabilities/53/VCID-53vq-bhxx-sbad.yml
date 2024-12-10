@@ -1,0 +1,24 @@
+vulnerability_id: VCID-53vq-bhxx-sbad
+aliases:
+  - CVE-2017-9078
+summary:
+severities:
+  - score: '0.00499'
+    scoring_system: epss
+    scoring_elements: '0.76663'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2017-9078
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2017-9078
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-9078
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-9079
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=862970
+    reference_type:
+    reference_id: 862970

@@ -1,0 +1,97 @@
+vulnerability_id: VCID-ekdr-xwah-67eg
+aliases:
+  - CVE-2020-26950
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-26950.json
+  - score: '0.91581'
+    scoring_system: epss
+    scoring_elements: '0.98986'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-26950
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1265
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-49
+weaknesses:
+  - CWE-416
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-26950.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-26950
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-26950
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1896306
+    reference_type:
+    reference_id: 1896306
+  - url: https://security.archlinux.org/ASA-202011-6
+    reference_type:
+    reference_id: ASA-202011-6
+  - url: https://security.archlinux.org/AVG-1265
+    reference_type:
+    reference_id: AVG-1265
+  - url: https://security.gentoo.org/glsa/202011-07
+    reference_type:
+    reference_id: GLSA-202011-07
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-49
+    reference_type:
+    reference_id: mfsa2020-49
+  - url: https://access.redhat.com/errata/RHSA-2020:5099
+    reference_type:
+    reference_id: RHSA-2020:5099
+  - url: https://access.redhat.com/errata/RHSA-2020:5100
+    reference_type:
+    reference_id: RHSA-2020:5100
+  - url: https://access.redhat.com/errata/RHSA-2020:5104
+    reference_type:
+    reference_id: RHSA-2020:5104
+  - url: https://access.redhat.com/errata/RHSA-2020:5135
+    reference_type:
+    reference_id: RHSA-2020:5135
+  - url: https://access.redhat.com/errata/RHSA-2020:5138
+    reference_type:
+    reference_id: RHSA-2020:5138
+  - url: https://access.redhat.com/errata/RHSA-2020:5139
+    reference_type:
+    reference_id: RHSA-2020:5139
+  - url: https://access.redhat.com/errata/RHSA-2020:5146
+    reference_type:
+    reference_id: RHSA-2020:5146
+  - url: https://access.redhat.com/errata/RHSA-2020:5162
+    reference_type:
+    reference_id: RHSA-2020:5162
+  - url: https://access.redhat.com/errata/RHSA-2020:5163
+    reference_type:
+    reference_id: RHSA-2020:5163
+  - url: https://access.redhat.com/errata/RHSA-2020:5164
+    reference_type:
+    reference_id: RHSA-2020:5164
+  - url: https://access.redhat.com/errata/RHSA-2020:5166
+    reference_type:
+    reference_id: RHSA-2020:5166
+  - url: https://access.redhat.com/errata/RHSA-2020:5167
+    reference_type:
+    reference_id: RHSA-2020:5167
+  - url: https://usn.ubuntu.com/4625-1/
+    reference_type:
+    reference_id: USN-4625-1
+  - url: https://usn.ubuntu.com/4647-1/
+    reference_type:
+    reference_id: USN-4647-1

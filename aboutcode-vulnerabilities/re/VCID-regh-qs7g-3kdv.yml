@@ -1,0 +1,49 @@
+vulnerability_id: VCID-regh-qs7g-3kdv
+aliases:
+  - CVE-2021-29952
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-29952.json
+  - score: '0.00220'
+    scoring_system: epss
+    scoring_elements: '0.60182'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-29952
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1917
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-20
+weaknesses:
+  - CWE-367
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-29952.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-29952
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1961494
+    reference_type:
+    reference_id: '1961494'
+  - url: https://security.archlinux.org/ASA-202105-5
+    reference_type:
+    reference_id: ASA-202105-5
+  - url: https://security.archlinux.org/AVG-1917
+    reference_type:
+    reference_id: AVG-1917
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-20
+    reference_type:
+    reference_id: mfsa2021-20
+  - url: https://usn.ubuntu.com/4942-1/
+    reference_type:
+    reference_id: USN-4942-1

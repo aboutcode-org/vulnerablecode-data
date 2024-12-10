@@ -1,0 +1,193 @@
+vulnerability_id: VCID-rg8c-7aqw-ayag
+aliases:
+  - CVE-2024-27316
+summary:
+severities:
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:4392
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-09T15:00:49Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:4392
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:5143
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-09T15:00:49Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:5143
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:5144
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-09T15:00:49Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:5144
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:5145
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-09T15:00:49Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:5145
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:5147
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-09T15:00:49Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:5147
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-27316.json
+  - score: '0.00129'
+    scoring_system: epss
+    scoring_elements: '0.48521'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-27316
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: http://seclists.org/fulldisclosure/2024/Jul/18
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-04-05T13:57:02Z/
+    published_at:
+    url: http://seclists.org/fulldisclosure/2024/Jul/18
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://support.apple.com/kb/HT214119
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-04-05T13:57:02Z/
+    published_at:
+    url: https://support.apple.com/kb/HT214119
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://www.openwall.com/lists/oss-security/2024/04/03/16
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-29T15:46:29Z/
+    published_at:
+    url: https://www.openwall.com/lists/oss-security/2024/04/03/16
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/04/04/4
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-29T15:46:29Z/
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/04/04/4
+weaknesses:
+  - CWE-400
+  - CWE-770
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-27316.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-27316
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068412
+    reference_type:
+    reference_id: 1068412
+  - url: https://www.openwall.com/lists/oss-security/2024/04/03/16
+    reference_type:
+    reference_id: 16
+  - url: http://seclists.org/fulldisclosure/2024/Jul/18
+    reference_type:
+    reference_id: 18
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2268277
+    reference_type:
+    reference_id: 2268277
+  - url: http://www.openwall.com/lists/oss-security/2024/04/04/4
+    reference_type:
+    reference_id: 4
+  - url: https://security.gentoo.org/glsa/202409-31
+    reference_type:
+    reference_id: GLSA-202409-31
+  - url: https://support.apple.com/kb/HT214119
+    reference_type:
+    reference_id: HT214119
+  - url: https://access.redhat.com/errata/RHSA-2024:1786
+    reference_type:
+    reference_id: RHSA-2024:1786
+  - url: https://access.redhat.com/errata/RHSA-2024:1872
+    reference_type:
+    reference_id: RHSA-2024:1872
+  - url: https://access.redhat.com/errata/RHSA-2024:2564
+    reference_type:
+    reference_id: RHSA-2024:2564
+  - url: https://access.redhat.com/errata/RHSA-2024:2693
+    reference_type:
+    reference_id: RHSA-2024:2693
+  - url: https://access.redhat.com/errata/RHSA-2024:2694
+    reference_type:
+    reference_id: RHSA-2024:2694
+  - url: https://access.redhat.com/errata/RHSA-2024:2891
+    reference_type:
+    reference_id: RHSA-2024:2891
+  - url: https://access.redhat.com/errata/RHSA-2024:2907
+    reference_type:
+    reference_id: RHSA-2024:2907
+  - url: https://access.redhat.com/errata/RHSA-2024:3402
+    reference_type:
+    reference_id: RHSA-2024:3402
+  - url: https://access.redhat.com/errata/RHSA-2024:3417
+    reference_type:
+    reference_id: RHSA-2024:3417
+  - url: https://access.redhat.com/errata/RHSA-2024:4390
+    reference_type:
+    reference_id: RHSA-2024:4390
+  - url: https://access.redhat.com/errata/RHSA-2024:4392
+    reference_type:
+    reference_id: RHSA-2024:4392
+  - url: https://access.redhat.com/errata/RHSA-2024:5143
+    reference_type:
+    reference_id: RHSA-2024:5143
+  - url: https://access.redhat.com/errata/RHSA-2024:5144
+    reference_type:
+    reference_id: RHSA-2024:5144
+  - url: https://access.redhat.com/errata/RHSA-2024:5145
+    reference_type:
+    reference_id: RHSA-2024:5145
+  - url: https://access.redhat.com/errata/RHSA-2024:5147
+    reference_type:
+    reference_id: RHSA-2024:5147
+  - url: https://usn.ubuntu.com/6729-1/
+    reference_type:
+    reference_id: USN-6729-1
+  - url: https://usn.ubuntu.com/6729-2/
+    reference_type:
+    reference_id: USN-6729-2
+  - url: https://usn.ubuntu.com/6729-3/
+    reference_type:
+    reference_id: USN-6729-3

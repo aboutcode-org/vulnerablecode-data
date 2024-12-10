@@ -1,0 +1,67 @@
+vulnerability_id: VCID-zq9z-q21w-ckeq
+aliases:
+  - CVE-2020-11984
+summary:
+severities:
+  - score: '9.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-11984.json
+  - score: '0.01081'
+    scoring_system: epss
+    scoring_elements: '0.84629'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-11984
+weaknesses:
+  - CWE-119
+  - CWE-400
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-11984.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-11984
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-11984
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-11993
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1927
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1934
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-9490
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1866563
+    reference_type:
+    reference_id: 1866563
+  - url: https://security.gentoo.org/glsa/202008-04
+    reference_type:
+    reference_id: GLSA-202008-04
+  - url: https://access.redhat.com/errata/RHSA-2020:4383
+    reference_type:
+    reference_id: RHSA-2020:4383
+  - url: https://access.redhat.com/errata/RHSA-2020:4384
+    reference_type:
+    reference_id: RHSA-2020:4384
+  - url: https://access.redhat.com/errata/RHSA-2021:1809
+    reference_type:
+    reference_id: RHSA-2021:1809
+  - url: https://usn.ubuntu.com/4458-1/
+    reference_type:
+    reference_id: USN-4458-1
+  - url: https://usn.ubuntu.com/5054-1/
+    reference_type:
+    reference_id: USN-5054-1
+  - url: https://usn.ubuntu.com/USN-5054-2/
+    reference_type:
+    reference_id: USN-USN-5054-2

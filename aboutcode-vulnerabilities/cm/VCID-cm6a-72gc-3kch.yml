@@ -1,0 +1,15 @@
+vulnerability_id: VCID-cm6a-72gc-3kch
+aliases:
+  - CVE-2021-42533
+summary:
+severities:
+  - score: '0.00109'
+    scoring_system: epss
+    scoring_elements: '0.44774'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-42533
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-42533
+    reference_type:
+    reference_id:

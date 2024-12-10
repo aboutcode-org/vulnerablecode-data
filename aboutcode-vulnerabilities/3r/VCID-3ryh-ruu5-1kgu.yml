@@ -1,0 +1,62 @@
+vulnerability_id: VCID-3ryh-ruu5-1kgu
+aliases:
+  - CVE-2019-6978
+summary:
+severities:
+  - score: '5.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-6978.json
+  - score: '0.01953'
+    scoring_system: epss
+    scoring_elements: '0.89002'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-6978
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-865
+weaknesses:
+  - CWE-416
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-6978.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-6978
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-6977
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-6978
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1671390
+    reference_type:
+    reference_id: 1671390
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=920728
+    reference_type:
+    reference_id: 920728
+  - url: https://security.archlinux.org/AVG-865
+    reference_type:
+    reference_id: AVG-865
+  - url: https://security.gentoo.org/glsa/201903-18
+    reference_type:
+    reference_id: GLSA-201903-18
+  - url: https://access.redhat.com/errata/RHSA-2019:2722
+    reference_type:
+    reference_id: RHSA-2019:2722
+  - url: https://access.redhat.com/errata/RHSA-2020:3943
+    reference_type:
+    reference_id: RHSA-2020:3943
+  - url: https://access.redhat.com/errata/RHSA-2020:4659
+    reference_type:
+    reference_id: RHSA-2020:4659
+  - url: https://usn.ubuntu.com/3900-1/
+    reference_type:
+    reference_id: USN-3900-1

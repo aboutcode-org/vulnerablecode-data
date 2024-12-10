@@ -1,0 +1,31 @@
+vulnerability_id: VCID-c5va-b1yf-1qha
+aliases:
+  - CVE-2020-13625
+  - GHSA-f7hx-fqxw-rvvj
+summary:
+severities:
+  - score: '0.00630'
+    scoring_system: epss
+    scoring_elements: '0.79342'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-13625
+weaknesses:
+  - CWE-1035
+  - CWE-116
+  - CWE-937
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-13625
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=962827
+    reference_type:
+    reference_id: 962827
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2020-13625
+    reference_type:
+    reference_id: CVE-2020-13625
+  - url: https://usn.ubuntu.com/4505-1/
+    reference_type:
+    reference_id: USN-4505-1
+  - url: https://usn.ubuntu.com/5956-1/
+    reference_type:
+    reference_id: USN-5956-1

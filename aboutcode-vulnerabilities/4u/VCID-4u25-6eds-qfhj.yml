@@ -1,0 +1,48 @@
+vulnerability_id: VCID-4u25-6eds-qfhj
+aliases:
+  - CVE-2022-25309
+summary:
+severities:
+  - score: '5.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:N/UI:R/S:U/C:N/I:L/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-25309.json
+  - score: '0.00093'
+    scoring_system: epss
+    scoring_elements: '0.40325'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-25309
+weaknesses:
+  - CWE-122
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-25309.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-25309
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1008793
+    reference_type:
+    reference_id: 1008793
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2047896
+    reference_type:
+    reference_id: 2047896
+  - url: https://access.redhat.com/errata/RHSA-2022:7514
+    reference_type:
+    reference_id: RHSA-2022:7514
+  - url: https://access.redhat.com/errata/RHSA-2022:8011
+    reference_type:
+    reference_id: RHSA-2022:8011
+  - url: https://usn.ubuntu.com/5366-1/
+    reference_type:
+    reference_id: USN-5366-1
+  - url: https://usn.ubuntu.com/5366-2/
+    reference_type:
+    reference_id: USN-5366-2
+  - url: https://usn.ubuntu.com/5922-1/
+    reference_type:
+    reference_id: USN-5922-1

@@ -1,0 +1,93 @@
+vulnerability_id: VCID-wqqq-5r39-3yba
+aliases:
+  - CVE-2016-9587
+  - GHSA-m956-frf4-m2wr
+  - PYSEC-2018-39
+summary: Ansible before versions 2.1.4, 2.2.1 is vulnerable to an improper input validation
+  in Ansible's handling of data sent from client systems. An attacker with control over a client
+  system being managed by Ansible and the ability to send facts back to the Ansible server could
+  use this flaw to execute arbitrary code on the Ansible server using the Ansible server privileges.
+severities:
+  - score: '6.6'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:H/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-9587.json
+  - score: '0.01711'
+    scoring_system: epss
+    scoring_elements: '0.88123'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-9587
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-137
+weaknesses:
+  - CWE-20
+  - CWE-1035
+  - CWE-937
+references:
+  - url: http://rhn.redhat.com/errata/RHSA-2017-0195.html
+    reference_type:
+    reference_id:
+  - url: http://rhn.redhat.com/errata/RHSA-2017-0260.html
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/errata/RHSA-2017:0448
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/errata/RHSA-2017:0515
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/errata/RHSA-2017:1685
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-9587.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-9587
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2016-9587
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://github.com/advisories/GHSA-m956-frf4-m2wr
+    reference_type:
+    reference_id:
+  - url: https://security.gentoo.org/glsa/201701-77
+    reference_type:
+    reference_id:
+  - url: https://www.exploit-db.com/exploits/41013/
+    reference_type:
+    reference_id:
+  - url: http://www.securityfocus.com/bid/95352
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1404378
+    reference_type:
+    reference_id: 1404378
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=850846
+    reference_type:
+    reference_id: 850846
+  - url: https://security.archlinux.org/AVG-137
+    reference_type:
+    reference_id: AVG-137
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2016-9587
+    reference_type:
+    reference_id: CVE-2016-9587
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/linux/remote/41013.txt
+    reference_type: exploit
+    reference_id: CVE-2016-9587;CT-2017-0109
+  - url: https://www.computest.nl/advisories/CT-2017-0109_Ansible.txt
+    reference_type: exploit
+    reference_id: CVE-2016-9587;CT-2017-0109
+  - url: https://access.redhat.com/errata/RHSA-2017:0195
+    reference_type:
+    reference_id: RHSA-2017:0195
+  - url: https://access.redhat.com/errata/RHSA-2017:0260
+    reference_type:
+    reference_id: RHSA-2017:0260

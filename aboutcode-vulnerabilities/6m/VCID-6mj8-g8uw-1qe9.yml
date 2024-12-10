@@ -1,0 +1,15 @@
+vulnerability_id: VCID-6mj8-g8uw-1qe9
+aliases:
+  - CVE-2022-2833
+summary:
+severities:
+  - score: '0.00081'
+    scoring_system: epss
+    scoring_elements: '0.35604'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-2833
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-2833
+    reference_type:
+    reference_id:

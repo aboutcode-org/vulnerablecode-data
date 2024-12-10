@@ -1,0 +1,53 @@
+vulnerability_id: VCID-cmgj-efvt-fkcq
+aliases:
+  - CVE-2023-5174
+summary:
+severities:
+  - score: '9.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-5174.json
+  - score: '0.00146'
+    scoring_system: epss
+    scoring_elements: '0.51138'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-5174
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-41
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-42
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-43
+weaknesses: []
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-5174.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-5174
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2240895
+    reference_type:
+    reference_id: 2240895
+  - url: https://security.gentoo.org/glsa/202402-25
+    reference_type:
+    reference_id: GLSA-202402-25
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-41
+    reference_type:
+    reference_id: mfsa2023-41
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-42
+    reference_type:
+    reference_id: mfsa2023-42
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-43
+    reference_type:
+    reference_id: mfsa2023-43

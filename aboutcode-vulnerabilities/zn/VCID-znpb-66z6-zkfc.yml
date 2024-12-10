@@ -1,0 +1,68 @@
+vulnerability_id: VCID-znpb-66z6-zkfc
+aliases:
+  - CVE-2023-38178
+  - GHSA-p57v-gv7q-4xfm
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-38178.json
+  - score: '0.00109'
+    scoring_system: epss
+    scoring_elements: '0.44908'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-38178
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C
+    published_at:
+    url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-38178
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-05-29T18:24:24Z/
+    published_at:
+    url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-38178
+weaknesses:
+  - CWE-400
+  - CWE-1035
+  - CWE-78
+  - CWE-937
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-38178.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-38178
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2228620
+    reference_type:
+    reference_id: 2228620
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:.net:6.0.0:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:.net:6.0.0:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:visual_studio_2022:17.2:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:visual_studio_2022:17.2:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:visual_studio_2022:17.4:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:visual_studio_2022:17.4:*:*:*:*:*:*:*
+  - url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-38178
+    reference_type:
+    reference_id: CVE-2023-38178
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2023-38178
+    reference_type:
+    reference_id: CVE-2023-38178
+  - url: https://github.com/advisories/GHSA-p57v-gv7q-4xfm
+    reference_type:
+    reference_id: GHSA-p57v-gv7q-4xfm
+  - url: https://github.com/dotnet/runtime/security/advisories/GHSA-p57v-gv7q-4xfm
+    reference_type:
+    reference_id: GHSA-p57v-gv7q-4xfm
+  - url: https://usn.ubuntu.com/6278-1/
+    reference_type:
+    reference_id: USN-6278-1
+  - url: https://usn.ubuntu.com/6278-2/
+    reference_type:
+    reference_id: USN-6278-2

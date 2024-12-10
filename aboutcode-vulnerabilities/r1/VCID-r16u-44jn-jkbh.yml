@@ -1,0 +1,15 @@
+vulnerability_id: VCID-r16u-44jn-jkbh
+aliases:
+  - CVE-2021-45327
+summary:
+severities:
+  - score: '0.00595'
+    scoring_system: epss
+    scoring_elements: '0.78703'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-45327
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-45327
+    reference_type:
+    reference_id:

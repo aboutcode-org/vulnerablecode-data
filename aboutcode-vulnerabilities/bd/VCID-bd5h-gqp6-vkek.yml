@@ -1,0 +1,51 @@
+vulnerability_id: VCID-bd5h-gqp6-vkek
+aliases:
+  - CVE-2022-23648
+summary:
+severities:
+  - score: '7.4'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:C/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-23648.json
+  - score: '0.00844'
+    scoring_system: epss
+    scoring_elements: '0.82478'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-23648
+  - score: Unknown
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2725
+weaknesses:
+  - CWE-200
+  - CWE-497
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-23648.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-23648
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2060029
+    reference_type:
+    reference_id: 2060029
+  - url: https://security.archlinux.org/AVG-2725
+    reference_type:
+    reference_id: AVG-2725
+  - url: https://security.gentoo.org/glsa/202401-31
+    reference_type:
+    reference_id: GLSA-202401-31
+  - url: https://usn.ubuntu.com/5311-1/
+    reference_type:
+    reference_id: USN-5311-1
+  - url: https://usn.ubuntu.com/5311-2/
+    reference_type:
+    reference_id: USN-5311-2
+  - url: https://usn.ubuntu.com/USN-5521-1/
+    reference_type:
+    reference_id: USN-USN-5521-1

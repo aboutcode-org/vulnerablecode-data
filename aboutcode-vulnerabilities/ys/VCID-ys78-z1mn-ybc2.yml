@@ -1,0 +1,46 @@
+vulnerability_id: VCID-ys78-z1mn-ybc2
+aliases:
+  - CVE-2018-7602
+summary:
+severities:
+  - score: '0.97136'
+    scoring_system: epss
+    scoring_elements: '0.99842'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-7602
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-679
+weaknesses:
+  - CWE-1035
+  - CWE-937
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-7602
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-7602
+    reference_type:
+    reference_id:
+  - url: https://www.drupal.org/sa-core-2018-004
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/ASA-201804-10
+    reference_type:
+    reference_id: ASA-201804-10
+  - url: https://security.archlinux.org/AVG-679
+    reference_type:
+    reference_id: AVG-679
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/php/webapps/44557.rb
+    reference_type: exploit
+    reference_id: CVE-2018-7602
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/php/webapps/44542.txt
+    reference_type: exploit
+    reference_id: CVE-2018-7602;SA-CORE-2018-004
+  - url: https://pastebin.com/pRM8nmwj
+    reference_type: exploit
+    reference_id: CVE-2018-7602;SA-CORE-2018-004
+  - url: https://usn.ubuntu.com/USN-4773-1/
+    reference_type:
+    reference_id: USN-USN-4773-1

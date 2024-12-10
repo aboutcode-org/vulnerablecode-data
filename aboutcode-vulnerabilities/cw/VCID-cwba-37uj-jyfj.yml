@@ -1,0 +1,1924 @@
+vulnerability_id: VCID-cwba-37uj-jyfj
+aliases:
+  - CVE-2023-44487
+  - GHSA-qppj-fm5r-hxr3
+summary:
+severities:
+  - score: '9.1'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:5979
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-08-07T18:09:30Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:5979
+  - score: '9.1'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:5980
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-08-07T18:09:30Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:5980
+  - score: '5.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:6818
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-11T19:42:07Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:6818
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:7247
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-13T20:07:40Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:7247
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:7637
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-04-22T16:12:35Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:7637
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:7638
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-04-22T16:12:35Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:7638
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:7639
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-04-22T16:12:35Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:7639
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:7641
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-04-22T16:12:35Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:7641
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-44487.json
+  - score: '0.81635'
+    scoring_system: epss
+    scoring_elements: '0.98446'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-44487
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://arstechnica.com/security/2023/10/how-ddosers-used-the-http-2-protocol-to-deliver-attacks-of-unprecedented-size/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://arstechnica.com/security/2023/10/how-ddosers-used-the-http-2-protocol-to-deliver-attacks-of-unprecedented-size/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://aws.amazon.com/security/security-bulletins/AWS-2023-011/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://aws.amazon.com/security/security-bulletins/AWS-2023-011/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://blog.cloudflare.com/technical-breakdown-http2-rapid-reset-ddos-attack/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://blog.cloudflare.com/technical-breakdown-http2-rapid-reset-ddos-attack/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://blog.cloudflare.com/zero-day-rapid-reset-http2-record-breaking-ddos-attack/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://blog.cloudflare.com/zero-day-rapid-reset-http2-record-breaking-ddos-attack/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://blog.litespeedtech.com/2023/10/11/rapid-reset-http-2-vulnerablilty/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://blog.litespeedtech.com/2023/10/11/rapid-reset-http-2-vulnerablilty/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://blog.vespa.ai/cve-2023-44487/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://blog.vespa.ai/cve-2023-44487/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps/
+  - score: Important
+    scoring_system: apache_tomcat
+    scoring_elements:
+    published_at:
+    url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-44487
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://github.com/advisories/GHSA-qppj-fm5r-hxr3
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://github.com/advisories/GHSA-qppj-fm5r-hxr3
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://github.com/advisories/GHSA-vx74-f528-fxqg
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://github.com/advisories/GHSA-vx74-f528-fxqg
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://github.com/advisories/GHSA-xpw8-rcwv-8f8p
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://github.com/advisories/GHSA-xpw8-rcwv-8f8p
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://github.com/arkrwn/PoC/tree/main/CVE-2023-44487
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://github.com/arkrwn/PoC/tree/main/CVE-2023-44487
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://github.com/bcdannyboy/CVE-2023-44487
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://github.com/bcdannyboy/CVE-2023-44487
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://github.com/h2o/h2o/security/advisories/GHSA-2m7v-gc89-fjqf
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://github.com/h2o/h2o/security/advisories/GHSA-2m7v-gc89-fjqf
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://istio.io/latest/news/security/istio-security-2023-004/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://istio.io/latest/news/security/istio-security-2023-004/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://linkerd.io/2023/10/12/linkerd-cve-2023-44487/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://linkerd.io/2023/10/12/linkerd-cve-2023-44487/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/2MBEPPC36UBVOZZNAXFHKLFGSLCMN5LI/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/2MBEPPC36UBVOZZNAXFHKLFGSLCMN5LI/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/3N4NJ7FR4X4FPZUGNTQAPSTVB2HB2Y4A/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/3N4NJ7FR4X4FPZUGNTQAPSTVB2HB2Y4A/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/BFQD3KUEMFBHPAPBGLWQC34L4OWL5HAZ/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/BFQD3KUEMFBHPAPBGLWQC34L4OWL5HAZ/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/CLB4TW7KALB3EEQWNWCN7OUIWWVWWCG2/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/CLB4TW7KALB3EEQWNWCN7OUIWWVWWCG2/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/E72T67UPDRXHIDLO3OROR25YAMN4GGW5/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/E72T67UPDRXHIDLO3OROR25YAMN4GGW5/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/FNA62Q767CFAFHBCDKYNPBMZWB7TWYVU/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/FNA62Q767CFAFHBCDKYNPBMZWB7TWYVU/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/HT7T2R4MQKLIF4ODV4BDLPARWFPCJ5CZ/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/HT7T2R4MQKLIF4ODV4BDLPARWFPCJ5CZ/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/JIZSEFC3YKCGABA2BZW6ZJRMDZJMB7PJ/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/JIZSEFC3YKCGABA2BZW6ZJRMDZJMB7PJ/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/JMEXY22BFG5Q64HQCM5CK2Q7KDKVV4TY/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/JMEXY22BFG5Q64HQCM5CK2Q7KDKVV4TY/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/KSEGD2IWKNUO3DWY4KQGUQM5BISRWHQE/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/KSEGD2IWKNUO3DWY4KQGUQM5BISRWHQE/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/LKYHSZQFDNR7RSA7LHVLLIAQMVYCUGBG/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/LKYHSZQFDNR7RSA7LHVLLIAQMVYCUGBG/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/LNMZJCDHGLJJLXO4OXWJMTVQRNWOC7UL/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/LNMZJCDHGLJJLXO4OXWJMTVQRNWOC7UL/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/VHUHTSXLXGXS7JYKBXTA3VINUPHTNGVU/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/VHUHTSXLXGXS7JYKBXTA3VINUPHTNGVU/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/VSRDIV77HNKUSM7SJC5BKE5JSHLHU2NK/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/VSRDIV77HNKUSM7SJC5BKE5JSHLHU2NK/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/WE2I52RHNNU42PX6NZ2RBUHSFFJ2LVZX/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/WE2I52RHNNU42PX6NZ2RBUHSFFJ2LVZX/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/WLPRQ5TWUQQXYWBJM7ECYDAIL2YVKIUH/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/WLPRQ5TWUQQXYWBJM7ECYDAIL2YVKIUH/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/X6QXN4ORIVF6XBW4WWFE7VNPVC74S45Y/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/X6QXN4ORIVF6XBW4WWFE7VNPVC74S45Y/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/XFOIBB4YFICHDM7IBOP7PWXW3FX4HLL2/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/XFOIBB4YFICHDM7IBOP7PWXW3FX4HLL2/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/ZB43REMKRQR62NJEI7I5NQ4FSXNLBKRT/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/ZB43REMKRQR62NJEI7I5NQ4FSXNLBKRT/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/ZKQSIKIAT5TJ3WSLU3RDBQ35YX4GY4V3/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/ZKQSIKIAT5TJ3WSLU3RDBQ35YX4GY4V3/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/ZLU6U2R2IC2K64NDPNMV55AUAO65MAF4/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/ZLU6U2R2IC2K64NDPNMV55AUAO65MAF4/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://msrc.microsoft.com/blog/2023/10/microsoft-response-to-distributed-denial-of-service-ddos-attacks-against-http/2/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://msrc.microsoft.com/blog/2023/10/microsoft-response-to-distributed-denial-of-service-ddos-attacks-against-http/2/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-44487
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-44487
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://openssf.org/blog/2023/10/10/http-2-rapid-reset-vulnerability-highlights-need-for-rapid-response/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://openssf.org/blog/2023/10/10/http-2-rapid-reset-vulnerability-highlights-need-for-rapid-response/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://security.netapp.com/advisory/ntap-20231016-0001/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://security.netapp.com/advisory/ntap-20231016-0001/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://security.netapp.com/advisory/ntap-20240426-0007/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://security.netapp.com/advisory/ntap-20240426-0007/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://security.netapp.com/advisory/ntap-20240621-0006/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-19T19:04:18Z/
+    published_at:
+    url: https://security.netapp.com/advisory/ntap-20240621-0006/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://security.netapp.com/advisory/ntap-20240621-0007/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://security.netapp.com/advisory/ntap-20240621-0007/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://security.paloaltonetworks.com/CVE-2023-44487
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://security.paloaltonetworks.com/CVE-2023-44487
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://ubuntu.com/security/CVE-2023-44487
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://ubuntu.com/security/CVE-2023-44487
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://www.bleepingcomputer.com/news/security/new-http-2-rapid-reset-zero-day-attack-breaks-ddos-records/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://www.bleepingcomputer.com/news/security/new-http-2-rapid-reset-zero-day-attack-breaks-ddos-records/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://www.netlify.com/blog/netlify-successfully-mitigates-cve-2023-44487/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://www.netlify.com/blog/netlify-successfully-mitigates-cve-2023-44487/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://www.nginx.com/blog/http-2-rapid-reset-attack-impacting-f5-nginx-products/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://www.nginx.com/blog/http-2-rapid-reset-attack-impacting-f5-nginx-products/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://www.theregister.com/2023/10/10/http2_rapid_reset_zeroday/
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: https://www.theregister.com/2023/10/10/http2_rapid_reset_zeroday/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2023/10/13/4
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2023/10/13/4
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2023/10/13/9
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2023/10/13/9
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2023/10/18/8
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2023/10/18/8
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2023/10/19/6
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2023/10/19/6
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2023/10/20/8
+  - score: Attend
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:A/A:Y/T:P/P:M/B:A/M:M/D:A/2024-07-23T20:34:21Z/
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2023/10/20/8
+weaknesses:
+  - CWE-400
+  - CWE-937
+  - CWE-1035
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-44487.json
+    reference_type:
+    reference_id:
+  - url: https://akka.io/security/akka-http-cve-2023-44487.html
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-44487
+    reference_type:
+    reference_id:
+  - url: https://arstechnica.com/security/2023/10/how-ddosers-used-the-http-2-protocol-to-deliver-attacks-of-unprecedented-size
+    reference_type:
+    reference_id:
+  - url: https://aws.amazon.com/security/security-bulletins/AWS-2023-011
+    reference_type:
+    reference_id:
+  - url: https://blog.cloudflare.com/technical-breakdown-http2-rapid-reset-ddos-attack
+    reference_type:
+    reference_id:
+  - url: https://blog.cloudflare.com/zero-day-rapid-reset-http2-record-breaking-ddos-attack
+    reference_type:
+    reference_id:
+  - url: https://blog.litespeedtech.com/2023/10/11/rapid-reset-http-2-vulnerablilty
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.proxmox.com/show_bug.cgi?id=4988
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.suse.com/show_bug.cgi?id=1216123
+    reference_type:
+    reference_id:
+  - url: https://cgit.freebsd.org/ports/commit/?id=c64c329c2c1752f46b73e3e6ce9f4329be6629f9
+    reference_type:
+    reference_id:
+  - url: https://chaos.social/@icing/111210915918780532
+    reference_type:
+    reference_id:
+  - url: https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps
+    reference_type:
+    reference_id:
+  - url: https://cloud.google.com/blog/products/identity-security/how-it-works-the-novel-http2-rapid-reset-ddos-attack
+    reference_type:
+    reference_id:
+  - url: https://community.traefik.io/t/is-traefik-vulnerable-to-cve-2023-44487/20125
+    reference_type:
+    reference_id:
+  - url: https://discuss.hashicorp.com/t/hcsec-2023-32-vault-consul-and-boundary-affected-by-http-2-rapid-reset-denial-of-service-vulnerability-cve-2023-44487/59715
+    reference_type:
+    reference_id:
+  - url: https://edg.io/lp/blog/resets-leaks-ddos-and-the-tale-of-a-hidden-cve
+    reference_type:
+    reference_id:
+  - url: https://forums.swift.org/t/swift-nio-http2-security-update-cve-2023-44487-http-2-dos/67764
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://gist.github.com/adulau/7c2bfb8e9cdbe4b35a5e131c66a0c088
+    reference_type:
+    reference_id:
+  - url: https://github.com/akka/akka-http/issues/4323
+    reference_type:
+    reference_id:
+  - url: https://github.com/akka/akka-http/pull/4324
+    reference_type:
+    reference_id:
+  - url: https://github.com/akka/akka-http/pull/4325
+    reference_type:
+    reference_id:
+  - url: https://github.com/alibaba/tengine/issues/1872
+    reference_type:
+    reference_id:
+  - url: https://github.com/apache/apisix/issues/10320
+    reference_type:
+    reference_id:
+  - url: https://github.com/apache/httpd/blob/afcdbeebbff4b0c50ea26cdd16e178c0d1f24152/modules/http2/h2_mplx.c#L1101-L1113
+    reference_type:
+    reference_id:
+  - url: https://github.com/apache/httpd-site/pull/10
+    reference_type:
+    reference_id:
+  - url: https://github.com/apache/tomcat/commit/6d1a9fd6642387969e4410b9989c85856b74917a
+    reference_type:
+    reference_id:
+  - url: https://github.com/apache/tomcat/commit/76bb4bfbfeae827dce896f650655bbf6e251ed49
+    reference_type:
+    reference_id:
+  - url: https://github.com/apache/tomcat/commit/944332bb15bd2f3bf76ec2caeb1ff0a58a3bc628
+    reference_type:
+    reference_id:
+  - url: https://github.com/apache/tomcat/commit/9cdfe25bad707f34b3e5da2994f3f1952a163c3e
+    reference_type:
+    reference_id:
+  - url: https://github.com/apache/tomcat/tree/main/java/org/apache/coyote/http2
+    reference_type:
+    reference_id:
+  - url: https://github.com/apache/trafficserver/pull/10564
+    reference_type:
+    reference_id:
+  - url: https://github.com/apple/swift-nio-http2
+    reference_type:
+    reference_id:
+  - url: https://github.com/Azure/AKS/issues/3947
+    reference_type:
+    reference_id:
+  - url: https://github.com/caddyserver/caddy/issues/5877
+    reference_type:
+    reference_id:
+  - url: https://github.com/caddyserver/caddy/releases/tag/v2.7.5
+    reference_type:
+    reference_id:
+  - url: https://github.com/dotnet/announcements/issues/277
+    reference_type:
+    reference_id:
+  - url: https://github.com/dotnet/core/blob/e4613450ea0da7fd2fc6b61dfb2c1c1dec1ce9ec/release-notes/6.0/6.0.23/6.0.23.md?plain=1#L73
+    reference_type:
+    reference_id:
+  - url: https://github.com/eclipse/jetty.project/issues/10679
+    reference_type:
+    reference_id:
+  - url: https://github.com/envoyproxy/envoy/pull/30055
+    reference_type:
+    reference_id:
+  - url: https://github.com/etcd-io/etcd/issues/16740
+    reference_type:
+    reference_id:
+  - url: https://github.com/facebook/proxygen/pull/466
+    reference_type:
+    reference_id:
+  - url: https://github.com/golang/go/issues/63417
+    reference_type:
+    reference_id:
+  - url: https://github.com/grpc/grpc-go/pull/6703
+    reference_type:
+    reference_id:
+  - url: https://github.com/grpc/grpc-go/releases
+    reference_type:
+    reference_id:
+  - url: https://github.com/h2o/h2o/pull/3291
+    reference_type:
+    reference_id:
+  - url: https://github.com/haproxy/haproxy/issues/2312
+    reference_type:
+    reference_id:
+  - url: https://github.com/hyperium/hyper/issues/3337
+    reference_type:
+    reference_id:
+  - url: https://github.com/icing/mod_h2/blob/0a864782af0a942aa2ad4ed960a6b32cd35bcf0a/mod_http2/README.md?plain=1#L239-L244
+    reference_type:
+    reference_id:
+  - url: https://github.com/junkurihara/rust-rpxy/issues/97
+    reference_type:
+    reference_id:
+  - url: https://github.com/kazu-yamamoto/http2/commit/f61d41a502bd0f60eb24e1ce14edc7b6df6722a1
+    reference_type:
+    reference_id:
+  - url: https://github.com/kazu-yamamoto/http2/issues/93
+    reference_type:
+    reference_id:
+  - url: https://github.com/Kong/kong/discussions/11741
+    reference_type:
+    reference_id:
+  - url: https://github.com/kubernetes/kubernetes/pull/121120
+    reference_type:
+    reference_id:
+  - url: https://github.com/line/armeria/pull/5232
+    reference_type:
+    reference_id:
+  - url: https://github.com/linkerd/website/pull/1695/commits/4b9c6836471bc8270ab48aae6fd2181bc73fd632
+    reference_type:
+    reference_id:
+  - url: https://github.com/micrictor/http2-rst-stream
+    reference_type:
+    reference_id:
+  - url: https://github.com/microsoft/CBL-Mariner/pull/6381
+    reference_type:
+    reference_id:
+  - url: https://github.com/netty/netty/commit/58f75f665aa81a8cbcf6ffa74820042a285c5e61
+    reference_type:
+    reference_id:
+  - url: https://github.com/nghttp2/nghttp2/pull/1961
+    reference_type:
+    reference_id:
+  - url: https://github.com/nghttp2/nghttp2/releases/tag/v1.57.0
+    reference_type:
+    reference_id:
+  - url: https://github.com/ninenines/cowboy/issues/1615
+    reference_type:
+    reference_id:
+  - url: https://github.com/nodejs/node/pull/50121
+    reference_type:
+    reference_id:
+  - url: https://github.com/openresty/openresty/issues/930
+    reference_type:
+    reference_id:
+  - url: https://github.com/opensearch-project/data-prepper/issues/3474
+    reference_type:
+    reference_id:
+  - url: https://github.com/oqtane/oqtane.framework/discussions/3367
+    reference_type:
+    reference_id:
+  - url: https://github.com/projectcontour/contour/pull/5826
+    reference_type:
+    reference_id:
+  - url: https://github.com/tempesta-tech/tempesta/issues/1986
+    reference_type:
+    reference_id:
+  - url: https://github.com/varnishcache/varnish-cache/issues/3996
+    reference_type:
+    reference_id:
+  - url: https://go.dev/cl/534215
+    reference_type:
+    reference_id:
+  - url: https://go.dev/cl/534235
+    reference_type:
+    reference_id:
+  - url: https://go.dev/issue/63417
+    reference_type:
+    reference_id:
+  - url: https://groups.google.com/g/golang-announce/c/iNNxDTCjZvo
+    reference_type:
+    reference_id:
+  - url: https://groups.google.com/g/golang-announce/c/iNNxDTCjZvo/m/UDd7VKQuAAAJ
+    reference_type:
+    reference_id:
+  - url: https://istio.io/latest/news/security/istio-security-2023-004
+    reference_type:
+    reference_id:
+  - url: https://linkerd.io/2023/10/12/linkerd-cve-2023-44487
+    reference_type:
+    reference_id:
+  - url: https://lists.apache.org/thread/5py8h42mxfsn8l1wy6o41xwhsjlsd87q
+    reference_type:
+    reference_id:
+  - url: https://lists.debian.org/debian-lts-announce/2023/10/msg00020.html
+    reference_type:
+    reference_id:
+  - url: https://lists.debian.org/debian-lts-announce/2023/10/msg00023.html
+    reference_type:
+    reference_id:
+  - url: https://lists.debian.org/debian-lts-announce/2023/10/msg00024.html
+    reference_type:
+    reference_id:
+  - url: https://lists.debian.org/debian-lts-announce/2023/10/msg00045.html
+    reference_type:
+    reference_id:
+  - url: https://lists.debian.org/debian-lts-announce/2023/10/msg00047.html
+    reference_type:
+    reference_id:
+  - url: https://lists.debian.org/debian-lts-announce/2023/11/msg00001.html
+    reference_type:
+    reference_id:
+  - url: https://lists.debian.org/debian-lts-announce/2023/11/msg00012.html
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/2MBEPPC36UBVOZZNAXFHKLFGSLCMN5LI
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/3N4NJ7FR4X4FPZUGNTQAPSTVB2HB2Y4A
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/BFQD3KUEMFBHPAPBGLWQC34L4OWL5HAZ
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/CLB4TW7KALB3EEQWNWCN7OUIWWVWWCG2
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/E72T67UPDRXHIDLO3OROR25YAMN4GGW5
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/FNA62Q767CFAFHBCDKYNPBMZWB7TWYVU
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/HT7T2R4MQKLIF4ODV4BDLPARWFPCJ5CZ
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/JIZSEFC3YKCGABA2BZW6ZJRMDZJMB7PJ
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/JMEXY22BFG5Q64HQCM5CK2Q7KDKVV4TY
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/KSEGD2IWKNUO3DWY4KQGUQM5BISRWHQE
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/LKYHSZQFDNR7RSA7LHVLLIAQMVYCUGBG
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/LNMZJCDHGLJJLXO4OXWJMTVQRNWOC7UL
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/VHUHTSXLXGXS7JYKBXTA3VINUPHTNGVU
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/VSRDIV77HNKUSM7SJC5BKE5JSHLHU2NK
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/WE2I52RHNNU42PX6NZ2RBUHSFFJ2LVZX
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/WLPRQ5TWUQQXYWBJM7ECYDAIL2YVKIUH
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/X6QXN4ORIVF6XBW4WWFE7VNPVC74S45Y
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/XFOIBB4YFICHDM7IBOP7PWXW3FX4HLL2
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/ZB43REMKRQR62NJEI7I5NQ4FSXNLBKRT
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/ZKQSIKIAT5TJ3WSLU3RDBQ35YX4GY4V3
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/ZLU6U2R2IC2K64NDPNMV55AUAO65MAF4
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/3N4NJ7FR4X4FPZUGNTQAPSTVB2HB2Y4A
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/BFQD3KUEMFBHPAPBGLWQC34L4OWL5HAZ
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/CLB4TW7KALB3EEQWNWCN7OUIWWVWWCG2
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/E72T67UPDRXHIDLO3OROR25YAMN4GGW5
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/FNA62Q767CFAFHBCDKYNPBMZWB7TWYVU
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/HT7T2R4MQKLIF4ODV4BDLPARWFPCJ5CZ
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/JIZSEFC3YKCGABA2BZW6ZJRMDZJMB7PJ
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/JMEXY22BFG5Q64HQCM5CK2Q7KDKVV4TY
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/KSEGD2IWKNUO3DWY4KQGUQM5BISRWHQE
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/LKYHSZQFDNR7RSA7LHVLLIAQMVYCUGBG
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/LNMZJCDHGLJJLXO4OXWJMTVQRNWOC7UL
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/VHUHTSXLXGXS7JYKBXTA3VINUPHTNGVU
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/VSRDIV77HNKUSM7SJC5BKE5JSHLHU2NK
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/WLPRQ5TWUQQXYWBJM7ECYDAIL2YVKIUH
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/X6QXN4ORIVF6XBW4WWFE7VNPVC74S45Y
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/XFOIBB4YFICHDM7IBOP7PWXW3FX4HLL2
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/ZB43REMKRQR62NJEI7I5NQ4FSXNLBKRT
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/ZKQSIKIAT5TJ3WSLU3RDBQ35YX4GY4V3
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/ZLU6U2R2IC2K64NDPNMV55AUAO65MAF4
+    reference_type:
+    reference_id:
+  - url: https://lists.w3.org/Archives/Public/ietf-http-wg/2023OctDec/0025.html
+    reference_type:
+    reference_id:
+  - url: https://mailman.nginx.org/pipermail/nginx-devel/2023-October/S36Q5HBXR7CAIMPLLPRSSSYR4PCMWILK.html
+    reference_type:
+    reference_id:
+  - url: https://martinthomson.github.io/h2-stream-limits/draft-thomson-httpbis-h2-stream-limits.html
+    reference_type:
+    reference_id:
+  - url: https://msrc.microsoft.com/blog/2023/10/microsoft-response-to-distributed-denial-of-service-ddos-attacks-against-http/2
+    reference_type:
+    reference_id:
+  - url: https://my.f5.com/manage/s/article/K000137106
+    reference_type:
+    reference_id:
+  - url: https://netty.io/news/2023/10/10/4-1-100-Final.html
+    reference_type:
+    reference_id:
+  - url: https://news.ycombinator.com/item?id=37830987
+    reference_type:
+    reference_id:
+  - url: https://news.ycombinator.com/item?id=37830998
+    reference_type:
+    reference_id:
+  - url: https://news.ycombinator.com/item?id=37831062
+    reference_type:
+    reference_id:
+  - url: https://news.ycombinator.com/item?id=37837043
+    reference_type:
+    reference_id:
+  - url: https://openssf.org/blog/2023/10/10/http-2-rapid-reset-vulnerability-highlights-need-for-rapid-response
+    reference_type:
+    reference_id:
+  - url: https://seanmonstar.com/post/730794151136935936/hyper-http2-rapid-reset-unaffected
+    reference_type:
+    reference_id:
+  - url: https://security.netapp.com/advisory/ntap-20231016-0001
+    reference_type:
+    reference_id:
+  - url: https://security.netapp.com/advisory/ntap-20240426-0007
+    reference_type:
+    reference_id:
+  - url: https://security.netapp.com/advisory/ntap-20240621-0006
+    reference_type:
+    reference_id:
+  - url: https://security.netapp.com/advisory/ntap-20240621-0007
+    reference_type:
+    reference_id:
+  - url: https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.14
+    reference_type:
+    reference_id:
+  - url: https://tomcat.apache.org/security-11.html#Fixed_in_Apache_Tomcat_11.0.0-M12
+    reference_type:
+    reference_id:
+  - url: https://tomcat.apache.org/security-8.html#Fixed_in_Apache_Tomcat_8.5.94
+    reference_type:
+    reference_id:
+  - url: https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.81
+    reference_type:
+    reference_id:
+  - url: https://www.bleepingcomputer.com/news/security/new-http-2-rapid-reset-zero-day-attack-breaks-ddos-records
+    reference_type:
+    reference_id:
+  - url: https://www.cisa.gov/news-events/alerts/2023/10/10/http2-rapid-reset-vulnerability-cve-2023-44487
+    reference_type:
+    reference_id:
+  - url: https://www.darkreading.com/cloud/internet-wide-zero-day-bug-fuels-largest-ever-ddos-event
+    reference_type:
+    reference_id:
+  - url: https://www.debian.org/security/2023/dsa-5521
+    reference_type:
+    reference_id:
+  - url: https://www.debian.org/security/2023/dsa-5522
+    reference_type:
+    reference_id:
+  - url: https://www.debian.org/security/2023/dsa-5540
+    reference_type:
+    reference_id:
+  - url: https://www.debian.org/security/2023/dsa-5549
+    reference_type:
+    reference_id:
+  - url: https://www.debian.org/security/2023/dsa-5558
+    reference_type:
+    reference_id:
+  - url: https://www.debian.org/security/2023/dsa-5570
+    reference_type:
+    reference_id:
+  - url: https://www.eclipse.org/lists/jetty-announce/msg00181.html
+    reference_type:
+    reference_id:
+  - url: https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487
+    reference_type:
+    reference_id:
+  - url: https://www.netlify.com/blog/netlify-successfully-mitigates-cve-2023-44487
+    reference_type:
+    reference_id:
+  - url: https://www.nginx.com/blog/http-2-rapid-reset-attack-impacting-f5-nginx-products
+    reference_type:
+    reference_id:
+  - url: https://www.openwall.com/lists/oss-security/2023/10/10/6
+    reference_type:
+    reference_id:
+  - url: https://www.phoronix.com/news/HTTP2-Rapid-Reset-Attack
+    reference_type:
+    reference_id:
+  - url: https://www.theregister.com/2023/10/10/http2_rapid_reset_zeroday
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1053769
+    reference_type:
+    reference_id: 1053769
+  - url: https://msrc.microsoft.com/blog/2023/10/microsoft-response-to-distributed-denial-of-service-ddos-attacks-against-http/2/
+    reference_type:
+    reference_id: 2
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2242803
+    reference_type:
+    reference_id: 2242803
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/2MBEPPC36UBVOZZNAXFHKLFGSLCMN5LI/
+    reference_type:
+    reference_id: 2MBEPPC36UBVOZZNAXFHKLFGSLCMN5LI
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/3N4NJ7FR4X4FPZUGNTQAPSTVB2HB2Y4A/
+    reference_type:
+    reference_id: 3N4NJ7FR4X4FPZUGNTQAPSTVB2HB2Y4A
+  - url: http://www.openwall.com/lists/oss-security/2023/10/13/4
+    reference_type:
+    reference_id: 4
+  - url: http://www.openwall.com/lists/oss-security/2023/10/19/6
+    reference_type:
+    reference_id: 6
+  - url: http://www.openwall.com/lists/oss-security/2023/10/18/8
+    reference_type:
+    reference_id: 8
+  - url: http://www.openwall.com/lists/oss-security/2023/10/20/8
+    reference_type:
+    reference_id: 8
+  - url: http://www.openwall.com/lists/oss-security/2023/10/13/9
+    reference_type:
+    reference_id: 9
+  - url: https://aws.amazon.com/security/security-bulletins/AWS-2023-011/
+    reference_type:
+    reference_id: AWS-2023-011
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/BFQD3KUEMFBHPAPBGLWQC34L4OWL5HAZ/
+    reference_type:
+    reference_id: BFQD3KUEMFBHPAPBGLWQC34L4OWL5HAZ
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/CLB4TW7KALB3EEQWNWCN7OUIWWVWWCG2/
+    reference_type:
+    reference_id: CLB4TW7KALB3EEQWNWCN7OUIWWVWWCG2
+  - url: https://blog.vespa.ai/cve-2023-44487/
+    reference_type:
+    reference_id: cve-2023-44487
+  - url: https://access.redhat.com/security/cve/cve-2023-44487
+    reference_type:
+    reference_id: CVE-2023-44487
+  - url: https://blog.vespa.ai/cve-2023-44487
+    reference_type:
+    reference_id: CVE-2023-44487
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-44487
+    reference_type:
+    reference_id: CVE-2023-44487
+  - url: https://github.com/arkrwn/PoC/tree/main/CVE-2023-44487
+    reference_type:
+    reference_id: CVE-2023-44487
+  - url: https://github.com/bcdannyboy/CVE-2023-44487
+    reference_type:
+    reference_id: CVE-2023-44487
+  - url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-44487
+    reference_type:
+    reference_id: CVE-2023-44487
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2023-44487
+    reference_type:
+    reference_id: CVE-2023-44487
+  - url: https://security.paloaltonetworks.com/CVE-2023-44487
+    reference_type:
+    reference_id: CVE-2023-44487
+  - url: https://ubuntu.com/security/CVE-2023-44487
+    reference_type:
+    reference_id: CVE-2023-44487
+  - url: https://blog.qualys.com/vulnerabilities-threat-research/2023/10/10/cve-2023-44487-http-2-rapid-reset-attack
+    reference_type:
+    reference_id: CVE-2023-44487-HTTP-2-RAPID-RESET-ATTACK
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/E72T67UPDRXHIDLO3OROR25YAMN4GGW5/
+    reference_type:
+    reference_id: E72T67UPDRXHIDLO3OROR25YAMN4GGW5
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/FNA62Q767CFAFHBCDKYNPBMZWB7TWYVU/
+    reference_type:
+    reference_id: FNA62Q767CFAFHBCDKYNPBMZWB7TWYVU
+  - url: https://github.com/h2o/h2o/security/advisories/GHSA-2m7v-gc89-fjqf
+    reference_type:
+    reference_id: GHSA-2m7v-gc89-fjqf
+  - url: https://github.com/advisories/GHSA-qppj-fm5r-hxr3
+    reference_type:
+    reference_id: GHSA-qppj-fm5r-hxr3
+  - url: https://github.com/apple/swift-nio-http2/security/advisories/GHSA-qppj-fm5r-hxr3
+    reference_type:
+    reference_id: GHSA-qppj-fm5r-hxr3
+  - url: https://github.com/advisories/GHSA-vx74-f528-fxqg
+    reference_type:
+    reference_id: GHSA-vx74-f528-fxqg
+  - url: https://github.com/advisories/GHSA-xpw8-rcwv-8f8p
+    reference_type:
+    reference_id: GHSA-xpw8-rcwv-8f8p
+  - url: https://security.gentoo.org/glsa/202311-09
+    reference_type:
+    reference_id: GLSA-202311-09
+  - url: https://security.gentoo.org/glsa/202408-10
+    reference_type:
+    reference_id: GLSA-202408-10
+  - url: https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps/
+    reference_type:
+    reference_id: google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps
+  - url: https://arstechnica.com/security/2023/10/how-ddosers-used-the-http-2-protocol-to-deliver-attacks-of-unprecedented-size/
+    reference_type:
+    reference_id: how-ddosers-used-the-http-2-protocol-to-deliver-attacks-of-unprecedented-size
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/HT7T2R4MQKLIF4ODV4BDLPARWFPCJ5CZ/
+    reference_type:
+    reference_id: HT7T2R4MQKLIF4ODV4BDLPARWFPCJ5CZ
+  - url: https://www.nginx.com/blog/http-2-rapid-reset-attack-impacting-f5-nginx-products/
+    reference_type:
+    reference_id: http-2-rapid-reset-attack-impacting-f5-nginx-products
+  - url: https://openssf.org/blog/2023/10/10/http-2-rapid-reset-vulnerability-highlights-need-for-rapid-response/
+    reference_type:
+    reference_id: http-2-rapid-reset-vulnerability-highlights-need-for-rapid-response
+  - url: https://www.theregister.com/2023/10/10/http2_rapid_reset_zeroday/
+    reference_type:
+    reference_id: http2_rapid_reset_zeroday
+  - url: https://istio.io/latest/news/security/istio-security-2023-004/
+    reference_type:
+    reference_id: istio-security-2023-004
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/JIZSEFC3YKCGABA2BZW6ZJRMDZJMB7PJ/
+    reference_type:
+    reference_id: JIZSEFC3YKCGABA2BZW6ZJRMDZJMB7PJ
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/JMEXY22BFG5Q64HQCM5CK2Q7KDKVV4TY/
+    reference_type:
+    reference_id: JMEXY22BFG5Q64HQCM5CK2Q7KDKVV4TY
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/KSEGD2IWKNUO3DWY4KQGUQM5BISRWHQE/
+    reference_type:
+    reference_id: KSEGD2IWKNUO3DWY4KQGUQM5BISRWHQE
+  - url: https://linkerd.io/2023/10/12/linkerd-cve-2023-44487/
+    reference_type:
+    reference_id: linkerd-cve-2023-44487
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/LKYHSZQFDNR7RSA7LHVLLIAQMVYCUGBG/
+    reference_type:
+    reference_id: LKYHSZQFDNR7RSA7LHVLLIAQMVYCUGBG
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/LNMZJCDHGLJJLXO4OXWJMTVQRNWOC7UL/
+    reference_type:
+    reference_id: LNMZJCDHGLJJLXO4OXWJMTVQRNWOC7UL
+  - url: https://www.netlify.com/blog/netlify-successfully-mitigates-cve-2023-44487/
+    reference_type:
+    reference_id: netlify-successfully-mitigates-cve-2023-44487
+  - url: https://www.bleepingcomputer.com/news/security/new-http-2-rapid-reset-zero-day-attack-breaks-ddos-records/
+    reference_type:
+    reference_id: new-http-2-rapid-reset-zero-day-attack-breaks-ddos-records
+  - url: https://security.netapp.com/advisory/ntap-20231016-0001/
+    reference_type:
+    reference_id: ntap-20231016-0001
+  - url: https://security.netapp.com/advisory/ntap-20240426-0007/
+    reference_type:
+    reference_id: ntap-20240426-0007
+  - url: https://security.netapp.com/advisory/ntap-20240621-0006/
+    reference_type:
+    reference_id: ntap-20240621-0006
+  - url: https://security.netapp.com/advisory/ntap-20240621-0007/
+    reference_type:
+    reference_id: ntap-20240621-0007
+  - url: https://blog.litespeedtech.com/2023/10/11/rapid-reset-http-2-vulnerablilty/
+    reference_type:
+    reference_id: rapid-reset-http-2-vulnerablilty
+  - url: https://access.redhat.com/errata/RHSA-2023:5006
+    reference_type:
+    reference_id: RHSA-2023:5006
+  - url: https://access.redhat.com/errata/RHSA-2023:5009
+    reference_type:
+    reference_id: RHSA-2023:5009
+  - url: https://access.redhat.com/errata/RHSA-2023:5530
+    reference_type:
+    reference_id: RHSA-2023:5530
+  - url: https://access.redhat.com/errata/RHSA-2023:5541
+    reference_type:
+    reference_id: RHSA-2023:5541
+  - url: https://access.redhat.com/errata/RHSA-2023:5542
+    reference_type:
+    reference_id: RHSA-2023:5542
+  - url: https://access.redhat.com/errata/RHSA-2023:5679
+    reference_type:
+    reference_id: RHSA-2023:5679
+  - url: https://access.redhat.com/errata/RHSA-2023:5705
+    reference_type:
+    reference_id: RHSA-2023:5705
+  - url: https://access.redhat.com/errata/RHSA-2023:5706
+    reference_type:
+    reference_id: RHSA-2023:5706
+  - url: https://access.redhat.com/errata/RHSA-2023:5707
+    reference_type:
+    reference_id: RHSA-2023:5707
+  - url: https://access.redhat.com/errata/RHSA-2023:5708
+    reference_type:
+    reference_id: RHSA-2023:5708
+  - url: https://access.redhat.com/errata/RHSA-2023:5709
+    reference_type:
+    reference_id: RHSA-2023:5709
+  - url: https://access.redhat.com/errata/RHSA-2023:5710
+    reference_type:
+    reference_id: RHSA-2023:5710
+  - url: https://access.redhat.com/errata/RHSA-2023:5711
+    reference_type:
+    reference_id: RHSA-2023:5711
+  - url: https://access.redhat.com/errata/RHSA-2023:5712
+    reference_type:
+    reference_id: RHSA-2023:5712
+  - url: https://access.redhat.com/errata/RHSA-2023:5713
+    reference_type:
+    reference_id: RHSA-2023:5713
+  - url: https://access.redhat.com/errata/RHSA-2023:5714
+    reference_type:
+    reference_id: RHSA-2023:5714
+  - url: https://access.redhat.com/errata/RHSA-2023:5715
+    reference_type:
+    reference_id: RHSA-2023:5715
+  - url: https://access.redhat.com/errata/RHSA-2023:5716
+    reference_type:
+    reference_id: RHSA-2023:5716
+  - url: https://access.redhat.com/errata/RHSA-2023:5717
+    reference_type:
+    reference_id: RHSA-2023:5717
+  - url: https://access.redhat.com/errata/RHSA-2023:5719
+    reference_type:
+    reference_id: RHSA-2023:5719
+  - url: https://access.redhat.com/errata/RHSA-2023:5720
+    reference_type:
+    reference_id: RHSA-2023:5720
+  - url: https://access.redhat.com/errata/RHSA-2023:5721
+    reference_type:
+    reference_id: RHSA-2023:5721
+  - url: https://access.redhat.com/errata/RHSA-2023:5724
+    reference_type:
+    reference_id: RHSA-2023:5724
+  - url: https://access.redhat.com/errata/RHSA-2023:5738
+    reference_type:
+    reference_id: RHSA-2023:5738
+  - url: https://access.redhat.com/errata/RHSA-2023:5749
+    reference_type:
+    reference_id: RHSA-2023:5749
+  - url: https://access.redhat.com/errata/RHSA-2023:5764
+    reference_type:
+    reference_id: RHSA-2023:5764
+  - url: https://access.redhat.com/errata/RHSA-2023:5765
+    reference_type:
+    reference_id: RHSA-2023:5765
+  - url: https://access.redhat.com/errata/RHSA-2023:5766
+    reference_type:
+    reference_id: RHSA-2023:5766
+  - url: https://access.redhat.com/errata/RHSA-2023:5767
+    reference_type:
+    reference_id: RHSA-2023:5767
+  - url: https://access.redhat.com/errata/RHSA-2023:5768
+    reference_type:
+    reference_id: RHSA-2023:5768
+  - url: https://access.redhat.com/errata/RHSA-2023:5769
+    reference_type:
+    reference_id: RHSA-2023:5769
+  - url: https://access.redhat.com/errata/RHSA-2023:5770
+    reference_type:
+    reference_id: RHSA-2023:5770
+  - url: https://access.redhat.com/errata/RHSA-2023:5780
+    reference_type:
+    reference_id: RHSA-2023:5780
+  - url: https://access.redhat.com/errata/RHSA-2023:5783
+    reference_type:
+    reference_id: RHSA-2023:5783
+  - url: https://access.redhat.com/errata/RHSA-2023:5784
+    reference_type:
+    reference_id: RHSA-2023:5784
+  - url: https://access.redhat.com/errata/RHSA-2023:5801
+    reference_type:
+    reference_id: RHSA-2023:5801
+  - url: https://access.redhat.com/errata/RHSA-2023:5802
+    reference_type:
+    reference_id: RHSA-2023:5802
+  - url: https://access.redhat.com/errata/RHSA-2023:5803
+    reference_type:
+    reference_id: RHSA-2023:5803
+  - url: https://access.redhat.com/errata/RHSA-2023:5805
+    reference_type:
+    reference_id: RHSA-2023:5805
+  - url: https://access.redhat.com/errata/RHSA-2023:5835
+    reference_type:
+    reference_id: RHSA-2023:5835
+  - url: https://access.redhat.com/errata/RHSA-2023:5837
+    reference_type:
+    reference_id: RHSA-2023:5837
+  - url: https://access.redhat.com/errata/RHSA-2023:5838
+    reference_type:
+    reference_id: RHSA-2023:5838
+  - url: https://access.redhat.com/errata/RHSA-2023:5840
+    reference_type:
+    reference_id: RHSA-2023:5840
+  - url: https://access.redhat.com/errata/RHSA-2023:5841
+    reference_type:
+    reference_id: RHSA-2023:5841
+  - url: https://access.redhat.com/errata/RHSA-2023:5849
+    reference_type:
+    reference_id: RHSA-2023:5849
+  - url: https://access.redhat.com/errata/RHSA-2023:5850
+    reference_type:
+    reference_id: RHSA-2023:5850
+  - url: https://access.redhat.com/errata/RHSA-2023:5851
+    reference_type:
+    reference_id: RHSA-2023:5851
+  - url: https://access.redhat.com/errata/RHSA-2023:5863
+    reference_type:
+    reference_id: RHSA-2023:5863
+  - url: https://access.redhat.com/errata/RHSA-2023:5864
+    reference_type:
+    reference_id: RHSA-2023:5864
+  - url: https://access.redhat.com/errata/RHSA-2023:5865
+    reference_type:
+    reference_id: RHSA-2023:5865
+  - url: https://access.redhat.com/errata/RHSA-2023:5866
+    reference_type:
+    reference_id: RHSA-2023:5866
+  - url: https://access.redhat.com/errata/RHSA-2023:5867
+    reference_type:
+    reference_id: RHSA-2023:5867
+  - url: https://access.redhat.com/errata/RHSA-2023:5869
+    reference_type:
+    reference_id: RHSA-2023:5869
+  - url: https://access.redhat.com/errata/RHSA-2023:5896
+    reference_type:
+    reference_id: RHSA-2023:5896
+  - url: https://access.redhat.com/errata/RHSA-2023:5902
+    reference_type:
+    reference_id: RHSA-2023:5902
+  - url: https://access.redhat.com/errata/RHSA-2023:5920
+    reference_type:
+    reference_id: RHSA-2023:5920
+  - url: https://access.redhat.com/errata/RHSA-2023:5922
+    reference_type:
+    reference_id: RHSA-2023:5922
+  - url: https://access.redhat.com/errata/RHSA-2023:5924
+    reference_type:
+    reference_id: RHSA-2023:5924
+  - url: https://access.redhat.com/errata/RHSA-2023:5928
+    reference_type:
+    reference_id: RHSA-2023:5928
+  - url: https://access.redhat.com/errata/RHSA-2023:5929
+    reference_type:
+    reference_id: RHSA-2023:5929
+  - url: https://access.redhat.com/errata/RHSA-2023:5930
+    reference_type:
+    reference_id: RHSA-2023:5930
+  - url: https://access.redhat.com/errata/RHSA-2023:5931
+    reference_type:
+    reference_id: RHSA-2023:5931
+  - url: https://access.redhat.com/errata/RHSA-2023:5933
+    reference_type:
+    reference_id: RHSA-2023:5933
+  - url: https://access.redhat.com/errata/RHSA-2023:5935
+    reference_type:
+    reference_id: RHSA-2023:5935
+  - url: https://access.redhat.com/errata/RHSA-2023:5945
+    reference_type:
+    reference_id: RHSA-2023:5945
+  - url: https://access.redhat.com/errata/RHSA-2023:5946
+    reference_type:
+    reference_id: RHSA-2023:5946
+  - url: https://access.redhat.com/errata/RHSA-2023:5947
+    reference_type:
+    reference_id: RHSA-2023:5947
+  - url: https://access.redhat.com/errata/RHSA-2023:5956
+    reference_type:
+    reference_id: RHSA-2023:5956
+  - url: https://access.redhat.com/errata/RHSA-2023:5964
+    reference_type:
+    reference_id: RHSA-2023:5964
+  - url: https://access.redhat.com/errata/RHSA-2023:5965
+    reference_type:
+    reference_id: RHSA-2023:5965
+  - url: https://access.redhat.com/errata/RHSA-2023:5967
+    reference_type:
+    reference_id: RHSA-2023:5967
+  - url: https://access.redhat.com/errata/RHSA-2023:5969
+    reference_type:
+    reference_id: RHSA-2023:5969
+  - url: https://access.redhat.com/errata/RHSA-2023:5970
+    reference_type:
+    reference_id: RHSA-2023:5970
+  - url: https://access.redhat.com/errata/RHSA-2023:5971
+    reference_type:
+    reference_id: RHSA-2023:5971
+  - url: https://access.redhat.com/errata/RHSA-2023:5973
+    reference_type:
+    reference_id: RHSA-2023:5973
+  - url: https://access.redhat.com/errata/RHSA-2023:5974
+    reference_type:
+    reference_id: RHSA-2023:5974
+  - url: https://access.redhat.com/errata/RHSA-2023:5976
+    reference_type:
+    reference_id: RHSA-2023:5976
+  - url: https://access.redhat.com/errata/RHSA-2023:5978
+    reference_type:
+    reference_id: RHSA-2023:5978
+  - url: https://access.redhat.com/errata/RHSA-2023:5979
+    reference_type:
+    reference_id: RHSA-2023:5979
+  - url: https://access.redhat.com/errata/RHSA-2023:5980
+    reference_type:
+    reference_id: RHSA-2023:5980
+  - url: https://access.redhat.com/errata/RHSA-2023:5982
+    reference_type:
+    reference_id: RHSA-2023:5982
+  - url: https://access.redhat.com/errata/RHSA-2023:5989
+    reference_type:
+    reference_id: RHSA-2023:5989
+  - url: https://access.redhat.com/errata/RHSA-2023:6020
+    reference_type:
+    reference_id: RHSA-2023:6020
+  - url: https://access.redhat.com/errata/RHSA-2023:6021
+    reference_type:
+    reference_id: RHSA-2023:6021
+  - url: https://access.redhat.com/errata/RHSA-2023:6022
+    reference_type:
+    reference_id: RHSA-2023:6022
+  - url: https://access.redhat.com/errata/RHSA-2023:6023
+    reference_type:
+    reference_id: RHSA-2023:6023
+  - url: https://access.redhat.com/errata/RHSA-2023:6030
+    reference_type:
+    reference_id: RHSA-2023:6030
+  - url: https://access.redhat.com/errata/RHSA-2023:6031
+    reference_type:
+    reference_id: RHSA-2023:6031
+  - url: https://access.redhat.com/errata/RHSA-2023:6039
+    reference_type:
+    reference_id: RHSA-2023:6039
+  - url: https://access.redhat.com/errata/RHSA-2023:6040
+    reference_type:
+    reference_id: RHSA-2023:6040
+  - url: https://access.redhat.com/errata/RHSA-2023:6041
+    reference_type:
+    reference_id: RHSA-2023:6041
+  - url: https://access.redhat.com/errata/RHSA-2023:6042
+    reference_type:
+    reference_id: RHSA-2023:6042
+  - url: https://access.redhat.com/errata/RHSA-2023:6044
+    reference_type:
+    reference_id: RHSA-2023:6044
+  - url: https://access.redhat.com/errata/RHSA-2023:6048
+    reference_type:
+    reference_id: RHSA-2023:6048
+  - url: https://access.redhat.com/errata/RHSA-2023:6057
+    reference_type:
+    reference_id: RHSA-2023:6057
+  - url: https://access.redhat.com/errata/RHSA-2023:6059
+    reference_type:
+    reference_id: RHSA-2023:6059
+  - url: https://access.redhat.com/errata/RHSA-2023:6061
+    reference_type:
+    reference_id: RHSA-2023:6061
+  - url: https://access.redhat.com/errata/RHSA-2023:6077
+    reference_type:
+    reference_id: RHSA-2023:6077
+  - url: https://access.redhat.com/errata/RHSA-2023:6079
+    reference_type:
+    reference_id: RHSA-2023:6079
+  - url: https://access.redhat.com/errata/RHSA-2023:6080
+    reference_type:
+    reference_id: RHSA-2023:6080
+  - url: https://access.redhat.com/errata/RHSA-2023:6084
+    reference_type:
+    reference_id: RHSA-2023:6084
+  - url: https://access.redhat.com/errata/RHSA-2023:6085
+    reference_type:
+    reference_id: RHSA-2023:6085
+  - url: https://access.redhat.com/errata/RHSA-2023:6105
+    reference_type:
+    reference_id: RHSA-2023:6105
+  - url: https://access.redhat.com/errata/RHSA-2023:6106
+    reference_type:
+    reference_id: RHSA-2023:6106
+  - url: https://access.redhat.com/errata/RHSA-2023:6114
+    reference_type:
+    reference_id: RHSA-2023:6114
+  - url: https://access.redhat.com/errata/RHSA-2023:6115
+    reference_type:
+    reference_id: RHSA-2023:6115
+  - url: https://access.redhat.com/errata/RHSA-2023:6117
+    reference_type:
+    reference_id: RHSA-2023:6117
+  - url: https://access.redhat.com/errata/RHSA-2023:6118
+    reference_type:
+    reference_id: RHSA-2023:6118
+  - url: https://access.redhat.com/errata/RHSA-2023:6119
+    reference_type:
+    reference_id: RHSA-2023:6119
+  - url: https://access.redhat.com/errata/RHSA-2023:6120
+    reference_type:
+    reference_id: RHSA-2023:6120
+  - url: https://access.redhat.com/errata/RHSA-2023:6122
+    reference_type:
+    reference_id: RHSA-2023:6122
+  - url: https://access.redhat.com/errata/RHSA-2023:6129
+    reference_type:
+    reference_id: RHSA-2023:6129
+  - url: https://access.redhat.com/errata/RHSA-2023:6137
+    reference_type:
+    reference_id: RHSA-2023:6137
+  - url: https://access.redhat.com/errata/RHSA-2023:6144
+    reference_type:
+    reference_id: RHSA-2023:6144
+  - url: https://access.redhat.com/errata/RHSA-2023:6145
+    reference_type:
+    reference_id: RHSA-2023:6145
+  - url: https://access.redhat.com/errata/RHSA-2023:6148
+    reference_type:
+    reference_id: RHSA-2023:6148
+  - url: https://access.redhat.com/errata/RHSA-2023:6154
+    reference_type:
+    reference_id: RHSA-2023:6154
+  - url: https://access.redhat.com/errata/RHSA-2023:6161
+    reference_type:
+    reference_id: RHSA-2023:6161
+  - url: https://access.redhat.com/errata/RHSA-2023:6165
+    reference_type:
+    reference_id: RHSA-2023:6165
+  - url: https://access.redhat.com/errata/RHSA-2023:6179
+    reference_type:
+    reference_id: RHSA-2023:6179
+  - url: https://access.redhat.com/errata/RHSA-2023:6200
+    reference_type:
+    reference_id: RHSA-2023:6200
+  - url: https://access.redhat.com/errata/RHSA-2023:6202
+    reference_type:
+    reference_id: RHSA-2023:6202
+  - url: https://access.redhat.com/errata/RHSA-2023:6217
+    reference_type:
+    reference_id: RHSA-2023:6217
+  - url: https://access.redhat.com/errata/RHSA-2023:6233
+    reference_type:
+    reference_id: RHSA-2023:6233
+  - url: https://access.redhat.com/errata/RHSA-2023:6235
+    reference_type:
+    reference_id: RHSA-2023:6235
+  - url: https://access.redhat.com/errata/RHSA-2023:6239
+    reference_type:
+    reference_id: RHSA-2023:6239
+  - url: https://access.redhat.com/errata/RHSA-2023:6248
+    reference_type:
+    reference_id: RHSA-2023:6248
+  - url: https://access.redhat.com/errata/RHSA-2023:6251
+    reference_type:
+    reference_id: RHSA-2023:6251
+  - url: https://access.redhat.com/errata/RHSA-2023:6269
+    reference_type:
+    reference_id: RHSA-2023:6269
+  - url: https://access.redhat.com/errata/RHSA-2023:6272
+    reference_type:
+    reference_id: RHSA-2023:6272
+  - url: https://access.redhat.com/errata/RHSA-2023:6280
+    reference_type:
+    reference_id: RHSA-2023:6280
+  - url: https://access.redhat.com/errata/RHSA-2023:6286
+    reference_type:
+    reference_id: RHSA-2023:6286
+  - url: https://access.redhat.com/errata/RHSA-2023:6296
+    reference_type:
+    reference_id: RHSA-2023:6296
+  - url: https://access.redhat.com/errata/RHSA-2023:6298
+    reference_type:
+    reference_id: RHSA-2023:6298
+  - url: https://access.redhat.com/errata/RHSA-2023:6305
+    reference_type:
+    reference_id: RHSA-2023:6305
+  - url: https://access.redhat.com/errata/RHSA-2023:6746
+    reference_type:
+    reference_id: RHSA-2023:6746
+  - url: https://access.redhat.com/errata/RHSA-2023:6779
+    reference_type:
+    reference_id: RHSA-2023:6779
+  - url: https://access.redhat.com/errata/RHSA-2023:6781
+    reference_type:
+    reference_id: RHSA-2023:6781
+  - url: https://access.redhat.com/errata/RHSA-2023:6782
+    reference_type:
+    reference_id: RHSA-2023:6782
+  - url: https://access.redhat.com/errata/RHSA-2023:6783
+    reference_type:
+    reference_id: RHSA-2023:6783
+  - url: https://access.redhat.com/errata/RHSA-2023:6784
+    reference_type:
+    reference_id: RHSA-2023:6784
+  - url: https://access.redhat.com/errata/RHSA-2023:6785
+    reference_type:
+    reference_id: RHSA-2023:6785
+  - url: https://access.redhat.com/errata/RHSA-2023:6786
+    reference_type:
+    reference_id: RHSA-2023:6786
+  - url: https://access.redhat.com/errata/RHSA-2023:6787
+    reference_type:
+    reference_id: RHSA-2023:6787
+  - url: https://access.redhat.com/errata/RHSA-2023:6788
+    reference_type:
+    reference_id: RHSA-2023:6788
+  - url: https://access.redhat.com/errata/RHSA-2023:6817
+    reference_type:
+    reference_id: RHSA-2023:6817
+  - url: https://access.redhat.com/errata/RHSA-2023:6818
+    reference_type:
+    reference_id: RHSA-2023:6818
+  - url: https://access.redhat.com/errata/RHSA-2023:6832
+    reference_type:
+    reference_id: RHSA-2023:6832
+  - url: https://access.redhat.com/errata/RHSA-2023:6836
+    reference_type:
+    reference_id: RHSA-2023:6836
+  - url: https://access.redhat.com/errata/RHSA-2023:6837
+    reference_type:
+    reference_id: RHSA-2023:6837
+  - url: https://access.redhat.com/errata/RHSA-2023:6839
+    reference_type:
+    reference_id: RHSA-2023:6839
+  - url: https://access.redhat.com/errata/RHSA-2023:6840
+    reference_type:
+    reference_id: RHSA-2023:6840
+  - url: https://access.redhat.com/errata/RHSA-2023:7198
+    reference_type:
+    reference_id: RHSA-2023:7198
+  - url: https://access.redhat.com/errata/RHSA-2023:7205
+    reference_type:
+    reference_id: RHSA-2023:7205
+  - url: https://access.redhat.com/errata/RHSA-2023:7215
+    reference_type:
+    reference_id: RHSA-2023:7215
+  - url: https://access.redhat.com/errata/RHSA-2023:7218
+    reference_type:
+    reference_id: RHSA-2023:7218
+  - url: https://access.redhat.com/errata/RHSA-2023:7247
+    reference_type:
+    reference_id: RHSA-2023:7247
+  - url: https://access.redhat.com/errata/RHSA-2023:7288
+    reference_type:
+    reference_id: RHSA-2023:7288
+  - url: https://access.redhat.com/errata/RHSA-2023:7315
+    reference_type:
+    reference_id: RHSA-2023:7315
+  - url: https://access.redhat.com/errata/RHSA-2023:7325
+    reference_type:
+    reference_id: RHSA-2023:7325
+  - url: https://access.redhat.com/errata/RHSA-2023:7334
+    reference_type:
+    reference_id: RHSA-2023:7334
+  - url: https://access.redhat.com/errata/RHSA-2023:7335
+    reference_type:
+    reference_id: RHSA-2023:7335
+  - url: https://access.redhat.com/errata/RHSA-2023:7344
+    reference_type:
+    reference_id: RHSA-2023:7344
+  - url: https://access.redhat.com/errata/RHSA-2023:7345
+    reference_type:
+    reference_id: RHSA-2023:7345
+  - url: https://access.redhat.com/errata/RHSA-2023:7481
+    reference_type:
+    reference_id: RHSA-2023:7481
+  - url: https://access.redhat.com/errata/RHSA-2023:7482
+    reference_type:
+    reference_id: RHSA-2023:7482
+  - url: https://access.redhat.com/errata/RHSA-2023:7483
+    reference_type:
+    reference_id: RHSA-2023:7483
+  - url: https://access.redhat.com/errata/RHSA-2023:7484
+    reference_type:
+    reference_id: RHSA-2023:7484
+  - url: https://access.redhat.com/errata/RHSA-2023:7486
+    reference_type:
+    reference_id: RHSA-2023:7486
+  - url: https://access.redhat.com/errata/RHSA-2023:7488
+    reference_type:
+    reference_id: RHSA-2023:7488
+  - url: https://access.redhat.com/errata/RHSA-2023:7521
+    reference_type:
+    reference_id: RHSA-2023:7521
+  - url: https://access.redhat.com/errata/RHSA-2023:7522
+    reference_type:
+    reference_id: RHSA-2023:7522
+  - url: https://access.redhat.com/errata/RHSA-2023:7555
+    reference_type:
+    reference_id: RHSA-2023:7555
+  - url: https://access.redhat.com/errata/RHSA-2023:7587
+    reference_type:
+    reference_id: RHSA-2023:7587
+  - url: https://access.redhat.com/errata/RHSA-2023:7610
+    reference_type:
+    reference_id: RHSA-2023:7610
+  - url: https://access.redhat.com/errata/RHSA-2023:7637
+    reference_type:
+    reference_id: RHSA-2023:7637
+  - url: https://access.redhat.com/errata/RHSA-2023:7638
+    reference_type:
+    reference_id: RHSA-2023:7638
+  - url: https://access.redhat.com/errata/RHSA-2023:7639
+    reference_type:
+    reference_id: RHSA-2023:7639
+  - url: https://access.redhat.com/errata/RHSA-2023:7641
+    reference_type:
+    reference_id: RHSA-2023:7641
+  - url: https://access.redhat.com/errata/RHSA-2023:7653
+    reference_type:
+    reference_id: RHSA-2023:7653
+  - url: https://access.redhat.com/errata/RHSA-2023:7682
+    reference_type:
+    reference_id: RHSA-2023:7682
+  - url: https://access.redhat.com/errata/RHSA-2023:7687
+    reference_type:
+    reference_id: RHSA-2023:7687
+  - url: https://access.redhat.com/errata/RHSA-2023:7699
+    reference_type:
+    reference_id: RHSA-2023:7699
+  - url: https://access.redhat.com/errata/RHSA-2023:7703
+    reference_type:
+    reference_id: RHSA-2023:7703
+  - url: https://access.redhat.com/errata/RHSA-2023:7704
+    reference_type:
+    reference_id: RHSA-2023:7704
+  - url: https://access.redhat.com/errata/RHSA-2023:7741
+    reference_type:
+    reference_id: RHSA-2023:7741
+  - url: https://access.redhat.com/errata/RHSA-2024:0269
+    reference_type:
+    reference_id: RHSA-2024:0269
+  - url: https://access.redhat.com/errata/RHSA-2024:0302
+    reference_type:
+    reference_id: RHSA-2024:0302
+  - url: https://access.redhat.com/errata/RHSA-2024:0777
+    reference_type:
+    reference_id: RHSA-2024:0777
+  - url: https://access.redhat.com/errata/RHSA-2024:1444
+    reference_type:
+    reference_id: RHSA-2024:1444
+  - url: https://access.redhat.com/errata/RHSA-2024:1770
+    reference_type:
+    reference_id: RHSA-2024:1770
+  - url: https://access.redhat.com/errata/RHSA-2024:2633
+    reference_type:
+    reference_id: RHSA-2024:2633
+  - url: https://access.redhat.com/errata/RHSA-2024:4631
+    reference_type:
+    reference_id: RHSA-2024:4631
+  - url: https://blog.cloudflare.com/technical-breakdown-http2-rapid-reset-ddos-attack/
+    reference_type:
+    reference_id: technical-breakdown-http2-rapid-reset-ddos-attack
+  - url: https://usn.ubuntu.com/6427-1/
+    reference_type:
+    reference_id: USN-6427-1
+  - url: https://usn.ubuntu.com/6427-2/
+    reference_type:
+    reference_id: USN-6427-2
+  - url: https://usn.ubuntu.com/6438-1/
+    reference_type:
+    reference_id: USN-6438-1
+  - url: https://usn.ubuntu.com/6505-1/
+    reference_type:
+    reference_id: USN-6505-1
+  - url: https://usn.ubuntu.com/6574-1/
+    reference_type:
+    reference_id: USN-6574-1
+  - url: https://usn.ubuntu.com/6754-1/
+    reference_type:
+    reference_id: USN-6754-1
+  - url: https://usn.ubuntu.com/6994-1/
+    reference_type:
+    reference_id: USN-6994-1
+  - url: https://usn.ubuntu.com/7067-1/
+    reference_type:
+    reference_id: USN-7067-1
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/VHUHTSXLXGXS7JYKBXTA3VINUPHTNGVU/
+    reference_type:
+    reference_id: VHUHTSXLXGXS7JYKBXTA3VINUPHTNGVU
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/VSRDIV77HNKUSM7SJC5BKE5JSHLHU2NK/
+    reference_type:
+    reference_id: VSRDIV77HNKUSM7SJC5BKE5JSHLHU2NK
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/WE2I52RHNNU42PX6NZ2RBUHSFFJ2LVZX/
+    reference_type:
+    reference_id: WE2I52RHNNU42PX6NZ2RBUHSFFJ2LVZX
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/WLPRQ5TWUQQXYWBJM7ECYDAIL2YVKIUH/
+    reference_type:
+    reference_id: WLPRQ5TWUQQXYWBJM7ECYDAIL2YVKIUH
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/X6QXN4ORIVF6XBW4WWFE7VNPVC74S45Y/
+    reference_type:
+    reference_id: X6QXN4ORIVF6XBW4WWFE7VNPVC74S45Y
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/XFOIBB4YFICHDM7IBOP7PWXW3FX4HLL2/
+    reference_type:
+    reference_id: XFOIBB4YFICHDM7IBOP7PWXW3FX4HLL2
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/ZB43REMKRQR62NJEI7I5NQ4FSXNLBKRT/
+    reference_type:
+    reference_id: ZB43REMKRQR62NJEI7I5NQ4FSXNLBKRT
+  - url: https://blog.cloudflare.com/zero-day-rapid-reset-http2-record-breaking-ddos-attack/
+    reference_type:
+    reference_id: zero-day-rapid-reset-http2-record-breaking-ddos-attack
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/ZKQSIKIAT5TJ3WSLU3RDBQ35YX4GY4V3/
+    reference_type:
+    reference_id: ZKQSIKIAT5TJ3WSLU3RDBQ35YX4GY4V3
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/ZLU6U2R2IC2K64NDPNMV55AUAO65MAF4/
+    reference_type:
+    reference_id: ZLU6U2R2IC2K64NDPNMV55AUAO65MAF4

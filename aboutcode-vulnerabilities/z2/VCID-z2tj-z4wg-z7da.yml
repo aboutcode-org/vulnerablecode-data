@@ -1,0 +1,50 @@
+vulnerability_id: VCID-z2tj-z4wg-z7da
+aliases:
+  - CVE-2016-9401
+summary:
+severities:
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-10-04T15:39:15Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2017:1931
+  - score: '3.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-9401.json
+  - score: '0.00042'
+    scoring_system: epss
+    scoring_elements: '0.05073'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-9401
+weaknesses:
+  - CWE-416
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-9401.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-9401
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1396383
+    reference_type:
+    reference_id: 1396383
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=844727
+    reference_type:
+    reference_id: 844727
+  - url: https://security.gentoo.org/glsa/201701-02
+    reference_type:
+    reference_id: GLSA-201701-02
+  - url: https://access.redhat.com/errata/RHSA-2017:0725
+    reference_type:
+    reference_id: RHSA-2017:0725
+  - url: https://access.redhat.com/errata/RHSA-2017:1931
+    reference_type:
+    reference_id: RHSA-2017:1931
+  - url: https://usn.ubuntu.com/3294-1/
+    reference_type:
+    reference_id: USN-3294-1

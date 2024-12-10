@@ -1,0 +1,50 @@
+vulnerability_id: VCID-z6a7-28g1-hkaw
+aliases:
+  - CVE-2019-7664
+summary:
+severities:
+  - score: '3.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-7664.json
+  - score: '0.00164'
+    scoring_system: epss
+    scoring_elements: '0.53597'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-7664
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-863
+weaknesses:
+  - CWE-787
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-7664.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-7664
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1677536
+    reference_type:
+    reference_id: 1677536
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=921881
+    reference_type:
+    reference_id: 921881
+  - url: https://security.archlinux.org/ASA-201903-9
+    reference_type:
+    reference_id: ASA-201903-9
+  - url: https://security.archlinux.org/AVG-863
+    reference_type:
+    reference_id: AVG-863
+  - url: https://access.redhat.com/errata/RHSA-2019:2197
+    reference_type:
+    reference_id: RHSA-2019:2197
+  - url: https://access.redhat.com/errata/RHSA-2019:3575
+    reference_type:
+    reference_id: RHSA-2019:3575

@@ -1,0 +1,29 @@
+vulnerability_id: VCID-qyju-6edk-7fg9
+aliases:
+  - CVE-2019-15942
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-15942.json
+  - score: '0.00350'
+    scoring_system: epss
+    scoring_elements: '0.72223'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-15942
+weaknesses: []
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-15942.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-15942
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1848638
+    reference_type:
+    reference_id: 1848638
+  - url: https://security.gentoo.org/glsa/202007-58
+    reference_type:
+    reference_id: GLSA-202007-58

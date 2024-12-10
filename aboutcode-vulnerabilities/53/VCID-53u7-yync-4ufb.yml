@@ -1,0 +1,21 @@
+vulnerability_id: VCID-53u7-yync-4ufb
+aliases:
+  - CVE-2020-0601
+summary:
+severities:
+  - score: '0.96964'
+    scoring_system: epss
+    scoring_elements: '0.99771'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-0601
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-0601
+    reference_type:
+    reference_id:
+  - url: https://github.com/ollypwn/cve-2020-0601/tree/d957153ee016c69674769b64bf87b49f7d91120e
+    reference_type: exploit
+    reference_id: CVE-2020-0601
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/windows/local/47933.rb
+    reference_type: exploit
+    reference_id: CVE-2020-0601

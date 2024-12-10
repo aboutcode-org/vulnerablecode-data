@@ -1,0 +1,18 @@
+vulnerability_id: VCID-yuhx-gtcp-pfcg
+aliases:
+  - CVE-2021-32558
+summary:
+severities:
+  - score: '0.00849'
+    scoring_system: epss
+    scoring_elements: '0.82519'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-32558
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-32558
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=991710
+    reference_type:
+    reference_id: 991710

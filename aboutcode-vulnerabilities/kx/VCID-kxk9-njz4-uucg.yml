@@ -1,0 +1,53 @@
+vulnerability_id: VCID-kxk9-njz4-uucg
+aliases:
+  - CVE-2020-13397
+summary:
+severities:
+  - score: '6.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-13397.json
+  - score: '0.00047'
+    scoring_system: epss
+    scoring_elements: '0.18057'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-13397
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1172
+weaknesses:
+  - CWE-476
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-13397.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-13397
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1841196
+    reference_type:
+    reference_id: 1841196
+  - url: https://security.archlinux.org/ASA-202005-16
+    reference_type:
+    reference_id: ASA-202005-16
+  - url: https://security.archlinux.org/AVG-1172
+    reference_type:
+    reference_id: AVG-1172
+  - url: https://access.redhat.com/errata/RHSA-2020:4031
+    reference_type:
+    reference_id: RHSA-2020:4031
+  - url: https://access.redhat.com/errata/RHSA-2020:4647
+    reference_type:
+    reference_id: RHSA-2020:4647
+  - url: https://usn.ubuntu.com/4379-1/
+    reference_type:
+    reference_id: USN-4379-1
+  - url: https://usn.ubuntu.com/4382-1/
+    reference_type:
+    reference_id: USN-4382-1
+  - url: https://usn.ubuntu.com/4382-2/
+    reference_type:
+    reference_id: USN-4382-2

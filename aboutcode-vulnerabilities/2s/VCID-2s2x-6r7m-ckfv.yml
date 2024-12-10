@@ -1,0 +1,188 @@
+vulnerability_id: VCID-2s2x-6r7m-ckfv
+aliases:
+  - CVE-2024-34702
+summary:
+severities:
+  - score: '0.00046'
+    scoring_system: epss
+    scoring_elements: '0.17913'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-34702
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://github.com/randombit/botan/commit/21dccc8fef18c165ba3301d850ac61521f85637e
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-08T17:49:00Z/
+    published_at:
+    url: https://github.com/randombit/botan/commit/21dccc8fef18c165ba3301d850ac61521f85637e
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://github.com/randombit/botan/commit/39535f13c322f56aa3da2f44b2b6abb8619a82ac
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-08T17:49:00Z/
+    published_at:
+    url: https://github.com/randombit/botan/commit/39535f13c322f56aa3da2f44b2b6abb8619a82ac
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://github.com/randombit/botan/commit/477822a2d10f02d8ba46c9d8a5132f25843f5cc1
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-08T17:49:00Z/
+    published_at:
+    url: https://github.com/randombit/botan/commit/477822a2d10f02d8ba46c9d8a5132f25843f5cc1
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://github.com/randombit/botan/commit/7606d70d3a2ac7114476ec2651ca0243c4536fdf
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-08T17:49:00Z/
+    published_at:
+    url: https://github.com/randombit/botan/commit/7606d70d3a2ac7114476ec2651ca0243c4536fdf
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://github.com/randombit/botan/commit/c3264821b9f6286ee4e6e3e06826f6b7177e6d41
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-08T17:49:00Z/
+    published_at:
+    url: https://github.com/randombit/botan/commit/c3264821b9f6286ee4e6e3e06826f6b7177e6d41
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://github.com/randombit/botan/commit/ff704b12e6fa351aaedd07bffdc91722e84586b8
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-08T17:49:00Z/
+    published_at:
+    url: https://github.com/randombit/botan/commit/ff704b12e6fa351aaedd07bffdc91722e84586b8
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://github.com/randombit/botan/pull/4034
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-08T17:49:00Z/
+    published_at:
+    url: https://github.com/randombit/botan/pull/4034
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://github.com/randombit/botan/pull/4045
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-08T17:49:00Z/
+    published_at:
+    url: https://github.com/randombit/botan/pull/4045
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://github.com/randombit/botan/pull/4047
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-08T17:49:00Z/
+    published_at:
+    url: https://github.com/randombit/botan/pull/4047
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://github.com/randombit/botan/pull/4052
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-08T17:49:00Z/
+    published_at:
+    url: https://github.com/randombit/botan/pull/4052
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://github.com/randombit/botan/pull/4186
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-08T17:49:00Z/
+    published_at:
+    url: https://github.com/randombit/botan/pull/4186
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://github.com/randombit/botan/pull/4187
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-08T17:49:00Z/
+    published_at:
+    url: https://github.com/randombit/botan/pull/4187
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://github.com/randombit/botan/security/advisories/GHSA-5gg9-hqpr-r58j
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-08T17:49:00Z/
+    published_at:
+    url: https://github.com/randombit/botan/security/advisories/GHSA-5gg9-hqpr-r58j
+weaknesses:
+  - CWE-405
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-34702
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://github.com/randombit/botan/commit/21dccc8fef18c165ba3301d850ac61521f85637e
+    reference_type:
+    reference_id: 21dccc8fef18c165ba3301d850ac61521f85637e
+  - url: https://github.com/randombit/botan/commit/39535f13c322f56aa3da2f44b2b6abb8619a82ac
+    reference_type:
+    reference_id: 39535f13c322f56aa3da2f44b2b6abb8619a82ac
+  - url: https://github.com/randombit/botan/pull/4034
+    reference_type:
+    reference_id: 4034
+  - url: https://github.com/randombit/botan/pull/4045
+    reference_type:
+    reference_id: 4045
+  - url: https://github.com/randombit/botan/pull/4047
+    reference_type:
+    reference_id: 4047
+  - url: https://github.com/randombit/botan/pull/4052
+    reference_type:
+    reference_id: 4052
+  - url: https://github.com/randombit/botan/pull/4186
+    reference_type:
+    reference_id: 4186
+  - url: https://github.com/randombit/botan/pull/4187
+    reference_type:
+    reference_id: 4187
+  - url: https://github.com/randombit/botan/commit/477822a2d10f02d8ba46c9d8a5132f25843f5cc1
+    reference_type:
+    reference_id: 477822a2d10f02d8ba46c9d8a5132f25843f5cc1
+  - url: https://github.com/randombit/botan/commit/7606d70d3a2ac7114476ec2651ca0243c4536fdf
+    reference_type:
+    reference_id: 7606d70d3a2ac7114476ec2651ca0243c4536fdf
+  - url: https://github.com/randombit/botan/commit/c3264821b9f6286ee4e6e3e06826f6b7177e6d41
+    reference_type:
+    reference_id: c3264821b9f6286ee4e6e3e06826f6b7177e6d41
+  - url: https://github.com/randombit/botan/commit/ff704b12e6fa351aaedd07bffdc91722e84586b8
+    reference_type:
+    reference_id: ff704b12e6fa351aaedd07bffdc91722e84586b8
+  - url: https://github.com/randombit/botan/security/advisories/GHSA-5gg9-hqpr-r58j
+    reference_type:
+    reference_id: GHSA-5gg9-hqpr-r58j

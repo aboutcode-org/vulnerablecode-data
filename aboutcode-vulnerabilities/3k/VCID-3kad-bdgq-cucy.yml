@@ -1,0 +1,30 @@
+vulnerability_id: VCID-3kad-bdgq-cucy
+aliases:
+  - CVE-2020-3327
+summary:
+severities:
+  - score: '0.00604'
+    scoring_system: epss
+    scoring_elements: '0.78863'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-3327
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-3327
+    reference_type:
+    reference_id:
+  - url: https://security.gentoo.org/glsa/202007-23
+    reference_type:
+    reference_id: GLSA-202007-23
+  - url: https://usn.ubuntu.com/4370-1/
+    reference_type:
+    reference_id: USN-4370-1
+  - url: https://usn.ubuntu.com/4370-2/
+    reference_type:
+    reference_id: USN-4370-2
+  - url: https://usn.ubuntu.com/4435-1/
+    reference_type:
+    reference_id: USN-4435-1
+  - url: https://usn.ubuntu.com/4435-2/
+    reference_type:
+    reference_id: USN-4435-2

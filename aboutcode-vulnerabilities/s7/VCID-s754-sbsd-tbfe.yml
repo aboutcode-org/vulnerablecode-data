@@ -1,0 +1,103 @@
+vulnerability_id: VCID-s754-sbsd-tbfe
+aliases:
+  - CVE-2021-38498
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-38498.json
+  - score: '0.00265'
+    scoring_system: epss
+    scoring_elements: '0.66430'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-38498
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2443
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2459
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-43
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-45
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-47
+weaknesses:
+  - CWE-416
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-38498.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-38498
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2011099
+    reference_type:
+    reference_id: 2011099
+  - url: https://security.archlinux.org/AVG-2443
+    reference_type:
+    reference_id: AVG-2443
+  - url: https://security.archlinux.org/AVG-2459
+    reference_type:
+    reference_id: AVG-2459
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-43
+    reference_type:
+    reference_id: mfsa2021-43
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-45
+    reference_type:
+    reference_id: mfsa2021-45
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-47
+    reference_type:
+    reference_id: mfsa2021-47
+  - url: https://access.redhat.com/errata/RHSA-2021:3755
+    reference_type:
+    reference_id: RHSA-2021:3755
+  - url: https://access.redhat.com/errata/RHSA-2021:3756
+    reference_type:
+    reference_id: RHSA-2021:3756
+  - url: https://access.redhat.com/errata/RHSA-2021:3757
+    reference_type:
+    reference_id: RHSA-2021:3757
+  - url: https://access.redhat.com/errata/RHSA-2021:3791
+    reference_type:
+    reference_id: RHSA-2021:3791
+  - url: https://access.redhat.com/errata/RHSA-2021:3838
+    reference_type:
+    reference_id: RHSA-2021:3838
+  - url: https://access.redhat.com/errata/RHSA-2021:3839
+    reference_type:
+    reference_id: RHSA-2021:3839
+  - url: https://access.redhat.com/errata/RHSA-2021:3840
+    reference_type:
+    reference_id: RHSA-2021:3840
+  - url: https://access.redhat.com/errata/RHSA-2021:3841
+    reference_type:
+    reference_id: RHSA-2021:3841
+  - url: https://usn.ubuntu.com/5107-1/
+    reference_type:
+    reference_id: USN-5107-1
+  - url: https://usn.ubuntu.com/5132-1/
+    reference_type:
+    reference_id: USN-5132-1
+  - url: https://usn.ubuntu.com/5248-1/
+    reference_type:
+    reference_id: USN-5248-1

@@ -1,0 +1,40 @@
+vulnerability_id: VCID-299d-kfhn-2qfr
+aliases:
+  - CVE-2021-29960
+summary:
+severities:
+  - score: '0.00101'
+    scoring_system: epss
+    scoring_elements: '0.42375'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-29960
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2018
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-23
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-29960
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/ASA-202106-3
+    reference_type:
+    reference_id: ASA-202106-3
+  - url: https://security.archlinux.org/AVG-2018
+    reference_type:
+    reference_id: AVG-2018
+  - url: https://security.gentoo.org/glsa/202107-09
+    reference_type:
+    reference_id: GLSA-202107-09
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-23
+    reference_type:
+    reference_id: mfsa2021-23
+  - url: https://usn.ubuntu.com/4978-1/
+    reference_type:
+    reference_id: USN-4978-1

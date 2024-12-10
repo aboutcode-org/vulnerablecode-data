@@ -1,0 +1,37 @@
+vulnerability_id: VCID-uyyb-86v5-bkcw
+aliases:
+  - CVE-2016-5767
+summary:
+severities:
+  - score: '5.6'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-5767.json
+  - score: '0.03999'
+    scoring_system: epss
+    scoring_elements: '0.92238'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-5767
+weaknesses:
+  - CWE-190
+  - CWE-122
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-5767.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-5767
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1351069
+    reference_type:
+    reference_id: 1351069
+  - url: https://access.redhat.com/errata/RHSA-2016:2598
+    reference_type:
+    reference_id: RHSA-2016:2598
+  - url: https://access.redhat.com/errata/RHSA-2016:2750
+    reference_type:
+    reference_id: RHSA-2016:2750

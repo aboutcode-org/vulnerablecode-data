@@ -1,0 +1,105 @@
+vulnerability_id: VCID-b1th-wjfc-2bf9
+aliases:
+  - CVE-2017-1000099
+summary:
+severities:
+  - score: '4.7'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-1000099.json
+  - score: '0.00216'
+    scoring_system: epss
+    scoring_elements: '0.59744'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2017-1000099
+  - score: Medium
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2017-1000099.html
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-370
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-371
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-386
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-387
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-388
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-389
+weaknesses:
+  - CWE-125
+  - CWE-170
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-1000099.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2017-1000099
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2017-1000099.html
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1478316
+    reference_type:
+    reference_id: 1478316
+  - url: https://security.archlinux.org/ASA-201708-16
+    reference_type:
+    reference_id: ASA-201708-16
+  - url: https://security.archlinux.org/ASA-201710-3
+    reference_type:
+    reference_id: ASA-201710-3
+  - url: https://security.archlinux.org/ASA-201710-4
+    reference_type:
+    reference_id: ASA-201710-4
+  - url: https://security.archlinux.org/ASA-201710-5
+    reference_type:
+    reference_id: ASA-201710-5
+  - url: https://security.archlinux.org/ASA-201710-6
+    reference_type:
+    reference_id: ASA-201710-6
+  - url: https://security.archlinux.org/ASA-201710-7
+    reference_type:
+    reference_id: ASA-201710-7
+  - url: https://security.archlinux.org/AVG-370
+    reference_type:
+    reference_id: AVG-370
+  - url: https://security.archlinux.org/AVG-371
+    reference_type:
+    reference_id: AVG-371
+  - url: https://security.archlinux.org/AVG-386
+    reference_type:
+    reference_id: AVG-386
+  - url: https://security.archlinux.org/AVG-387
+    reference_type:
+    reference_id: AVG-387
+  - url: https://security.archlinux.org/AVG-388
+    reference_type:
+    reference_id: AVG-388
+  - url: https://security.archlinux.org/AVG-389
+    reference_type:
+    reference_id: AVG-389
+  - url: https://security.gentoo.org/glsa/201709-14
+    reference_type:
+    reference_id: GLSA-201709-14

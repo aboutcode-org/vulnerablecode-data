@@ -1,0 +1,50 @@
+vulnerability_id: VCID-n2y3-jvhg-v3fz
+aliases:
+  - CVE-2019-17596
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-17596.json
+  - score: '0.00414'
+    scoring_system: epss
+    scoring_elements: '0.74377'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-17596
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1051
+weaknesses:
+  - CWE-295
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-17596.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-17596
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-17596
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1763310
+    reference_type:
+    reference_id: 1763310
+  - url: https://security.archlinux.org/ASA-201910-12
+    reference_type:
+    reference_id: ASA-201910-12
+  - url: https://security.archlinux.org/AVG-1051
+    reference_type:
+    reference_id: AVG-1051
+  - url: https://access.redhat.com/errata/RHSA-2020:0101
+    reference_type:
+    reference_id: RHSA-2020:0101
+  - url: https://access.redhat.com/errata/RHSA-2020:0329
+    reference_type:
+    reference_id: RHSA-2020:0329

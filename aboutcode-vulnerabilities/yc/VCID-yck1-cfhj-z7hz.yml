@@ -1,0 +1,75 @@
+vulnerability_id: VCID-yck1-cfhj-z7hz
+aliases:
+  - CVE-2024-22871
+  - GHSA-vr64-r9qj-h27f
+summary:
+severities:
+  - score: '0.00045'
+    scoring_system: epss
+    scoring_elements: '0.16440'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-22871
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/25FKUOYXQZGGJMFUM5HJABWMIX2TILRV/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:P/P:M/B:A/M:M/D:T/2024-08-13T18:49:42Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/25FKUOYXQZGGJMFUM5HJABWMIX2TILRV/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/SWWK2SO2MH4SXPO6L444MM6LHVLVFULV/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:P/P:M/B:A/M:M/D:T/2024-08-13T18:49:42Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/SWWK2SO2MH4SXPO6L444MM6LHVLVFULV/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/YFPGUDXMW6OXKIDGCOZFEAXO74VQIB2T/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:P/P:M/B:A/M:M/D:T/2024-08-13T18:49:42Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/YFPGUDXMW6OXKIDGCOZFEAXO74VQIB2T/
+weaknesses:
+  - CWE-937
+  - CWE-1035
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-22871
+    reference_type:
+    reference_id:
+  - url: https://clojure.atlassian.net/browse/CLJ-2839
+    reference_type:
+    reference_id:
+  - url: https://github.com/clojure/clojure
+    reference_type:
+    reference_id:
+  - url: https://hackmd.io/%40fe1w0/rymmJGida
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1071746
+    reference_type:
+    reference_id: 1071746
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/25FKUOYXQZGGJMFUM5HJABWMIX2TILRV/
+    reference_type:
+    reference_id: 25FKUOYXQZGGJMFUM5HJABWMIX2TILRV
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2024-22871
+    reference_type:
+    reference_id: CVE-2024-22871
+  - url: https://github.com/advisories/GHSA-vr64-r9qj-h27f
+    reference_type:
+    reference_id: GHSA-vr64-r9qj-h27f
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/SWWK2SO2MH4SXPO6L444MM6LHVLVFULV/
+    reference_type:
+    reference_id: SWWK2SO2MH4SXPO6L444MM6LHVLVFULV
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/YFPGUDXMW6OXKIDGCOZFEAXO74VQIB2T/
+    reference_type:
+    reference_id: YFPGUDXMW6OXKIDGCOZFEAXO74VQIB2T

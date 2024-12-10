@@ -1,0 +1,15 @@
+vulnerability_id: VCID-kk7c-3uas-f3dm
+aliases:
+  - CVE-2022-37325
+summary:
+severities:
+  - score: '0.00339'
+    scoring_system: epss
+    scoring_elements: '0.71776'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-37325
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-37325
+    reference_type:
+    reference_id:

@@ -1,0 +1,18 @@
+vulnerability_id: VCID-avcu-mbjx-1ucy
+aliases:
+  - CVE-2019-15297
+summary:
+severities:
+  - score: '0.01147'
+    scoring_system: epss
+    scoring_elements: '0.85131'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-15297
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-15297
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=940060
+    reference_type:
+    reference_id: 940060

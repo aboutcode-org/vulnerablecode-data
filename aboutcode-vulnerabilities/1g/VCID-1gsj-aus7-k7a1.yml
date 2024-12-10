@@ -1,0 +1,36 @@
+vulnerability_id: VCID-1gsj-aus7-k7a1
+aliases:
+  - CVE-2017-15874
+summary:
+severities:
+  - score: '3.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-15874.json
+  - score: '0.00067'
+    scoring_system: epss
+    scoring_elements: '0.30528'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2017-15874
+weaknesses:
+  - CWE-190
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-15874.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2017-15874
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1515286
+    reference_type:
+    reference_id: 1515286
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=879732
+    reference_type:
+    reference_id: 879732
+  - url: https://security.gentoo.org/glsa/201803-12
+    reference_type:
+    reference_id: GLSA-201803-12

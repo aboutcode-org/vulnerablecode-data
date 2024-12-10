@@ -1,0 +1,113 @@
+vulnerability_id: VCID-pmmc-whtw-5kau
+aliases:
+  - CVE-2018-18501
+summary:
+severities:
+  - score: '9.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-18501.json
+  - score: '0.00880'
+    scoring_system: epss
+    scoring_elements: '0.82837'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-18501
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-862
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-01
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-02
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-03
+weaknesses:
+  - CWE-120
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-18501.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-18501
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18356
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18500
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18501
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18505
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18509
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18512
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18513
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-5785
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1670632
+    reference_type:
+    reference_id: 1670632
+  - url: https://security.archlinux.org/ASA-201902-2
+    reference_type:
+    reference_id: ASA-201902-2
+  - url: https://security.archlinux.org/AVG-862
+    reference_type:
+    reference_id: AVG-862
+  - url: https://security.gentoo.org/glsa/201903-04
+    reference_type:
+    reference_id: GLSA-201903-04
+  - url: https://security.gentoo.org/glsa/201904-07
+    reference_type:
+    reference_id: GLSA-201904-07
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-01
+    reference_type:
+    reference_id: mfsa2019-01
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-02
+    reference_type:
+    reference_id: mfsa2019-02
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-03
+    reference_type:
+    reference_id: mfsa2019-03
+  - url: https://access.redhat.com/errata/RHSA-2019:0218
+    reference_type:
+    reference_id: RHSA-2019:0218
+  - url: https://access.redhat.com/errata/RHSA-2019:0219
+    reference_type:
+    reference_id: RHSA-2019:0219
+  - url: https://access.redhat.com/errata/RHSA-2019:0269
+    reference_type:
+    reference_id: RHSA-2019:0269
+  - url: https://access.redhat.com/errata/RHSA-2019:0270
+    reference_type:
+    reference_id: RHSA-2019:0270
+  - url: https://usn.ubuntu.com/3874-1/
+    reference_type:
+    reference_id: USN-3874-1
+  - url: https://usn.ubuntu.com/3897-1/
+    reference_type:
+    reference_id: USN-3897-1

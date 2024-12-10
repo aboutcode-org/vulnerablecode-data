@@ -1,0 +1,30 @@
+vulnerability_id: VCID-n2gr-rppy-dqhw
+aliases:
+  - CVE-2020-10736
+summary:
+severities:
+  - score: '8.0'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:A/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-10736.json
+  - score: '0.00044'
+    scoring_system: epss
+    scoring_elements: '0.13409'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-10736
+weaknesses:
+  - CWE-285
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-10736.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-10736
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1833025
+    reference_type:
+    reference_id: 1833025
+  - url: https://usn.ubuntu.com/4706-1/
+    reference_type:
+    reference_id: USN-4706-1

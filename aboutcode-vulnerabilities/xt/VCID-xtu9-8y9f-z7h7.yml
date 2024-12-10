@@ -1,0 +1,24 @@
+vulnerability_id: VCID-xtu9-8y9f-z7h7
+aliases:
+  - CVE-2019-8842
+summary:
+severities:
+  - score: '0.00107'
+    scoring_system: epss
+    scoring_elements: '0.44294'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-8842
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-8842
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://usn.ubuntu.com/5454-1/
+    reference_type:
+    reference_id: USN-5454-1
+  - url: https://usn.ubuntu.com/5454-2/
+    reference_type:
+    reference_id: USN-5454-2

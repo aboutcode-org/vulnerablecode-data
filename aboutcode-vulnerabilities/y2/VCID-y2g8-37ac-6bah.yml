@@ -1,0 +1,102 @@
+vulnerability_id: VCID-y2g8-37ac-6bah
+aliases:
+  - CVE-2023-43655
+  - GHSA-jm6m-4632-36hf
+summary:
+severities:
+  - score: '0.00885'
+    scoring_system: epss
+    scoring_elements: '0.82886'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-43655
+  - score: '6.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:H/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/composer/composer/security/advisories/GHSA-jm6m-4632-36hf
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-09-23T16:22:54Z/
+    published_at:
+    url: https://github.com/composer/composer/security/advisories/GHSA-jm6m-4632-36hf
+  - score: '6.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:H/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://lists.debian.org/debian-lts-announce/2024/03/msg00030.html
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-09-23T16:22:54Z/
+    published_at:
+    url: https://lists.debian.org/debian-lts-announce/2024/03/msg00030.html
+  - score: '6.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:H/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/66H2WKFUO255T3BZTL72TNYJYH2XM5FG/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-09-23T16:22:54Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/66H2WKFUO255T3BZTL72TNYJYH2XM5FG/
+  - score: '6.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:H/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/7AWYAUZNH565NWPIKGEIYBWHYNM5JGAE/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-09-23T16:22:54Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/7AWYAUZNH565NWPIKGEIYBWHYNM5JGAE/
+  - score: '6.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:H/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/KFOPGPW2KS37O3KJWBRGTUWHTXCQXBS2/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-09-23T16:22:54Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/KFOPGPW2KS37O3KJWBRGTUWHTXCQXBS2/
+weaknesses:
+  - CWE-1035
+  - CWE-74
+  - CWE-937
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-43655
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://github.com/composer/composer/commit/4fce14795aba98e40b6c4f5047305aba17a6120d
+    reference_type:
+    reference_id:
+  - url: https://github.com/composer/composer/commit/955a48e6319c8962e5cd421b07c00ab3c728968c
+    reference_type:
+    reference_id:
+  - url: https://github.com/composer/composer/commit/95e091c921037b7b6564942845e7b738f6b95c9c
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/66H2WKFUO255T3BZTL72TNYJYH2XM5FG/
+    reference_type:
+    reference_id: 66H2WKFUO255T3BZTL72TNYJYH2XM5FG
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/7AWYAUZNH565NWPIKGEIYBWHYNM5JGAE/
+    reference_type:
+    reference_id: 7AWYAUZNH565NWPIKGEIYBWHYNM5JGAE
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2023-43655
+    reference_type:
+    reference_id: CVE-2023-43655
+  - url: https://github.com/advisories/GHSA-jm6m-4632-36hf
+    reference_type:
+    reference_id: GHSA-jm6m-4632-36hf
+  - url: https://github.com/composer/composer/security/advisories/GHSA-jm6m-4632-36hf
+    reference_type:
+    reference_id: GHSA-jm6m-4632-36hf
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/KFOPGPW2KS37O3KJWBRGTUWHTXCQXBS2/
+    reference_type:
+    reference_id: KFOPGPW2KS37O3KJWBRGTUWHTXCQXBS2
+  - url: https://lists.debian.org/debian-lts-announce/2024/03/msg00030.html
+    reference_type:
+    reference_id: msg00030.html

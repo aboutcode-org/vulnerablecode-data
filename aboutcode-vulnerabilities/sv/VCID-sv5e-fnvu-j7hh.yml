@@ -1,0 +1,101 @@
+vulnerability_id: VCID-sv5e-fnvu-j7hh
+aliases:
+  - CVE-2024-32021
+summary:
+severities:
+  - score: '3.9'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:L/UI:R/S:C/C:N/I:L/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-32021.json
+  - score: '0.00045'
+    scoring_system: epss
+    scoring_elements: '0.16440'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-32021
+  - score: '3.9'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:L/UI:R/S:C/C:N/I:L/A:L
+    published_at:
+    url: https://github.com/git/git/security/advisories/GHSA-mvxm-9j2h-qjx7
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-11T20:29:23Z/
+    published_at:
+    url: https://github.com/git/git/security/advisories/GHSA-mvxm-9j2h-qjx7
+  - score: '3.9'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:L/UI:R/S:C/C:N/I:L/A:L
+    published_at:
+    url: https://lists.debian.org/debian-lts-announce/2024/06/msg00018.html
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-19T18:49:36Z/
+    published_at:
+    url: https://lists.debian.org/debian-lts-announce/2024/06/msg00018.html
+  - score: '3.9'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:L/UI:R/S:C/C:N/I:L/A:L
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/S4CK4IYTXEOBZTEM5K3T6LWOIZ3S44AR/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-11T20:29:23Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/S4CK4IYTXEOBZTEM5K3T6LWOIZ3S44AR/
+  - score: '3.9'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:L/UI:R/S:C/C:N/I:L/A:L
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/05/14/2
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-11T20:29:23Z/
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/05/14/2
+weaknesses:
+  - CWE-61
+  - CWE-547
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-32021.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-32021
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1071160
+    reference_type:
+    reference_id: 1071160
+  - url: http://www.openwall.com/lists/oss-security/2024/05/14/2
+    reference_type:
+    reference_id: 2
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2280484
+    reference_type:
+    reference_id: 2280484
+  - url: https://github.com/git/git/security/advisories/GHSA-mvxm-9j2h-qjx7
+    reference_type:
+    reference_id: GHSA-mvxm-9j2h-qjx7
+  - url: https://lists.debian.org/debian-lts-announce/2024/06/msg00018.html
+    reference_type:
+    reference_id: msg00018.html
+  - url: https://access.redhat.com/errata/RHSA-2024:4083
+    reference_type:
+    reference_id: RHSA-2024:4083
+  - url: https://access.redhat.com/errata/RHSA-2024:4084
+    reference_type:
+    reference_id: RHSA-2024:4084
+  - url: https://access.redhat.com/errata/RHSA-2024:4368
+    reference_type:
+    reference_id: RHSA-2024:4368
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/S4CK4IYTXEOBZTEM5K3T6LWOIZ3S44AR/
+    reference_type:
+    reference_id: S4CK4IYTXEOBZTEM5K3T6LWOIZ3S44AR
+  - url: https://usn.ubuntu.com/6793-1/
+    reference_type:
+    reference_id: USN-6793-1
+  - url: https://usn.ubuntu.com/7023-1/
+    reference_type:
+    reference_id: USN-7023-1

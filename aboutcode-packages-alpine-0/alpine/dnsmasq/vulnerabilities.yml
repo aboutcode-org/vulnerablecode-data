@@ -1,0 +1,3984 @@
+- purl: pkg:alpine/dnsmasq@2.76-r1?arch=armhf&distroversion=v3.3&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.76-r1?arch=armhf&distroversion=v3.4&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.76-r1?arch=x86_64&distroversion=v3.3&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.76-r1?arch=x86_64&distroversion=v3.4&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.76-r1?arch=x86&distroversion=v3.3&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.76-r1?arch=x86&distroversion=v3.4&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.76-r2?arch=aarch64&distroversion=v3.5&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.76-r2?arch=armhf&distroversion=v3.5&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.76-r2?arch=x86_64&distroversion=v3.5&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.76-r2?arch=x86&distroversion=v3.5&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.76-r3?arch=aarch64&distroversion=v3.5&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.76-r3?arch=armhf&distroversion=v3.5&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.76-r3?arch=x86_64&distroversion=v3.5&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.76-r3?arch=x86&distroversion=v3.5&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.76-r5?arch=aarch64&distroversion=v3.6&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.76-r5?arch=armhf&distroversion=v3.6&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.76-r5?arch=ppc64le&distroversion=v3.6&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.76-r5?arch=s390x&distroversion=v3.6&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.76-r5?arch=x86_64&distroversion=v3.6&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.76-r5?arch=x86&distroversion=v3.6&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.76-r6?arch=aarch64&distroversion=v3.6&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.76-r6?arch=armhf&distroversion=v3.6&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.76-r6?arch=ppc64le&distroversion=v3.6&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.76-r6?arch=s390x&distroversion=v3.6&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.76-r6?arch=x86_64&distroversion=v3.6&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.76-r6?arch=x86&distroversion=v3.6&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=aarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=aarch64&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=aarch64&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=aarch64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=aarch64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=aarch64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=aarch64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=aarch64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=aarch64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=aarch64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=aarch64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=aarch64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=aarch64&distroversion=v3.7&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=aarch64&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=aarch64&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armhf&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armhf&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armhf&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armhf&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armhf&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armhf&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armhf&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armhf&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armhf&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armhf&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armhf&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armhf&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armhf&distroversion=v3.7&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armhf&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armhf&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armv7&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armv7&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armv7&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armv7&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armv7&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armv7&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armv7&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armv7&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armv7&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armv7&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armv7&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armv7&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=armv7&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=loongarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=mips64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=mips64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=ppc64le&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=ppc64le&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=ppc64le&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=ppc64le&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=ppc64le&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=ppc64le&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=ppc64le&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=ppc64le&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=ppc64le&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=ppc64le&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=ppc64le&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=ppc64le&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=ppc64le&distroversion=v3.7&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=ppc64le&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=ppc64le&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=riscv64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=riscv64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=s390x&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=s390x&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=s390x&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=s390x&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=s390x&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=s390x&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=s390x&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=s390x&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=s390x&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=s390x&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=s390x&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=s390x&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=s390x&distroversion=v3.7&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=s390x&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=s390x&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86_64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86_64&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86_64&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86_64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86_64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86_64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86_64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86_64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86_64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86_64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86_64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86_64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86_64&distroversion=v3.7&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86_64&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86_64&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86&distroversion=v3.7&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r0?arch=x86&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1frj-ay3c-vuca
+    - VCID-4bqw-ubkv-77fs
+    - VCID-p1u8-djnm-kfh8
+    - VCID-r9h8-z3ym-gyca
+    - VCID-vjea-1pxa-f3gp
+    - VCID-ws2s-72ve-9bfn
+    - VCID-zj6a-19yg-cub8
+- purl: pkg:alpine/dnsmasq@2.78-r2?arch=aarch64&distroversion=v3.7&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.78-r2?arch=armhf&distroversion=v3.7&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.78-r2?arch=ppc64le&distroversion=v3.7&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.78-r2?arch=s390x&distroversion=v3.7&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.78-r2?arch=x86_64&distroversion=v3.7&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.78-r2?arch=x86&distroversion=v3.7&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=aarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=aarch64&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=aarch64&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=aarch64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=aarch64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=aarch64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=aarch64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=aarch64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=aarch64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=aarch64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=aarch64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=aarch64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=aarch64&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=aarch64&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armhf&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armhf&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armhf&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armhf&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armhf&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armhf&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armhf&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armhf&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armhf&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armhf&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armhf&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armhf&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armhf&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armhf&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armv7&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armv7&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armv7&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armv7&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armv7&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armv7&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armv7&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armv7&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armv7&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armv7&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armv7&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armv7&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=armv7&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=loongarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=mips64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=mips64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=ppc64le&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=ppc64le&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=ppc64le&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=ppc64le&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=ppc64le&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=ppc64le&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=ppc64le&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=ppc64le&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=ppc64le&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=ppc64le&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=ppc64le&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=ppc64le&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=ppc64le&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=ppc64le&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=riscv64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=riscv64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=s390x&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=s390x&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=s390x&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=s390x&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=s390x&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=s390x&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=s390x&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=s390x&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=s390x&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=s390x&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=s390x&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=s390x&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=s390x&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=s390x&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86_64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86_64&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86_64&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86_64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86_64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86_64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86_64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86_64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86_64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86_64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86_64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86_64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86_64&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86_64&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r0?arch=x86&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qrg7-7sj7-sfb7
+- purl: pkg:alpine/dnsmasq@2.79-r4?arch=aarch64&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.79-r4?arch=armhf&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.79-r4?arch=ppc64le&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.79-r4?arch=s390x&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.79-r4?arch=x86_64&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.79-r4?arch=x86&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r4?arch=aarch64&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r4?arch=aarch64&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r4?arch=armhf&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r4?arch=armhf&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r4?arch=armv7&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r4?arch=armv7&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r4?arch=ppc64le&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r4?arch=ppc64le&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r4?arch=s390x&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r4?arch=s390x&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r4?arch=x86_64&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r4?arch=x86_64&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r4?arch=x86&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r4?arch=x86&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=aarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=aarch64&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=aarch64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=aarch64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=aarch64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=aarch64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=aarch64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=aarch64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=aarch64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=aarch64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=aarch64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=armhf&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=armhf&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=armhf&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=armhf&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=armhf&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=armhf&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=armhf&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=armhf&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=armhf&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=armhf&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=armhf&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=armv7&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=armv7&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=armv7&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=armv7&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=armv7&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=armv7&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=armv7&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=armv7&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=armv7&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=armv7&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=armv7&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=loongarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=mips64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=mips64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=ppc64le&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=ppc64le&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=ppc64le&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=ppc64le&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=ppc64le&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=ppc64le&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=ppc64le&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=ppc64le&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=ppc64le&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=ppc64le&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=ppc64le&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=riscv64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=riscv64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=s390x&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=s390x&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=s390x&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=s390x&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=s390x&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=s390x&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=s390x&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=s390x&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=s390x&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=s390x&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=s390x&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=x86_64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=x86_64&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=x86_64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=x86_64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=x86_64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=x86_64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=x86_64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=x86_64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=x86_64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=x86_64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=x86_64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=x86&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=x86&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=x86&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=x86&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=x86&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=x86&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=x86&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=x86&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=x86&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=x86&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.80-r5?arch=x86&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-mb34-6mn3-87cx
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=aarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=aarch64&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=aarch64&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=aarch64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=aarch64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=aarch64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=aarch64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=aarch64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=aarch64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=aarch64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=aarch64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=aarch64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=armhf&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=armhf&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=armhf&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=armhf&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=armhf&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=armhf&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=armhf&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=armhf&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=armhf&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=armhf&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=armhf&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=armhf&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=armv7&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=armv7&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=armv7&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=armv7&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=armv7&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=armv7&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=armv7&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=armv7&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=armv7&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=armv7&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=armv7&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=armv7&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=loongarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=mips64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=mips64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=ppc64le&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=ppc64le&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=ppc64le&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=ppc64le&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=ppc64le&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=ppc64le&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=ppc64le&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=ppc64le&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=ppc64le&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=ppc64le&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=ppc64le&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=ppc64le&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=riscv64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=riscv64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=s390x&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=s390x&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=s390x&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=s390x&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=s390x&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=s390x&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=s390x&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=s390x&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=s390x&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=s390x&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=s390x&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=s390x&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=x86_64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=x86_64&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=x86_64&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=x86_64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=x86_64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=x86_64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=x86_64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=x86_64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=x86_64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=x86_64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=x86_64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=x86_64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=x86&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=x86&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=x86&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=x86&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=x86&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=x86&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=x86&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=x86&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=x86&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=x86&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=x86&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.83-r0?arch=x86&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-31sp-jtpp-jbhk
+    - VCID-7r97-48pu-suha
+    - VCID-cyj6-zqgc-pkg4
+    - VCID-ex6p-ypb1-dbdj
+    - VCID-jqeu-4jcg-zycg
+    - VCID-tvsn-1kup-a7dt
+    - VCID-vspn-cpu6-2qd4
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=aarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=aarch64&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=aarch64&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=aarch64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=aarch64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=aarch64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=aarch64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=aarch64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=aarch64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=aarch64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=aarch64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=aarch64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=armhf&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=armhf&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=armhf&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=armhf&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=armhf&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=armhf&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=armhf&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=armhf&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=armhf&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=armhf&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=armhf&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=armhf&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=armv7&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=armv7&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=armv7&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=armv7&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=armv7&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=armv7&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=armv7&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=armv7&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=armv7&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=armv7&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=armv7&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=armv7&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=loongarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=mips64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=mips64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=ppc64le&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=ppc64le&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=ppc64le&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=ppc64le&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=ppc64le&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=ppc64le&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=ppc64le&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=ppc64le&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=ppc64le&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=ppc64le&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=ppc64le&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=ppc64le&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=riscv64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=riscv64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=s390x&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=s390x&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=s390x&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=s390x&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=s390x&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=s390x&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=s390x&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=s390x&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=s390x&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=s390x&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=s390x&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=s390x&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=x86_64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=x86_64&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=x86_64&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=x86_64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=x86_64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=x86_64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=x86_64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=x86_64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=x86_64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=x86_64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=x86_64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=x86_64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=x86&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=x86&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=x86&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=x86&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=x86&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=x86&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=x86&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=x86&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=x86&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=x86&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=x86&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.85-r0?arch=x86&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-4wj4-zqmc-2kdx
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=aarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=aarch64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=aarch64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=aarch64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=aarch64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=aarch64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=aarch64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=armhf&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=armhf&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=armhf&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=armhf&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=armhf&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=armhf&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=armhf&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=armv7&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=armv7&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=armv7&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=armv7&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=armv7&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=armv7&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=armv7&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=loongarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=ppc64le&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=ppc64le&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=ppc64le&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=ppc64le&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=ppc64le&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=ppc64le&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=ppc64le&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=riscv64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=riscv64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=s390x&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=s390x&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=s390x&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=s390x&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=s390x&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=s390x&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=s390x&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=x86_64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=x86_64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=x86_64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=x86_64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=x86_64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=x86_64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=x86_64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=x86&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=x86&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=x86&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=x86&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=x86&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=x86&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r1?arch=x86&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t5yq-5g6n-c3eb
+- purl: pkg:alpine/dnsmasq@2.86-r2?arch=aarch64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.86-r2?arch=armhf&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.86-r2?arch=armv7&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.86-r2?arch=ppc64le&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.86-r2?arch=s390x&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.86-r2?arch=x86_64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.86-r2?arch=x86&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.86-r3?arch=aarch64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.86-r3?arch=armhf&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.86-r3?arch=armv7&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.86-r3?arch=ppc64le&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.86-r3?arch=s390x&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.86-r3?arch=x86_64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.86-r3?arch=x86&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.86-r4?arch=aarch64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.86-r4?arch=armhf&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.86-r4?arch=armv7&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.86-r4?arch=ppc64le&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.86-r4?arch=s390x&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.86-r4?arch=x86_64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.86-r4?arch=x86&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.87-r2?arch=aarch64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.87-r2?arch=armhf&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.87-r2?arch=armv7&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.87-r2?arch=ppc64le&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.87-r2?arch=s390x&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.87-r2?arch=x86_64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.87-r2?arch=x86&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=aarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=aarch64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=aarch64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=aarch64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=armhf&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=armhf&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=armhf&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=armhf&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=armv7&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=armv7&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=armv7&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=armv7&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=loongarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=ppc64le&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=ppc64le&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=ppc64le&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=ppc64le&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=riscv64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=riscv64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=s390x&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=s390x&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=s390x&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=s390x&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=x86_64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=x86_64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=x86_64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=x86_64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=x86&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=x86&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=x86&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.89-r3?arch=x86&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yatu-r5v2-bqd8
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=aarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=aarch64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=aarch64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=aarch64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=aarch64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=armhf&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=armhf&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=armhf&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=armhf&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=armhf&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=armv7&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=armv7&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=armv7&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=armv7&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=armv7&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=loongarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=ppc64le&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=ppc64le&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=ppc64le&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=ppc64le&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=ppc64le&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=riscv64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=riscv64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=s390x&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=s390x&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=s390x&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=s390x&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=s390x&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=x86_64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=x86_64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=x86_64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=x86_64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=x86_64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=x86&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=x86&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=x86&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=x86&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh
+- purl: pkg:alpine/dnsmasq@2.90-r0?arch=x86&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3uye-ab23-uqds
+    - VCID-j5ab-ew4p-37gh

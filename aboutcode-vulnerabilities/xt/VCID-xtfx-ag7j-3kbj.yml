@@ -1,0 +1,98 @@
+vulnerability_id: VCID-xtfx-ag7j-3kbj
+aliases:
+  - CVE-2024-39929
+summary:
+severities:
+  - score: '3.7'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:L/UI:R/S:U/C:L/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-39929.json
+  - score: '0.00045'
+    scoring_system: epss
+    scoring_elements: '0.16484'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-39929
+  - score: '5.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:N
+    published_at:
+    url: https://bugs.exim.org/show_bug.cgi?id=3099#c4
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-08T16:09:08Z/
+    published_at:
+    url: https://bugs.exim.org/show_bug.cgi?id=3099#c4
+  - score: '5.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:N
+    published_at:
+    url: https://git.exim.org/exim.git/commit/1b3209b0577a9327ebb076f3b32b8a159c253f7b
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-08T16:09:08Z/
+    published_at:
+    url: https://git.exim.org/exim.git/commit/1b3209b0577a9327ebb076f3b32b8a159c253f7b
+  - score: '5.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:N
+    published_at:
+    url: https://git.exim.org/exim.git/commit/6ce5c70cff8989418e05d01fd2a57703007a6357
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-08T16:09:08Z/
+    published_at:
+    url: https://git.exim.org/exim.git/commit/6ce5c70cff8989418e05d01fd2a57703007a6357
+  - score: '5.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:N
+    published_at:
+    url: https://github.com/Exim/exim/compare/exim-4.98-RC2...exim-4.98-RC3
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-08T16:09:08Z/
+    published_at:
+    url: https://github.com/Exim/exim/compare/exim-4.98-RC2...exim-4.98-RC3
+  - score: '5.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:N
+    published_at:
+    url: https://www.rfc-editor.org/rfc/rfc2231.txt
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-08T16:09:08Z/
+    published_at:
+    url: https://www.rfc-editor.org/rfc/rfc2231.txt
+weaknesses:
+  - CWE-693
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-39929.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-39929
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1075785
+    reference_type:
+    reference_id: 1075785
+  - url: https://git.exim.org/exim.git/commit/1b3209b0577a9327ebb076f3b32b8a159c253f7b
+    reference_type:
+    reference_id: 1b3209b0577a9327ebb076f3b32b8a159c253f7b
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2295819
+    reference_type:
+    reference_id: 2295819
+  - url: https://git.exim.org/exim.git/commit/6ce5c70cff8989418e05d01fd2a57703007a6357
+    reference_type:
+    reference_id: 6ce5c70cff8989418e05d01fd2a57703007a6357
+  - url: https://github.com/Exim/exim/compare/exim-4.98-RC2...exim-4.98-RC3
+    reference_type:
+    reference_id: exim-4.98-RC2...exim-4.98-RC3
+  - url: https://www.rfc-editor.org/rfc/rfc2231.txt
+    reference_type:
+    reference_id: rfc2231.txt
+  - url: https://bugs.exim.org/show_bug.cgi?id=3099#c4
+    reference_type:
+    reference_id: show_bug.cgi?id=3099#c4
+  - url: https://usn.ubuntu.com/6939-1/
+    reference_type:
+    reference_id: USN-6939-1

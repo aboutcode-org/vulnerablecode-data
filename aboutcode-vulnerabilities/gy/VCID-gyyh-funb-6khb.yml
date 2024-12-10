@@ -1,0 +1,37 @@
+vulnerability_id: VCID-gyyh-funb-6khb
+aliases:
+  - CVE-2022-31745
+summary:
+severities:
+  - score: '0.00078'
+    scoring_system: epss
+    scoring_elements: '0.34349'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-31745
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2760
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-20
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-31745
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/AVG-2760
+    reference_type:
+    reference_id: AVG-2760
+  - url: https://security.gentoo.org/glsa/202208-08
+    reference_type:
+    reference_id: GLSA-202208-08
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-20
+    reference_type:
+    reference_id: mfsa2022-20
+  - url: https://usn.ubuntu.com/5475-1/
+    reference_type:
+    reference_id: USN-5475-1

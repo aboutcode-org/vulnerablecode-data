@@ -1,0 +1,24 @@
+vulnerability_id: VCID-k8bs-ttxj-77cx
+aliases:
+  - CVE-2022-23471
+summary:
+severities:
+  - score: '0.00097'
+    scoring_system: epss
+    scoring_elements: '0.41394'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-23471
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-23471
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://security.gentoo.org/glsa/202401-31
+    reference_type:
+    reference_id: GLSA-202401-31
+  - url: https://usn.ubuntu.com/5776-1/
+    reference_type:
+    reference_id: USN-5776-1

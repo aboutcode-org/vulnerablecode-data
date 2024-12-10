@@ -1,0 +1,82 @@
+vulnerability_id: VCID-2ctu-5jue-mbcb
+aliases:
+  - CVE-2024-5171
+summary:
+severities:
+  - score: '7.0'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-5171.json
+  - score: '0.00060'
+    scoring_system: epss
+    scoring_elements: '0.26623'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-5171
+  - score: 10
+    scoring_system: cvssv4
+    scoring_elements: CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H
+    published_at:
+    url: https://issues.chromium.org/issues/332382766
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:T/P:M/B:A/M:M/D:R/2024-06-07T17:15:17Z/
+    published_at:
+    url: https://issues.chromium.org/issues/332382766
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/6HYUEHZ35ZPY2EONVZCGO6LPT3AMLZCP/
+  - score: 10
+    scoring_system: cvssv4
+    scoring_elements: CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/6HYUEHZ35ZPY2EONVZCGO6LPT3AMLZCP/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-06-21T03:55:52Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/6HYUEHZ35ZPY2EONVZCGO6LPT3AMLZCP/
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/U5NRNCEYS246CYGOR32MF7OGKWOWER22/
+  - score: 10
+    scoring_system: cvssv4
+    scoring_elements: CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/U5NRNCEYS246CYGOR32MF7OGKWOWER22/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-06-21T03:55:52Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/U5NRNCEYS246CYGOR32MF7OGKWOWER22/
+weaknesses:
+  - CWE-20
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-5171.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-5171
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2292396
+    reference_type:
+    reference_id: 2292396
+  - url: https://issues.chromium.org/issues/332382766
+    reference_type:
+    reference_id: 332382766
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/6HYUEHZ35ZPY2EONVZCGO6LPT3AMLZCP/
+    reference_type:
+    reference_id: 6HYUEHZ35ZPY2EONVZCGO6LPT3AMLZCP
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/U5NRNCEYS246CYGOR32MF7OGKWOWER22/
+    reference_type:
+    reference_id: U5NRNCEYS246CYGOR32MF7OGKWOWER22
+  - url: https://usn.ubuntu.com/6815-1/
+    reference_type:
+    reference_id: USN-6815-1

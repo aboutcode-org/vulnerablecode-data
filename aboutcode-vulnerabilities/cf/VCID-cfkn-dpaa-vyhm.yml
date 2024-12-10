@@ -1,0 +1,15 @@
+vulnerability_id: VCID-cfkn-dpaa-vyhm
+aliases:
+  - CVE-2020-24661
+summary:
+severities:
+  - score: '0.00190'
+    scoring_system: epss
+    scoring_elements: '0.57025'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-24661
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-24661
+    reference_type:
+    reference_id:

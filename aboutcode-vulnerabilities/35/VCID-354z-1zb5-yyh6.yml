@@ -1,0 +1,129 @@
+vulnerability_id: VCID-354z-1zb5-yyh6
+aliases:
+  - CVE-2018-1000301
+summary:
+severities:
+  - score: '5.4'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-1000301.json
+  - score: '0.00477'
+    scoring_system: epss
+    scoring_elements: '0.76119'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-1000301
+  - score: Medium
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2018-1000301.html
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-694
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-695
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-696
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-697
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-698
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-699
+weaknesses:
+  - CWE-125
+  - CWE-126
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-1000301.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-1000301
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2018-1000301.html
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000301
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1575536
+    reference_type:
+    reference_id: 1575536
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=898856
+    reference_type:
+    reference_id: 898856
+  - url: https://security.archlinux.org/ASA-201805-13
+    reference_type:
+    reference_id: ASA-201805-13
+  - url: https://security.archlinux.org/ASA-201805-14
+    reference_type:
+    reference_id: ASA-201805-14
+  - url: https://security.archlinux.org/ASA-201805-15
+    reference_type:
+    reference_id: ASA-201805-15
+  - url: https://security.archlinux.org/ASA-201805-16
+    reference_type:
+    reference_id: ASA-201805-16
+  - url: https://security.archlinux.org/ASA-201805-17
+    reference_type:
+    reference_id: ASA-201805-17
+  - url: https://security.archlinux.org/ASA-201805-18
+    reference_type:
+    reference_id: ASA-201805-18
+  - url: https://security.archlinux.org/AVG-694
+    reference_type:
+    reference_id: AVG-694
+  - url: https://security.archlinux.org/AVG-695
+    reference_type:
+    reference_id: AVG-695
+  - url: https://security.archlinux.org/AVG-696
+    reference_type:
+    reference_id: AVG-696
+  - url: https://security.archlinux.org/AVG-697
+    reference_type:
+    reference_id: AVG-697
+  - url: https://security.archlinux.org/AVG-698
+    reference_type:
+    reference_id: AVG-698
+  - url: https://security.archlinux.org/AVG-699
+    reference_type:
+    reference_id: AVG-699
+  - url: https://security.gentoo.org/glsa/201806-05
+    reference_type:
+    reference_id: GLSA-201806-05
+  - url: https://access.redhat.com/errata/RHSA-2018:3157
+    reference_type:
+    reference_id: RHSA-2018:3157
+  - url: https://access.redhat.com/errata/RHSA-2018:3558
+    reference_type:
+    reference_id: RHSA-2018:3558
+  - url: https://access.redhat.com/errata/RHSA-2020:0544
+    reference_type:
+    reference_id: RHSA-2020:0544
+  - url: https://access.redhat.com/errata/RHSA-2020:0594
+    reference_type:
+    reference_id: RHSA-2020:0594
+  - url: https://usn.ubuntu.com/3598-2/
+    reference_type:
+    reference_id: USN-3598-2
+  - url: https://usn.ubuntu.com/3648-1/
+    reference_type:
+    reference_id: USN-3648-1

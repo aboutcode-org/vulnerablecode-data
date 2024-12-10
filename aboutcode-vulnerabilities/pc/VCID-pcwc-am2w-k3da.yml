@@ -1,0 +1,105 @@
+vulnerability_id: VCID-pcwc-am2w-k3da
+aliases:
+  - CVE-2018-5103
+summary:
+severities:
+  - score: '9.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-5103.json
+  - score: '0.00424'
+    scoring_system: epss
+    scoring_elements: '0.74693'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-5103
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2018-02
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2018-03
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2018-04
+weaknesses:
+  - CWE-416
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-5103.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-5103
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-5089
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-5091
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-5095
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-5096
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-5097
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-5098
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-5099
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-5102
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-5103
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-5104
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-5117
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1537823
+    reference_type:
+    reference_id: 1537823
+  - url: https://security.gentoo.org/glsa/201802-03
+    reference_type:
+    reference_id: GLSA-201802-03
+  - url: https://security.gentoo.org/glsa/201803-14
+    reference_type:
+    reference_id: GLSA-201803-14
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2018-02
+    reference_type:
+    reference_id: mfsa2018-02
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2018-03
+    reference_type:
+    reference_id: mfsa2018-03
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2018-04
+    reference_type:
+    reference_id: mfsa2018-04
+  - url: https://access.redhat.com/errata/RHSA-2018:0122
+    reference_type:
+    reference_id: RHSA-2018:0122
+  - url: https://access.redhat.com/errata/RHSA-2018:0262
+    reference_type:
+    reference_id: RHSA-2018:0262
+  - url: https://usn.ubuntu.com/3529-1/
+    reference_type:
+    reference_id: USN-3529-1
+  - url: https://usn.ubuntu.com/3544-1/
+    reference_type:
+    reference_id: USN-3544-1

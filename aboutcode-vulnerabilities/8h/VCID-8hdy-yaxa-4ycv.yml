@@ -1,0 +1,56 @@
+vulnerability_id: VCID-8hdy-yaxa-4ycv
+aliases:
+  - CVE-2023-46737
+summary:
+severities:
+  - score: '5.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-46737.json
+  - score: '0.00053'
+    scoring_system: epss
+    scoring_elements: '0.21874'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-46737
+  - score: '3.1'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://github.com/sigstore/cosign/commit/8ac891ff0e29ddc67965423bee8f826219c6eb0f
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-04T15:16:05Z/
+    published_at:
+    url: https://github.com/sigstore/cosign/commit/8ac891ff0e29ddc67965423bee8f826219c6eb0f
+  - score: '3.1'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://github.com/sigstore/cosign/security/advisories/GHSA-vfp6-jrw2-99g9
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-04T15:16:05Z/
+    published_at:
+    url: https://github.com/sigstore/cosign/security/advisories/GHSA-vfp6-jrw2-99g9
+weaknesses:
+  - CWE-400
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-46737.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-46737
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2248969
+    reference_type:
+    reference_id: 2248969
+  - url: https://github.com/sigstore/cosign/commit/8ac891ff0e29ddc67965423bee8f826219c6eb0f
+    reference_type:
+    reference_id: 8ac891ff0e29ddc67965423bee8f826219c6eb0f
+  - url: https://github.com/sigstore/cosign/security/advisories/GHSA-vfp6-jrw2-99g9
+    reference_type:
+    reference_id: GHSA-vfp6-jrw2-99g9

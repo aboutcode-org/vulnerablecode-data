@@ -1,0 +1,56 @@
+vulnerability_id: VCID-pek1-3nz2-nffs
+aliases:
+  - CVE-2021-29472
+  - GHSA-h5h8-pc6h-jvvx
+summary:
+severities:
+  - score: '0.11746'
+    scoring_system: epss
+    scoring_elements: '0.95428'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-29472
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1885
+weaknesses:
+  - CWE-1035
+  - CWE-78
+  - CWE-88
+  - CWE-937
+  - CWE-94
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-29472
+    reference_type:
+    reference_id:
+  - url: https://getcomposer.org/
+    reference_type:
+    reference_id:
+  - url: https://lists.debian.org/debian-lts-announce/2021/05/msg00009.html
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/FAQUAMGO4Q4BLNZ2OH4CXQD7UK4IO2GE/
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/KN3DMFH42BJW45VT6FYF2RXKC26D6VC2/
+    reference_type:
+    reference_id:
+  - url: https://www.debian.org/security/2021/dsa-4907
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/AVG-1885
+    reference_type:
+    reference_id: AVG-1885
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2021-29472
+    reference_type:
+    reference_id: CVE-2021-29472
+  - url: https://github.com/advisories/GHSA-h5h8-pc6h-jvvx
+    reference_type:
+    reference_id: GHSA-h5h8-pc6h-jvvx
+  - url: https://github.com/composer/composer/security/advisories/GHSA-h5h8-pc6h-jvvx
+    reference_type:
+    reference_id: GHSA-h5h8-pc6h-jvvx
+  - url: https://usn.ubuntu.com/USN-5220-1/
+    reference_type:
+    reference_id: USN-USN-5220-1

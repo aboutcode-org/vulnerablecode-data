@@ -1,0 +1,78 @@
+vulnerability_id: VCID-gzp4-4kg3-j3ex
+aliases:
+  - CVE-2024-23653
+summary:
+severities:
+  - score: '7.0'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-23653.json
+  - score: '0.00068'
+    scoring_system: epss
+    scoring_elements: '0.30899'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-23653
+  - score: '9.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/moby/buildkit/pull/4602
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:T/P:M/B:A/M:M/D:T/2024-08-23T18:03:21Z/
+    published_at:
+    url: https://github.com/moby/buildkit/pull/4602
+  - score: '9.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/moby/buildkit/releases/tag/v0.12.5
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:T/P:M/B:A/M:M/D:T/2024-08-23T18:03:21Z/
+    published_at:
+    url: https://github.com/moby/buildkit/releases/tag/v0.12.5
+  - score: '9.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/moby/buildkit/security/advisories/GHSA-wr6v-9f75-vh2g
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:T/P:M/B:A/M:M/D:T/2024-08-23T18:03:21Z/
+    published_at:
+    url: https://github.com/moby/buildkit/security/advisories/GHSA-wr6v-9f75-vh2g
+weaknesses:
+  - CWE-863
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-23653.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-23653
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2262226
+    reference_type:
+    reference_id: 2262226
+  - url: https://github.com/moby/buildkit/pull/4602
+    reference_type:
+    reference_id: 4602
+  - url: https://github.com/moby/buildkit/security/advisories/GHSA-wr6v-9f75-vh2g
+    reference_type:
+    reference_id: GHSA-wr6v-9f75-vh2g
+  - url: https://security.gentoo.org/glsa/202407-12
+    reference_type:
+    reference_id: GLSA-202407-12
+  - url: https://security.gentoo.org/glsa/202407-25
+    reference_type:
+    reference_id: GLSA-202407-25
+  - url: https://security.gentoo.org/glsa/202409-29
+    reference_type:
+    reference_id: GLSA-202409-29
+  - url: https://github.com/moby/buildkit/releases/tag/v0.12.5
+    reference_type:
+    reference_id: v0.12.5

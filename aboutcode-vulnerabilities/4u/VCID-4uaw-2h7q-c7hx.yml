@@ -1,0 +1,65 @@
+vulnerability_id: VCID-4uaw-2h7q-c7hx
+aliases:
+  - CVE-2018-12020
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-12020.json
+  - score: '0.00481'
+    scoring_system: epss
+    scoring_elements: '0.76251'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-12020
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-713
+weaknesses:
+  - CWE-20
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-12020.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-12020
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-12020
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1589620
+    reference_type:
+    reference_id: 1589620
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=901088
+    reference_type:
+    reference_id: 901088
+  - url: https://security.archlinux.org/ASA-201806-8
+    reference_type:
+    reference_id: ASA-201806-8
+  - url: https://security.archlinux.org/AVG-713
+    reference_type:
+    reference_id: AVG-713
+  - url: https://access.redhat.com/errata/RHSA-2018:2180
+    reference_type:
+    reference_id: RHSA-2018:2180
+  - url: https://access.redhat.com/errata/RHSA-2018:2181
+    reference_type:
+    reference_id: RHSA-2018:2181
+  - url: https://usn.ubuntu.com/3675-1/
+    reference_type:
+    reference_id: USN-3675-1
+  - url: https://usn.ubuntu.com/3675-2/
+    reference_type:
+    reference_id: USN-3675-2
+  - url: https://usn.ubuntu.com/3675-3/
+    reference_type:
+    reference_id: USN-3675-3
+  - url: https://usn.ubuntu.com/USN-4839-1/
+    reference_type:
+    reference_id: USN-USN-4839-1

@@ -1,0 +1,42 @@
+vulnerability_id: VCID-mb34-6mn3-87cx
+aliases:
+  - CVE-2019-14834
+summary:
+severities:
+  - score: '3.7'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-14834.json
+  - score: '0.00347'
+    scoring_system: epss
+    scoring_elements: '0.72081'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-14834
+weaknesses:
+  - CWE-770
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-14834.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-14834
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1764425
+    reference_type:
+    reference_id: 1764425
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=948373
+    reference_type:
+    reference_id: 948373
+  - url: https://access.redhat.com/errata/RHSA-2020:1715
+    reference_type:
+    reference_id: RHSA-2020:1715
+  - url: https://access.redhat.com/errata/RHSA-2020:3878
+    reference_type:
+    reference_id: RHSA-2020:3878
+  - url: https://usn.ubuntu.com/4698-1/
+    reference_type:
+    reference_id: USN-4698-1

@@ -1,0 +1,48 @@
+vulnerability_id: VCID-k5j2-kz4r-97bu
+aliases:
+  - CVE-2022-31107
+summary:
+severities:
+  - score: '7.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-31107.json
+  - score: '0.00165'
+    scoring_system: epss
+    scoring_elements: '0.53773'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-31107
+weaknesses:
+  - CWE-287
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-31107.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-31107
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2104367
+    reference_type:
+    reference_id: 2104367
+  - url: https://access.redhat.com/errata/RHSA-2022:5716
+    reference_type:
+    reference_id: RHSA-2022:5716
+  - url: https://access.redhat.com/errata/RHSA-2022:5717
+    reference_type:
+    reference_id: RHSA-2022:5717
+  - url: https://access.redhat.com/errata/RHSA-2022:5718
+    reference_type:
+    reference_id: RHSA-2022:5718
+  - url: https://access.redhat.com/errata/RHSA-2022:5719
+    reference_type:
+    reference_id: RHSA-2022:5719
+  - url: https://access.redhat.com/errata/RHSA-2022:5720
+    reference_type:
+    reference_id: RHSA-2022:5720
+  - url: https://access.redhat.com/errata/RHSA-2023:3642
+    reference_type:
+    reference_id: RHSA-2023:3642

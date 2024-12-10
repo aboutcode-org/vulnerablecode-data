@@ -1,0 +1,24 @@
+vulnerability_id: VCID-3vw1-zdta-7fap
+aliases:
+  - CVE-2020-10938
+summary:
+severities:
+  - score: '0.00216'
+    scoring_system: epss
+    scoring_elements: '0.59760'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-10938
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-10938
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12921
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10938
+    reference_type:
+    reference_id:
+  - url: https://usn.ubuntu.com/USN-5190-1/
+    reference_type:
+    reference_id: USN-USN-5190-1

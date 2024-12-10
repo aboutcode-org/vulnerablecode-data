@@ -1,0 +1,45 @@
+- purl: pkg:alpine/fig2dev@3.2.8b-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3b4b-pb2u-pqhr
+    - VCID-y4c7-h1jd-nug3
+- purl: pkg:alpine/fig2dev@3.2.8b-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3b4b-pb2u-pqhr
+    - VCID-y4c7-h1jd-nug3
+- purl: pkg:alpine/fig2dev@3.2.8b-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3b4b-pb2u-pqhr
+    - VCID-y4c7-h1jd-nug3
+- purl: pkg:alpine/fig2dev@3.2.8b-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3b4b-pb2u-pqhr
+    - VCID-y4c7-h1jd-nug3
+- purl: pkg:alpine/fig2dev@3.2.8b-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3b4b-pb2u-pqhr
+    - VCID-y4c7-h1jd-nug3
+- purl: pkg:alpine/fig2dev@3.2.8b-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3b4b-pb2u-pqhr
+    - VCID-y4c7-h1jd-nug3
+- purl: pkg:alpine/fig2dev@3.2.8b-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3b4b-pb2u-pqhr
+    - VCID-y4c7-h1jd-nug3
+- purl: pkg:alpine/fig2dev@3.2.8b-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3b4b-pb2u-pqhr
+    - VCID-y4c7-h1jd-nug3
+- purl: pkg:alpine/fig2dev@3.2.8b-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3b4b-pb2u-pqhr
+    - VCID-y4c7-h1jd-nug3

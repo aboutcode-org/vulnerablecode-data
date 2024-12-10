@@ -1,0 +1,18 @@
+vulnerability_id: VCID-byev-88xp-nqav
+aliases:
+  - CVE-2019-11473
+summary:
+severities:
+  - score: '0.00623'
+    scoring_system: epss
+    scoring_elements: '0.79214'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-11473
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-11473
+    reference_type:
+    reference_id:
+  - url: https://usn.ubuntu.com/4207-1/
+    reference_type:
+    reference_id: USN-4207-1

@@ -1,0 +1,59 @@
+vulnerability_id: VCID-5712-ek8g-zufp
+aliases:
+  - CVE-2023-21538
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-21538.json
+  - score: '0.00129'
+    scoring_system: epss
+    scoring_elements: '0.48603'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-21538
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C
+    published_at:
+    url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21538
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-16T22:02:43Z/
+    published_at:
+    url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21538
+weaknesses:
+  - CWE-121
+  - CWE-502
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-21538.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-21538
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2158342
+    reference_type:
+    reference_id: 2158342
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:.net:6.0.0:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:.net:6.0.0:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:powershell:7.2:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:powershell:7.2:*:*:*:*:*:*:*
+  - url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21538
+    reference_type:
+    reference_id: CVE-2023-21538
+  - url: https://access.redhat.com/errata/RHSA-2023:0077
+    reference_type:
+    reference_id: RHSA-2023:0077
+  - url: https://access.redhat.com/errata/RHSA-2023:0078
+    reference_type:
+    reference_id: RHSA-2023:0078
+  - url: https://access.redhat.com/errata/RHSA-2023:0079
+    reference_type:
+    reference_id: RHSA-2023:0079
+  - url: https://usn.ubuntu.com/5798-1/
+    reference_type:
+    reference_id: USN-5798-1

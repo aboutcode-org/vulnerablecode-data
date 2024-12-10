@@ -1,0 +1,111 @@
+vulnerability_id: VCID-e2wn-5tk8-sqbn
+aliases:
+  - CVE-2023-23603
+summary:
+severities:
+  - score: '6.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-23603.json
+  - score: '0.00114'
+    scoring_system: epss
+    scoring_elements: '0.45837'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-23603
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-01
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-02
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-03
+weaknesses:
+  - CWE-185
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-23603.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-23603
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2162343
+    reference_type:
+    reference_id: 2162343
+  - url: https://security.gentoo.org/glsa/202305-06
+    reference_type:
+    reference_id: GLSA-202305-06
+  - url: https://security.gentoo.org/glsa/202305-13
+    reference_type:
+    reference_id: GLSA-202305-13
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-01
+    reference_type:
+    reference_id: mfsa2023-01
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-02
+    reference_type:
+    reference_id: mfsa2023-02
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-03
+    reference_type:
+    reference_id: mfsa2023-03
+  - url: https://access.redhat.com/errata/RHSA-2023:0285
+    reference_type:
+    reference_id: RHSA-2023:0285
+  - url: https://access.redhat.com/errata/RHSA-2023:0286
+    reference_type:
+    reference_id: RHSA-2023:0286
+  - url: https://access.redhat.com/errata/RHSA-2023:0288
+    reference_type:
+    reference_id: RHSA-2023:0288
+  - url: https://access.redhat.com/errata/RHSA-2023:0289
+    reference_type:
+    reference_id: RHSA-2023:0289
+  - url: https://access.redhat.com/errata/RHSA-2023:0290
+    reference_type:
+    reference_id: RHSA-2023:0290
+  - url: https://access.redhat.com/errata/RHSA-2023:0294
+    reference_type:
+    reference_id: RHSA-2023:0294
+  - url: https://access.redhat.com/errata/RHSA-2023:0295
+    reference_type:
+    reference_id: RHSA-2023:0295
+  - url: https://access.redhat.com/errata/RHSA-2023:0296
+    reference_type:
+    reference_id: RHSA-2023:0296
+  - url: https://access.redhat.com/errata/RHSA-2023:0456
+    reference_type:
+    reference_id: RHSA-2023:0456
+  - url: https://access.redhat.com/errata/RHSA-2023:0457
+    reference_type:
+    reference_id: RHSA-2023:0457
+  - url: https://access.redhat.com/errata/RHSA-2023:0459
+    reference_type:
+    reference_id: RHSA-2023:0459
+  - url: https://access.redhat.com/errata/RHSA-2023:0460
+    reference_type:
+    reference_id: RHSA-2023:0460
+  - url: https://access.redhat.com/errata/RHSA-2023:0461
+    reference_type:
+    reference_id: RHSA-2023:0461
+  - url: https://access.redhat.com/errata/RHSA-2023:0462
+    reference_type:
+    reference_id: RHSA-2023:0462
+  - url: https://access.redhat.com/errata/RHSA-2023:0463
+    reference_type:
+    reference_id: RHSA-2023:0463
+  - url: https://access.redhat.com/errata/RHSA-2023:0476
+    reference_type:
+    reference_id: RHSA-2023:0476
+  - url: https://usn.ubuntu.com/5816-1/
+    reference_type:
+    reference_id: USN-5816-1
+  - url: https://usn.ubuntu.com/5824-1/
+    reference_type:
+    reference_id: USN-5824-1

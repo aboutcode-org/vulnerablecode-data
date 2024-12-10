@@ -1,0 +1,98 @@
+vulnerability_id: VCID-4erg-xasd-bff3
+aliases:
+  - CVE-2024-21386
+  - GHSA-g74q-5xw3-j7q9
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-21386.json
+  - score: '0.00063'
+    scoring_system: epss
+    scoring_elements: '0.28053'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-21386
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:P/RL:O/RC:C
+    published_at:
+    url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21386
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-02-21T20:15:43Z/
+    published_at:
+    url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21386
+weaknesses:
+  - CWE-1035
+  - CWE-78
+  - CWE-937
+  - CWE-400
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-21386.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-21386
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2263085
+    reference_type:
+    reference_id: 2263085
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:asp.net_core:6.0:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:asp.net_core:6.0:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:asp.net_core:7.0:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:asp.net_core:7.0:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:asp.net_core:8.0:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:asp.net_core:8.0:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:visual_studio:2022:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:visual_studio:2022:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:visual_studio_2022:17.4:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:visual_studio_2022:17.4:*:*:*:*:*:*:*
+  - url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21386
+    reference_type:
+    reference_id: CVE-2024-21386
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2024-21386
+    reference_type:
+    reference_id: CVE-2024-21386
+  - url: https://github.com/advisories/GHSA-g74q-5xw3-j7q9
+    reference_type:
+    reference_id: GHSA-g74q-5xw3-j7q9
+  - url: https://github.com/dotnet/aspnetcore/security/advisories/GHSA-g74q-5xw3-j7q9
+    reference_type:
+    reference_id: GHSA-g74q-5xw3-j7q9
+  - url: https://access.redhat.com/errata/RHSA-2024:0805
+    reference_type:
+    reference_id: RHSA-2024:0805
+  - url: https://access.redhat.com/errata/RHSA-2024:0806
+    reference_type:
+    reference_id: RHSA-2024:0806
+  - url: https://access.redhat.com/errata/RHSA-2024:0807
+    reference_type:
+    reference_id: RHSA-2024:0807
+  - url: https://access.redhat.com/errata/RHSA-2024:0808
+    reference_type:
+    reference_id: RHSA-2024:0808
+  - url: https://access.redhat.com/errata/RHSA-2024:0814
+    reference_type:
+    reference_id: RHSA-2024:0814
+  - url: https://access.redhat.com/errata/RHSA-2024:0827
+    reference_type:
+    reference_id: RHSA-2024:0827
+  - url: https://access.redhat.com/errata/RHSA-2024:0848
+    reference_type:
+    reference_id: RHSA-2024:0848
+  - url: https://access.redhat.com/errata/RHSA-2024:2843
+    reference_type:
+    reference_id: RHSA-2024:2843
+  - url: https://access.redhat.com/errata/RHSA-2024:3340
+    reference_type:
+    reference_id: RHSA-2024:3340
+  - url: https://usn.ubuntu.com/6634-1/
+    reference_type:
+    reference_id: USN-6634-1

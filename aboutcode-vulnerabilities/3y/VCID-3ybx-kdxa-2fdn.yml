@@ -1,0 +1,51 @@
+vulnerability_id: VCID-3ybx-kdxa-2fdn
+aliases:
+  - CVE-2020-26160
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-26160.json
+  - score: '0.00193'
+    scoring_system: epss
+    scoring_elements: '0.57475'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-26160
+weaknesses:
+  - CWE-284
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-26160.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-26160
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1883371
+    reference_type:
+    reference_id: 1883371
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=971556
+    reference_type:
+    reference_id: 971556
+  - url: https://access.redhat.com/errata/RHSA-2020:5633
+    reference_type:
+    reference_id: RHSA-2020:5633
+  - url: https://access.redhat.com/errata/RHSA-2021:0516
+    reference_type:
+    reference_id: RHSA-2021:0516
+  - url: https://access.redhat.com/errata/RHSA-2021:0799
+    reference_type:
+    reference_id: RHSA-2021:0799
+  - url: https://access.redhat.com/errata/RHSA-2021:2041
+    reference_type:
+    reference_id: RHSA-2021:2041
+  - url: https://access.redhat.com/errata/RHSA-2021:2042
+    reference_type:
+    reference_id: RHSA-2021:2042
+  - url: https://access.redhat.com/errata/RHSA-2021:2438
+    reference_type:
+    reference_id: RHSA-2021:2438
+  - url: https://access.redhat.com/errata/RHSA-2021:5110
+    reference_type:
+    reference_id: RHSA-2021:5110

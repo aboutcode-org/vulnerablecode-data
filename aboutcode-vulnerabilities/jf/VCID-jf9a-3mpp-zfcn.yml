@@ -1,0 +1,73 @@
+vulnerability_id: VCID-jf9a-3mpp-zfcn
+aliases:
+  - CVE-2023-39742
+summary:
+severities:
+  - score: '2.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-39742.json
+  - score: '0.00042'
+    scoring_system: epss
+    scoring_elements: '0.05073'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-39742
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:P/P:M/B:A/M:M/D:T/2024-10-08T18:13:19Z/
+    published_at:
+    url: https://gist.github.com/huanglei3/ec9090096aa92445cf0a8baa8e929084
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-10-02T16:35:20Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/O4RLSFGPBPR3FMIUJCWPGVIYIU35YGQX/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-10-02T16:35:20Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/OPNBOB65TEA4ZEPLVENI26BY4LEX7TEF/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-10-02T16:35:20Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/T5WO6WL2TCGO6T4VKGACDIVSZI74WJAU/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-10-02T16:35:20Z/
+    published_at:
+    url: https://sourceforge.net/p/giflib/bugs/166/
+weaknesses:
+  - CWE-120
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-39742.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-39742
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://sourceforge.net/p/giflib/bugs/166/
+    reference_type:
+    reference_id: 166
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2235821
+    reference_type:
+    reference_id: 2235821
+  - url: https://gist.github.com/huanglei3/ec9090096aa92445cf0a8baa8e929084
+    reference_type:
+    reference_id: ec9090096aa92445cf0a8baa8e929084
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/O4RLSFGPBPR3FMIUJCWPGVIYIU35YGQX/
+    reference_type:
+    reference_id: O4RLSFGPBPR3FMIUJCWPGVIYIU35YGQX
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/OPNBOB65TEA4ZEPLVENI26BY4LEX7TEF/
+    reference_type:
+    reference_id: OPNBOB65TEA4ZEPLVENI26BY4LEX7TEF
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/T5WO6WL2TCGO6T4VKGACDIVSZI74WJAU/
+    reference_type:
+    reference_id: T5WO6WL2TCGO6T4VKGACDIVSZI74WJAU
+  - url: https://usn.ubuntu.com/6824-1/
+    reference_type:
+    reference_id: USN-6824-1

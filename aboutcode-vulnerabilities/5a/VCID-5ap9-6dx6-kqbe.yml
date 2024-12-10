@@ -1,0 +1,34 @@
+vulnerability_id: VCID-5ap9-6dx6-kqbe
+aliases:
+  - CVE-2021-30609
+summary:
+severities:
+  - score: '0.00910'
+    scoring_system: epss
+    scoring_elements: '0.83151'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-30609
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2336
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2337
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-30609
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/AVG-2336
+    reference_type:
+    reference_id: AVG-2336
+  - url: https://security.archlinux.org/AVG-2337
+    reference_type:
+    reference_id: AVG-2337
+  - url: https://security.gentoo.org/glsa/202201-02
+    reference_type:
+    reference_id: GLSA-202201-02

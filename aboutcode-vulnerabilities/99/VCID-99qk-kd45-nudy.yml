@@ -1,0 +1,15 @@
+vulnerability_id: VCID-99qk-kd45-nudy
+aliases:
+  - CVE-2022-23850
+summary:
+severities:
+  - score: '0.00103'
+    scoring_system: epss
+    scoring_elements: '0.42865'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-23850
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-23850
+    reference_type:
+    reference_id:

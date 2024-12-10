@@ -1,0 +1,24 @@
+vulnerability_id: VCID-g83x-ke6b-b3hj
+aliases:
+  - CVE-2017-15186
+summary:
+severities:
+  - score: '0.00193'
+    scoring_system: epss
+    scoring_elements: '0.57471'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2017-15186
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2017-15186
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-15186
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-15672
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-16840
+    reference_type:
+    reference_id:

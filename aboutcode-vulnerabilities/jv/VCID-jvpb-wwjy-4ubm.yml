@@ -1,0 +1,15 @@
+vulnerability_id: VCID-jvpb-wwjy-4ubm
+aliases:
+  - CVE-2023-49085
+summary:
+severities:
+  - score: '0.00117'
+    scoring_system: epss
+    scoring_elements: '0.46351'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-49085
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-49085
+    reference_type:
+    reference_id:

@@ -1,0 +1,59 @@
+vulnerability_id: VCID-sjx1-h8h1-ekg2
+aliases:
+  - CVE-2021-3349
+summary:
+severities:
+  - score: '2.9'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:N/UI:N/S:U/C:N/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-3349.json
+  - score: '0.00058'
+    scoring_system: epss
+    scoring_elements: '0.25038'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-3349
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-11T14:46:55Z/
+    published_at:
+    url: https://dev.gnupg.org/T4735
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-11T14:46:55Z/
+    published_at:
+    url: https://gitlab.gnome.org/GNOME/evolution/-/issues/299
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-11T14:46:55Z/
+    published_at:
+    url: https://mgorny.pl/articles/evolution-uid-trust-extrapolation.html
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1516
+weaknesses:
+  - CWE-345
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-3349.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-3349
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1923113
+    reference_type:
+    reference_id: '1923113'
+  - url: https://gitlab.gnome.org/GNOME/evolution/-/issues/299
+    reference_type:
+    reference_id: 299
+  - url: https://security.archlinux.org/AVG-1516
+    reference_type:
+    reference_id: AVG-1516
+  - url: https://mgorny.pl/articles/evolution-uid-trust-extrapolation.html
+    reference_type:
+    reference_id: evolution-uid-trust-extrapolation.html
+  - url: https://dev.gnupg.org/T4735
+    reference_type:
+    reference_id: T4735

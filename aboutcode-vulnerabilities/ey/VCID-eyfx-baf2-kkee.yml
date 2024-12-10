@@ -1,0 +1,76 @@
+vulnerability_id: VCID-eyfx-baf2-kkee
+aliases:
+  - CVE-2018-16859
+  - GHSA-v735-2pp6-h86r
+  - PYSEC-2018-60
+summary: Execution of Ansible playbooks on Windows platforms with PowerShell ScriptBlock logging
+  and Module logging enabled can allow for 'become' passwords to appear in EventLogs in plaintext.
+  A local user with administrator privileges on the machine can view these logs and discover
+  the plaintext password. Ansible Engine 2.8 and older are believed to be vulnerable.
+severities:
+  - score: '4.2'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:L/PR:H/UI:R/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-16859.json
+  - score: '0.00042'
+    scoring_system: epss
+    scoring_elements: '0.05073'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-16859
+weaknesses:
+  - CWE-532
+  - CWE-1035
+  - CWE-937
+references:
+  - url: http://lists.opensuse.org/opensuse-security-announce/2019-04/msg00021.html
+    reference_type:
+    reference_id:
+  - url: http://lists.opensuse.org/opensuse-security-announce/2019-06/msg00077.html
+    reference_type:
+    reference_id:
+  - url: http://lists.opensuse.org/opensuse-security-announce/2019-08/msg00020.html
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/errata/RHSA-2018:3770
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/errata/RHSA-2018:3771
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/errata/RHSA-2018:3772
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/errata/RHSA-2018:3773
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-16859.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-16859
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2018-16859
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-16859
+    reference_type:
+    reference_id:
+  - url: https://cwe.mitre.org/data/definitions/200.html
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://github.com/ansible/ansible/commit/8c1f701e6e9df29fe991f98265e2dd76acca4b8c
+    reference_type:
+    reference_id:
+  - url: https://github.com/ansible/ansible/pull/49142
+    reference_type:
+    reference_id:
+  - url: http://www.securityfocus.com/bid/106004
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1649607
+    reference_type:
+    reference_id: 1649607

@@ -1,0 +1,88 @@
+vulnerability_id: VCID-kpb1-q174-vydc
+aliases:
+  - CVE-2021-22890
+summary:
+severities:
+  - score: '3.7'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-22890.json
+  - score: '0.00356'
+    scoring_system: epss
+    scoring_elements: '0.72453'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-22890
+  - score: Low
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2021-22890.html
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1753
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1754
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1755
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1756
+weaknesses:
+  - CWE-290
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-22890.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-22890
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2021-22890.html
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://hackerone.com/reports/1129529
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1941965
+    reference_type:
+    reference_id: '1941965'
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=986270
+    reference_type:
+    reference_id: 986270
+  - url: https://security.archlinux.org/AVG-1753
+    reference_type:
+    reference_id: AVG-1753
+  - url: https://security.archlinux.org/AVG-1754
+    reference_type:
+    reference_id: AVG-1754
+  - url: https://security.archlinux.org/AVG-1755
+    reference_type:
+    reference_id: AVG-1755
+  - url: https://security.archlinux.org/AVG-1756
+    reference_type:
+    reference_id: AVG-1756
+  - url: https://security.gentoo.org/glsa/202105-36
+    reference_type:
+    reference_id: GLSA-202105-36
+  - url: https://access.redhat.com/errata/RHSA-2021:2471
+    reference_type:
+    reference_id: RHSA-2021:2471
+  - url: https://access.redhat.com/errata/RHSA-2021:2472
+    reference_type:
+    reference_id: RHSA-2021:2472
+  - url: https://usn.ubuntu.com/4898-1/
+    reference_type:
+    reference_id: USN-4898-1

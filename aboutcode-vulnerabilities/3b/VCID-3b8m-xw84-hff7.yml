@@ -1,0 +1,76 @@
+vulnerability_id: VCID-3b8m-xw84-hff7
+aliases:
+  - CVE-2023-6865
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-6865.json
+  - score: '0.00064'
+    scoring_system: epss
+    scoring_elements: '0.29038'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-6865
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-54
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-56
+weaknesses:
+  - CWE-908
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-6865.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-6865
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2255361
+    reference_type:
+    reference_id: 2255361
+  - url: https://security.gentoo.org/glsa/202401-10
+    reference_type:
+    reference_id: GLSA-202401-10
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-54
+    reference_type:
+    reference_id: mfsa2023-54
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-56
+    reference_type:
+    reference_id: mfsa2023-56
+  - url: https://access.redhat.com/errata/RHSA-2024:0011
+    reference_type:
+    reference_id: RHSA-2024:0011
+  - url: https://access.redhat.com/errata/RHSA-2024:0012
+    reference_type:
+    reference_id: RHSA-2024:0012
+  - url: https://access.redhat.com/errata/RHSA-2024:0019
+    reference_type:
+    reference_id: RHSA-2024:0019
+  - url: https://access.redhat.com/errata/RHSA-2024:0021
+    reference_type:
+    reference_id: RHSA-2024:0021
+  - url: https://access.redhat.com/errata/RHSA-2024:0022
+    reference_type:
+    reference_id: RHSA-2024:0022
+  - url: https://access.redhat.com/errata/RHSA-2024:0023
+    reference_type:
+    reference_id: RHSA-2024:0023
+  - url: https://access.redhat.com/errata/RHSA-2024:0024
+    reference_type:
+    reference_id: RHSA-2024:0024
+  - url: https://access.redhat.com/errata/RHSA-2024:0025
+    reference_type:
+    reference_id: RHSA-2024:0025
+  - url: https://access.redhat.com/errata/RHSA-2024:0026
+    reference_type:
+    reference_id: RHSA-2024:0026
+  - url: https://usn.ubuntu.com/6562-1/
+    reference_type:
+    reference_id: USN-6562-1

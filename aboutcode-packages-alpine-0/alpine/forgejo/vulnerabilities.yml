@@ -1,0 +1,144 @@
+- purl: pkg:alpine/forgejo@1.21.10.0-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jp1s-kws9-mudx
+- purl: pkg:alpine/forgejo@1.21.10.0-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jp1s-kws9-mudx
+- purl: pkg:alpine/forgejo@1.21.10.0-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jp1s-kws9-mudx
+- purl: pkg:alpine/forgejo@1.21.10.0-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jp1s-kws9-mudx
+- purl: pkg:alpine/forgejo@1.21.10.0-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jp1s-kws9-mudx
+- purl: pkg:alpine/forgejo@1.21.10.0-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jp1s-kws9-mudx
+- purl: pkg:alpine/forgejo@1.21.10.0-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jp1s-kws9-mudx
+- purl: pkg:alpine/forgejo@1.21.10.0-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jp1s-kws9-mudx
+- purl: pkg:alpine/forgejo@1.21.10.0-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jp1s-kws9-mudx
+- purl: pkg:alpine/forgejo@1.21.3.0-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/forgejo@1.21.3.0-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/forgejo@1.21.3.0-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/forgejo@1.21.3.0-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/forgejo@1.21.3.0-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/forgejo@1.21.3.0-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/forgejo@1.21.3.0-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/forgejo@1.21.3.0-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/forgejo@1.21.3.0-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/forgejo@7.0.3-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t2dj-ubcp-uffj
+- purl: pkg:alpine/forgejo@7.0.3-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t2dj-ubcp-uffj
+- purl: pkg:alpine/forgejo@7.0.3-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t2dj-ubcp-uffj
+- purl: pkg:alpine/forgejo@7.0.3-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t2dj-ubcp-uffj
+- purl: pkg:alpine/forgejo@7.0.3-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t2dj-ubcp-uffj
+- purl: pkg:alpine/forgejo@7.0.3-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t2dj-ubcp-uffj
+- purl: pkg:alpine/forgejo@7.0.3-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t2dj-ubcp-uffj
+- purl: pkg:alpine/forgejo@7.0.3-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t2dj-ubcp-uffj
+- purl: pkg:alpine/forgejo@7.0.3-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-t2dj-ubcp-uffj
+- purl: pkg:alpine/forgejo@7.0.4-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-52s9-zbqm-8qh3
+- purl: pkg:alpine/forgejo@7.0.4-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-52s9-zbqm-8qh3
+- purl: pkg:alpine/forgejo@7.0.4-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-52s9-zbqm-8qh3
+- purl: pkg:alpine/forgejo@7.0.4-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-52s9-zbqm-8qh3
+- purl: pkg:alpine/forgejo@7.0.4-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-52s9-zbqm-8qh3
+- purl: pkg:alpine/forgejo@7.0.4-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-52s9-zbqm-8qh3
+- purl: pkg:alpine/forgejo@7.0.4-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-52s9-zbqm-8qh3
+- purl: pkg:alpine/forgejo@7.0.4-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-52s9-zbqm-8qh3
+- purl: pkg:alpine/forgejo@7.0.4-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-52s9-zbqm-8qh3

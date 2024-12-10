@@ -1,0 +1,119 @@
+vulnerability_id: VCID-ees2-ku2d-cua3
+aliases:
+  - CVE-2019-10206
+  - GHSA-cqmr-rcpr-cxh3
+  - PYSEC-2019-145
+summary: ansible-playbook -k and ansible cli tools, all versions 2.8.x before 2.8.4, all 2.7.x
+  before 2.7.13 and all 2.6.x before 2.6.19, prompt passwords by expanding them from templates
+  as they could contain special characters. Passwords should be wrapped to prevent templates
+  trigger and exposing them.
+severities:
+  - score: '6.4'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:L/UI:R/S:U/C:H/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-10206.json
+  - score: '0.00220'
+    scoring_system: epss
+    scoring_elements: '0.60222'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-10206
+weaknesses:
+  - CWE-522
+  - CWE-1035
+  - CWE-20
+  - CWE-937
+references:
+  - url: http://lists.opensuse.org/opensuse-security-announce/2020-04/msg00021.html
+    reference_type:
+    reference_id:
+  - url: http://lists.opensuse.org/opensuse-security-announce/2020-04/msg00026.html
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-10206.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-10206
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2019-10206
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-10156
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-10206
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-14846
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-14864
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-14904
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10684
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10685
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10729
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14330
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14332
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14365
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1733
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1735
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1739
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1740
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1746
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1753
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-20228
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1732623
+    reference_type:
+    reference_id: 1732623
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=933005
+    reference_type:
+    reference_id: 933005
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2019-10206
+    reference_type:
+    reference_id: CVE-2019-10206
+  - url: https://access.redhat.com/errata/RHSA-2019:2542
+    reference_type:
+    reference_id: RHSA-2019:2542
+  - url: https://access.redhat.com/errata/RHSA-2019:2543
+    reference_type:
+    reference_id: RHSA-2019:2543
+  - url: https://access.redhat.com/errata/RHSA-2019:2544
+    reference_type:
+    reference_id: RHSA-2019:2544
+  - url: https://access.redhat.com/errata/RHSA-2019:2545
+    reference_type:
+    reference_id: RHSA-2019:2545

@@ -1,0 +1,51 @@
+vulnerability_id: VCID-q8ff-6gpe-mbdh
+aliases:
+  - CVE-2023-33170
+summary:
+severities:
+  - score: '8.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-33170.json
+  - score: '0.00264'
+    scoring_system: epss
+    scoring_elements: '0.66399'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-33170
+weaknesses:
+  - CWE-362
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-33170.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-33170
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2221854
+    reference_type:
+    reference_id: 2221854
+  - url: https://access.redhat.com/errata/RHSA-2023:4057
+    reference_type:
+    reference_id: RHSA-2023:4057
+  - url: https://access.redhat.com/errata/RHSA-2023:4058
+    reference_type:
+    reference_id: RHSA-2023:4058
+  - url: https://access.redhat.com/errata/RHSA-2023:4059
+    reference_type:
+    reference_id: RHSA-2023:4059
+  - url: https://access.redhat.com/errata/RHSA-2023:4060
+    reference_type:
+    reference_id: RHSA-2023:4060
+  - url: https://access.redhat.com/errata/RHSA-2023:4061
+    reference_type:
+    reference_id: RHSA-2023:4061
+  - url: https://access.redhat.com/errata/RHSA-2023:4448
+    reference_type:
+    reference_id: RHSA-2023:4448
+  - url: https://access.redhat.com/errata/RHSA-2023:4449
+    reference_type:
+    reference_id: RHSA-2023:4449
+  - url: https://usn.ubuntu.com/6217-1/
+    reference_type:
+    reference_id: USN-6217-1

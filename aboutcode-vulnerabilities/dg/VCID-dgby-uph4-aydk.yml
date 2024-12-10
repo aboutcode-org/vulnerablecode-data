@@ -1,0 +1,63 @@
+vulnerability_id: VCID-dgby-uph4-aydk
+aliases:
+  - CVE-2022-24407
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-24407.json
+  - score: '0.00290'
+    scoring_system: epss
+    scoring_elements: '0.69444'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-24407
+weaknesses:
+  - CWE-89
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-24407.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-24407
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2055326
+    reference_type:
+    reference_id: 2055326
+  - url: https://access.redhat.com/errata/RHSA-2022:0658
+    reference_type:
+    reference_id: RHSA-2022:0658
+  - url: https://access.redhat.com/errata/RHSA-2022:0666
+    reference_type:
+    reference_id: RHSA-2022:0666
+  - url: https://access.redhat.com/errata/RHSA-2022:0668
+    reference_type:
+    reference_id: RHSA-2022:0668
+  - url: https://access.redhat.com/errata/RHSA-2022:0730
+    reference_type:
+    reference_id: RHSA-2022:0730
+  - url: https://access.redhat.com/errata/RHSA-2022:0731
+    reference_type:
+    reference_id: RHSA-2022:0731
+  - url: https://access.redhat.com/errata/RHSA-2022:0780
+    reference_type:
+    reference_id: RHSA-2022:0780
+  - url: https://access.redhat.com/errata/RHSA-2022:0841
+    reference_type:
+    reference_id: RHSA-2022:0841
+  - url: https://access.redhat.com/errata/RHSA-2022:1029
+    reference_type:
+    reference_id: RHSA-2022:1029
+  - url: https://access.redhat.com/errata/RHSA-2022:1263
+    reference_type:
+    reference_id: RHSA-2022:1263
+  - url: https://usn.ubuntu.com/5301-1/
+    reference_type:
+    reference_id: USN-5301-1
+  - url: https://usn.ubuntu.com/5301-2/
+    reference_type:
+    reference_id: USN-5301-2

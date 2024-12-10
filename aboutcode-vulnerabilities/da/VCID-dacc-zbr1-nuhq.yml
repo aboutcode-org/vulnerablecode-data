@@ -1,0 +1,82 @@
+vulnerability_id: VCID-dacc-zbr1-nuhq
+aliases:
+  - CVE-2019-11500
+summary:
+severities:
+  - score: '8.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-11500.json
+  - score: '0.59877'
+    scoring_system: epss
+    scoring_elements: '0.97833'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-11500
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1026
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1027
+weaknesses:
+  - CWE-20
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-11500.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-11500
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11500
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1741141
+    reference_type:
+    reference_id: 1741141
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=936014
+    reference_type:
+    reference_id: 936014
+  - url: https://security.archlinux.org/ASA-201908-18
+    reference_type:
+    reference_id: ASA-201908-18
+  - url: https://security.archlinux.org/ASA-201908-19
+    reference_type:
+    reference_id: ASA-201908-19
+  - url: https://security.archlinux.org/AVG-1026
+    reference_type:
+    reference_id: AVG-1026
+  - url: https://security.archlinux.org/AVG-1027
+    reference_type:
+    reference_id: AVG-1027
+  - url: https://security.gentoo.org/glsa/201908-29
+    reference_type:
+    reference_id: GLSA-201908-29
+  - url: https://access.redhat.com/errata/RHSA-2019:2822
+    reference_type:
+    reference_id: RHSA-2019:2822
+  - url: https://access.redhat.com/errata/RHSA-2019:2836
+    reference_type:
+    reference_id: RHSA-2019:2836
+  - url: https://access.redhat.com/errata/RHSA-2019:2885
+    reference_type:
+    reference_id: RHSA-2019:2885
+  - url: https://usn.ubuntu.com/4110-1/
+    reference_type:
+    reference_id: USN-4110-1
+  - url: https://usn.ubuntu.com/4110-2/
+    reference_type:
+    reference_id: USN-4110-2
+  - url: https://usn.ubuntu.com/4110-3/
+    reference_type:
+    reference_id: USN-4110-3
+  - url: https://usn.ubuntu.com/4110-4/
+    reference_type:
+    reference_id: USN-4110-4

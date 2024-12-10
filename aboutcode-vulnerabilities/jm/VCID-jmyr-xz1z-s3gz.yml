@@ -1,0 +1,23 @@
+vulnerability_id: VCID-jmyr-xz1z-s3gz
+aliases:
+  - CVE-2020-25691
+summary:
+severities:
+  - score: '0.00157'
+    scoring_system: epss
+    scoring_elements: '0.52680'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-25691
+  - score: Low
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2207
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-25691
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/AVG-2207
+    reference_type:
+    reference_id: AVG-2207

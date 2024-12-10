@@ -1,0 +1,18 @@
+vulnerability_id: VCID-hku8-6f2g-n3f9
+aliases:
+  - CVE-2022-1494
+summary:
+severities:
+  - score: '0.00152'
+    scoring_system: epss
+    scoring_elements: '0.52047'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-1494
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-1494
+    reference_type:
+    reference_id:
+  - url: https://security.gentoo.org/glsa/202208-25
+    reference_type:
+    reference_id: GLSA-202208-25

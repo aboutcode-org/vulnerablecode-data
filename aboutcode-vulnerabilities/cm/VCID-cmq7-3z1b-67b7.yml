@@ -1,0 +1,43 @@
+vulnerability_id: VCID-cmq7-3z1b-67b7
+aliases:
+  - CVE-2021-30556
+summary:
+severities:
+  - score: '0.01076'
+    scoring_system: epss
+    scoring_elements: '0.84592'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-30556
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2081
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2082
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-30556
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=990079
+    reference_type:
+    reference_id: 990079
+  - url: https://security.archlinux.org/ASA-202106-46
+    reference_type:
+    reference_id: ASA-202106-46
+  - url: https://security.archlinux.org/ASA-202106-47
+    reference_type:
+    reference_id: ASA-202106-47
+  - url: https://security.archlinux.org/AVG-2081
+    reference_type:
+    reference_id: AVG-2081
+  - url: https://security.archlinux.org/AVG-2082
+    reference_type:
+    reference_id: AVG-2082
+  - url: https://security.gentoo.org/glsa/202107-06
+    reference_type:
+    reference_id: GLSA-202107-06

@@ -1,0 +1,59 @@
+vulnerability_id: VCID-bs2y-vazv-5ke1
+aliases:
+  - CVE-2017-15130
+summary:
+severities:
+  - score: '3.7'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-15130.json
+  - score: '0.00668'
+    scoring_system: epss
+    scoring_elements: '0.80063'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2017-15130
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-645
+weaknesses:
+  - CWE-400
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-15130.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2017-15130
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-14461
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-15130
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-15132
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1532356
+    reference_type:
+    reference_id: 1532356
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=891820
+    reference_type:
+    reference_id: 891820
+  - url: https://security.archlinux.org/ASA-201803-7
+    reference_type:
+    reference_id: ASA-201803-7
+  - url: https://security.archlinux.org/AVG-645
+    reference_type:
+    reference_id: AVG-645
+  - url: https://usn.ubuntu.com/3587-1/
+    reference_type:
+    reference_id: USN-3587-1
+  - url: https://usn.ubuntu.com/3587-2/
+    reference_type:
+    reference_id: USN-3587-2

@@ -1,0 +1,98 @@
+vulnerability_id: VCID-p8v1-cygv-bbcd
+aliases:
+  - CVE-2024-28757
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-28757.json
+  - score: '0.00044'
+    scoring_system: epss
+    scoring_elements: '0.11029'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-28757
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-03-11T13:15:18Z/
+    published_at:
+    url: https://github.com/libexpat/libexpat/issues/839
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-03-11T13:15:18Z/
+    published_at:
+    url: https://github.com/libexpat/libexpat/pull/842
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-03-11T13:15:18Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/FPLC6WDSRDUYS7F7JWAOVOHFNOUQ43DD/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-03-11T13:15:18Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/LKJ7V5F6LJCEQJXDBWGT27J7NAP3E3N7/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-03-11T13:15:18Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/VK2O34GH43NTHBZBN7G5Y6YKJKPUCTBE/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-03-11T13:15:18Z/
+    published_at:
+    url: https://security.netapp.com/advisory/ntap-20240322-0001/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-03-11T13:15:18Z/
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/03/15/1
+weaknesses:
+  - CWE-776
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-28757.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-28757
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: http://www.openwall.com/lists/oss-security/2024/03/15/1
+    reference_type:
+    reference_id: 1
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1065868
+    reference_type:
+    reference_id: 1065868
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2268766
+    reference_type:
+    reference_id: 2268766
+  - url: https://github.com/libexpat/libexpat/issues/839
+    reference_type:
+    reference_id: 839
+  - url: https://github.com/libexpat/libexpat/pull/842
+    reference_type:
+    reference_id: 842
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/FPLC6WDSRDUYS7F7JWAOVOHFNOUQ43DD/
+    reference_type:
+    reference_id: FPLC6WDSRDUYS7F7JWAOVOHFNOUQ43DD
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/LKJ7V5F6LJCEQJXDBWGT27J7NAP3E3N7/
+    reference_type:
+    reference_id: LKJ7V5F6LJCEQJXDBWGT27J7NAP3E3N7
+  - url: https://security.netapp.com/advisory/ntap-20240322-0001/
+    reference_type:
+    reference_id: ntap-20240322-0001
+  - url: https://access.redhat.com/errata/RHSA-2024:1530
+    reference_type:
+    reference_id: RHSA-2024:1530
+  - url: https://access.redhat.com/errata/RHSA-2024:3926
+    reference_type:
+    reference_id: RHSA-2024:3926
+  - url: https://usn.ubuntu.com/6694-1/
+    reference_type:
+    reference_id: USN-6694-1
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/VK2O34GH43NTHBZBN7G5Y6YKJKPUCTBE/
+    reference_type:
+    reference_id: VK2O34GH43NTHBZBN7G5Y6YKJKPUCTBE

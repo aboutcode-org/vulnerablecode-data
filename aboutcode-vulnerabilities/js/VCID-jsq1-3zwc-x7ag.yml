@@ -1,0 +1,115 @@
+vulnerability_id: VCID-jsq1-3zwc-x7ag
+aliases:
+  - CVE-2022-28285
+summary:
+severities:
+  - score: '6.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-28285.json
+  - score: '0.00141'
+    scoring_system: epss
+    scoring_elements: '0.50473'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-28285
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2711
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2712
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-13
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-14
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-15
+weaknesses:
+  - CWE-125
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-28285.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-28285
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2072563
+    reference_type:
+    reference_id: 2072563
+  - url: https://security.archlinux.org/AVG-2711
+    reference_type:
+    reference_id: AVG-2711
+  - url: https://security.archlinux.org/AVG-2712
+    reference_type:
+    reference_id: AVG-2712
+  - url: https://security.gentoo.org/glsa/202208-08
+    reference_type:
+    reference_id: GLSA-202208-08
+  - url: https://security.gentoo.org/glsa/202208-14
+    reference_type:
+    reference_id: GLSA-202208-14
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-13
+    reference_type:
+    reference_id: mfsa2022-13
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-14
+    reference_type:
+    reference_id: mfsa2022-14
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-15
+    reference_type:
+    reference_id: mfsa2022-15
+  - url: https://access.redhat.com/errata/RHSA-2022:1283
+    reference_type:
+    reference_id: RHSA-2022:1283
+  - url: https://access.redhat.com/errata/RHSA-2022:1284
+    reference_type:
+    reference_id: RHSA-2022:1284
+  - url: https://access.redhat.com/errata/RHSA-2022:1285
+    reference_type:
+    reference_id: RHSA-2022:1285
+  - url: https://access.redhat.com/errata/RHSA-2022:1286
+    reference_type:
+    reference_id: RHSA-2022:1286
+  - url: https://access.redhat.com/errata/RHSA-2022:1287
+    reference_type:
+    reference_id: RHSA-2022:1287
+  - url: https://access.redhat.com/errata/RHSA-2022:1301
+    reference_type:
+    reference_id: RHSA-2022:1301
+  - url: https://access.redhat.com/errata/RHSA-2022:1302
+    reference_type:
+    reference_id: RHSA-2022:1302
+  - url: https://access.redhat.com/errata/RHSA-2022:1303
+    reference_type:
+    reference_id: RHSA-2022:1303
+  - url: https://access.redhat.com/errata/RHSA-2022:1305
+    reference_type:
+    reference_id: RHSA-2022:1305
+  - url: https://access.redhat.com/errata/RHSA-2022:1326
+    reference_type:
+    reference_id: RHSA-2022:1326
+  - url: https://usn.ubuntu.com/5370-1/
+    reference_type:
+    reference_id: USN-5370-1
+  - url: https://usn.ubuntu.com/5393-1/
+    reference_type:
+    reference_id: USN-5393-1
+  - url: https://usn.ubuntu.com/5494-1/
+    reference_type:
+    reference_id: USN-5494-1

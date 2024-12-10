@@ -1,0 +1,32 @@
+vulnerability_id: VCID-5qgm-5jun-7bcx
+aliases:
+  - CVE-2016-2147
+summary:
+severities:
+  - score: '0.08771'
+    scoring_system: epss
+    scoring_elements: '0.94678'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-2147
+weaknesses:
+  - CWE-190
+  - CWE-787
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-2147.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-2147
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1316554
+    reference_type:
+    reference_id: 1316554
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=818499
+    reference_type:
+    reference_id: 818499
+  - url: https://security.gentoo.org/glsa/201612-04
+    reference_type:
+    reference_id: GLSA-201612-04
+  - url: https://usn.ubuntu.com/3935-1/
+    reference_type:
+    reference_id: USN-3935-1

@@ -1,0 +1,39 @@
+vulnerability_id: VCID-jh4j-8ft4-3ub6
+aliases:
+  - CVE-2022-38533
+summary:
+severities:
+  - score: '5.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-38533.json
+  - score: '0.00092'
+    scoring_system: epss
+    scoring_elements: '0.40243'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-38533
+weaknesses:
+  - CWE-122
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-38533.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-38533
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2124569
+    reference_type:
+    reference_id: 2124569
+  - url: https://security.gentoo.org/glsa/202309-15
+    reference_type:
+    reference_id: GLSA-202309-15
+  - url: https://usn.ubuntu.com/5762-1/
+    reference_type:
+    reference_id: USN-5762-1
+  - url: https://usn.ubuntu.com/6544-1/
+    reference_type:
+    reference_id: USN-6544-1

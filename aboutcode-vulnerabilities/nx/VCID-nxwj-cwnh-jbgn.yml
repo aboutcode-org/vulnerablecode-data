@@ -1,0 +1,61 @@
+vulnerability_id: VCID-nxwj-cwnh-jbgn
+aliases:
+  - CVE-2020-29385
+summary:
+severities:
+  - score: '5.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-29385.json
+  - score: '0.00192'
+    scoring_system: epss
+    scoring_elements: '0.57363'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-29385
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1328
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1329
+weaknesses:
+  - CWE-835
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-29385.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-29385
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1927237
+    reference_type:
+    reference_id: '1927237'
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=977166
+    reference_type:
+    reference_id: 977166
+  - url: https://security.archlinux.org/ASA-202012-19
+    reference_type:
+    reference_id: ASA-202012-19
+  - url: https://security.archlinux.org/ASA-202012-20
+    reference_type:
+    reference_id: ASA-202012-20
+  - url: https://security.archlinux.org/AVG-1328
+    reference_type:
+    reference_id: AVG-1328
+  - url: https://security.archlinux.org/AVG-1329
+    reference_type:
+    reference_id: AVG-1329
+  - url: https://security.gentoo.org/glsa/202012-15
+    reference_type:
+    reference_id: GLSA-202012-15
+  - url: https://usn.ubuntu.com/4663-1/
+    reference_type:
+    reference_id: USN-4663-1

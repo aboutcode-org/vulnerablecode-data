@@ -1,0 +1,18 @@
+vulnerability_id: VCID-v7ar-j74f-d3hu
+aliases:
+  - CVE-2018-15599
+summary:
+severities:
+  - score: '0.00302'
+    scoring_system: epss
+    scoring_elements: '0.69982'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-15599
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-15599
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=906890
+    reference_type:
+    reference_id: 906890

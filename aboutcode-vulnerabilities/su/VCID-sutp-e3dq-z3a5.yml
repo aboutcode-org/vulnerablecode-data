@@ -1,0 +1,21 @@
+vulnerability_id: VCID-sutp-e3dq-z3a5
+aliases:
+  - CVE-2016-7785
+summary:
+severities:
+  - score: '0.00276'
+    scoring_system: epss
+    scoring_elements: '0.68552'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-7785
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-7785
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=840434
+    reference_type:
+    reference_id: 840434
+  - url: https://security.gentoo.org/glsa/201701-71
+    reference_type:
+    reference_id: GLSA-201701-71

@@ -1,0 +1,107 @@
+vulnerability_id: VCID-yh2q-m98z-tqg8
+aliases:
+  - CVE-2020-27779
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:H/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-27779.json
+  - score: '0.00042'
+    scoring_system: epss
+    scoring_elements: '0.05073'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-27779
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1629
+weaknesses:
+  - CWE-285
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-27779.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-27779
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14372
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25632
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25647
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-27749
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-27779
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-20225
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-20233
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1900698
+    reference_type:
+    reference_id: '1900698'
+  - url: https://security.archlinux.org/ASA-202106-43
+    reference_type:
+    reference_id: ASA-202106-43
+  - url: https://security.archlinux.org/AVG-1629
+    reference_type:
+    reference_id: AVG-1629
+  - url: https://security.gentoo.org/glsa/202104-05
+    reference_type:
+    reference_id: GLSA-202104-05
+  - url: https://access.redhat.com/errata/RHSA-2021:0696
+    reference_type:
+    reference_id: RHSA-2021:0696
+  - url: https://access.redhat.com/errata/RHSA-2021:0697
+    reference_type:
+    reference_id: RHSA-2021:0697
+  - url: https://access.redhat.com/errata/RHSA-2021:0698
+    reference_type:
+    reference_id: RHSA-2021:0698
+  - url: https://access.redhat.com/errata/RHSA-2021:0699
+    reference_type:
+    reference_id: RHSA-2021:0699
+  - url: https://access.redhat.com/errata/RHSA-2021:0700
+    reference_type:
+    reference_id: RHSA-2021:0700
+  - url: https://access.redhat.com/errata/RHSA-2021:0701
+    reference_type:
+    reference_id: RHSA-2021:0701
+  - url: https://access.redhat.com/errata/RHSA-2021:0702
+    reference_type:
+    reference_id: RHSA-2021:0702
+  - url: https://access.redhat.com/errata/RHSA-2021:0703
+    reference_type:
+    reference_id: RHSA-2021:0703
+  - url: https://access.redhat.com/errata/RHSA-2021:0704
+    reference_type:
+    reference_id: RHSA-2021:0704
+  - url: https://access.redhat.com/errata/RHSA-2021:1734
+    reference_type:
+    reference_id: RHSA-2021:1734
+  - url: https://access.redhat.com/errata/RHSA-2021:2566
+    reference_type:
+    reference_id: RHSA-2021:2566
+  - url: https://access.redhat.com/errata/RHSA-2021:2790
+    reference_type:
+    reference_id: RHSA-2021:2790
+  - url: https://access.redhat.com/errata/RHSA-2021:3675
+    reference_type:
+    reference_id: RHSA-2021:3675
+  - url: https://usn.ubuntu.com/4992-1/
+    reference_type:
+    reference_id: USN-4992-1

@@ -1,0 +1,118 @@
+vulnerability_id: VCID-1nch-x2uq-cyeu
+aliases:
+  - CVE-2023-36811
+  - GHSA-8fjr-hghr-4m99
+  - PYSEC-2023-164
+summary: 'borgbackup is an opensource, deduplicating archiver with compression and authenticated
+  encryption. A flaw in the cryptographic authentication scheme in borgbackup allowed an attacker
+  to fake archives and potentially indirectly cause backup data loss in the repository. The
+  attack requires an attacker to be able to: 1. insert files (with no additional headers) into
+  backups and 2. gain write access to the repository. This vulnerability does not disclose plaintext
+  to the attacker, nor does it affect the authenticity of existing archives. Creating plausible
+  fake archives may be feasible for empty or small archives, but is unlikely for large archives.
+  The issue has been fixed in borgbackup 1.2.5. Users are advised to upgrade. Additionally to
+  installing the fixed code, users must follow the upgrade procedure as documented in the change
+  log. Data loss after being attacked can be avoided by reviewing the archives (timestamp and
+  contents valid and as expected) after any "borg check --repair" and before "borg prune". There
+  are no known workarounds for this vulnerability.'
+severities:
+  - score: '0.00046'
+    scoring_system: epss
+    scoring_elements: '0.17874'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-36811
+  - score: '4.7'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:N/I:H/A:N
+    published_at:
+    url: https://github.com/borgbackup/borg/blob/1.2.5-cvedocs/docs/changes.rst#pre-125-archives-spoofing-vulnerability-cve-2023-36811
+  - score: '4.7'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:N/I:H/A:N
+    published_at:
+    url: https://github.com/borgbackup/borg/commit/3eb070191da10c2d3f7bc6484cf3d51c3045f884
+  - score: '4.7'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:N/I:H/A:N
+    published_at:
+    url: https://github.com/borgbackup/borg/security/advisories/GHSA-8fjr-hghr-4m99
+  - score: '4.7'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:N/I:H/A:N
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/5Q3OHXERTU547SEQ3YREZXHOCYNLVD63/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-10-01T14:49:06Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/5Q3OHXERTU547SEQ3YREZXHOCYNLVD63/
+  - score: '4.7'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:N/I:H/A:N
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/XOZDFIYEBIOKSIEAXUJJJFUJTAJ7TF3C/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-10-01T14:49:06Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/XOZDFIYEBIOKSIEAXUJJJFUJTAJ7TF3C/
+  - score: '4.7'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:N/I:H/A:N
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/ZUCQSMAWOJBCRGF6XPKEZ2TPGAPNKIWV/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-10-01T14:49:06Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/ZUCQSMAWOJBCRGF6XPKEZ2TPGAPNKIWV/
+weaknesses:
+  - CWE-347
+  - CWE-937
+  - CWE-1035
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-36811
+    reference_type:
+    reference_id:
+  - url: https://github.com/borgbackup/borg
+    reference_type:
+    reference_id:
+  - url: https://github.com/borgbackup/borg/blob/1.2.5-cvedocs/docs/changes.rst#pre-125-archives-spoofing-vulnerability-cve-2023-36811
+    reference_type:
+    reference_id:
+  - url: https://github.com/borgbackup/borg/blob/1.2.6/docs/changes.rst#pre-125-archives-spoofing-vulnerability-cve-2023-36811
+    reference_type:
+    reference_id:
+  - url: https://github.com/borgbackup/borg/commit/3eb070191da10c2d3f7bc6484cf3d51c3045f884
+    reference_type:
+    reference_id:
+  - url: https://github.com/borgbackup/borg/security/advisories/GHSA-8fjr-hghr-4m99
+    reference_type:
+    reference_id:
+  - url: https://github.com/pypa/advisory-database/tree/main/vulns/borgbackup/PYSEC-2023-164.yaml
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/5Q3OHXERTU547SEQ3YREZXHOCYNLVD63
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/XOZDFIYEBIOKSIEAXUJJJFUJTAJ7TF3C
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/ZUCQSMAWOJBCRGF6XPKEZ2TPGAPNKIWV
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/5Q3OHXERTU547SEQ3YREZXHOCYNLVD63/
+    reference_type:
+    reference_id: 5Q3OHXERTU547SEQ3YREZXHOCYNLVD63
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2023-36811
+    reference_type:
+    reference_id: CVE-2023-36811
+  - url: https://github.com/advisories/GHSA-8fjr-hghr-4m99
+    reference_type:
+    reference_id: GHSA-8fjr-hghr-4m99
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/XOZDFIYEBIOKSIEAXUJJJFUJTAJ7TF3C/
+    reference_type:
+    reference_id: XOZDFIYEBIOKSIEAXUJJJFUJTAJ7TF3C
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/ZUCQSMAWOJBCRGF6XPKEZ2TPGAPNKIWV/
+    reference_type:
+    reference_id: ZUCQSMAWOJBCRGF6XPKEZ2TPGAPNKIWV

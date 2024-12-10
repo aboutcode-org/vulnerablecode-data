@@ -1,0 +1,56 @@
+vulnerability_id: VCID-62da-a3ry-qbev
+aliases:
+  - CVE-2020-24553
+summary:
+severities:
+  - score: '6.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-24553.json
+  - score: '0.00616'
+    scoring_system: epss
+    scoring_elements: '0.79106'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-24553
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1215
+weaknesses:
+  - CWE-79
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-24553.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-24553
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1874857
+    reference_type:
+    reference_id: 1874857
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=969661
+    reference_type:
+    reference_id: 969661
+  - url: https://security.archlinux.org/ASA-202009-3
+    reference_type:
+    reference_id: ASA-202009-3
+  - url: https://security.archlinux.org/AVG-1215
+    reference_type:
+    reference_id: AVG-1215
+  - url: https://access.redhat.com/errata/RHSA-2020:5493
+    reference_type:
+    reference_id: RHSA-2020:5493
+  - url: https://access.redhat.com/errata/RHSA-2021:0145
+    reference_type:
+    reference_id: RHSA-2021:0145
+  - url: https://access.redhat.com/errata/RHSA-2021:0146
+    reference_type:
+    reference_id: RHSA-2021:0146
+  - url: https://usn.ubuntu.com/4758-1/
+    reference_type:
+    reference_id: USN-4758-1

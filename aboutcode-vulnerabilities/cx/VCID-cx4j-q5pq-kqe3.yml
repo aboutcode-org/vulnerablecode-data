@@ -1,0 +1,110 @@
+vulnerability_id: VCID-cx4j-q5pq-kqe3
+aliases:
+  - CVE-2023-49786
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: http://packetstormsecurity.com/files/176251/Asterisk-20.1.0-Denial-Of-Service.html
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:P/P:M/B:A/M:M/D:T/2024-10-08T14:19:55Z/
+    published_at:
+    url: http://packetstormsecurity.com/files/176251/Asterisk-20.1.0-Denial-Of-Service.html
+  - score: '0.00669'
+    scoring_system: epss
+    scoring_elements: '0.80072'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-49786
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: http://seclists.org/fulldisclosure/2023/Dec/24
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:P/P:M/B:A/M:M/D:T/2024-10-08T14:19:55Z/
+    published_at:
+    url: http://seclists.org/fulldisclosure/2023/Dec/24
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://github.com/asterisk/asterisk/commit/d7d7764cb07c8a1872804321302ef93bf62cba05
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:P/P:M/B:A/M:M/D:T/2024-10-08T14:19:55Z/
+    published_at:
+    url: https://github.com/asterisk/asterisk/commit/d7d7764cb07c8a1872804321302ef93bf62cba05
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://github.com/asterisk/asterisk/security/advisories/GHSA-hxj9-xwr8-w8pq
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:P/P:M/B:A/M:M/D:T/2024-10-08T14:19:55Z/
+    published_at:
+    url: https://github.com/asterisk/asterisk/security/advisories/GHSA-hxj9-xwr8-w8pq
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://github.com/EnableSecurity/advisories/tree/master/ES2023-01-asterisk-dtls-hello-race
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:P/P:M/B:A/M:M/D:T/2024-10-08T14:19:55Z/
+    published_at:
+    url: https://github.com/EnableSecurity/advisories/tree/master/ES2023-01-asterisk-dtls-hello-race
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.debian.org/debian-lts-announce/2023/12/msg00019.html
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:P/P:M/B:A/M:M/D:T/2024-10-08T14:19:55Z/
+    published_at:
+    url: https://lists.debian.org/debian-lts-announce/2023/12/msg00019.html
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2023/12/15/7
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:P/P:M/B:A/M:M/D:T/2024-10-08T14:19:55Z/
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2023/12/15/7
+weaknesses:
+  - CWE-703
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-49786
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1059033
+    reference_type:
+    reference_id: 1059033
+  - url: http://seclists.org/fulldisclosure/2023/Dec/24
+    reference_type:
+    reference_id: 24
+  - url: http://www.openwall.com/lists/oss-security/2023/12/15/7
+    reference_type:
+    reference_id: 7
+  - url: http://packetstormsecurity.com/files/176251/Asterisk-20.1.0-Denial-Of-Service.html
+    reference_type:
+    reference_id: Asterisk-20.1.0-Denial-Of-Service.html
+  - url: https://github.com/asterisk/asterisk/commit/d7d7764cb07c8a1872804321302ef93bf62cba05
+    reference_type:
+    reference_id: d7d7764cb07c8a1872804321302ef93bf62cba05
+  - url: https://github.com/EnableSecurity/advisories/tree/master/ES2023-01-asterisk-dtls-hello-race
+    reference_type:
+    reference_id: ES2023-01-asterisk-dtls-hello-race
+  - url: https://github.com/asterisk/asterisk/security/advisories/GHSA-hxj9-xwr8-w8pq
+    reference_type:
+    reference_id: GHSA-hxj9-xwr8-w8pq
+  - url: https://lists.debian.org/debian-lts-announce/2023/12/msg00019.html
+    reference_type:
+    reference_id: msg00019.html

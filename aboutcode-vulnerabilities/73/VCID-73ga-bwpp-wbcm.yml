@@ -1,0 +1,51 @@
+vulnerability_id: VCID-73ga-bwpp-wbcm
+aliases:
+  - CVE-2022-27651
+summary:
+severities:
+  - score: '4.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-27651.json
+  - score: '0.00134'
+    scoring_system: epss
+    scoring_elements: '0.49414'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-27651
+weaknesses:
+  - CWE-276
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-27651.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-27651
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1009882
+    reference_type:
+    reference_id: 1009882
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2066840
+    reference_type:
+    reference_id: 2066840
+  - url: https://access.redhat.com/errata/RHSA-2022:1407
+    reference_type:
+    reference_id: RHSA-2022:1407
+  - url: https://access.redhat.com/errata/RHSA-2022:1565
+    reference_type:
+    reference_id: RHSA-2022:1565
+  - url: https://access.redhat.com/errata/RHSA-2022:1566
+    reference_type:
+    reference_id: RHSA-2022:1566
+  - url: https://access.redhat.com/errata/RHSA-2022:1762
+    reference_type:
+    reference_id: RHSA-2022:1762
+  - url: https://access.redhat.com/errata/RHSA-2022:4651
+    reference_type:
+    reference_id: RHSA-2022:4651
+  - url: https://access.redhat.com/errata/RHSA-2022:4816
+    reference_type:
+    reference_id: RHSA-2022:4816

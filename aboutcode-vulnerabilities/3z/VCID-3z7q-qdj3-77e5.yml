@@ -1,0 +1,39 @@
+vulnerability_id: VCID-3z7q-qdj3-77e5
+aliases:
+  - CVE-2016-6254
+summary:
+severities:
+  - score: '8.6'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-6254.json
+  - score: '0.05493'
+    scoring_system: epss
+    scoring_elements: '0.93366'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-6254
+weaknesses:
+  - CWE-122
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-6254.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-6254
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6254
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1360709
+    reference_type:
+    reference_id: 1360709
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=832507
+    reference_type:
+    reference_id: 832507
+  - url: https://usn.ubuntu.com/USN-4793-1/
+    reference_type:
+    reference_id: USN-USN-4793-1

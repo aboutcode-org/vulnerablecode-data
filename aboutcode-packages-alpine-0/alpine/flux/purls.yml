@@ -1,0 +1,9 @@
+- pkg:alpine/flux@0.36.0-r0?arch=aarch64&distroversion=edge&reponame=community
+- pkg:alpine/flux@0.36.0-r0?arch=armhf&distroversion=edge&reponame=community
+- pkg:alpine/flux@0.36.0-r0?arch=armv7&distroversion=edge&reponame=community
+- pkg:alpine/flux@0.36.0-r0?arch=loongarch64&distroversion=edge&reponame=community
+- pkg:alpine/flux@0.36.0-r0?arch=ppc64le&distroversion=edge&reponame=community
+- pkg:alpine/flux@0.36.0-r0?arch=riscv64&distroversion=edge&reponame=community
+- pkg:alpine/flux@0.36.0-r0?arch=s390x&distroversion=edge&reponame=community
+- pkg:alpine/flux@0.36.0-r0?arch=x86_64&distroversion=edge&reponame=community
+- pkg:alpine/flux@0.36.0-r0?arch=x86&distroversion=edge&reponame=community

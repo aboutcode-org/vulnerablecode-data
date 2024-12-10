@@ -1,0 +1,49 @@
+vulnerability_id: VCID-8nfy-15qv-dbg8
+aliases:
+  - CVE-2020-12390
+summary:
+severities:
+  - score: '9.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-12390.json
+  - score: '0.00379'
+    scoring_system: epss
+    scoring_elements: '0.73298'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-12390
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1148
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-16
+weaknesses:
+  - CWE-502
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-12390.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-12390
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1834686
+    reference_type:
+    reference_id: 1834686
+  - url: https://security.archlinux.org/ASA-202005-3
+    reference_type:
+    reference_id: ASA-202005-3
+  - url: https://security.archlinux.org/AVG-1148
+    reference_type:
+    reference_id: AVG-1148
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-16
+    reference_type:
+    reference_id: mfsa2020-16
+  - url: https://usn.ubuntu.com/4353-1/
+    reference_type:
+    reference_id: USN-4353-1

@@ -1,0 +1,43 @@
+vulnerability_id: VCID-chjr-9r5e-4be1
+aliases:
+  - CVE-2021-30576
+summary:
+severities:
+  - score: '0.00236'
+    scoring_system: epss
+    scoring_elements: '0.61919'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-30576
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2200
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2202
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-30576
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=990079
+    reference_type:
+    reference_id: 990079
+  - url: https://security.archlinux.org/ASA-202107-47
+    reference_type:
+    reference_id: ASA-202107-47
+  - url: https://security.archlinux.org/ASA-202107-74
+    reference_type:
+    reference_id: ASA-202107-74
+  - url: https://security.archlinux.org/AVG-2200
+    reference_type:
+    reference_id: AVG-2200
+  - url: https://security.archlinux.org/AVG-2202
+    reference_type:
+    reference_id: AVG-2202
+  - url: https://security.gentoo.org/glsa/202201-02
+    reference_type:
+    reference_id: GLSA-202201-02

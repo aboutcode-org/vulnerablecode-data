@@ -1,0 +1,58 @@
+vulnerability_id: VCID-ex57-e2gc-hqcr
+aliases:
+  - CVE-2016-7444
+summary:
+severities:
+  - score: '5.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-7444.json
+  - score: '0.00615'
+    scoring_system: epss
+    scoring_elements: '0.79063'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-7444
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-17
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-26
+weaknesses:
+  - CWE-295
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-7444.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-7444
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1374266
+    reference_type:
+    reference_id: 1374266
+  - url: https://security.archlinux.org/ASA-201609-25
+    reference_type:
+    reference_id: ASA-201609-25
+  - url: https://security.archlinux.org/ASA-201609-26
+    reference_type:
+    reference_id: ASA-201609-26
+  - url: https://security.archlinux.org/AVG-17
+    reference_type:
+    reference_id: AVG-17
+  - url: https://security.archlinux.org/AVG-26
+    reference_type:
+    reference_id: AVG-26
+  - url: https://access.redhat.com/errata/RHSA-2017:2292
+    reference_type:
+    reference_id: RHSA-2017:2292
+  - url: https://usn.ubuntu.com/3183-1/
+    reference_type:
+    reference_id: USN-3183-1

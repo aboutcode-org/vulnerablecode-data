@@ -1,0 +1,98 @@
+vulnerability_id: VCID-zuyz-28sa-17cb
+aliases:
+  - CVE-2021-38493
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-38493.json
+  - score: '0.00429'
+    scoring_system: epss
+    scoring_elements: '0.74836'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-38493
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2344
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-38
+  - score: none
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-39
+  - score: none
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-42
+weaknesses:
+  - CWE-120
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-38493.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-38493
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2002119
+    reference_type:
+    reference_id: 2002119
+  - url: https://security.archlinux.org/AVG-2344
+    reference_type:
+    reference_id: AVG-2344
+  - url: https://security.gentoo.org/glsa/202202-03
+    reference_type:
+    reference_id: GLSA-202202-03
+  - url: https://security.gentoo.org/glsa/202208-14
+    reference_type:
+    reference_id: GLSA-202208-14
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-38
+    reference_type:
+    reference_id: mfsa2021-38
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-39
+    reference_type:
+    reference_id: mfsa2021-39
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-42
+    reference_type:
+    reference_id: mfsa2021-42
+  - url: https://access.redhat.com/errata/RHSA-2021:3494
+    reference_type:
+    reference_id: RHSA-2021:3494
+  - url: https://access.redhat.com/errata/RHSA-2021:3495
+    reference_type:
+    reference_id: RHSA-2021:3495
+  - url: https://access.redhat.com/errata/RHSA-2021:3496
+    reference_type:
+    reference_id: RHSA-2021:3496
+  - url: https://access.redhat.com/errata/RHSA-2021:3497
+    reference_type:
+    reference_id: RHSA-2021:3497
+  - url: https://access.redhat.com/errata/RHSA-2021:3498
+    reference_type:
+    reference_id: RHSA-2021:3498
+  - url: https://access.redhat.com/errata/RHSA-2021:3499
+    reference_type:
+    reference_id: RHSA-2021:3499
+  - url: https://access.redhat.com/errata/RHSA-2021:3500
+    reference_type:
+    reference_id: RHSA-2021:3500
+  - url: https://access.redhat.com/errata/RHSA-2021:3501
+    reference_type:
+    reference_id: RHSA-2021:3501
+  - url: https://usn.ubuntu.com/5074-1/
+    reference_type:
+    reference_id: USN-5074-1
+  - url: https://usn.ubuntu.com/5146-1/
+    reference_type:
+    reference_id: USN-5146-1

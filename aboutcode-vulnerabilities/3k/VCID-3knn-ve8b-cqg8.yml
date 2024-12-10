@@ -1,0 +1,59 @@
+vulnerability_id: VCID-3knn-ve8b-cqg8
+aliases:
+  - CVE-2017-16944
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-16944.json
+  - score: '0.85058'
+    scoring_system: epss
+    scoring_elements: '0.98589'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2017-16944
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-518
+weaknesses:
+  - CWE-835
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-16944.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2017-16944
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-16943
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-16944
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1517684
+    reference_type:
+    reference_id: 1517684
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=882671
+    reference_type:
+    reference_id: 882671
+  - url: https://security.archlinux.org/ASA-201711-32
+    reference_type:
+    reference_id: ASA-201711-32
+  - url: https://security.archlinux.org/AVG-518
+    reference_type:
+    reference_id: AVG-518
+  - url: https://bugs.exim.org/show_bug.cgi?id=2201
+    reference_type: exploit
+    reference_id: CVE-2017-16944
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/multiple/dos/43184.txt
+    reference_type: exploit
+    reference_id: CVE-2017-16944
+  - url: https://security.gentoo.org/glsa/201803-01
+    reference_type:
+    reference_id: GLSA-201803-01
+  - url: https://usn.ubuntu.com/3499-1/
+    reference_type:
+    reference_id: USN-3499-1

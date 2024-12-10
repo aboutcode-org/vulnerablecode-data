@@ -1,0 +1,56 @@
+vulnerability_id: VCID-hxh3-7jsz-1kf4
+aliases:
+  - CVE-2018-6574
+summary:
+severities:
+  - score: '5.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:C/C:L/I:L/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-6574.json
+  - score: '0.02506'
+    scoring_system: epss
+    scoring_elements: '0.90355'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-6574
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-606
+weaknesses:
+  - CWE-20
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-6574.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-6574
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-6574
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-7187
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-6486
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1543561
+    reference_type:
+    reference_id: 1543561
+  - url: https://security.archlinux.org/ASA-201802-2
+    reference_type:
+    reference_id: ASA-201802-2
+  - url: https://security.archlinux.org/AVG-606
+    reference_type:
+    reference_id: AVG-606
+  - url: https://security.gentoo.org/glsa/201803-03
+    reference_type:
+    reference_id: GLSA-201803-03
+  - url: https://access.redhat.com/errata/RHSA-2018:0878
+    reference_type:
+    reference_id: RHSA-2018:0878
+  - url: https://access.redhat.com/errata/RHSA-2018:1304
+    reference_type:
+    reference_id: RHSA-2018:1304

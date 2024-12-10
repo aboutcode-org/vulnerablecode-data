@@ -1,0 +1,180 @@
+vulnerability_id: VCID-tjgp-s2c4-43eg
+aliases:
+  - CVE-2024-42472
+summary:
+severities:
+  - score: '7.4'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-42472.json
+  - score: '0.00044'
+    scoring_system: epss
+    scoring_elements: '0.13873'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-42472
+  - score: 10
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:N
+    published_at:
+    url: https://github.com/containers/bubblewrap/commit/68e75c3091c87583c28a439b45c45627a94d622c
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:T/P:M/B:A/M:M/D:T/2024-08-15T20:04:27Z/
+    published_at:
+    url: https://github.com/containers/bubblewrap/commit/68e75c3091c87583c28a439b45c45627a94d622c
+  - score: 10
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:N
+    published_at:
+    url: https://github.com/containers/bubblewrap/commit/a253257cd298892da43e15201d83f9a02c9b58b5
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:T/P:M/B:A/M:M/D:T/2024-08-15T20:04:27Z/
+    published_at:
+    url: https://github.com/containers/bubblewrap/commit/a253257cd298892da43e15201d83f9a02c9b58b5
+  - score: 10
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:N
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/2cdd1e1e5ae90d7c3a4b60ce2e36e4d609e44e72
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:T/P:M/B:A/M:M/D:T/2024-08-15T20:04:27Z/
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/2cdd1e1e5ae90d7c3a4b60ce2e36e4d609e44e72
+  - score: 10
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:N
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/3caeb16c31a3ed62d744e2aaf01d684f7991051a
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:T/P:M/B:A/M:M/D:T/2024-08-15T20:04:27Z/
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/3caeb16c31a3ed62d744e2aaf01d684f7991051a
+  - score: 10
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:N
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/6bd603f6836e9b38b9b937d3b78f3fbf36e7ff75
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:T/P:M/B:A/M:M/D:T/2024-08-15T20:04:27Z/
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/6bd603f6836e9b38b9b937d3b78f3fbf36e7ff75
+  - score: 10
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:N
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/7c63e53bb2af0aae9097fd2edfd6a9ba9d453e97
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:T/P:M/B:A/M:M/D:T/2024-08-15T20:04:27Z/
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/7c63e53bb2af0aae9097fd2edfd6a9ba9d453e97
+  - score: 10
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:N
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/8a18137d7e80f0575e8defabf677d81e5cc3a788
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:T/P:M/B:A/M:M/D:T/2024-08-15T20:04:27Z/
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/8a18137d7e80f0575e8defabf677d81e5cc3a788
+  - score: 10
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:N
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/db3a785241fda63bf53f0ec12bb519aa5210de19
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:T/P:M/B:A/M:M/D:T/2024-08-15T20:04:27Z/
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/db3a785241fda63bf53f0ec12bb519aa5210de19
+  - score: 10
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:N
+    published_at:
+    url: https://github.com/flatpak/flatpak/security/advisories/GHSA-7hgv-f2j8-xw87
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:T/P:M/B:A/M:M/D:T/2024-08-15T20:04:27Z/
+    published_at:
+    url: https://github.com/flatpak/flatpak/security/advisories/GHSA-7hgv-f2j8-xw87
+weaknesses:
+  - CWE-74
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-42472.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-42472
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1082927
+    reference_type:
+    reference_id: 1082927
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2305202
+    reference_type:
+    reference_id: 2305202
+  - url: https://github.com/flatpak/flatpak/commit/2cdd1e1e5ae90d7c3a4b60ce2e36e4d609e44e72
+    reference_type:
+    reference_id: 2cdd1e1e5ae90d7c3a4b60ce2e36e4d609e44e72
+  - url: https://github.com/flatpak/flatpak/commit/3caeb16c31a3ed62d744e2aaf01d684f7991051a
+    reference_type:
+    reference_id: 3caeb16c31a3ed62d744e2aaf01d684f7991051a
+  - url: https://github.com/containers/bubblewrap/commit/68e75c3091c87583c28a439b45c45627a94d622c
+    reference_type:
+    reference_id: 68e75c3091c87583c28a439b45c45627a94d622c
+  - url: https://github.com/flatpak/flatpak/commit/6bd603f6836e9b38b9b937d3b78f3fbf36e7ff75
+    reference_type:
+    reference_id: 6bd603f6836e9b38b9b937d3b78f3fbf36e7ff75
+  - url: https://github.com/flatpak/flatpak/commit/7c63e53bb2af0aae9097fd2edfd6a9ba9d453e97
+    reference_type:
+    reference_id: 7c63e53bb2af0aae9097fd2edfd6a9ba9d453e97
+  - url: https://github.com/flatpak/flatpak/commit/8a18137d7e80f0575e8defabf677d81e5cc3a788
+    reference_type:
+    reference_id: 8a18137d7e80f0575e8defabf677d81e5cc3a788
+  - url: https://github.com/containers/bubblewrap/commit/a253257cd298892da43e15201d83f9a02c9b58b5
+    reference_type:
+    reference_id: a253257cd298892da43e15201d83f9a02c9b58b5
+  - url: https://github.com/flatpak/flatpak/commit/db3a785241fda63bf53f0ec12bb519aa5210de19
+    reference_type:
+    reference_id: db3a785241fda63bf53f0ec12bb519aa5210de19
+  - url: https://github.com/flatpak/flatpak/security/advisories/GHSA-7hgv-f2j8-xw87
+    reference_type:
+    reference_id: GHSA-7hgv-f2j8-xw87
+  - url: https://access.redhat.com/errata/RHSA-2024:6355
+    reference_type:
+    reference_id: RHSA-2024:6355
+  - url: https://access.redhat.com/errata/RHSA-2024:6356
+    reference_type:
+    reference_id: RHSA-2024:6356
+  - url: https://access.redhat.com/errata/RHSA-2024:6357
+    reference_type:
+    reference_id: RHSA-2024:6357
+  - url: https://access.redhat.com/errata/RHSA-2024:6417
+    reference_type:
+    reference_id: RHSA-2024:6417
+  - url: https://access.redhat.com/errata/RHSA-2024:6418
+    reference_type:
+    reference_id: RHSA-2024:6418
+  - url: https://access.redhat.com/errata/RHSA-2024:6419
+    reference_type:
+    reference_id: RHSA-2024:6419
+  - url: https://access.redhat.com/errata/RHSA-2024:6420
+    reference_type:
+    reference_id: RHSA-2024:6420
+  - url: https://access.redhat.com/errata/RHSA-2024:6421
+    reference_type:
+    reference_id: RHSA-2024:6421
+  - url: https://access.redhat.com/errata/RHSA-2024:6422
+    reference_type:
+    reference_id: RHSA-2024:6422
+  - url: https://usn.ubuntu.com/7046-1/
+    reference_type:
+    reference_id: USN-7046-1

@@ -1,0 +1,27 @@
+vulnerability_id: VCID-wsxb-2mje-b7b2
+aliases:
+  - CVE-2022-1664
+summary:
+severities:
+  - score: '0.00858'
+    scoring_system: epss
+    scoring_elements: '0.82624'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-1664
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-1664
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://security.gentoo.org/glsa/202408-30
+    reference_type:
+    reference_id: GLSA-202408-30
+  - url: https://usn.ubuntu.com/5446-1/
+    reference_type:
+    reference_id: USN-5446-1
+  - url: https://usn.ubuntu.com/5446-2/
+    reference_type:
+    reference_id: USN-5446-2

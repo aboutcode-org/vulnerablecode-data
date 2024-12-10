@@ -1,0 +1,69 @@
+vulnerability_id: VCID-9pex-2rzx-j7dk
+aliases:
+  - CVE-2022-27780
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-27780.json
+  - score: '0.00104'
+    scoring_system: epss
+    scoring_elements: '0.43430'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-27780
+  - score: Medium
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2022-27780.html
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2706
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N
+    published_at:
+    url: https://security.netapp.com/advisory/ntap-20220609-0009/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-26T20:10:43Z/
+    published_at:
+    url: https://security.netapp.com/advisory/ntap-20220609-0009/
+weaknesses:
+  - CWE-838
+  - CWE-177
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-27780.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-27780
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2022-27780.html
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://hackerone.com/reports/1553841
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2082203
+    reference_type:
+    reference_id: 2082203
+  - url: https://security.archlinux.org/AVG-2706
+    reference_type:
+    reference_id: AVG-2706
+  - url: https://security.gentoo.org/glsa/202212-01
+    reference_type:
+    reference_id: GLSA-202212-01
+  - url: https://security.netapp.com/advisory/ntap-20220609-0009/
+    reference_type:
+    reference_id: ntap-20220609-0009
+  - url: https://usn.ubuntu.com/5412-1/
+    reference_type:
+    reference_id: USN-5412-1

@@ -1,0 +1,89 @@
+vulnerability_id: VCID-mz21-p1ev-1uag
+aliases:
+  - CVE-2024-30046
+  - GHSA-hhc7-x9w4-cw47
+summary:
+severities:
+  - score: '5.9'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-30046.json
+  - score: '0.00043'
+    scoring_system: epss
+    scoring_elements: '0.09705'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-30046
+  - score: '5.9'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C
+    published_at:
+    url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30046
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-05-15T16:43:57Z/
+    published_at:
+    url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30046
+weaknesses:
+  - CWE-833
+  - CWE-362
+  - CWE-937
+  - CWE-1035
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-30046.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-30046
+    reference_type:
+    reference_id:
+  - url: https://github.com/dotnet/announcements/issues/308
+    reference_type:
+    reference_id:
+  - url: https://github.com/dotnet/aspnetcore
+    reference_type:
+    reference_id:
+  - url: https://github.com/dotnet/aspnetcore/issues/55714
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2279697
+    reference_type:
+    reference_id: 2279697
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:.net:7.0.0:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:.net:7.0.0:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:.net:8.0.0:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:.net:8.0.0:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:visual_studio:2022:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:visual_studio:2022:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:visual_studio_2022:17.4:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:visual_studio_2022:17.4:*:*:*:*:*:*:*
+  - url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30046
+    reference_type:
+    reference_id: CVE-2024-30046
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2024-30046
+    reference_type:
+    reference_id: CVE-2024-30046
+  - url: https://github.com/advisories/GHSA-hhc7-x9w4-cw47
+    reference_type:
+    reference_id: GHSA-hhc7-x9w4-cw47
+  - url: https://github.com/dotnet/aspnetcore/security/advisories/GHSA-hhc7-x9w4-cw47
+    reference_type:
+    reference_id: GHSA-hhc7-x9w4-cw47
+  - url: https://access.redhat.com/errata/RHSA-2024:2842
+    reference_type:
+    reference_id: RHSA-2024:2842
+  - url: https://access.redhat.com/errata/RHSA-2024:2843
+    reference_type:
+    reference_id: RHSA-2024:2843
+  - url: https://access.redhat.com/errata/RHSA-2024:3340
+    reference_type:
+    reference_id: RHSA-2024:3340
+  - url: https://access.redhat.com/errata/RHSA-2024:3345
+    reference_type:
+    reference_id: RHSA-2024:3345
+  - url: https://usn.ubuntu.com/6773-1/
+    reference_type:
+    reference_id: USN-6773-1

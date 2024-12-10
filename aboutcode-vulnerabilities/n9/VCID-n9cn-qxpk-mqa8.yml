@@ -1,0 +1,42 @@
+vulnerability_id: VCID-n9cn-qxpk-mqa8
+aliases:
+  - CVE-2023-43115
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-43115.json
+  - score: '0.00602'
+    scoring_system: epss
+    scoring_elements: '0.78819'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-43115
+weaknesses:
+  - CWE-94
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-43115.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-43115
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2241108
+    reference_type:
+    reference_id: 2241108
+  - url: https://access.redhat.com/errata/RHSA-2023:5868
+    reference_type:
+    reference_id: RHSA-2023:5868
+  - url: https://access.redhat.com/errata/RHSA-2023:6265
+    reference_type:
+    reference_id: RHSA-2023:6265
+  - url: https://access.redhat.com/errata/RHSA-2023:6732
+    reference_type:
+    reference_id: RHSA-2023:6732
+  - url: https://usn.ubuntu.com/6433-1/
+    reference_type:
+    reference_id: USN-6433-1

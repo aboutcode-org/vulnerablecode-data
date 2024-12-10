@@ -1,0 +1,118 @@
+vulnerability_id: VCID-augx-wvjv-c7hd
+aliases:
+  - CVE-2022-36318
+summary:
+severities:
+  - score: '6.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-36318.json
+  - score: '0.00174'
+    scoring_system: epss
+    scoring_elements: '0.55021'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-36318
+  - score: none
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-28
+  - score: none
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-29
+  - score: none
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-30
+  - score: none
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-31
+  - score: none
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-32
+weaknesses:
+  - CWE-79
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-36318.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-36318
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2111908
+    reference_type:
+    reference_id: 2111908
+  - url: https://security.gentoo.org/glsa/202208-08
+    reference_type:
+    reference_id: GLSA-202208-08
+  - url: https://security.gentoo.org/glsa/202208-14
+    reference_type:
+    reference_id: GLSA-202208-14
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-28
+    reference_type:
+    reference_id: mfsa2022-28
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-29
+    reference_type:
+    reference_id: mfsa2022-29
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-30
+    reference_type:
+    reference_id: mfsa2022-30
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-31
+    reference_type:
+    reference_id: mfsa2022-31
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-32
+    reference_type:
+    reference_id: mfsa2022-32
+  - url: https://access.redhat.com/errata/RHSA-2022:5765
+    reference_type:
+    reference_id: RHSA-2022:5765
+  - url: https://access.redhat.com/errata/RHSA-2022:5766
+    reference_type:
+    reference_id: RHSA-2022:5766
+  - url: https://access.redhat.com/errata/RHSA-2022:5767
+    reference_type:
+    reference_id: RHSA-2022:5767
+  - url: https://access.redhat.com/errata/RHSA-2022:5769
+    reference_type:
+    reference_id: RHSA-2022:5769
+  - url: https://access.redhat.com/errata/RHSA-2022:5770
+    reference_type:
+    reference_id: RHSA-2022:5770
+  - url: https://access.redhat.com/errata/RHSA-2022:5771
+    reference_type:
+    reference_id: RHSA-2022:5771
+  - url: https://access.redhat.com/errata/RHSA-2022:5772
+    reference_type:
+    reference_id: RHSA-2022:5772
+  - url: https://access.redhat.com/errata/RHSA-2022:5773
+    reference_type:
+    reference_id: RHSA-2022:5773
+  - url: https://access.redhat.com/errata/RHSA-2022:5774
+    reference_type:
+    reference_id: RHSA-2022:5774
+  - url: https://access.redhat.com/errata/RHSA-2022:5776
+    reference_type:
+    reference_id: RHSA-2022:5776
+  - url: https://access.redhat.com/errata/RHSA-2022:5777
+    reference_type:
+    reference_id: RHSA-2022:5777
+  - url: https://access.redhat.com/errata/RHSA-2022:5778
+    reference_type:
+    reference_id: RHSA-2022:5778
+  - url: https://usn.ubuntu.com/5536-1/
+    reference_type:
+    reference_id: USN-5536-1
+  - url: https://usn.ubuntu.com/5663-1/
+    reference_type:
+    reference_id: USN-5663-1

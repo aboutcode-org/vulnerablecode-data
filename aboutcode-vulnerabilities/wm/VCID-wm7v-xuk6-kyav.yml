@@ -1,0 +1,18 @@
+vulnerability_id: VCID-wm7v-xuk6-kyav
+aliases:
+  - CVE-2022-30781
+summary:
+severities:
+  - score: '0.81180'
+    scoring_system: epss
+    scoring_elements: '0.98428'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-30781
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-30781
+    reference_type:
+    reference_id:
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/multiple/webapps/51009.rb
+    reference_type: exploit
+    reference_id: CVE-2022-30781

@@ -1,0 +1,59 @@
+vulnerability_id: VCID-jfu4-sfwb-9fd7
+aliases:
+  - CVE-2020-24386
+summary:
+severities:
+  - score: '6.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-24386.json
+  - score: '0.00383'
+    scoring_system: epss
+    scoring_elements: '0.73453'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-24386
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1398
+weaknesses:
+  - CWE-138
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-24386.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-24386
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-24386
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25275
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1912455
+    reference_type:
+    reference_id: '1912455'
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=979363
+    reference_type:
+    reference_id: 979363
+  - url: https://security.archlinux.org/ASA-202101-4
+    reference_type:
+    reference_id: ASA-202101-4
+  - url: https://security.archlinux.org/AVG-1398
+    reference_type:
+    reference_id: AVG-1398
+  - url: https://security.gentoo.org/glsa/202101-01
+    reference_type:
+    reference_id: GLSA-202101-01
+  - url: https://access.redhat.com/errata/RHSA-2021:1887
+    reference_type:
+    reference_id: RHSA-2021:1887
+  - url: https://usn.ubuntu.com/4674-1/
+    reference_type:
+    reference_id: USN-4674-1

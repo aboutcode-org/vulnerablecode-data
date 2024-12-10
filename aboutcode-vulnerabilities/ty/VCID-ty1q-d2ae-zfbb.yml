@@ -1,0 +1,57 @@
+vulnerability_id: VCID-ty1q-d2ae-zfbb
+aliases:
+  - CVE-2023-32214
+summary:
+severities:
+  - score: '6.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-32214.json
+  - score: '0.00191'
+    scoring_system: epss
+    scoring_elements: '0.57034'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-32214
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-16
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-17
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-18
+weaknesses:
+  - CWE-400
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-32214.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-32214
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2196743
+    reference_type:
+    reference_id: 2196743
+  - url: https://security.gentoo.org/glsa/202312-03
+    reference_type:
+    reference_id: GLSA-202312-03
+  - url: https://security.gentoo.org/glsa/202401-10
+    reference_type:
+    reference_id: GLSA-202401-10
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-16
+    reference_type:
+    reference_id: mfsa2023-16
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-17
+    reference_type:
+    reference_id: mfsa2023-17
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-18
+    reference_type:
+    reference_id: mfsa2023-18

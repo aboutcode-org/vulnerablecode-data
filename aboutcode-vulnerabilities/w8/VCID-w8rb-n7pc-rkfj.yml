@@ -1,0 +1,39 @@
+vulnerability_id: VCID-w8rb-n7pc-rkfj
+aliases:
+  - CVE-2018-19486
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-19486.json
+  - score: '0.02014'
+    scoring_system: epss
+    scoring_elements: '0.89183'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-19486
+weaknesses:
+  - CWE-426
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-19486.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-19486
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1653143
+    reference_type:
+    reference_id: 1653143
+  - url: https://security.gentoo.org/glsa/201904-13
+    reference_type:
+    reference_id: GLSA-201904-13
+  - url: https://access.redhat.com/errata/RHSA-2018:3800
+    reference_type:
+    reference_id: RHSA-2018:3800
+  - url: https://usn.ubuntu.com/3829-1/
+    reference_type:
+    reference_id: USN-3829-1

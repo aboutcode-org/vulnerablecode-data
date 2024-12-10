@@ -1,0 +1,64 @@
+vulnerability_id: VCID-r35m-txze-nugw
+aliases:
+  - CVE-2022-41032
+  - GHSA-g3q9-xf95-8hp5
+summary:
+severities:
+  - score: '7.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-41032.json
+  - score: '0.00049'
+    scoring_system: epss
+    scoring_elements: '0.19694'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-41032
+weaknesses:
+  - CWE-524
+  - CWE-1035
+  - CWE-78
+  - CWE-937
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-41032.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-41032
+    reference_type:
+    reference_id:
+  - url: https://github.com/NuGet/Announcements/issues/65
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2132614
+    reference_type:
+    reference_id: 2132614
+  - url: https://github.com/advisories/GHSA-g3q9-xf95-8hp5
+    reference_type:
+    reference_id: GHSA-g3q9-xf95-8hp5
+  - url: https://github.com/NuGet/NuGet.Client/security/advisories/GHSA-g3q9-xf95-8hp5
+    reference_type:
+    reference_id: GHSA-g3q9-xf95-8hp5
+  - url: https://access.redhat.com/errata/RHSA-2022:6911
+    reference_type:
+    reference_id: RHSA-2022:6911
+  - url: https://access.redhat.com/errata/RHSA-2022:6912
+    reference_type:
+    reference_id: RHSA-2022:6912
+  - url: https://access.redhat.com/errata/RHSA-2022:6913
+    reference_type:
+    reference_id: RHSA-2022:6913
+  - url: https://access.redhat.com/errata/RHSA-2022:6914
+    reference_type:
+    reference_id: RHSA-2022:6914
+  - url: https://access.redhat.com/errata/RHSA-2022:6915
+    reference_type:
+    reference_id: RHSA-2022:6915
+  - url: https://access.redhat.com/errata/RHSA-2022:7826
+    reference_type:
+    reference_id: RHSA-2022:7826
+  - url: https://access.redhat.com/errata/RHSA-2022:8434
+    reference_type:
+    reference_id: RHSA-2022:8434
+  - url: https://usn.ubuntu.com/5670-1/
+    reference_type:
+    reference_id: USN-5670-1

@@ -1,0 +1,33 @@
+vulnerability_id: VCID-5qmv-xnhq-3ffn
+aliases:
+  - CVE-2020-8813
+summary:
+severities:
+  - score: '0.92182'
+    scoring_system: epss
+    scoring_elements: '0.99038'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-8813
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-8813
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=951832
+    reference_type:
+    reference_id: 951832
+  - url: https://github.com/mhaskar/CVE-2020-8813/blob/4877c2b2f378ce5937f56b259b69b02840514d4c/Cacti-postauth-rce.py
+    reference_type: exploit
+    reference_id: CVE-2020-8813
+  - url: https://github.com/mhaskar/CVE-2020-8813/blob/dfb48378f39249ff54ecf24ccd3b89db26971ccf/Cacti-preauth-rce.py
+    reference_type: exploit
+    reference_id: CVE-2020-8813
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/multiple/webapps/48144.py
+    reference_type: exploit
+    reference_id: CVE-2020-8813
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/multiple/webapps/48145.py
+    reference_type: exploit
+    reference_id: CVE-2020-8813
+  - url: https://security.gentoo.org/glsa/202004-16
+    reference_type:
+    reference_id: GLSA-202004-16

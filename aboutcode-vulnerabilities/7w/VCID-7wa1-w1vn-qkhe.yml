@@ -1,0 +1,100 @@
+vulnerability_id: VCID-7wa1-w1vn-qkhe
+aliases:
+  - CVE-2019-11719
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-11719.json
+  - score: '0.00901'
+    scoring_system: epss
+    scoring_elements: '0.83072'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-11719
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1002
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-21
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-22
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-23
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-28
+weaknesses:
+  - CWE-125
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-11719.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-11719
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1728436
+    reference_type:
+    reference_id: 1728436
+  - url: https://security.archlinux.org/ASA-201907-4
+    reference_type:
+    reference_id: ASA-201907-4
+  - url: https://security.archlinux.org/AVG-1002
+    reference_type:
+    reference_id: AVG-1002
+  - url: https://security.gentoo.org/glsa/201908-12
+    reference_type:
+    reference_id: GLSA-201908-12
+  - url: https://security.gentoo.org/glsa/201908-20
+    reference_type:
+    reference_id: GLSA-201908-20
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-21
+    reference_type:
+    reference_id: mfsa2019-21
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-22
+    reference_type:
+    reference_id: mfsa2019-22
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-23
+    reference_type:
+    reference_id: mfsa2019-23
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-28
+    reference_type:
+    reference_id: mfsa2019-28
+  - url: https://access.redhat.com/errata/RHSA-2019:1951
+    reference_type:
+    reference_id: RHSA-2019:1951
+  - url: https://access.redhat.com/errata/RHSA-2020:4076
+    reference_type:
+    reference_id: RHSA-2020:4076
+  - url: https://access.redhat.com/errata/RHSA-2021:0949
+    reference_type:
+    reference_id: RHSA-2021:0949
+  - url: https://usn.ubuntu.com/4054-1/
+    reference_type:
+    reference_id: USN-4054-1
+  - url: https://usn.ubuntu.com/4060-1/
+    reference_type:
+    reference_id: USN-4060-1
+  - url: https://usn.ubuntu.com/4060-2/
+    reference_type:
+    reference_id: USN-4060-2
+  - url: https://usn.ubuntu.com/4064-1/
+    reference_type:
+    reference_id: USN-4064-1

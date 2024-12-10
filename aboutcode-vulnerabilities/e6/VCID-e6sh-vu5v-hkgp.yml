@@ -1,0 +1,48 @@
+vulnerability_id: VCID-e6sh-vu5v-hkgp
+aliases:
+  - CVE-2020-18032
+summary:
+severities:
+  - score: '7.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-18032.json
+  - score: '0.00531'
+    scoring_system: epss
+    scoring_elements: '0.77434'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-18032
+weaknesses:
+  - CWE-193
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-18032.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-18032
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-18032
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1966272
+    reference_type:
+    reference_id: '1966272'
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=988000
+    reference_type:
+    reference_id: 988000
+  - url: https://security.gentoo.org/glsa/202107-04
+    reference_type:
+    reference_id: GLSA-202107-04
+  - url: https://access.redhat.com/errata/RHSA-2021:4256
+    reference_type:
+    reference_id: RHSA-2021:4256
+  - url: https://usn.ubuntu.com/5264-1/
+    reference_type:
+    reference_id: USN-5264-1
+  - url: https://usn.ubuntu.com/5971-1/
+    reference_type:
+    reference_id: USN-5971-1

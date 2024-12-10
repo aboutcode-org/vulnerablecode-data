@@ -1,0 +1,36 @@
+vulnerability_id: VCID-zrsy-7jxg-3uc3
+aliases:
+  - CVE-2018-6759
+summary:
+severities:
+  - score: '5.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-6759.json
+  - score: '0.00743'
+    scoring_system: epss
+    scoring_elements: '0.81199'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-6759
+weaknesses:
+  - CWE-20
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-6759.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-6759
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1543244
+    reference_type:
+    reference_id: 1543244
+  - url: https://security.gentoo.org/glsa/201811-17
+    reference_type:
+    reference_id: GLSA-201811-17
+  - url: https://usn.ubuntu.com/4336-2/
+    reference_type:
+    reference_id: USN-4336-2

@@ -1,0 +1,124 @@
+vulnerability_id: VCID-1nuh-y4tn-ebf2
+aliases:
+  - CVE-2024-42365
+summary:
+severities:
+  - score: '0.00211'
+    scoring_system: epss
+    scoring_elements: '0.59206'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-42365
+  - score: '7.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:L/I:L/A:L
+    published_at:
+    url: https://github.com/asterisk/asterisk/blob/14367caaf7241df1eceea7c45c5b261989c2c6db/main/manager.c#L6426
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-08-08T16:38:45Z/
+    published_at:
+    url: https://github.com/asterisk/asterisk/blob/14367caaf7241df1eceea7c45c5b261989c2c6db/main/manager.c#L6426
+  - score: '7.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:L/I:L/A:L
+    published_at:
+    url: https://github.com/asterisk/asterisk/blob/7d28165cb1b2d02d66e8693bd3fe23ee72fc55d8/main/manager.c#L6426
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-08-08T16:38:45Z/
+    published_at:
+    url: https://github.com/asterisk/asterisk/blob/7d28165cb1b2d02d66e8693bd3fe23ee72fc55d8/main/manager.c#L6426
+  - score: '5.7'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://github.com/asterisk/asterisk/commit/42a2f4ccfa2c7062a15063e765916b3332e34cc4
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-05T18:48:24Z/
+    published_at:
+    url: https://github.com/asterisk/asterisk/commit/42a2f4ccfa2c7062a15063e765916b3332e34cc4
+  - score: '5.7'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://github.com/asterisk/asterisk/commit/7a0090325bfa9d778a39ae5f7d0a98109e4651c8
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-05T18:48:24Z/
+    published_at:
+    url: https://github.com/asterisk/asterisk/commit/7a0090325bfa9d778a39ae5f7d0a98109e4651c8
+  - score: '7.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:L/I:L/A:L
+    published_at:
+    url: https://github.com/asterisk/asterisk/commit/b4063bf756272254b160b6d1bd6e9a3f8e16cc71
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-08-08T16:38:45Z/
+    published_at:
+    url: https://github.com/asterisk/asterisk/commit/b4063bf756272254b160b6d1bd6e9a3f8e16cc71
+  - score: '7.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:L/I:L/A:L
+    published_at:
+    url: https://github.com/asterisk/asterisk/commit/bbe68db10ab8a80c29db383e4dfe14f6eafaf993
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-08-08T16:38:45Z/
+    published_at:
+    url: https://github.com/asterisk/asterisk/commit/bbe68db10ab8a80c29db383e4dfe14f6eafaf993
+  - score: '7.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:L/I:L/A:L
+    published_at:
+    url: https://github.com/asterisk/asterisk/commit/faddd99f2b9408b524e5eb8a01589fe1fa282df2
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-08-08T16:38:45Z/
+    published_at:
+    url: https://github.com/asterisk/asterisk/commit/faddd99f2b9408b524e5eb8a01589fe1fa282df2
+  - score: '7.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:L/I:L/A:L
+    published_at:
+    url: https://github.com/asterisk/asterisk/security/advisories/GHSA-c4cg-9275-6w44
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-08-08T16:38:45Z/
+    published_at:
+    url: https://github.com/asterisk/asterisk/security/advisories/GHSA-c4cg-9275-6w44
+weaknesses:
+  - CWE-267
+  - CWE-1220
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-42365
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1078574
+    reference_type:
+    reference_id: 1078574
+  - url: https://github.com/asterisk/asterisk/commit/42a2f4ccfa2c7062a15063e765916b3332e34cc4
+    reference_type:
+    reference_id: 42a2f4ccfa2c7062a15063e765916b3332e34cc4
+  - url: https://github.com/asterisk/asterisk/commit/7a0090325bfa9d778a39ae5f7d0a98109e4651c8
+    reference_type:
+    reference_id: 7a0090325bfa9d778a39ae5f7d0a98109e4651c8
+  - url: https://github.com/asterisk/asterisk/commit/b4063bf756272254b160b6d1bd6e9a3f8e16cc71
+    reference_type:
+    reference_id: b4063bf756272254b160b6d1bd6e9a3f8e16cc71
+  - url: https://github.com/asterisk/asterisk/commit/bbe68db10ab8a80c29db383e4dfe14f6eafaf993
+    reference_type:
+    reference_id: bbe68db10ab8a80c29db383e4dfe14f6eafaf993
+  - url: https://github.com/asterisk/asterisk/commit/faddd99f2b9408b524e5eb8a01589fe1fa282df2
+    reference_type:
+    reference_id: faddd99f2b9408b524e5eb8a01589fe1fa282df2
+  - url: https://github.com/asterisk/asterisk/security/advisories/GHSA-c4cg-9275-6w44
+    reference_type:
+    reference_id: GHSA-c4cg-9275-6w44
+  - url: https://github.com/asterisk/asterisk/blob/14367caaf7241df1eceea7c45c5b261989c2c6db/main/manager.c#L6426
+    reference_type:
+    reference_id: manager.c#L6426
+  - url: https://github.com/asterisk/asterisk/blob/7d28165cb1b2d02d66e8693bd3fe23ee72fc55d8/main/manager.c#L6426
+    reference_type:
+    reference_id: manager.c#L6426

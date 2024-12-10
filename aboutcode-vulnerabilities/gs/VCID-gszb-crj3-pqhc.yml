@@ -1,0 +1,15 @@
+vulnerability_id: VCID-gszb-crj3-pqhc
+aliases:
+  - CVE-2021-21158
+summary:
+severities:
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1632
+weaknesses: []
+references:
+  - url: https://security.archlinux.org/AVG-1632
+    reference_type:
+    reference_id: AVG-1632

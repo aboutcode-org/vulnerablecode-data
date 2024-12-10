@@ -1,0 +1,27 @@
+vulnerability_id: VCID-ahs7-tskd-mug4
+aliases:
+  - CVE-2019-1788
+summary:
+severities:
+  - score: '0.08301'
+    scoring_system: epss
+    scoring_elements: '0.94520'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-1788
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-1788
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://security.gentoo.org/glsa/201904-12
+    reference_type:
+    reference_id: GLSA-201904-12
+  - url: https://usn.ubuntu.com/3940-1/
+    reference_type:
+    reference_id: USN-3940-1
+  - url: https://usn.ubuntu.com/3940-2/
+    reference_type:
+    reference_id: USN-3940-2

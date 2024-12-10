@@ -1,0 +1,15 @@
+vulnerability_id: VCID-rdq8-hpud-h3ct
+aliases:
+  - CVE-2022-39272
+summary:
+severities:
+  - score: '0.00076'
+    scoring_system: epss
+    scoring_elements: '0.33784'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-39272
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-39272
+    reference_type:
+    reference_id:

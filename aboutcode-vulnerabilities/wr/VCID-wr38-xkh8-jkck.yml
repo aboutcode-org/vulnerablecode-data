@@ -1,0 +1,38 @@
+vulnerability_id: VCID-wr38-xkh8-jkck
+aliases:
+  - CVE-2019-6476
+summary:
+severities:
+  - score: '5.9'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-6476.json
+  - score: '0.00351'
+    scoring_system: epss
+    scoring_elements: '0.72276'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-6476
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1056
+weaknesses:
+  - CWE-617
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-6476.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-6476
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1762957
+    reference_type:
+    reference_id: 1762957
+  - url: https://security.archlinux.org/AVG-1056
+    reference_type:
+    reference_id: AVG-1056

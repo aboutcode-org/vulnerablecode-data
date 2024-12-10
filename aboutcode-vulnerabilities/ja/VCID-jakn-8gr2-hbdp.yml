@@ -1,0 +1,102 @@
+vulnerability_id: VCID-jakn-8gr2-hbdp
+aliases:
+  - CVE-2022-42928
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-42928.json
+  - score: '0.00200'
+    scoring_system: epss
+    scoring_elements: '0.58117'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-42928
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-44
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-45
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-46
+weaknesses:
+  - CWE-120
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-42928.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-42928
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2136157
+    reference_type:
+    reference_id: 2136157
+  - url: https://security.gentoo.org/glsa/202210-34
+    reference_type:
+    reference_id: GLSA-202210-34
+  - url: https://security.gentoo.org/glsa/202210-35
+    reference_type:
+    reference_id: GLSA-202210-35
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-44
+    reference_type:
+    reference_id: mfsa2022-44
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-45
+    reference_type:
+    reference_id: mfsa2022-45
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-46
+    reference_type:
+    reference_id: mfsa2022-46
+  - url: https://access.redhat.com/errata/RHSA-2022:7066
+    reference_type:
+    reference_id: RHSA-2022:7066
+  - url: https://access.redhat.com/errata/RHSA-2022:7068
+    reference_type:
+    reference_id: RHSA-2022:7068
+  - url: https://access.redhat.com/errata/RHSA-2022:7069
+    reference_type:
+    reference_id: RHSA-2022:7069
+  - url: https://access.redhat.com/errata/RHSA-2022:7070
+    reference_type:
+    reference_id: RHSA-2022:7070
+  - url: https://access.redhat.com/errata/RHSA-2022:7071
+    reference_type:
+    reference_id: RHSA-2022:7071
+  - url: https://access.redhat.com/errata/RHSA-2022:7072
+    reference_type:
+    reference_id: RHSA-2022:7072
+  - url: https://access.redhat.com/errata/RHSA-2022:7178
+    reference_type:
+    reference_id: RHSA-2022:7178
+  - url: https://access.redhat.com/errata/RHSA-2022:7181
+    reference_type:
+    reference_id: RHSA-2022:7181
+  - url: https://access.redhat.com/errata/RHSA-2022:7182
+    reference_type:
+    reference_id: RHSA-2022:7182
+  - url: https://access.redhat.com/errata/RHSA-2022:7183
+    reference_type:
+    reference_id: RHSA-2022:7183
+  - url: https://access.redhat.com/errata/RHSA-2022:7184
+    reference_type:
+    reference_id: RHSA-2022:7184
+  - url: https://access.redhat.com/errata/RHSA-2022:7190
+    reference_type:
+    reference_id: RHSA-2022:7190
+  - url: https://usn.ubuntu.com/5709-1/
+    reference_type:
+    reference_id: USN-5709-1
+  - url: https://usn.ubuntu.com/5724-1/
+    reference_type:
+    reference_id: USN-5724-1

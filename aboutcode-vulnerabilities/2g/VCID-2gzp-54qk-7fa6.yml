@@ -1,0 +1,202 @@
+vulnerability_id: VCID-2gzp-54qk-7fa6
+aliases:
+  - CVE-2024-24785
+summary:
+severities:
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:0041
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-13T20:18:31Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:0041
+  - score: '8.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:0045
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-05-13T17:59:41Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:0045
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:2562
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-03-21T18:21:05Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:2562
+  - score: 7
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:4028
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-04-23T20:55:35Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:4028
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:4591
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-03-21T18:21:05Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:4591
+  - score: '6.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-24785.json
+  - score: '0.00044'
+    scoring_system: epss
+    scoring_elements: '0.11004'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-24785
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-03-06T18:49:44Z/
+    published_at:
+    url: https://go.dev/cl/564196
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-03-06T18:49:44Z/
+    published_at:
+    url: https://go.dev/issue/65697
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N
+    published_at:
+    url: https://groups.google.com/g/golang-announce/c/5pwGVUPoMbg
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-03-06T15:04:15Z/
+    published_at:
+    url: https://groups.google.com/g/golang-announce/c/5pwGVUPoMbg
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-03-06T18:49:44Z/
+    published_at:
+    url: https://pkg.go.dev/vuln/GO-2024-2610
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-03-06T18:49:44Z/
+    published_at:
+    url: https://security.netapp.com/advisory/ntap-20240329-0008/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/03/08/4
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-03-06T15:04:15Z/
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/03/08/4
+weaknesses:
+  - CWE-74
+  - CWE-150
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-24785.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-24785
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2268022
+    reference_type:
+    reference_id: 2268022
+  - url: http://www.openwall.com/lists/oss-security/2024/03/08/4
+    reference_type:
+    reference_id: 4
+  - url: https://go.dev/cl/564196
+    reference_type:
+    reference_id: 564196
+  - url: https://groups.google.com/g/golang-announce/c/5pwGVUPoMbg
+    reference_type:
+    reference_id: 5pwGVUPoMbg
+  - url: https://go.dev/issue/65697
+    reference_type:
+    reference_id: 65697
+  - url: https://security.gentoo.org/glsa/202408-07
+    reference_type:
+    reference_id: GLSA-202408-07
+  - url: https://pkg.go.dev/vuln/GO-2024-2610
+    reference_type:
+    reference_id: GO-2024-2610
+  - url: https://security.netapp.com/advisory/ntap-20240329-0008/
+    reference_type:
+    reference_id: ntap-20240329-0008
+  - url: https://access.redhat.com/errata/RHSA-2024:0041
+    reference_type:
+    reference_id: RHSA-2024:0041
+  - url: https://access.redhat.com/errata/RHSA-2024:0045
+    reference_type:
+    reference_id: RHSA-2024:0045
+  - url: https://access.redhat.com/errata/RHSA-2024:1616
+    reference_type:
+    reference_id: RHSA-2024:1616
+  - url: https://access.redhat.com/errata/RHSA-2024:2096
+    reference_type:
+    reference_id: RHSA-2024:2096
+  - url: https://access.redhat.com/errata/RHSA-2024:2562
+    reference_type:
+    reference_id: RHSA-2024:2562
+  - url: https://access.redhat.com/errata/RHSA-2024:2901
+    reference_type:
+    reference_id: RHSA-2024:2901
+  - url: https://access.redhat.com/errata/RHSA-2024:3259
+    reference_type:
+    reference_id: RHSA-2024:3259
+  - url: https://access.redhat.com/errata/RHSA-2024:3617
+    reference_type:
+    reference_id: RHSA-2024:3617
+  - url: https://access.redhat.com/errata/RHSA-2024:3621
+    reference_type:
+    reference_id: RHSA-2024:3621
+  - url: https://access.redhat.com/errata/RHSA-2024:3637
+    reference_type:
+    reference_id: RHSA-2024:3637
+  - url: https://access.redhat.com/errata/RHSA-2024:3790
+    reference_type:
+    reference_id: RHSA-2024:3790
+  - url: https://access.redhat.com/errata/RHSA-2024:3868
+    reference_type:
+    reference_id: RHSA-2024:3868
+  - url: https://access.redhat.com/errata/RHSA-2024:4023
+    reference_type:
+    reference_id: RHSA-2024:4023
+  - url: https://access.redhat.com/errata/RHSA-2024:4028
+    reference_type:
+    reference_id: RHSA-2024:4028
+  - url: https://access.redhat.com/errata/RHSA-2024:4520
+    reference_type:
+    reference_id: RHSA-2024:4520
+  - url: https://access.redhat.com/errata/RHSA-2024:4591
+    reference_type:
+    reference_id: RHSA-2024:4591
+  - url: https://access.redhat.com/errata/RHSA-2024:4893
+    reference_type:
+    reference_id: RHSA-2024:4893
+  - url: https://access.redhat.com/errata/RHSA-2024:6221
+    reference_type:
+    reference_id: RHSA-2024:6221
+  - url: https://usn.ubuntu.com/6886-1/
+    reference_type:
+    reference_id: USN-6886-1
+  - url: https://usn.ubuntu.com/7061-1/
+    reference_type:
+    reference_id: USN-7061-1

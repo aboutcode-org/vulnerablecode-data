@@ -1,0 +1,56 @@
+vulnerability_id: VCID-xmcw-q5pb-4ue6
+aliases:
+  - CVE-2023-46219
+summary:
+severities:
+  - score: '4.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-46219.json
+  - score: '0.00052'
+    scoring_system: epss
+    scoring_elements: '0.21167'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-46219
+  - score: Low
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2023-46219.html
+weaknesses:
+  - CWE-311
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-46219.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-46219
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2023-46219.html
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://hackerone.com/reports/2236133
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057645
+    reference_type:
+    reference_id: 1057645
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2252034
+    reference_type:
+    reference_id: 2252034
+  - url: https://security.gentoo.org/glsa/202409-20
+    reference_type:
+    reference_id: GLSA-202409-20
+  - url: https://access.redhat.com/errata/RHSA-2024:1316
+    reference_type:
+    reference_id: RHSA-2024:1316
+  - url: https://access.redhat.com/errata/RHSA-2024:1317
+    reference_type:
+    reference_id: RHSA-2024:1317
+  - url: https://usn.ubuntu.com/6535-1/
+    reference_type:
+    reference_id: USN-6535-1

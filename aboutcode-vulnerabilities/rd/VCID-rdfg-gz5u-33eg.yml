@@ -1,0 +1,54 @@
+vulnerability_id: VCID-rdfg-gz5u-33eg
+aliases:
+  - CVE-2022-39260
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-39260.json
+  - score: '0.01087'
+    scoring_system: epss
+    scoring_elements: '0.84671'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-39260
+weaknesses:
+  - CWE-787
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-39260.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-39260
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1022046
+    reference_type:
+    reference_id: 1022046
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2137423
+    reference_type:
+    reference_id: 2137423
+  - url: https://security.gentoo.org/glsa/202312-15
+    reference_type:
+    reference_id: GLSA-202312-15
+  - url: https://access.redhat.com/errata/RHSA-2023:2319
+    reference_type:
+    reference_id: RHSA-2023:2319
+  - url: https://access.redhat.com/errata/RHSA-2023:2859
+    reference_type:
+    reference_id: RHSA-2023:2859
+  - url: https://access.redhat.com/errata/RHSA-2024:0407
+    reference_type:
+    reference_id: RHSA-2024:0407
+  - url: https://usn.ubuntu.com/5686-1/
+    reference_type:
+    reference_id: USN-5686-1
+  - url: https://usn.ubuntu.com/5686-2/
+    reference_type:
+    reference_id: USN-5686-2
+  - url: https://usn.ubuntu.com/5686-3/
+    reference_type:
+    reference_id: USN-5686-3

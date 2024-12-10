@@ -1,0 +1,91 @@
+vulnerability_id: VCID-pfnv-zduf-vyd5
+aliases:
+  - CVE-2023-52426
+summary:
+severities:
+  - score: '5.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-52426.json
+  - score: '0.00051'
+    scoring_system: epss
+    scoring_elements: '0.20885'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-52426
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-26T15:54:28Z/
+    published_at:
+    url: https://cwe.mitre.org/data/definitions/776.html
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-26T15:54:28Z/
+    published_at:
+    url: https://github.com/libexpat/libexpat/commit/0f075ec8ecb5e43f8fdca5182f8cca4703da0404
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-26T15:54:28Z/
+    published_at:
+    url: https://github.com/libexpat/libexpat/pull/777
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/PNRIHC7DVVRAIWFRGV23Y6UZXFBXSQDB/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-26T15:54:28Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/PNRIHC7DVVRAIWFRGV23Y6UZXFBXSQDB/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/WNUBSGZFEZOBHJFTAD42SAN4ATW2VEMV/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-26T15:54:28Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/WNUBSGZFEZOBHJFTAD42SAN4ATW2VEMV/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-06-26T15:54:28Z/
+    published_at:
+    url: https://security.netapp.com/advisory/ntap-20240307-0005/
+weaknesses:
+  - CWE-776
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-52426.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-52426
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://github.com/libexpat/libexpat/commit/0f075ec8ecb5e43f8fdca5182f8cca4703da0404
+    reference_type:
+    reference_id: 0f075ec8ecb5e43f8fdca5182f8cca4703da0404
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1063240
+    reference_type:
+    reference_id: 1063240
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2262879
+    reference_type:
+    reference_id: 2262879
+  - url: https://cwe.mitre.org/data/definitions/776.html
+    reference_type:
+    reference_id: 776.html
+  - url: https://github.com/libexpat/libexpat/pull/777
+    reference_type:
+    reference_id: 777
+  - url: https://security.netapp.com/advisory/ntap-20240307-0005/
+    reference_type:
+    reference_id: ntap-20240307-0005
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/PNRIHC7DVVRAIWFRGV23Y6UZXFBXSQDB/
+    reference_type:
+    reference_id: PNRIHC7DVVRAIWFRGV23Y6UZXFBXSQDB
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/WNUBSGZFEZOBHJFTAD42SAN4ATW2VEMV/
+    reference_type:
+    reference_id: WNUBSGZFEZOBHJFTAD42SAN4ATW2VEMV

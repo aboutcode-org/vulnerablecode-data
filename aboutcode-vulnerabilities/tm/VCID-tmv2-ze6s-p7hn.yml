@@ -1,0 +1,89 @@
+vulnerability_id: VCID-tmv2-ze6s-p7hn
+aliases:
+  - CVE-2017-7679
+summary:
+severities:
+  - score: '3.7'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-7679.json
+  - score: '0.00643'
+    scoring_system: epss
+    scoring_elements: '0.79573'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2017-7679
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-316
+weaknesses:
+  - CWE-125
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-7679.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2017-7679
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-3167
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-3169
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-7668
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-7679
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1463207
+    reference_type:
+    reference_id: 1463207
+  - url: https://security.archlinux.org/ASA-201706-34
+    reference_type:
+    reference_id: ASA-201706-34
+  - url: https://security.archlinux.org/AVG-316
+    reference_type:
+    reference_id: AVG-316
+  - url: https://security.gentoo.org/glsa/201710-32
+    reference_type:
+    reference_id: GLSA-201710-32
+  - url: https://access.redhat.com/errata/RHSA-2017:2478
+    reference_type:
+    reference_id: RHSA-2017:2478
+  - url: https://access.redhat.com/errata/RHSA-2017:2479
+    reference_type:
+    reference_id: RHSA-2017:2479
+  - url: https://access.redhat.com/errata/RHSA-2017:2483
+    reference_type:
+    reference_id: RHSA-2017:2483
+  - url: https://access.redhat.com/errata/RHSA-2017:3193
+    reference_type:
+    reference_id: RHSA-2017:3193
+  - url: https://access.redhat.com/errata/RHSA-2017:3194
+    reference_type:
+    reference_id: RHSA-2017:3194
+  - url: https://access.redhat.com/errata/RHSA-2017:3195
+    reference_type:
+    reference_id: RHSA-2017:3195
+  - url: https://access.redhat.com/errata/RHSA-2017:3475
+    reference_type:
+    reference_id: RHSA-2017:3475
+  - url: https://access.redhat.com/errata/RHSA-2017:3476
+    reference_type:
+    reference_id: RHSA-2017:3476
+  - url: https://access.redhat.com/errata/RHSA-2017:3477
+    reference_type:
+    reference_id: RHSA-2017:3477
+  - url: https://usn.ubuntu.com/3340-1/
+    reference_type:
+    reference_id: USN-3340-1
+  - url: https://usn.ubuntu.com/3373-1/
+    reference_type:
+    reference_id: USN-3373-1

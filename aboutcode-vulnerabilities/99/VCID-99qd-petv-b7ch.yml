@@ -1,0 +1,15 @@
+vulnerability_id: VCID-99qd-petv-b7ch
+aliases:
+  - CVE-2023-50569
+summary:
+severities:
+  - score: '0.00047'
+    scoring_system: epss
+    scoring_elements: '0.17990'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-50569
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-50569
+    reference_type:
+    reference_id:

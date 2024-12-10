@@ -1,0 +1,141 @@
+vulnerability_id: VCID-a7w6-7hz2-tqhy
+aliases:
+  - CVE-2019-10143
+summary:
+severities:
+  - score: '6.4'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:H/PR:H/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: http://packetstormsecurity.com/files/155361/FreeRadius-3.0.19-Logrotate-Privilege-Escalation.html
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:T/P:M/B:A/M:M/D:R/2024-08-01T19:23:06Z/
+    published_at:
+    url: http://packetstormsecurity.com/files/155361/FreeRadius-3.0.19-Logrotate-Privilege-Escalation.html
+  - score: '6.4'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:H/PR:H/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2019:3353
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:T/P:M/B:A/M:M/D:R/2024-08-01T19:23:06Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2019:3353
+  - score: '6.4'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:H/PR:H/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-10143.json
+  - score: '0.00056'
+    scoring_system: epss
+    scoring_elements: '0.24464'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-10143
+  - score: '6.4'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:H/PR:H/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2019-10143
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:T/P:M/B:A/M:M/D:R/2024-08-01T19:23:06Z/
+    published_at:
+    url: https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2019-10143
+  - score: '6.4'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:H/PR:H/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: http://seclists.org/fulldisclosure/2019/Nov/14
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:T/P:M/B:A/M:M/D:R/2024-08-01T19:23:06Z/
+    published_at:
+    url: http://seclists.org/fulldisclosure/2019/Nov/14
+  - score: '6.4'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:H/PR:H/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://freeradius.org/security/
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:T/P:M/B:A/M:M/D:R/2024-08-01T19:23:06Z/
+    published_at:
+    url: https://freeradius.org/security/
+  - score: '6.4'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:H/PR:H/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/FreeRADIUS/freeradius-server/pull/2666
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:T/P:M/B:A/M:M/D:R/2024-08-01T19:23:06Z/
+    published_at:
+    url: https://github.com/FreeRADIUS/freeradius-server/pull/2666
+  - score: '6.4'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:H/PR:H/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/A6VKBZAZKJP5QKXDXRKCM2ZPZND3TFAX/
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:T/P:M/B:A/M:M/D:R/2024-08-01T19:23:06Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/A6VKBZAZKJP5QKXDXRKCM2ZPZND3TFAX/
+  - score: '6.4'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:H/PR:H/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/TKODLHHUOVAYENTBP4D3N25ST3Q6LJBP/
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:T/P:M/B:A/M:M/D:R/2024-08-01T19:23:06Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/TKODLHHUOVAYENTBP4D3N25ST3Q6LJBP/
+weaknesses:
+  - CWE-266
+  - CWE-250
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-10143.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-10143
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: http://seclists.org/fulldisclosure/2019/Nov/14
+    reference_type:
+    reference_id: 14
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1705340
+    reference_type:
+    reference_id: 1705340
+  - url: https://github.com/FreeRADIUS/freeradius-server/pull/2666
+    reference_type:
+    reference_id: 2666
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=929466
+    reference_type:
+    reference_id: 929466
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/A6VKBZAZKJP5QKXDXRKCM2ZPZND3TFAX/
+    reference_type:
+    reference_id: A6VKBZAZKJP5QKXDXRKCM2ZPZND3TFAX
+  - url: http://packetstormsecurity.com/files/155361/FreeRadius-3.0.19-Logrotate-Privilege-Escalation.html
+    reference_type:
+    reference_id: FreeRadius-3.0.19-Logrotate-Privilege-Escalation.html
+  - url: https://access.redhat.com/errata/RHSA-2019:3353
+    reference_type:
+    reference_id: RHSA-2019:3353
+  - url: https://access.redhat.com/errata/RHSA-2020:3984
+    reference_type:
+    reference_id: RHSA-2020:3984
+  - url: https://freeradius.org/security/
+    reference_type:
+    reference_id: security
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2019-10143
+    reference_type:
+    reference_id: show_bug.cgi?id=CVE-2019-10143
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/TKODLHHUOVAYENTBP4D3N25ST3Q6LJBP/
+    reference_type:
+    reference_id: TKODLHHUOVAYENTBP4D3N25ST3Q6LJBP

@@ -1,0 +1,235 @@
+vulnerability_id: VCID-7htw-n7me-dyh5
+aliases:
+  - CVE-2019-11358
+  - GHSA-6c3j-c64m-qhgq
+summary:
+severities:
+  - score: '6.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:1043
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-13T20:08:01Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:1043
+  - score: '6.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:1044
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-13T20:08:01Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:1044
+  - score: '6.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:1045
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-13T20:08:01Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:1045
+  - score: '6.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:1047
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-13T20:08:01Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:1047
+  - score: '6.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:1049
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-13T20:08:01Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2023:1049
+  - score: '5.6'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-11358.json
+  - score: '0.02432'
+    scoring_system: epss
+    scoring_elements: '0.90216'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-11358
+  - score: '6.1'
+    scoring_system: cvssv3
+    scoring_elements:
+    published_at:
+    url: https://blog.jquery.com/2019/04/10/jquery-3-4-0-released/
+  - score: '5.6'
+    scoring_system: cvssv3
+    scoring_elements:
+    published_at:
+    url: https://github.com/nodejs/security-wg/blob/main/vuln/npm/496.json
+  - score: '5.6'
+    scoring_system: cvssv3
+    scoring_elements:
+    published_at:
+    url: https://hackerone.com/reports/454365
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-969
+weaknesses:
+  - CWE-79
+  - CWE-1035
+  - CWE-937
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-11358.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-11358
+    reference_type:
+    reference_id:
+  - url: https://blog.jquery.com/2019/04/10/jquery-3-4-0-released/
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11358
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12466
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12467
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12468
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12469
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12470
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12471
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12472
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12473
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12474
+    reference_type:
+    reference_id:
+  - url: https://github.com/django/django/commit/34ec52269ade54af31a021b12969913129571a3f
+    reference_type:
+    reference_id:
+  - url: https://github.com/django/django/commit/95649bc08547a878cebfa1d019edec8cb1b80829
+    reference_type:
+    reference_id:
+  - url: https://github.com/django/django/commit/baaf187a4e354bf3976c51e2c83a0d2f8ee6e6ad
+    reference_type:
+    reference_id:
+  - url: https://hackerone.com/reports/454365
+    reference_type:
+    reference_id:
+  - url: https://seclists.org/bugtraq/2019/Apr/32
+    reference_type:
+    reference_id:
+  - url: https://www.djangoproject.com/weblog/2019/jun/03/security-releases/
+    reference_type:
+    reference_id:
+  - url: http://www.securityfocus.com/bid/108023
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1701972
+    reference_type:
+    reference_id: 1701972
+  - url: https://github.com/nodejs/security-wg/blob/main/vuln/npm/496.json
+    reference_type:
+    reference_id: 496
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=927330
+    reference_type:
+    reference_id: 927330
+  - url: https://security.archlinux.org/ASA-201906-2
+    reference_type:
+    reference_id: ASA-201906-2
+  - url: https://security.archlinux.org/AVG-969
+    reference_type:
+    reference_id: AVG-969
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2019-11358
+    reference_type:
+    reference_id: CVE-2019-11358
+  - url: https://access.redhat.com/errata/RHSA-2019:1456
+    reference_type:
+    reference_id: RHSA-2019:1456
+  - url: https://access.redhat.com/errata/RHSA-2019:2587
+    reference_type:
+    reference_id: RHSA-2019:2587
+  - url: https://access.redhat.com/errata/RHSA-2019:3023
+    reference_type:
+    reference_id: RHSA-2019:3023
+  - url: https://access.redhat.com/errata/RHSA-2019:3024
+    reference_type:
+    reference_id: RHSA-2019:3024
+  - url: https://access.redhat.com/errata/RHSA-2020:1325
+    reference_type:
+    reference_id: RHSA-2020:1325
+  - url: https://access.redhat.com/errata/RHSA-2020:2412
+    reference_type:
+    reference_id: RHSA-2020:2412
+  - url: https://access.redhat.com/errata/RHSA-2020:3936
+    reference_type:
+    reference_id: RHSA-2020:3936
+  - url: https://access.redhat.com/errata/RHSA-2020:4298
+    reference_type:
+    reference_id: RHSA-2020:4298
+  - url: https://access.redhat.com/errata/RHSA-2020:4670
+    reference_type:
+    reference_id: RHSA-2020:4670
+  - url: https://access.redhat.com/errata/RHSA-2020:4847
+    reference_type:
+    reference_id: RHSA-2020:4847
+  - url: https://access.redhat.com/errata/RHSA-2020:5581
+    reference_type:
+    reference_id: RHSA-2020:5581
+  - url: https://access.redhat.com/errata/RHSA-2021:4142
+    reference_type:
+    reference_id: RHSA-2021:4142
+  - url: https://access.redhat.com/errata/RHSA-2022:7343
+    reference_type:
+    reference_id: RHSA-2022:7343
+  - url: https://access.redhat.com/errata/RHSA-2023:0552
+    reference_type:
+    reference_id: RHSA-2023:0552
+  - url: https://access.redhat.com/errata/RHSA-2023:0553
+    reference_type:
+    reference_id: RHSA-2023:0553
+  - url: https://access.redhat.com/errata/RHSA-2023:0554
+    reference_type:
+    reference_id: RHSA-2023:0554
+  - url: https://access.redhat.com/errata/RHSA-2023:0556
+    reference_type:
+    reference_id: RHSA-2023:0556
+  - url: https://access.redhat.com/errata/RHSA-2023:1043
+    reference_type:
+    reference_id: RHSA-2023:1043
+  - url: https://access.redhat.com/errata/RHSA-2023:1044
+    reference_type:
+    reference_id: RHSA-2023:1044
+  - url: https://access.redhat.com/errata/RHSA-2023:1045
+    reference_type:
+    reference_id: RHSA-2023:1045
+  - url: https://access.redhat.com/errata/RHSA-2023:1047
+    reference_type:
+    reference_id: RHSA-2023:1047
+  - url: https://access.redhat.com/errata/RHSA-2023:1049
+    reference_type:
+    reference_id: RHSA-2023:1049

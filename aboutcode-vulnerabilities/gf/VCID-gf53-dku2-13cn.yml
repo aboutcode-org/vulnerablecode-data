@@ -1,0 +1,32 @@
+vulnerability_id: VCID-gf53-dku2-13cn
+aliases:
+  - CVE-2020-28020
+summary:
+severities:
+  - score: '0.03137'
+    scoring_system: epss
+    scoring_elements: '0.91296'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-28020
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1912
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-28020
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/AVG-1912
+    reference_type:
+    reference_id: AVG-1912
+  - url: https://security.gentoo.org/glsa/202105-01
+    reference_type:
+    reference_id: GLSA-202105-01
+  - url: https://usn.ubuntu.com/4934-1/
+    reference_type:
+    reference_id: USN-4934-1
+  - url: https://usn.ubuntu.com/4934-2/
+    reference_type:
+    reference_id: USN-4934-2

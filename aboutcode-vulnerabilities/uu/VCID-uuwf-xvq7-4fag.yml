@@ -1,0 +1,51 @@
+vulnerability_id: VCID-uuwf-xvq7-4fag
+aliases:
+  - CVE-2020-12393
+summary:
+severities:
+  - score: '7.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-12393.json
+  - score: '0.00051'
+    scoring_system: epss
+    scoring_elements: '0.21019'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-12393
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-16
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-17
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-18
+weaknesses:
+  - CWE-552
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-12393.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-12393
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1831946
+    reference_type:
+    reference_id: 1831946
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-16
+    reference_type:
+    reference_id: mfsa2020-16
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-17
+    reference_type:
+    reference_id: mfsa2020-17
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-18
+    reference_type:
+    reference_id: mfsa2020-18

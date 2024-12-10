@@ -1,0 +1,113 @@
+vulnerability_id: VCID-d5p1-aax1-w7bx
+aliases:
+  - CVE-2018-16840
+summary:
+severities:
+  - score: '5.0'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:L/I:L/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-16840.json
+  - score: '0.00830'
+    scoring_system: epss
+    scoring_elements: '0.82319'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-16840
+  - score: Low
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2018-16840.html
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-795
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-796
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-797
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-798
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-799
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-800
+weaknesses:
+  - CWE-416
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-16840.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-16840
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2018-16840.html
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1642203
+    reference_type:
+    reference_id: 1642203
+  - url: https://security.archlinux.org/ASA-201811-4
+    reference_type:
+    reference_id: ASA-201811-4
+  - url: https://security.archlinux.org/ASA-201811-5
+    reference_type:
+    reference_id: ASA-201811-5
+  - url: https://security.archlinux.org/ASA-201811-6
+    reference_type:
+    reference_id: ASA-201811-6
+  - url: https://security.archlinux.org/ASA-201811-7
+    reference_type:
+    reference_id: ASA-201811-7
+  - url: https://security.archlinux.org/ASA-201811-8
+    reference_type:
+    reference_id: ASA-201811-8
+  - url: https://security.archlinux.org/ASA-201811-9
+    reference_type:
+    reference_id: ASA-201811-9
+  - url: https://security.archlinux.org/AVG-795
+    reference_type:
+    reference_id: AVG-795
+  - url: https://security.archlinux.org/AVG-796
+    reference_type:
+    reference_id: AVG-796
+  - url: https://security.archlinux.org/AVG-797
+    reference_type:
+    reference_id: AVG-797
+  - url: https://security.archlinux.org/AVG-798
+    reference_type:
+    reference_id: AVG-798
+  - url: https://security.archlinux.org/AVG-799
+    reference_type:
+    reference_id: AVG-799
+  - url: https://security.archlinux.org/AVG-800
+    reference_type:
+    reference_id: AVG-800
+  - url: https://security.gentoo.org/glsa/201903-03
+    reference_type:
+    reference_id: GLSA-201903-03
+  - url: https://access.redhat.com/errata/RHSA-2019:1543
+    reference_type:
+    reference_id: RHSA-2019:1543
+  - url: https://usn.ubuntu.com/3805-1/
+    reference_type:
+    reference_id: USN-3805-1

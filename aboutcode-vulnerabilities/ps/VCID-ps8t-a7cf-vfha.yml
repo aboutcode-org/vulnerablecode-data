@@ -1,0 +1,62 @@
+vulnerability_id: VCID-ps8t-a7cf-vfha
+aliases:
+  - CVE-2018-18751
+summary:
+severities:
+  - score: '4.0'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-18751.json
+  - score: '0.01956'
+    scoring_system: epss
+    scoring_elements: '0.89012'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-18751
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-885
+weaknesses:
+  - CWE-416
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-18751.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-18751
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1647043
+    reference_type:
+    reference_id: 1647043
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=913173
+    reference_type:
+    reference_id: 913173
+  - url: https://security.archlinux.org/ASA-201908-14
+    reference_type:
+    reference_id: ASA-201908-14
+  - url: https://security.archlinux.org/AVG-885
+    reference_type:
+    reference_id: AVG-885
+  - url: https://access.redhat.com/errata/RHSA-2019:3643
+    reference_type:
+    reference_id: RHSA-2019:3643
+  - url: https://access.redhat.com/errata/RHSA-2020:1138
+    reference_type:
+    reference_id: RHSA-2020:1138
+  - url: https://access.redhat.com/errata/RHSA-2020:2485
+    reference_type:
+    reference_id: RHSA-2020:2485
+  - url: https://access.redhat.com/errata/RHSA-2020:2846
+    reference_type:
+    reference_id: RHSA-2020:2846
+  - url: https://usn.ubuntu.com/3815-1/
+    reference_type:
+    reference_id: USN-3815-1
+  - url: https://usn.ubuntu.com/3815-2/
+    reference_type:
+    reference_id: USN-3815-2

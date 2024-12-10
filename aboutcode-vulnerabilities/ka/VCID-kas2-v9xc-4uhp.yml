@@ -1,0 +1,36 @@
+vulnerability_id: VCID-kas2-v9xc-4uhp
+aliases:
+  - CVE-2020-0256
+summary:
+severities:
+  - score: '6.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:P/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-0256.json
+  - score: '0.00053'
+    scoring_system: epss
+    scoring_elements: '0.22318'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-0256
+weaknesses:
+  - CWE-787
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-0256.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-0256
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2051939
+    reference_type:
+    reference_id: 2051939
+  - url: https://access.redhat.com/errata/RHSA-2022:7700
+    reference_type:
+    reference_id: RHSA-2022:7700
+  - url: https://access.redhat.com/errata/RHSA-2024:3486
+    reference_type:
+    reference_id: RHSA-2024:3486
+  - url: https://usn.ubuntu.com/5262-1/
+    reference_type:
+    reference_id: USN-5262-1

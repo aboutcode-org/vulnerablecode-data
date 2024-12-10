@@ -1,0 +1,58 @@
+vulnerability_id: VCID-mesk-xdkr-f7gd
+aliases:
+  - CVE-2019-1543
+summary:
+severities:
+  - score: '2.9'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:H/PR:N/UI:N/S:U/C:N/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-1543.json
+  - score: '0.03381'
+    scoring_system: epss
+    scoring_elements: '0.91585'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-1543
+  - score: Low
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-919
+  - score: Low
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-920
+weaknesses:
+  - CWE-323
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-1543.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-1543
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-1543
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1695954
+    reference_type:
+    reference_id: 1695954
+  - url: https://security.archlinux.org/ASA-201906-6
+    reference_type:
+    reference_id: ASA-201906-6
+  - url: https://security.archlinux.org/ASA-201906-7
+    reference_type:
+    reference_id: ASA-201906-7
+  - url: https://security.archlinux.org/AVG-919
+    reference_type:
+    reference_id: AVG-919
+  - url: https://security.archlinux.org/AVG-920
+    reference_type:
+    reference_id: AVG-920
+  - url: https://access.redhat.com/errata/RHSA-2019:3700
+    reference_type:
+    reference_id: RHSA-2019:3700

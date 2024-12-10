@@ -1,0 +1,42 @@
+vulnerability_id: VCID-cnu9-bdm8-fucp
+aliases:
+  - CVE-2017-6519
+summary:
+severities:
+  - score: '5.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-6519.json
+  - score: '0.05666'
+    scoring_system: epss
+    scoring_elements: '0.93492'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2017-6519
+weaknesses:
+  - CWE-200
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-6519.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2017-6519
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1426712
+    reference_type:
+    reference_id: 1426712
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=917047
+    reference_type:
+    reference_id: 917047
+  - url: https://access.redhat.com/errata/RHSA-2020:1176
+    reference_type:
+    reference_id: RHSA-2020:1176
+  - url: https://usn.ubuntu.com/3876-1/
+    reference_type:
+    reference_id: USN-3876-1
+  - url: https://usn.ubuntu.com/3876-2/
+    reference_type:
+    reference_id: USN-3876-2

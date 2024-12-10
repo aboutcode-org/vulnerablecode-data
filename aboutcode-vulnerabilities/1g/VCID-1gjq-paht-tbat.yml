@@ -1,0 +1,52 @@
+vulnerability_id: VCID-1gjq-paht-tbat
+aliases:
+  - CVE-2019-18397
+summary:
+severities:
+  - score: '7.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-18397.json
+  - score: '0.00207'
+    scoring_system: epss
+    scoring_elements: '0.58837'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-18397
+weaknesses:
+  - CWE-121
+  - CWE-400
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-18397.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-18397
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-18397
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1768750
+    reference_type:
+    reference_id: 1768750
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=944327
+    reference_type:
+    reference_id: 944327
+  - url: https://security.gentoo.org/glsa/202003-41
+    reference_type:
+    reference_id: GLSA-202003-41
+  - url: https://access.redhat.com/errata/RHSA-2019:4326
+    reference_type:
+    reference_id: RHSA-2019:4326
+  - url: https://access.redhat.com/errata/RHSA-2019:4361
+    reference_type:
+    reference_id: RHSA-2019:4361
+  - url: https://access.redhat.com/errata/RHSA-2020:0291
+    reference_type:
+    reference_id: RHSA-2020:0291
+  - url: https://usn.ubuntu.com/4179-1/
+    reference_type:
+    reference_id: USN-4179-1

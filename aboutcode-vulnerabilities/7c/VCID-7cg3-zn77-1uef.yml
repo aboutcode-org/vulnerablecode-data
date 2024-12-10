@@ -1,0 +1,55 @@
+vulnerability_id: VCID-7cg3-zn77-1uef
+aliases:
+  - CVE-2021-32610
+summary:
+severities:
+  - score: '7.4'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-32610.json
+  - score: '0.00528'
+    scoring_system: epss
+    scoring_elements: '0.77354'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-32610
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2224
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2225
+weaknesses:
+  - CWE-22
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-32610.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-32610
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1988558
+    reference_type:
+    reference_id: '1988558'
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=991541
+    reference_type:
+    reference_id: 991541
+  - url: https://security.archlinux.org/AVG-2224
+    reference_type:
+    reference_id: AVG-2224
+  - url: https://security.archlinux.org/AVG-2225
+    reference_type:
+    reference_id: AVG-2225
+  - url: https://access.redhat.com/errata/RHSA-2022:7628
+    reference_type:
+    reference_id: RHSA-2022:7628
+  - url: https://usn.ubuntu.com/5027-1/
+    reference_type:
+    reference_id: USN-5027-1
+  - url: https://usn.ubuntu.com/5027-2/
+    reference_type:
+    reference_id: USN-5027-2

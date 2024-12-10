@@ -1,0 +1,42 @@
+vulnerability_id: VCID-t3jh-21w2-x3db
+aliases:
+  - CVE-2016-6207
+summary:
+severities:
+  - score: '6.2'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-6207.json
+  - score: '0.01976'
+    scoring_system: epss
+    scoring_elements: '0.89071'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-6207
+weaknesses:
+  - CWE-190
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-6207.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-6207
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6207
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1359800
+    reference_type:
+    reference_id: 1359800
+  - url: https://security.gentoo.org/glsa/201612-09
+    reference_type:
+    reference_id: GLSA-201612-09
+  - url: https://access.redhat.com/errata/RHSA-2016:2750
+    reference_type:
+    reference_id: RHSA-2016:2750
+  - url: https://usn.ubuntu.com/3060-1/
+    reference_type:
+    reference_id: USN-3060-1

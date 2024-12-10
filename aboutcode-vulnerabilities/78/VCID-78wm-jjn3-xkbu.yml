@@ -1,0 +1,34 @@
+vulnerability_id: VCID-78wm-jjn3-xkbu
+aliases:
+  - CVE-2023-30609
+  - GHSA-xv83-x443-7rmw
+summary:
+severities:
+  - score: '0.00097'
+    scoring_system: epss
+    scoring_elements: '0.41356'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-30609
+weaknesses:
+  - CWE-1035
+  - CWE-74
+  - CWE-937
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-30609
+    reference_type:
+    reference_id:
+  - url: https://github.com/matrix-org/matrix-react-sdk/commit/bf182bc94556849d7acdfa0e5fdea2aa129ea826
+    reference_type:
+    reference_id:
+  - url: https://github.com/matrix-org/matrix-react-sdk/releases/tag/v3.71.0
+    reference_type:
+    reference_id:
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2023-30609
+    reference_type:
+    reference_id: CVE-2023-30609
+  - url: https://github.com/advisories/GHSA-xv83-x443-7rmw
+    reference_type:
+    reference_id: GHSA-xv83-x443-7rmw
+  - url: https://github.com/matrix-org/matrix-react-sdk/security/advisories/GHSA-xv83-x443-7rmw
+    reference_type:
+    reference_id: GHSA-xv83-x443-7rmw
