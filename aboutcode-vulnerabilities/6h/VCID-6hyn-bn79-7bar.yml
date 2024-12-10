@@ -1,0 +1,15 @@
+vulnerability_id: VCID-6hyn-bn79-7bar
+aliases:
+  - CVE-2021-30139
+summary:
+severities:
+  - score: '0.00105'
+    scoring_system: epss
+    scoring_elements: '0.43797'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-30139
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-30139
+    reference_type:
+    reference_id:

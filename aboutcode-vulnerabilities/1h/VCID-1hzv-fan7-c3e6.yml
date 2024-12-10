@@ -1,0 +1,30 @@
+vulnerability_id: VCID-1hzv-fan7-c3e6
+aliases:
+  - CVE-2020-13671
+summary:
+severities:
+  - score: '0.01617'
+    scoring_system: epss
+    scoring_elements: '0.87787'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-13671
+weaknesses:
+  - CWE-1035
+  - CWE-434
+  - CWE-937
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-13671
+    reference_type:
+    reference_id:
+  - url: https://www.drupal.org/sa-core-2020-012
+    reference_type:
+    reference_id:
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2020-13671
+    reference_type:
+    reference_id: CVE-2020-13671
+  - url: https://usn.ubuntu.com/6981-1/
+    reference_type:
+    reference_id: USN-6981-1
+  - url: https://usn.ubuntu.com/6981-2/
+    reference_type:
+    reference_id: USN-6981-2

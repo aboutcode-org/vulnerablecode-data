@@ -1,0 +1,43 @@
+vulnerability_id: VCID-mduu-ey7y-gkev
+aliases:
+  - CVE-2015-8874
+summary:
+severities:
+  - score: '0.03495'
+    scoring_system: epss
+    scoring_elements: '0.91714'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2015-8874
+weaknesses:
+  - CWE-674
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2015-8874.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2015-8874
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-7456
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8874
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8877
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1336772
+    reference_type:
+    reference_id: 1336772
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=824627
+    reference_type:
+    reference_id: 824627
+  - url: https://access.redhat.com/errata/RHSA-2016:2750
+    reference_type:
+    reference_id: RHSA-2016:2750
+  - url: https://usn.ubuntu.com/2987-1/
+    reference_type:
+    reference_id: USN-2987-1

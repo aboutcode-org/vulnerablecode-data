@@ -1,0 +1,4276 @@
+- purl: pkg:alpine/docker@18.09.7?arch=aarch64&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7?arch=aarch64&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7?arch=armhf&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7?arch=armhf&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7?arch=armv7&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7?arch=armv7&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7?arch=ppc64le&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7?arch=ppc64le&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7?arch=s390x&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7?arch=s390x&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7?arch=x86_64&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7?arch=x86_64&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7?arch=x86&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7?arch=x86&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=aarch64&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=aarch64&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=aarch64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=aarch64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=armhf&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=armhf&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=armhf&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=armhf&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=armv7&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=armv7&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=armv7&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=armv7&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=mips64&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=mips64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=ppc64le&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=ppc64le&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=ppc64le&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=ppc64le&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=s390x&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=s390x&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=s390x&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=s390x&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=x86_64&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=x86_64&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=x86_64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=x86_64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=x86&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=x86&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=x86&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=x86&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.7-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yukq-hkvk-2qgz
+- purl: pkg:alpine/docker@18.09.8?arch=aarch64&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8?arch=aarch64&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8?arch=armhf&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8?arch=armhf&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8?arch=armv7&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8?arch=armv7&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8?arch=ppc64le&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8?arch=ppc64le&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8?arch=s390x&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8?arch=s390x&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8?arch=x86_64&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8?arch=x86_64&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8?arch=x86&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8?arch=x86&distroversion=v3.9&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=aarch64&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=aarch64&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=aarch64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=aarch64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=armhf&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=armhf&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=armhf&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=armhf&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=armv7&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=armv7&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=armv7&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=armv7&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=mips64&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=mips64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=ppc64le&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=ppc64le&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=ppc64le&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=ppc64le&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=s390x&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=s390x&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=s390x&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=s390x&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=x86_64&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=x86_64&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=x86_64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=x86_64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=x86&distroversion=v3.10&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=x86&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=x86&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=x86&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@18.09.8-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-z5ae-n4ak-zuad
+- purl: pkg:alpine/docker@19.03.1?arch=aarch64&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1?arch=armhf&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1?arch=armv7&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1?arch=ppc64le&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1?arch=s390x&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1?arch=x86_64&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1?arch=x86&distroversion=v3.11&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.11-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=aarch64&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=aarch64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=aarch64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=armhf&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=armhf&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=armhf&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=armv7&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=armv7&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=armv7&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=mips64&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=mips64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=ppc64le&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=ppc64le&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=ppc64le&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=s390x&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=s390x&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=s390x&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=x86_64&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=x86_64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=x86_64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=x86&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=x86&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=x86&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.11-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v2vt-en9r-fbfd
+- purl: pkg:alpine/docker@19.03.14-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=aarch64&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=aarch64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=aarch64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=armhf&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=armhf&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=armhf&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=armv7&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=armv7&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=armv7&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=mips64&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=mips64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=ppc64le&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=ppc64le&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=ppc64le&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=s390x&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=s390x&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=s390x&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=x86_64&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=x86_64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=x86_64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=x86&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=x86&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=x86&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.14-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e9q3-eqke-yka2
+- purl: pkg:alpine/docker@19.03.1-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=aarch64&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=aarch64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=aarch64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=armhf&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=armhf&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=armhf&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=armv7&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=armv7&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=armv7&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=mips64&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=mips64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=ppc64le&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=ppc64le&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=ppc64le&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=s390x&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=s390x&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=s390x&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=x86_64&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=x86_64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=x86_64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=x86&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=x86&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=x86&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@19.03.1-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-pmdd-abgh-hkh9
+- purl: pkg:alpine/docker@20.10.11-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=aarch64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=armhf&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=armv7&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=ppc64le&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=s390x&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=x86_64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=x86&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.11-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cdxr-taes-x7ex
+- purl: pkg:alpine/docker@20.10.14-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.14-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-yt3a-jv45-17b3
+- purl: pkg:alpine/docker@20.10.16-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.16-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ytpk-gxgh-xbe5
+- purl: pkg:alpine/docker@20.10.18-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.18-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-jj2u-afgp-w7dv
+- purl: pkg:alpine/docker@20.10.20-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.20-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-e5z3-3pj4-d3ds
+- purl: pkg:alpine/docker@20.10.24-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@20.10.24-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@20.10.24-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@20.10.24-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@20.10.24-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@20.10.24-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@20.10.24-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@20.10.3-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=aarch64&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=aarch64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=aarch64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=armhf&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=armhf&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=armhf&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=armv7&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=armv7&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=armv7&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=mips64&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=mips64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=ppc64le&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=ppc64le&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=ppc64le&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=s390x&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=s390x&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=s390x&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=x86_64&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=x86_64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=x86_64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=x86&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=x86&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=x86&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.3-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s7vf-q4v8-d3bq
+    - VCID-uq8j-y721-13g3
+- purl: pkg:alpine/docker@20.10.9-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=aarch64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=armhf&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=armv7&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=ppc64le&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=s390x&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=x86_64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=x86&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@20.10.9-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-766q-btqk-gbdv
+    - VCID-7hp5-gxkw-tfdr
+    - VCID-gpk5-dqzv-6fbt
+- purl: pkg:alpine/docker@23.0.2-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.2-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-nrmb-6e9r-vuhf
+- purl: pkg:alpine/docker@23.0.3-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@23.0.3-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-epc1-ft2f-r7ed
+    - VCID-f4zx-gn6p-87f7
+    - VCID-jdba-562g-w7bx
+- purl: pkg:alpine/docker@25.0.2-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.2-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-btr2-r5pk-m3f7
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/docker@25.0.5-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+- purl: pkg:alpine/docker@25.0.5-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+- purl: pkg:alpine/docker@25.0.5-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+- purl: pkg:alpine/docker@25.0.5-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+- purl: pkg:alpine/docker@25.0.5-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+- purl: pkg:alpine/docker@25.0.5-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+- purl: pkg:alpine/docker@25.0.5-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+- purl: pkg:alpine/docker@26.0.0-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+- purl: pkg:alpine/docker@26.0.0-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+- purl: pkg:alpine/docker@26.0.0-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+- purl: pkg:alpine/docker@26.0.0-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+- purl: pkg:alpine/docker@26.0.0-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+- purl: pkg:alpine/docker@26.0.0-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+- purl: pkg:alpine/docker@26.0.0-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+- purl: pkg:alpine/docker@26.0.0-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+- purl: pkg:alpine/docker@26.0.0-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+- purl: pkg:alpine/docker@26.0.0-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+- purl: pkg:alpine/docker@26.0.0-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+- purl: pkg:alpine/docker@26.0.0-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+- purl: pkg:alpine/docker@26.0.0-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+- purl: pkg:alpine/docker@26.0.0-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+- purl: pkg:alpine/docker@26.0.0-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+- purl: pkg:alpine/docker@26.0.0-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+- purl: pkg:alpine/docker@26.0.0-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6caz-mqjm-3uap
+- purl: pkg:alpine/docker@26.0.2-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-15mx-v6b6-xqdf
+- purl: pkg:alpine/docker@26.0.2-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-15mx-v6b6-xqdf
+- purl: pkg:alpine/docker@26.0.2-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-15mx-v6b6-xqdf
+- purl: pkg:alpine/docker@26.0.2-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-15mx-v6b6-xqdf
+- purl: pkg:alpine/docker@26.0.2-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-15mx-v6b6-xqdf
+- purl: pkg:alpine/docker@26.0.2-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-15mx-v6b6-xqdf
+- purl: pkg:alpine/docker@26.0.2-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-15mx-v6b6-xqdf
+- purl: pkg:alpine/docker@26.0.2-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-15mx-v6b6-xqdf
+- purl: pkg:alpine/docker@26.0.2-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-15mx-v6b6-xqdf
+- purl: pkg:alpine/docker@26.0.2-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-15mx-v6b6-xqdf
+- purl: pkg:alpine/docker@26.0.2-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-15mx-v6b6-xqdf
+- purl: pkg:alpine/docker@26.0.2-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-15mx-v6b6-xqdf
+- purl: pkg:alpine/docker@26.0.2-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-15mx-v6b6-xqdf
+- purl: pkg:alpine/docker@26.0.2-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-15mx-v6b6-xqdf
+- purl: pkg:alpine/docker@26.0.2-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-15mx-v6b6-xqdf
+- purl: pkg:alpine/docker@26.0.2-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-15mx-v6b6-xqdf
+- purl: pkg:alpine/docker@26.0.2-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-15mx-v6b6-xqdf
+- purl: pkg:alpine/docker@26.1.5-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2259-yk23-ukbq
+- purl: pkg:alpine/docker@26.1.5-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2259-yk23-ukbq
+- purl: pkg:alpine/docker@26.1.5-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2259-yk23-ukbq
+- purl: pkg:alpine/docker@26.1.5-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2259-yk23-ukbq
+- purl: pkg:alpine/docker@26.1.5-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2259-yk23-ukbq
+- purl: pkg:alpine/docker@26.1.5-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2259-yk23-ukbq
+- purl: pkg:alpine/docker@26.1.5-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2259-yk23-ukbq
+- purl: pkg:alpine/docker@26.1.5-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2259-yk23-ukbq
+- purl: pkg:alpine/docker@27.1.1-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2259-yk23-ukbq
+- purl: pkg:alpine/docker@27.1.1-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2259-yk23-ukbq
+- purl: pkg:alpine/docker@27.1.1-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2259-yk23-ukbq
+- purl: pkg:alpine/docker@27.1.1-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2259-yk23-ukbq
+- purl: pkg:alpine/docker@27.1.1-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2259-yk23-ukbq
+- purl: pkg:alpine/docker@27.1.1-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2259-yk23-ukbq
+- purl: pkg:alpine/docker@27.1.1-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2259-yk23-ukbq
+- purl: pkg:alpine/docker@27.1.1-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2259-yk23-ukbq
+- purl: pkg:alpine/docker@27.1.1-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2259-yk23-ukbq

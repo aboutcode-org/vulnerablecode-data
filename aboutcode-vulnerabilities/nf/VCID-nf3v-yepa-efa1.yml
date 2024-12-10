@@ -1,0 +1,15 @@
+vulnerability_id: VCID-nf3v-yepa-efa1
+aliases:
+  - CVE-2021-29468
+summary:
+severities:
+  - score: '0.00326'
+    scoring_system: epss
+    scoring_elements: '0.71217'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-29468
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-29468
+    reference_type:
+    reference_id:

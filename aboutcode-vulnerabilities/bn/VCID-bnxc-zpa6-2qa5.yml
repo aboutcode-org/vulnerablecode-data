@@ -1,0 +1,18 @@
+vulnerability_id: VCID-bnxc-zpa6-2qa5
+aliases:
+  - CVE-2016-2213
+summary:
+severities:
+  - score: '0.00316'
+    scoring_system: epss
+    scoring_elements: '0.70780'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-2213
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-2213
+    reference_type:
+    reference_id:
+  - url: https://security.gentoo.org/glsa/201606-09
+    reference_type:
+    reference_id: GLSA-201606-09

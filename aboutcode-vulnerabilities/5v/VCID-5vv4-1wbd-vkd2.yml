@@ -1,0 +1,63 @@
+vulnerability_id: VCID-5vv4-1wbd-vkd2
+aliases:
+  - CVE-2020-12100
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-12100.json
+  - score: '0.04093'
+    scoring_system: epss
+    scoring_elements: '0.92331'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-12100
+weaknesses:
+  - CWE-674
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-12100.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-12100
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12100
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12673
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12674
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1866309
+    reference_type:
+    reference_id: 1866309
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=968302
+    reference_type:
+    reference_id: 968302
+  - url: https://security.gentoo.org/glsa/202009-02
+    reference_type:
+    reference_id: GLSA-202009-02
+  - url: https://access.redhat.com/errata/RHSA-2020:3617
+    reference_type:
+    reference_id: RHSA-2020:3617
+  - url: https://access.redhat.com/errata/RHSA-2020:3713
+    reference_type:
+    reference_id: RHSA-2020:3713
+  - url: https://access.redhat.com/errata/RHSA-2020:3735
+    reference_type:
+    reference_id: RHSA-2020:3735
+  - url: https://access.redhat.com/errata/RHSA-2020:3736
+    reference_type:
+    reference_id: RHSA-2020:3736
+  - url: https://usn.ubuntu.com/4456-1/
+    reference_type:
+    reference_id: USN-4456-1
+  - url: https://usn.ubuntu.com/4456-2/
+    reference_type:
+    reference_id: USN-4456-2

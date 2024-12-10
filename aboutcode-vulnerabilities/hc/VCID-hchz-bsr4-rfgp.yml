@@ -1,0 +1,53 @@
+vulnerability_id: VCID-hchz-bsr4-rfgp
+aliases:
+  - CVE-2019-7149
+summary:
+severities:
+  - score: '3.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-7149.json
+  - score: '0.00343'
+    scoring_system: epss
+    scoring_elements: '0.71963'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-7149
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-863
+weaknesses:
+  - CWE-125
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-7149.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-7149
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1671443
+    reference_type:
+    reference_id: 1671443
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=920910
+    reference_type:
+    reference_id: 920910
+  - url: https://security.archlinux.org/ASA-201903-9
+    reference_type:
+    reference_id: ASA-201903-9
+  - url: https://security.archlinux.org/AVG-863
+    reference_type:
+    reference_id: AVG-863
+  - url: https://access.redhat.com/errata/RHSA-2019:2197
+    reference_type:
+    reference_id: RHSA-2019:2197
+  - url: https://access.redhat.com/errata/RHSA-2019:3575
+    reference_type:
+    reference_id: RHSA-2019:3575
+  - url: https://usn.ubuntu.com/4012-1/
+    reference_type:
+    reference_id: USN-4012-1
+  - url: https://usn.ubuntu.com/6322-1/
+    reference_type:
+    reference_id: USN-6322-1

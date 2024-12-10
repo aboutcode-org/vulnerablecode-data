@@ -1,0 +1,36 @@
+vulnerability_id: VCID-w12z-j8tu-xuhj
+aliases:
+  - CVE-2023-39323
+summary:
+severities:
+  - score: '8.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-39323.json
+  - score: '0.00322'
+    scoring_system: epss
+    scoring_elements: '0.71021'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-39323
+weaknesses:
+  - CWE-94
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-39323.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-39323
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2242544
+    reference_type:
+    reference_id: 2242544
+  - url: https://security.gentoo.org/glsa/202311-09
+    reference_type:
+    reference_id: GLSA-202311-09
+  - url: https://usn.ubuntu.com/6574-1/
+    reference_type:
+    reference_id: USN-6574-1

@@ -1,0 +1,117 @@
+vulnerability_id: VCID-t1zy-33dr-tbdu
+aliases:
+  - CVE-2021-29988
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-29988.json
+  - score: '0.00996'
+    scoring_system: epss
+    scoring_elements: '0.83929'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-29988
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2269
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2270
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-33
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-34
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-35
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-36
+weaknesses:
+  - CWE-119
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-29988.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-29988
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1992419
+    reference_type:
+    reference_id: '1992419'
+  - url: https://security.archlinux.org/ASA-202108-14
+    reference_type:
+    reference_id: ASA-202108-14
+  - url: https://security.archlinux.org/AVG-2269
+    reference_type:
+    reference_id: AVG-2269
+  - url: https://security.archlinux.org/AVG-2270
+    reference_type:
+    reference_id: AVG-2270
+  - url: https://security.gentoo.org/glsa/202202-03
+    reference_type:
+    reference_id: GLSA-202202-03
+  - url: https://security.gentoo.org/glsa/202208-14
+    reference_type:
+    reference_id: GLSA-202208-14
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-33
+    reference_type:
+    reference_id: mfsa2021-33
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-34
+    reference_type:
+    reference_id: mfsa2021-34
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-35
+    reference_type:
+    reference_id: mfsa2021-35
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-36
+    reference_type:
+    reference_id: mfsa2021-36
+  - url: https://access.redhat.com/errata/RHSA-2021:3154
+    reference_type:
+    reference_id: RHSA-2021:3154
+  - url: https://access.redhat.com/errata/RHSA-2021:3155
+    reference_type:
+    reference_id: RHSA-2021:3155
+  - url: https://access.redhat.com/errata/RHSA-2021:3156
+    reference_type:
+    reference_id: RHSA-2021:3156
+  - url: https://access.redhat.com/errata/RHSA-2021:3157
+    reference_type:
+    reference_id: RHSA-2021:3157
+  - url: https://access.redhat.com/errata/RHSA-2021:3159
+    reference_type:
+    reference_id: RHSA-2021:3159
+  - url: https://access.redhat.com/errata/RHSA-2021:3160
+    reference_type:
+    reference_id: RHSA-2021:3160
+  - url: https://access.redhat.com/errata/RHSA-2021:3161
+    reference_type:
+    reference_id: RHSA-2021:3161
+  - url: https://access.redhat.com/errata/RHSA-2021:3162
+    reference_type:
+    reference_id: RHSA-2021:3162
+  - url: https://usn.ubuntu.com/5037-1/
+    reference_type:
+    reference_id: USN-5037-1
+  - url: https://usn.ubuntu.com/5058-1/
+    reference_type:
+    reference_id: USN-5058-1

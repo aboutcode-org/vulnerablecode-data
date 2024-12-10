@@ -1,0 +1,88 @@
+vulnerability_id: VCID-b3vc-atqv-zfah
+aliases:
+  - CVE-2024-38476
+summary:
+severities:
+  - score: '8.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-38476.json
+  - score: '0.01825'
+    scoring_system: epss
+    scoring_elements: '0.88536'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-38476
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://security.netapp.com/advisory/ntap-20240712-0001/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-09T15:16:36Z/
+    published_at:
+    url: https://security.netapp.com/advisory/ntap-20240712-0001/
+weaknesses:
+  - CWE-829
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-38476.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-38476
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2295015
+    reference_type:
+    reference_id: 2295015
+  - url: https://security.gentoo.org/glsa/202409-31
+    reference_type:
+    reference_id: GLSA-202409-31
+  - url: https://security.netapp.com/advisory/ntap-20240712-0001/
+    reference_type:
+    reference_id: ntap-20240712-0001
+  - url: https://access.redhat.com/errata/RHSA-2024:5138
+    reference_type:
+    reference_id: RHSA-2024:5138
+  - url: https://access.redhat.com/errata/RHSA-2024:5193
+    reference_type:
+    reference_id: RHSA-2024:5193
+  - url: https://access.redhat.com/errata/RHSA-2024:5239
+    reference_type:
+    reference_id: RHSA-2024:5239
+  - url: https://access.redhat.com/errata/RHSA-2024:5240
+    reference_type:
+    reference_id: RHSA-2024:5240
+  - url: https://access.redhat.com/errata/RHSA-2024:5812
+    reference_type:
+    reference_id: RHSA-2024:5812
+  - url: https://access.redhat.com/errata/RHSA-2024:5832
+    reference_type:
+    reference_id: RHSA-2024:5832
+  - url: https://access.redhat.com/errata/RHSA-2024:6136
+    reference_type:
+    reference_id: RHSA-2024:6136
+  - url: https://access.redhat.com/errata/RHSA-2024:6467
+    reference_type:
+    reference_id: RHSA-2024:6467
+  - url: https://access.redhat.com/errata/RHSA-2024:6468
+    reference_type:
+    reference_id: RHSA-2024:6468
+  - url: https://access.redhat.com/errata/RHSA-2024:6583
+    reference_type:
+    reference_id: RHSA-2024:6583
+  - url: https://access.redhat.com/errata/RHSA-2024:6584
+    reference_type:
+    reference_id: RHSA-2024:6584
+  - url: https://access.redhat.com/errata/RHSA-2024:7101
+    reference_type:
+    reference_id: RHSA-2024:7101
+  - url: https://usn.ubuntu.com/6885-1/
+    reference_type:
+    reference_id: USN-6885-1
+  - url: https://usn.ubuntu.com/6885-3/
+    reference_type:
+    reference_id: USN-6885-3

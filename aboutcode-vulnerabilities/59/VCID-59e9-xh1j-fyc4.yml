@@ -1,0 +1,21 @@
+vulnerability_id: VCID-59e9-xh1j-fyc4
+aliases:
+  - CVE-2022-2163
+summary:
+severities:
+  - score: '0.00285'
+    scoring_system: epss
+    scoring_elements: '0.69130'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-2163
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-2163
+    reference_type:
+    reference_id:
+  - url: https://security.gentoo.org/glsa/202208-25
+    reference_type:
+    reference_id: GLSA-202208-25
+  - url: https://security.gentoo.org/glsa/202208-35
+    reference_type:
+    reference_id: GLSA-202208-35

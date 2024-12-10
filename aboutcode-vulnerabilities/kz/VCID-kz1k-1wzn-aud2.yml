@@ -1,0 +1,45 @@
+vulnerability_id: VCID-kz1k-1wzn-aud2
+aliases:
+  - CVE-2019-12900
+summary:
+severities:
+  - score: '4.0'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-12900.json
+  - score: '0.02008'
+    scoring_system: epss
+    scoring_elements: '0.89175'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-12900
+weaknesses:
+  - CWE-787
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-12900.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-12900
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1724459
+    reference_type:
+    reference_id: 1724459
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=930886
+    reference_type:
+    reference_id: 930886
+  - url: https://usn.ubuntu.com/4038-1/
+    reference_type:
+    reference_id: USN-4038-1
+  - url: https://usn.ubuntu.com/4038-2/
+    reference_type:
+    reference_id: USN-4038-2
+  - url: https://usn.ubuntu.com/4146-1/
+    reference_type:
+    reference_id: USN-4146-1
+  - url: https://usn.ubuntu.com/4146-2/
+    reference_type:
+    reference_id: USN-4146-2

@@ -1,0 +1,39 @@
+vulnerability_id: VCID-h488-bu9e-2kgu
+aliases:
+  - CVE-2021-4122
+summary:
+severities:
+  - score: '5.9'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:P/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-4122.json
+  - score: '0.00069'
+    scoring_system: epss
+    scoring_elements: '0.31235'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-4122
+weaknesses:
+  - CWE-349
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-4122.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-4122
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1003686
+    reference_type:
+    reference_id: 1003686
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2032401
+    reference_type:
+    reference_id: 2032401
+  - url: https://access.redhat.com/errata/RHSA-2022:0370
+    reference_type:
+    reference_id: RHSA-2022:0370
+  - url: https://usn.ubuntu.com/5286-1/
+    reference_type:
+    reference_id: USN-5286-1

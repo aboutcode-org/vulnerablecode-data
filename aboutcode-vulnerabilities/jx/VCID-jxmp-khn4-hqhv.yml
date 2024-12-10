@@ -1,0 +1,48 @@
+vulnerability_id: VCID-jxmp-khn4-hqhv
+aliases:
+  - CVE-2024-25581
+summary:
+severities:
+  - score: '0.00043'
+    scoring_system: epss
+    scoring_elements: '0.09705'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-25581
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://dnsdist.org/security-advisories/powerdns-advisory-for-dnsdist-2024-03.html
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-05-13T15:37:51Z/
+    published_at:
+    url: https://dnsdist.org/security-advisories/powerdns-advisory-for-dnsdist-2024-03.html
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/05/13/1
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-05-13T15:37:51Z/
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/05/13/1
+weaknesses:
+  - CWE-20
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-25581
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: http://www.openwall.com/lists/oss-security/2024/05/13/1
+    reference_type:
+    reference_id: 1
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1071750
+    reference_type:
+    reference_id: 1071750
+  - url: https://dnsdist.org/security-advisories/powerdns-advisory-for-dnsdist-2024-03.html
+    reference_type:
+    reference_id: powerdns-advisory-for-dnsdist-2024-03.html

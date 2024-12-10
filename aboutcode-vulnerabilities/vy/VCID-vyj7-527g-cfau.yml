@@ -1,0 +1,34 @@
+vulnerability_id: VCID-vyj7-527g-cfau
+aliases:
+  - CVE-2021-21197
+summary:
+severities:
+  - score: '0.00821'
+    scoring_system: epss
+    scoring_elements: '0.82217'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-21197
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1751
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1752
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-21197
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/AVG-1751
+    reference_type:
+    reference_id: AVG-1751
+  - url: https://security.archlinux.org/AVG-1752
+    reference_type:
+    reference_id: AVG-1752
+  - url: https://security.gentoo.org/glsa/202104-08
+    reference_type:
+    reference_id: GLSA-202104-08

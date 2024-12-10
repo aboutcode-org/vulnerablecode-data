@@ -1,0 +1,42 @@
+vulnerability_id: VCID-dhx1-9sx3-bqc6
+aliases:
+  - CVE-2019-11234
+summary:
+severities:
+  - score: '5.0'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:A/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-11234.json
+  - score: '0.00542'
+    scoring_system: epss
+    scoring_elements: '0.77687'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-11234
+weaknesses:
+  - CWE-287
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-11234.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-11234
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1695783
+    reference_type:
+    reference_id: 1695783
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=926958
+    reference_type:
+    reference_id: 926958
+  - url: https://access.redhat.com/errata/RHSA-2019:1131
+    reference_type:
+    reference_id: RHSA-2019:1131
+  - url: https://access.redhat.com/errata/RHSA-2019:1142
+    reference_type:
+    reference_id: RHSA-2019:1142
+  - url: https://usn.ubuntu.com/3954-1/
+    reference_type:
+    reference_id: USN-3954-1

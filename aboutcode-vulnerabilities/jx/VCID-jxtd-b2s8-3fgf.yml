@@ -1,0 +1,56 @@
+vulnerability_id: VCID-jxtd-b2s8-3fgf
+aliases:
+  - CVE-2022-34903
+summary:
+severities:
+  - score: '5.9'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-34903.json
+  - score: '0.00422'
+    scoring_system: epss
+    scoring_elements: '0.74644'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-34903
+  - score: Unknown
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2776
+weaknesses:
+  - CWE-347
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-34903.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-34903
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1014157
+    reference_type:
+    reference_id: 1014157
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2102868
+    reference_type:
+    reference_id: 2102868
+  - url: https://security.archlinux.org/AVG-2776
+    reference_type:
+    reference_id: AVG-2776
+  - url: https://security.gentoo.org/glsa/202408-23
+    reference_type:
+    reference_id: GLSA-202408-23
+  - url: https://access.redhat.com/errata/RHSA-2022:6463
+    reference_type:
+    reference_id: RHSA-2022:6463
+  - url: https://access.redhat.com/errata/RHSA-2022:6602
+    reference_type:
+    reference_id: RHSA-2022:6602
+  - url: https://usn.ubuntu.com/5503-1/
+    reference_type:
+    reference_id: USN-5503-1
+  - url: https://usn.ubuntu.com/5503-2/
+    reference_type:
+    reference_id: USN-5503-2

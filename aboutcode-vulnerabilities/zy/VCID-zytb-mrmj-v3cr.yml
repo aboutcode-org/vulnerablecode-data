@@ -1,0 +1,74 @@
+vulnerability_id: VCID-zytb-mrmj-v3cr
+aliases:
+  - CVE-2024-38167
+  - GHSA-3r34-r6w3-fqp6
+summary:
+severities:
+  - score: '6.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-38167.json
+  - score: '0.00092'
+    scoring_system: epss
+    scoring_elements: '0.40070'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-38167
+  - score: '6.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C
+    published_at:
+    url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38167
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-08-14T14:59:50Z/
+    published_at:
+    url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38167
+weaknesses:
+  - CWE-200
+  - CWE-319
+  - CWE-937
+  - CWE-1035
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-38167.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-38167
+    reference_type:
+    reference_id:
+  - url: https://github.com/dotnet/runtime
+    reference_type:
+    reference_id:
+  - url: https://github.com/dotnet/runtime/issues/106359
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2302428
+    reference_type:
+    reference_id: 2302428
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:.net:8.0.0:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:.net:8.0.0:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:visual_studio:2022:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:visual_studio:2022:*:*:*:*:*:*:*
+  - url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38167
+    reference_type:
+    reference_id: CVE-2024-38167
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2024-38167
+    reference_type:
+    reference_id: CVE-2024-38167
+  - url: https://github.com/advisories/GHSA-3r34-r6w3-fqp6
+    reference_type:
+    reference_id: GHSA-3r34-r6w3-fqp6
+  - url: https://github.com/dotnet/runtime/security/advisories/GHSA-3r34-r6w3-fqp6
+    reference_type:
+    reference_id: GHSA-3r34-r6w3-fqp6
+  - url: https://access.redhat.com/errata/RHSA-2024:5334
+    reference_type:
+    reference_id: RHSA-2024:5334
+  - url: https://access.redhat.com/errata/RHSA-2024:5337
+    reference_type:
+    reference_id: RHSA-2024:5337
+  - url: https://usn.ubuntu.com/6959-1/
+    reference_type:
+    reference_id: USN-6959-1

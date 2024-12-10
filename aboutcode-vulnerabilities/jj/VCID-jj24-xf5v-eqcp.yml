@@ -1,0 +1,58 @@
+vulnerability_id: VCID-jj24-xf5v-eqcp
+aliases:
+  - CVE-2018-6789
+summary:
+severities:
+  - score: '8.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-6789.json
+  - score: '0.95806'
+    scoring_system: epss
+    scoring_elements: '0.99498'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-6789
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-608
+weaknesses: []
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-6789.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-6789
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-6789
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1543268
+    reference_type:
+    reference_id: 1543268
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=890000
+    reference_type:
+    reference_id: 890000
+  - url: https://security.archlinux.org/ASA-201802-6
+    reference_type:
+    reference_id: ASA-201802-6
+  - url: https://security.archlinux.org/AVG-608
+    reference_type:
+    reference_id: AVG-608
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/linux/remote/44571.py
+    reference_type: exploit
+    reference_id: CVE-2018-6789
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/linux/remote/45671.py
+    reference_type: exploit
+    reference_id: CVE-2018-6789
+  - url: https://medium.com/@straightblast426/my-poc-walk-through-for-cve-2018-6789-2e402e4ff588
+    reference_type: exploit
+    reference_id: CVE-2018-6789
+  - url: https://security.gentoo.org/glsa/201803-01
+    reference_type:
+    reference_id: GLSA-201803-01
+  - url: https://usn.ubuntu.com/3565-1/
+    reference_type:
+    reference_id: USN-3565-1

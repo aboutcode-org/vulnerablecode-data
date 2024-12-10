@@ -1,0 +1,119 @@
+vulnerability_id: VCID-kpwz-wkv6-9uas
+aliases:
+  - CVE-2019-9788
+summary:
+severities:
+  - score: '9.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-9788.json
+  - score: '0.00699'
+    scoring_system: epss
+    scoring_elements: '0.80578'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-9788
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-925
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-07
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-08
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-11
+weaknesses:
+  - CWE-120
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-9788.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-9788
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18506
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9788
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9790
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9791
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9792
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9793
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9795
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9796
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1690674
+    reference_type:
+    reference_id: 1690674
+  - url: https://security.archlinux.org/ASA-201903-11
+    reference_type:
+    reference_id: ASA-201903-11
+  - url: https://security.archlinux.org/AVG-925
+    reference_type:
+    reference_id: AVG-925
+  - url: https://security.gentoo.org/glsa/201904-07
+    reference_type:
+    reference_id: GLSA-201904-07
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-07
+    reference_type:
+    reference_id: mfsa2019-07
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-08
+    reference_type:
+    reference_id: mfsa2019-08
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-11
+    reference_type:
+    reference_id: mfsa2019-11
+  - url: https://access.redhat.com/errata/RHSA-2019:0622
+    reference_type:
+    reference_id: RHSA-2019:0622
+  - url: https://access.redhat.com/errata/RHSA-2019:0623
+    reference_type:
+    reference_id: RHSA-2019:0623
+  - url: https://access.redhat.com/errata/RHSA-2019:0680
+    reference_type:
+    reference_id: RHSA-2019:0680
+  - url: https://access.redhat.com/errata/RHSA-2019:0681
+    reference_type:
+    reference_id: RHSA-2019:0681
+  - url: https://access.redhat.com/errata/RHSA-2019:0966
+    reference_type:
+    reference_id: RHSA-2019:0966
+  - url: https://access.redhat.com/errata/RHSA-2019:1144
+    reference_type:
+    reference_id: RHSA-2019:1144
+  - url: https://usn.ubuntu.com/3918-1/
+    reference_type:
+    reference_id: USN-3918-1
+  - url: https://usn.ubuntu.com/3918-2/
+    reference_type:
+    reference_id: USN-3918-2
+  - url: https://usn.ubuntu.com/3927-1/
+    reference_type:
+    reference_id: USN-3927-1

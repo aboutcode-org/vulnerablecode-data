@@ -1,0 +1,116 @@
+vulnerability_id: VCID-qppj-zysk-f7b5
+aliases:
+  - CVE-2023-36799
+  - GHSA-h3hv-63q5-jgpr
+summary:
+severities:
+  - score: '6.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-36799.json
+  - score: '0.00109'
+    scoring_system: epss
+    scoring_elements: '0.44908'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-36799
+  - score: '6.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C
+    published_at:
+    url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36799
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-05-29T16:23:47Z/
+    published_at:
+    url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36799
+weaknesses:
+  - CWE-400
+  - CWE-1035
+  - CWE-78
+  - CWE-937
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-36799.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-36799
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2237317
+    reference_type:
+    reference_id: 2237317
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:.net:6.0.0:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:.net:6.0.0:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:.net:7.0.0:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:.net:7.0.0:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:powershell:7.2:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:powershell:7.2:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:powershell:7.3:-:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:powershell:7.3:-:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:visual_studio:2022:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:visual_studio:2022:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:visual_studio_2022:17.2:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:visual_studio_2022:17.2:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:visual_studio_2022:17.4:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:visual_studio_2022:17.4:*:*:*:*:*:*:*
+  - url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36799
+    reference_type:
+    reference_id: CVE-2023-36799
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2023-36799
+    reference_type:
+    reference_id: CVE-2023-36799
+  - url: https://github.com/advisories/GHSA-h3hv-63q5-jgpr
+    reference_type:
+    reference_id: GHSA-h3hv-63q5-jgpr
+  - url: https://github.com/dotnet/runtime/security/advisories/GHSA-h3hv-63q5-jgpr
+    reference_type:
+    reference_id: GHSA-h3hv-63q5-jgpr
+  - url: https://access.redhat.com/errata/RHSA-2023:5142
+    reference_type:
+    reference_id: RHSA-2023:5142
+  - url: https://access.redhat.com/errata/RHSA-2023:5143
+    reference_type:
+    reference_id: RHSA-2023:5143
+  - url: https://access.redhat.com/errata/RHSA-2023:5144
+    reference_type:
+    reference_id: RHSA-2023:5144
+  - url: https://access.redhat.com/errata/RHSA-2023:5145
+    reference_type:
+    reference_id: RHSA-2023:5145
+  - url: https://access.redhat.com/errata/RHSA-2023:5146
+    reference_type:
+    reference_id: RHSA-2023:5146
+  - url: https://access.redhat.com/errata/RHSA-2023:6242
+    reference_type:
+    reference_id: RHSA-2023:6242
+  - url: https://access.redhat.com/errata/RHSA-2023:6245
+    reference_type:
+    reference_id: RHSA-2023:6245
+  - url: https://access.redhat.com/errata/RHSA-2023:6246
+    reference_type:
+    reference_id: RHSA-2023:6246
+  - url: https://access.redhat.com/errata/RHSA-2023:6247
+    reference_type:
+    reference_id: RHSA-2023:6247
+  - url: https://access.redhat.com/errata/RHSA-2023:6249
+    reference_type:
+    reference_id: RHSA-2023:6249
+  - url: https://usn.ubuntu.com/6362-1/
+    reference_type:
+    reference_id: USN-6362-1
+  - url: https://usn.ubuntu.com/6362-2/
+    reference_type:
+    reference_id: USN-6362-2
+  - url: https://usn.ubuntu.com/6438-1/
+    reference_type:
+    reference_id: USN-6438-1
+  - url: https://usn.ubuntu.com/6438-2/
+    reference_type:
+    reference_id: USN-6438-2

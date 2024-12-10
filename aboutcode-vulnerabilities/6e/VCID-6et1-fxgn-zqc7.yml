@@ -1,0 +1,34 @@
+vulnerability_id: VCID-6et1-fxgn-zqc7
+aliases:
+  - CVE-2023-46490
+summary:
+severities:
+  - score: '0.00063'
+    scoring_system: epss
+    scoring_elements: '0.28333'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-46490
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-10T14:48:55Z/
+    published_at:
+    url: https://gist.github.com/ISHGARD-2/a95632111138fcd7ccf7432ccb145b53
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-10T14:48:55Z/
+    published_at:
+    url: https://github.com/Cacti/cacti/security/advisories/GHSA-f4r3-53jr-654c
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-46490
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1059286
+    reference_type:
+    reference_id: 1059286
+  - url: https://gist.github.com/ISHGARD-2/a95632111138fcd7ccf7432ccb145b53
+    reference_type:
+    reference_id: a95632111138fcd7ccf7432ccb145b53
+  - url: https://github.com/Cacti/cacti/security/advisories/GHSA-f4r3-53jr-654c
+    reference_type:
+    reference_id: GHSA-f4r3-53jr-654c

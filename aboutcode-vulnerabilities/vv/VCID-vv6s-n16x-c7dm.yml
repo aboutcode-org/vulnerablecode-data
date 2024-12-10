@@ -1,0 +1,111 @@
+vulnerability_id: VCID-vv6s-n16x-c7dm
+aliases:
+  - CVE-2023-32213
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-32213.json
+  - score: '0.00310'
+    scoring_system: epss
+    scoring_elements: '0.70393'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-32213
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-16
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-17
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-18
+weaknesses:
+  - CWE-457
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-32213.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-32213
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2196742
+    reference_type:
+    reference_id: 2196742
+  - url: https://security.gentoo.org/glsa/202312-03
+    reference_type:
+    reference_id: GLSA-202312-03
+  - url: https://security.gentoo.org/glsa/202401-10
+    reference_type:
+    reference_id: GLSA-202401-10
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-16
+    reference_type:
+    reference_id: mfsa2023-16
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-17
+    reference_type:
+    reference_id: mfsa2023-17
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-18
+    reference_type:
+    reference_id: mfsa2023-18
+  - url: https://access.redhat.com/errata/RHSA-2023:3137
+    reference_type:
+    reference_id: RHSA-2023:3137
+  - url: https://access.redhat.com/errata/RHSA-2023:3138
+    reference_type:
+    reference_id: RHSA-2023:3138
+  - url: https://access.redhat.com/errata/RHSA-2023:3139
+    reference_type:
+    reference_id: RHSA-2023:3139
+  - url: https://access.redhat.com/errata/RHSA-2023:3140
+    reference_type:
+    reference_id: RHSA-2023:3140
+  - url: https://access.redhat.com/errata/RHSA-2023:3141
+    reference_type:
+    reference_id: RHSA-2023:3141
+  - url: https://access.redhat.com/errata/RHSA-2023:3142
+    reference_type:
+    reference_id: RHSA-2023:3142
+  - url: https://access.redhat.com/errata/RHSA-2023:3143
+    reference_type:
+    reference_id: RHSA-2023:3143
+  - url: https://access.redhat.com/errata/RHSA-2023:3149
+    reference_type:
+    reference_id: RHSA-2023:3149
+  - url: https://access.redhat.com/errata/RHSA-2023:3150
+    reference_type:
+    reference_id: RHSA-2023:3150
+  - url: https://access.redhat.com/errata/RHSA-2023:3151
+    reference_type:
+    reference_id: RHSA-2023:3151
+  - url: https://access.redhat.com/errata/RHSA-2023:3152
+    reference_type:
+    reference_id: RHSA-2023:3152
+  - url: https://access.redhat.com/errata/RHSA-2023:3153
+    reference_type:
+    reference_id: RHSA-2023:3153
+  - url: https://access.redhat.com/errata/RHSA-2023:3154
+    reference_type:
+    reference_id: RHSA-2023:3154
+  - url: https://access.redhat.com/errata/RHSA-2023:3155
+    reference_type:
+    reference_id: RHSA-2023:3155
+  - url: https://access.redhat.com/errata/RHSA-2023:3220
+    reference_type:
+    reference_id: RHSA-2023:3220
+  - url: https://access.redhat.com/errata/RHSA-2023:3221
+    reference_type:
+    reference_id: RHSA-2023:3221
+  - url: https://usn.ubuntu.com/6074-1/
+    reference_type:
+    reference_id: USN-6074-1
+  - url: https://usn.ubuntu.com/6075-1/
+    reference_type:
+    reference_id: USN-6075-1

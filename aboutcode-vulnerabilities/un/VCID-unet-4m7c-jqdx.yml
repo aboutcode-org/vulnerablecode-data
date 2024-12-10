@@ -1,0 +1,50 @@
+vulnerability_id: VCID-unet-4m7c-jqdx
+aliases:
+  - CVE-2021-28650
+summary:
+severities:
+  - score: '3.9'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:N/I:L/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-28650.json
+  - score: '0.00047'
+    scoring_system: epss
+    scoring_elements: '0.18041'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-28650
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1537
+weaknesses:
+  - CWE-22
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-28650.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-28650
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1940026
+    reference_type:
+    reference_id: '1940026'
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=985391
+    reference_type:
+    reference_id: 985391
+  - url: https://security.archlinux.org/AVG-1537
+    reference_type:
+    reference_id: AVG-1537
+  - url: https://security.gentoo.org/glsa/202105-10
+    reference_type:
+    reference_id: GLSA-202105-10
+  - url: https://access.redhat.com/errata/RHSA-2021:4381
+    reference_type:
+    reference_id: RHSA-2021:4381
+  - url: https://usn.ubuntu.com/4937-1/
+    reference_type:
+    reference_id: USN-4937-1

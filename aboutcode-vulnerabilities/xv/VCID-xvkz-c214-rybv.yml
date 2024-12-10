@@ -1,0 +1,121 @@
+vulnerability_id: VCID-xvkz-c214-rybv
+aliases:
+  - CVE-2023-6867
+summary:
+severities:
+  - score: '6.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-6867.json
+  - score: '0.00053'
+    scoring_system: epss
+    scoring_elements: '0.21812'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-6867
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-08-27T18:50:04Z/
+    published_at:
+    url: https://bugzilla.mozilla.org/show_bug.cgi?id=1863863
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-08-27T18:50:04Z/
+    published_at:
+    url: https://lists.debian.org/debian-lts-announce/2023/12/msg00020.html
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-08-27T18:50:04Z/
+    published_at:
+    url: https://www.debian.org/security/2023/dsa-5581
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-54
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-56
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-08-27T18:50:04Z/
+    published_at:
+    url: https://www.mozilla.org/security/advisories/mfsa2023-54/
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://www.mozilla.org/security/advisories/mfsa2023-56/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-08-27T18:50:04Z/
+    published_at:
+    url: https://www.mozilla.org/security/advisories/mfsa2023-56/
+weaknesses:
+  - CWE-1021
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-6867.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-6867
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2255366
+    reference_type:
+    reference_id: 2255366
+  - url: https://www.debian.org/security/2023/dsa-5581
+    reference_type:
+    reference_id: dsa-5581
+  - url: https://security.gentoo.org/glsa/202401-10
+    reference_type:
+    reference_id: GLSA-202401-10
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-54
+    reference_type:
+    reference_id: mfsa2023-54
+  - url: https://www.mozilla.org/security/advisories/mfsa2023-54/
+    reference_type:
+    reference_id: mfsa2023-54
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-56
+    reference_type:
+    reference_id: mfsa2023-56
+  - url: https://www.mozilla.org/security/advisories/mfsa2023-56/
+    reference_type:
+    reference_id: mfsa2023-56
+  - url: https://lists.debian.org/debian-lts-announce/2023/12/msg00020.html
+    reference_type:
+    reference_id: msg00020.html
+  - url: https://access.redhat.com/errata/RHSA-2024:0011
+    reference_type:
+    reference_id: RHSA-2024:0011
+  - url: https://access.redhat.com/errata/RHSA-2024:0012
+    reference_type:
+    reference_id: RHSA-2024:0012
+  - url: https://access.redhat.com/errata/RHSA-2024:0019
+    reference_type:
+    reference_id: RHSA-2024:0019
+  - url: https://access.redhat.com/errata/RHSA-2024:0021
+    reference_type:
+    reference_id: RHSA-2024:0021
+  - url: https://access.redhat.com/errata/RHSA-2024:0022
+    reference_type:
+    reference_id: RHSA-2024:0022
+  - url: https://access.redhat.com/errata/RHSA-2024:0023
+    reference_type:
+    reference_id: RHSA-2024:0023
+  - url: https://access.redhat.com/errata/RHSA-2024:0024
+    reference_type:
+    reference_id: RHSA-2024:0024
+  - url: https://access.redhat.com/errata/RHSA-2024:0025
+    reference_type:
+    reference_id: RHSA-2024:0025
+  - url: https://access.redhat.com/errata/RHSA-2024:0026
+    reference_type:
+    reference_id: RHSA-2024:0026
+  - url: https://bugzilla.mozilla.org/show_bug.cgi?id=1863863
+    reference_type:
+    reference_id: show_bug.cgi?id=1863863
+  - url: https://usn.ubuntu.com/6562-1/
+    reference_type:
+    reference_id: USN-6562-1

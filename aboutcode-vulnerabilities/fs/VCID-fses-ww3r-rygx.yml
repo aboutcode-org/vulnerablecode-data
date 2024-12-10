@@ -1,0 +1,53 @@
+vulnerability_id: VCID-fses-ww3r-rygx
+aliases:
+  - CVE-2018-7600
+summary:
+severities:
+  - score: '0.97569'
+    scoring_system: epss
+    scoring_elements: '1.00000'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-7600
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-665
+weaknesses:
+  - CWE-1035
+  - CWE-20
+  - CWE-937
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-7600
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-7600
+    reference_type:
+    reference_id:
+  - url: https://www.drupal.org/sa-core-2018-002
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/ASA-201804-1
+    reference_type:
+    reference_id: ASA-201804-1
+  - url: https://security.archlinux.org/AVG-665
+    reference_type:
+    reference_id: AVG-665
+  - url: https://github.com/a2u/CVE-2018-7600/blob/2c623a6a9ea641119cf7ee75cd344fb32047169b/exploit.py
+    reference_type: exploit
+    reference_id: CVE-2018-7600
+  - url: https://github.com/dreadlocked/Drupalgeddon2/blob/16cac1b2336d38642f75eb7b7e2c833b2c3f49b1/drupalgeddon2.rb
+    reference_type: exploit
+    reference_id: CVE-2018-7600
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/php/remote/44482.rb
+    reference_type: exploit
+    reference_id: CVE-2018-7600
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/php/webapps/44448.py
+    reference_type: exploit
+    reference_id: CVE-2018-7600
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/php/webapps/44449.rb
+    reference_type: exploit
+    reference_id: CVE-2018-7600
+  - url: https://usn.ubuntu.com/USN-4773-1/
+    reference_type:
+    reference_id: USN-USN-4773-1

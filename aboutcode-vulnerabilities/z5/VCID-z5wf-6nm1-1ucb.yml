@@ -1,0 +1,85 @@
+vulnerability_id: VCID-z5wf-6nm1-1ucb
+aliases:
+  - CVE-2016-3074
+summary:
+severities:
+  - score: '0.46160'
+    scoring_system: epss
+    scoring_elements: '0.97511'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-3074
+weaknesses:
+  - CWE-122
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-3074.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-3074
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-7456
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-3074
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4537
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4538
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4539
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4540
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4541
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4542
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4543
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4544
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-5093
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-5094
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-5095
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-5096
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1321893
+    reference_type:
+    reference_id: 1321893
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=822242
+    reference_type:
+    reference_id: 822242
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/linux/remote/39736.txt
+    reference_type: exploit
+    reference_id: CVE-2016-3074
+  - url: https://security.gentoo.org/glsa/201607-04
+    reference_type:
+    reference_id: GLSA-201607-04
+  - url: https://security.gentoo.org/glsa/201611-22
+    reference_type:
+    reference_id: GLSA-201611-22
+  - url: https://access.redhat.com/errata/RHSA-2016:2750
+    reference_type:
+    reference_id: RHSA-2016:2750
+  - url: https://usn.ubuntu.com/2987-1/
+    reference_type:
+    reference_id: USN-2987-1

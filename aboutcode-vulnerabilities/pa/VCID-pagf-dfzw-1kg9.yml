@@ -1,0 +1,47 @@
+vulnerability_id: VCID-pagf-dfzw-1kg9
+aliases:
+  - CVE-2021-41773
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-41773.json
+  - score: '0.97477'
+    scoring_system: epss
+    scoring_elements: '0.99976'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-41773
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2442
+weaknesses:
+  - CWE-22
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-41773.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-41773
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2010757
+    reference_type:
+    reference_id: 2010757
+  - url: https://security.archlinux.org/AVG-2442
+    reference_type:
+    reference_id: AVG-2442
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/multiple/webapps/50383.sh
+    reference_type: exploit
+    reference_id: CVE-2021-41773
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/multiple/webapps/50512.py
+    reference_type: exploit
+    reference_id: CVE-2021-42013;CVE-2021-41773
+  - url: https://security.gentoo.org/glsa/202208-20
+    reference_type:
+    reference_id: GLSA-202208-20

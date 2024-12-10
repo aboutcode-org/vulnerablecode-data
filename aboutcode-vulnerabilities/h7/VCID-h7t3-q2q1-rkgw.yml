@@ -1,0 +1,116 @@
+vulnerability_id: VCID-h7t3-q2q1-rkgw
+aliases:
+  - CVE-2018-0500
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-0500.json
+  - score: '0.01330'
+    scoring_system: epss
+    scoring_elements: '0.86349'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-0500
+  - score: High
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2018-0500.html
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-729
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-730
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-731
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-732
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-733
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-734
+weaknesses:
+  - CWE-122
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-0500.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-0500
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2018-0500.html
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1597101
+    reference_type:
+    reference_id: 1597101
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=903546
+    reference_type:
+    reference_id: 903546
+  - url: https://security.archlinux.org/ASA-201807-10
+    reference_type:
+    reference_id: ASA-201807-10
+  - url: https://security.archlinux.org/ASA-201807-5
+    reference_type:
+    reference_id: ASA-201807-5
+  - url: https://security.archlinux.org/ASA-201807-6
+    reference_type:
+    reference_id: ASA-201807-6
+  - url: https://security.archlinux.org/ASA-201807-7
+    reference_type:
+    reference_id: ASA-201807-7
+  - url: https://security.archlinux.org/ASA-201807-8
+    reference_type:
+    reference_id: ASA-201807-8
+  - url: https://security.archlinux.org/ASA-201807-9
+    reference_type:
+    reference_id: ASA-201807-9
+  - url: https://security.archlinux.org/AVG-729
+    reference_type:
+    reference_id: AVG-729
+  - url: https://security.archlinux.org/AVG-730
+    reference_type:
+    reference_id: AVG-730
+  - url: https://security.archlinux.org/AVG-731
+    reference_type:
+    reference_id: AVG-731
+  - url: https://security.archlinux.org/AVG-732
+    reference_type:
+    reference_id: AVG-732
+  - url: https://security.archlinux.org/AVG-733
+    reference_type:
+    reference_id: AVG-733
+  - url: https://security.archlinux.org/AVG-734
+    reference_type:
+    reference_id: AVG-734
+  - url: https://security.gentoo.org/glsa/201807-04
+    reference_type:
+    reference_id: GLSA-201807-04
+  - url: https://access.redhat.com/errata/RHSA-2018:2486
+    reference_type:
+    reference_id: RHSA-2018:2486
+  - url: https://usn.ubuntu.com/3710-1/
+    reference_type:
+    reference_id: USN-3710-1

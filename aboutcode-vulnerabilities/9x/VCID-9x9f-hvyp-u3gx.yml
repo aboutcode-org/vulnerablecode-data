@@ -1,0 +1,15 @@
+vulnerability_id: VCID-9x9f-hvyp-u3gx
+aliases:
+  - CVE-2017-9994
+summary:
+severities:
+  - score: '0.00562'
+    scoring_system: epss
+    scoring_elements: '0.78040'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2017-9994
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2017-9994
+    reference_type:
+    reference_id:

@@ -1,0 +1,91 @@
+vulnerability_id: VCID-9kue-6uba-cbdq
+aliases:
+  - CVE-2022-32149
+summary:
+severities:
+  - score: '8.6'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:2077
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:T/P:M/B:A/M:M/D:R/2024-05-02T15:05:28Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:2077
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-32149.json
+  - score: '0.00239'
+    scoring_system: epss
+    scoring_elements: '0.62153'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-32149
+weaknesses:
+  - CWE-407
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-32149.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-32149
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1021785
+    reference_type:
+    reference_id: 1021785
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2134010
+    reference_type:
+    reference_id: 2134010
+  - url: https://security.gentoo.org/glsa/202210-14
+    reference_type:
+    reference_id: GLSA-202210-14
+  - url: https://access.redhat.com/errata/RHSA-2022:6882
+    reference_type:
+    reference_id: RHSA-2022:6882
+  - url: https://access.redhat.com/errata/RHSA-2022:7407
+    reference_type:
+    reference_id: RHSA-2022:7407
+  - url: https://access.redhat.com/errata/RHSA-2022:7434
+    reference_type:
+    reference_id: RHSA-2022:7434
+  - url: https://access.redhat.com/errata/RHSA-2022:7435
+    reference_type:
+    reference_id: RHSA-2022:7435
+  - url: https://access.redhat.com/errata/RHSA-2023:0481
+    reference_type:
+    reference_id: RHSA-2023:0481
+  - url: https://access.redhat.com/errata/RHSA-2023:0692
+    reference_type:
+    reference_id: RHSA-2023:0692
+  - url: https://access.redhat.com/errata/RHSA-2023:0693
+    reference_type:
+    reference_id: RHSA-2023:0693
+  - url: https://access.redhat.com/errata/RHSA-2023:0795
+    reference_type:
+    reference_id: RHSA-2023:0795
+  - url: https://access.redhat.com/errata/RHSA-2023:1042
+    reference_type:
+    reference_id: RHSA-2023:1042
+  - url: https://access.redhat.com/errata/RHSA-2023:3204
+    reference_type:
+    reference_id: RHSA-2023:3204
+  - url: https://access.redhat.com/errata/RHSA-2023:3205
+    reference_type:
+    reference_id: RHSA-2023:3205
+  - url: https://access.redhat.com/errata/RHSA-2023:3613
+    reference_type:
+    reference_id: RHSA-2023:3613
+  - url: https://access.redhat.com/errata/RHSA-2024:1994
+    reference_type:
+    reference_id: RHSA-2024:1994
+  - url: https://access.redhat.com/errata/RHSA-2024:2077
+    reference_type:
+    reference_id: RHSA-2024:2077
+  - url: https://usn.ubuntu.com/5873-1/
+    reference_type:
+    reference_id: USN-5873-1

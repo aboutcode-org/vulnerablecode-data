@@ -1,0 +1,21 @@
+vulnerability_id: VCID-c2gv-zvwm-efdf
+aliases:
+  - CVE-2023-22486
+summary:
+severities:
+  - score: '0.00084'
+    scoring_system: epss
+    scoring_elements: '0.36426'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-22486
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-22486
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1033110
+    reference_type:
+    reference_id: 1033110

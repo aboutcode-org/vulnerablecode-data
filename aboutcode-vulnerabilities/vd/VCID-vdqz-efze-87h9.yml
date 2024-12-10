@@ -1,0 +1,36 @@
+vulnerability_id: VCID-vdqz-efze-87h9
+aliases:
+  - CVE-2020-16116
+summary:
+severities:
+  - score: '3.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-16116.json
+  - score: '0.00142'
+    scoring_system: epss
+    scoring_elements: '0.50729'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-16116
+weaknesses:
+  - CWE-552
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-16116.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-16116
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-16116
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1862464
+    reference_type:
+    reference_id: 1862464
+  - url: https://security.gentoo.org/glsa/202008-03
+    reference_type:
+    reference_id: GLSA-202008-03
+  - url: https://usn.ubuntu.com/4461-1/
+    reference_type:
+    reference_id: USN-4461-1

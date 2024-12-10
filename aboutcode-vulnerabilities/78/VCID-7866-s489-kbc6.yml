@@ -1,0 +1,51 @@
+vulnerability_id: VCID-7866-s489-kbc6
+aliases:
+  - CVE-2019-14866
+summary:
+severities:
+  - score: '6.7'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:H/PR:L/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-14866.json
+  - score: '0.00053'
+    scoring_system: epss
+    scoring_elements: '0.22103'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-14866
+weaknesses:
+  - CWE-20
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-14866.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-14866
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1765511
+    reference_type:
+    reference_id: 1765511
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=941412
+    reference_type:
+    reference_id: 941412
+  - url: https://security.gentoo.org/glsa/202407-07
+    reference_type:
+    reference_id: GLSA-202407-07
+  - url: https://access.redhat.com/errata/RHSA-2020:3908
+    reference_type:
+    reference_id: RHSA-2020:3908
+  - url: https://access.redhat.com/errata/RHSA-2021:0949
+    reference_type:
+    reference_id: RHSA-2021:0949
+  - url: https://access.redhat.com/errata/RHSA-2021:1582
+    reference_type:
+    reference_id: RHSA-2021:1582
+  - url: https://access.redhat.com/errata/RHSA-2022:0073
+    reference_type:
+    reference_id: RHSA-2022:0073
+  - url: https://usn.ubuntu.com/4176-1/
+    reference_type:
+    reference_id: USN-4176-1

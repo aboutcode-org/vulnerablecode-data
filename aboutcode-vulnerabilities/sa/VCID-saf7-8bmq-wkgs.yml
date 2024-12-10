@@ -1,0 +1,54 @@
+vulnerability_id: VCID-saf7-8bmq-wkgs
+aliases:
+  - CVE-2022-1996
+summary:
+severities:
+  - score: '9.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-1996.json
+  - score: '0.00308'
+    scoring_system: epss
+    scoring_elements: '0.70338'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-1996
+weaknesses:
+  - CWE-639
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-1996.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-1996
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1012763
+    reference_type:
+    reference_id: 1012763
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2094982
+    reference_type:
+    reference_id: 2094982
+  - url: https://access.redhat.com/errata/RHSA-2022:6040
+    reference_type:
+    reference_id: RHSA-2022:6040
+  - url: https://access.redhat.com/errata/RHSA-2022:6042
+    reference_type:
+    reference_id: RHSA-2022:6042
+  - url: https://access.redhat.com/errata/RHSA-2022:6351
+    reference_type:
+    reference_id: RHSA-2022:6351
+  - url: https://access.redhat.com/errata/RHSA-2022:8609
+    reference_type:
+    reference_id: RHSA-2022:8609
+  - url: https://access.redhat.com/errata/RHSA-2023:0814
+    reference_type:
+    reference_id: RHSA-2023:0814
+  - url: https://access.redhat.com/errata/RHSA-2023:3229
+    reference_type:
+    reference_id: RHSA-2023:3229
+  - url: https://access.redhat.com/errata/RHSA-2023:3557
+    reference_type:
+    reference_id: RHSA-2023:3557

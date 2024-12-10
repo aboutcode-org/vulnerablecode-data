@@ -1,0 +1,95 @@
+vulnerability_id: VCID-rtex-z6qn-4ke4
+aliases:
+  - CVE-2024-42491
+summary:
+severities:
+  - score: '0.00044'
+    scoring_system: epss
+    scoring_elements: '0.11004'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-42491
+  - score: '5.7'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://github.com/asterisk/asterisk/commit/42a2f4ccfa2c7062a15063e765916b3332e34cc4
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-05T18:48:24Z/
+    published_at:
+    url: https://github.com/asterisk/asterisk/commit/42a2f4ccfa2c7062a15063e765916b3332e34cc4
+  - score: '5.7'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://github.com/asterisk/asterisk/commit/4f01669c7c41c9184f3cce9a3cf1b2ebf6201742
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-05T18:48:24Z/
+    published_at:
+    url: https://github.com/asterisk/asterisk/commit/4f01669c7c41c9184f3cce9a3cf1b2ebf6201742
+  - score: '5.7'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://github.com/asterisk/asterisk/commit/50bf8d4d3064930d28ecf1ce3397b14574d514d2
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-05T18:48:24Z/
+    published_at:
+    url: https://github.com/asterisk/asterisk/commit/50bf8d4d3064930d28ecf1ce3397b14574d514d2
+  - score: '5.7'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://github.com/asterisk/asterisk/commit/7a0090325bfa9d778a39ae5f7d0a98109e4651c8
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-05T18:48:24Z/
+    published_at:
+    url: https://github.com/asterisk/asterisk/commit/7a0090325bfa9d778a39ae5f7d0a98109e4651c8
+  - score: '5.7'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://github.com/asterisk/asterisk/commit/a15050650abf09c10a3c135fab148220cd41d3a0
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-05T18:48:24Z/
+    published_at:
+    url: https://github.com/asterisk/asterisk/commit/a15050650abf09c10a3c135fab148220cd41d3a0
+  - score: '5.7'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://github.com/asterisk/asterisk/security/advisories/GHSA-v428-g3cw-7hv9
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-05T18:48:24Z/
+    published_at:
+    url: https://github.com/asterisk/asterisk/security/advisories/GHSA-v428-g3cw-7hv9
+weaknesses:
+  - CWE-252
+  - CWE-476
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-42491
+    reference_type:
+    reference_id:
+  - url: https://github.com/asterisk/asterisk/commit/42a2f4ccfa2c7062a15063e765916b3332e34cc4
+    reference_type:
+    reference_id: 42a2f4ccfa2c7062a15063e765916b3332e34cc4
+  - url: https://github.com/asterisk/asterisk/commit/4f01669c7c41c9184f3cce9a3cf1b2ebf6201742
+    reference_type:
+    reference_id: 4f01669c7c41c9184f3cce9a3cf1b2ebf6201742
+  - url: https://github.com/asterisk/asterisk/commit/50bf8d4d3064930d28ecf1ce3397b14574d514d2
+    reference_type:
+    reference_id: 50bf8d4d3064930d28ecf1ce3397b14574d514d2
+  - url: https://github.com/asterisk/asterisk/commit/7a0090325bfa9d778a39ae5f7d0a98109e4651c8
+    reference_type:
+    reference_id: 7a0090325bfa9d778a39ae5f7d0a98109e4651c8
+  - url: https://github.com/asterisk/asterisk/commit/a15050650abf09c10a3c135fab148220cd41d3a0
+    reference_type:
+    reference_id: a15050650abf09c10a3c135fab148220cd41d3a0
+  - url: https://github.com/asterisk/asterisk/security/advisories/GHSA-v428-g3cw-7hv9
+    reference_type:
+    reference_id: GHSA-v428-g3cw-7hv9

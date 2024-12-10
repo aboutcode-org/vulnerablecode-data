@@ -1,0 +1,168 @@
+- purl: pkg:alpine/buildkit@0.12.5-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/buildkit@0.12.5-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/buildkit@0.12.5-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/buildkit@0.12.5-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/buildkit@0.12.5-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/buildkit@0.12.5-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/buildkit@0.12.5-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/buildkit@0.12.5-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/buildkit@0.12.5-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/buildkit@0.12.5-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/buildkit@0.12.5-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/buildkit@0.12.5-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/buildkit@0.12.5-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/buildkit@0.12.5-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/buildkit@0.12.5-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/buildkit@0.12.5-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/buildkit@0.12.5-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/buildkit@0.12.5-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/buildkit@0.12.5-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/buildkit@0.12.5-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/buildkit@0.12.5-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/buildkit@0.12.5-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/buildkit@0.12.5-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha
+- purl: pkg:alpine/buildkit@0.12.5-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7c5t-n97d-fbck
+    - VCID-gzp4-4kg3-j3ex
+    - VCID-tnww-9fqd-kuaa
+    - VCID-wgpk-rq4j-y7ha

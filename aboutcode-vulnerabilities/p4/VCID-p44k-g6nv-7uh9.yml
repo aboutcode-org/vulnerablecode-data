@@ -1,0 +1,18 @@
+vulnerability_id: VCID-p44k-g6nv-7uh9
+aliases:
+  - CVE-2017-6949
+summary:
+severities:
+  - score: '0.00244'
+    scoring_system: epss
+    scoring_elements: '0.64756'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2017-6949
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2017-6949
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=858057
+    reference_type:
+    reference_id: 858057

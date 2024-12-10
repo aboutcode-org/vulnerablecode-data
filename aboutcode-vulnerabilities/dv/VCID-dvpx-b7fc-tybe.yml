@@ -1,0 +1,24 @@
+vulnerability_id: VCID-dvpx-b7fc-tybe
+aliases:
+  - CVE-2016-9953
+summary:
+severities:
+  - score: '0.00349'
+    scoring_system: epss
+    scoring_elements: '0.72195'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-9953
+  - score: Medium
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2016-9953.html
+weaknesses:
+  - CWE-126
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-9953
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2016-9953.html
+    reference_type:
+    reference_id:

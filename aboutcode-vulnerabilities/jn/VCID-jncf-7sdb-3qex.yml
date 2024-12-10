@@ -1,0 +1,15 @@
+vulnerability_id: VCID-jncf-7sdb-3qex
+aliases:
+  - CVE-2024-23771
+summary:
+severities:
+  - score: '0.00118'
+    scoring_system: epss
+    scoring_elements: '0.46561'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-23771
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-23771
+    reference_type:
+    reference_id:

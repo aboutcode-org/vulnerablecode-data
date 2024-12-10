@@ -1,0 +1,43 @@
+vulnerability_id: VCID-v6q3-xnwe-p3en
+aliases:
+  - CVE-2024-8118
+summary:
+severities:
+  - score: '4.7'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:L/I:L/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-8118.json
+  - score: '0.00043'
+    scoring_system: epss
+    scoring_elements: '0.09705'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-8118
+  - score: '5.1'
+    scoring_system: cvssv4
+    scoring_elements: CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N
+    published_at:
+    url: https://grafana.com/security/security-advisories/cve-2024-8118/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-26T19:06:31Z/
+    published_at:
+    url: https://grafana.com/security/security-advisories/cve-2024-8118/
+weaknesses:
+  - CWE-653
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-8118.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-8118
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2314990
+    reference_type:
+    reference_id: 2314990
+  - url: https://grafana.com/security/security-advisories/cve-2024-8118/
+    reference_type:
+    reference_id: cve-2024-8118

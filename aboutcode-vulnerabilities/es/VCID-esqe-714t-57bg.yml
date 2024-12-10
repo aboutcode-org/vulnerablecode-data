@@ -1,0 +1,42 @@
+vulnerability_id: VCID-esqe-714t-57bg
+aliases:
+  - CVE-2021-3429
+summary:
+severities:
+  - score: '5.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-3429.json
+  - score: '0.00042'
+    scoring_system: epss
+    scoring_elements: '0.05073'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-3429
+weaknesses:
+  - CWE-532
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-3429.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-3429
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1940967
+    reference_type:
+    reference_id: '1940967'
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=985540
+    reference_type:
+    reference_id: 985540
+  - url: https://access.redhat.com/errata/RHSA-2021:3081
+    reference_type:
+    reference_id: RHSA-2021:3081
+  - url: https://access.redhat.com/errata/RHSA-2021:3177
+    reference_type:
+    reference_id: RHSA-2021:3177
+  - url: https://access.redhat.com/errata/RHSA-2021:3371
+    reference_type:
+    reference_id: RHSA-2021:3371

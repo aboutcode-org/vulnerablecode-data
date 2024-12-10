@@ -1,0 +1,62 @@
+vulnerability_id: VCID-7jdt-88yb-13dn
+aliases:
+  - CVE-2018-5743
+summary:
+severities:
+  - score: '8.6'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-5743.json
+  - score: '0.00232'
+    scoring_system: epss
+    scoring_elements: '0.61486'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-5743
+weaknesses: []
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-5743.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-5743
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-5743
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-5745
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-6465
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1702541
+    reference_type:
+    reference_id: 1702541
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=927932
+    reference_type:
+    reference_id: 927932
+  - url: https://access.redhat.com/errata/RHSA-2019:1145
+    reference_type:
+    reference_id: RHSA-2019:1145
+  - url: https://access.redhat.com/errata/RHSA-2019:1294
+    reference_type:
+    reference_id: RHSA-2019:1294
+  - url: https://access.redhat.com/errata/RHSA-2019:1492
+    reference_type:
+    reference_id: RHSA-2019:1492
+  - url: https://access.redhat.com/errata/RHSA-2019:2698
+    reference_type:
+    reference_id: RHSA-2019:2698
+  - url: https://access.redhat.com/errata/RHSA-2019:2977
+    reference_type:
+    reference_id: RHSA-2019:2977
+  - url: https://usn.ubuntu.com/3956-1/
+    reference_type:
+    reference_id: USN-3956-1
+  - url: https://usn.ubuntu.com/3956-2/
+    reference_type:
+    reference_id: USN-3956-2

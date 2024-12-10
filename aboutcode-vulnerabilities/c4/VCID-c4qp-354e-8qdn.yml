@@ -1,0 +1,70 @@
+vulnerability_id: VCID-c4qp-354e-8qdn
+aliases:
+  - CVE-2022-32206
+summary:
+severities:
+  - score: '6.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-32206.json
+  - score: '0.00209'
+    scoring_system: epss
+    scoring_elements: '0.59113'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-32206
+  - score: Medium
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2022-32206.html
+  - score: Unknown
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2817
+weaknesses:
+  - CWE-770
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-32206.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-32206
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2022-32206.html
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://hackerone.com/reports/1570651
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2099300
+    reference_type:
+    reference_id: 2099300
+  - url: https://security.archlinux.org/AVG-2817
+    reference_type:
+    reference_id: AVG-2817
+  - url: https://security.gentoo.org/glsa/202212-01
+    reference_type:
+    reference_id: GLSA-202212-01
+  - url: https://access.redhat.com/errata/RHSA-2022:6157
+    reference_type:
+    reference_id: RHSA-2022:6157
+  - url: https://access.redhat.com/errata/RHSA-2022:6159
+    reference_type:
+    reference_id: RHSA-2022:6159
+  - url: https://access.redhat.com/errata/RHSA-2022:8840
+    reference_type:
+    reference_id: RHSA-2022:8840
+  - url: https://access.redhat.com/errata/RHSA-2022:8841
+    reference_type:
+    reference_id: RHSA-2022:8841
+  - url: https://access.redhat.com/errata/RHSA-2023:3460
+    reference_type:
+    reference_id: RHSA-2023:3460
+  - url: https://usn.ubuntu.com/5495-1/
+    reference_type:
+    reference_id: USN-5495-1

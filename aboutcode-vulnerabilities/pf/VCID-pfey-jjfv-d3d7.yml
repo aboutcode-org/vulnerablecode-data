@@ -1,0 +1,90 @@
+vulnerability_id: VCID-pfey-jjfv-d3d7
+aliases:
+  - CVE-2019-9517
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-9517.json
+  - score: '0.03532'
+    scoring_system: epss
+    scoring_elements: '0.91748'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-9517
+weaknesses:
+  - CWE-400
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-9517.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-9517
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-10081
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-10082
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-10092
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-10098
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9517
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1741868
+    reference_type:
+    reference_id: 1741868
+  - url: https://security.gentoo.org/glsa/201909-04
+    reference_type:
+    reference_id: GLSA-201909-04
+  - url: https://access.redhat.com/errata/RHSA-2019:2893
+    reference_type:
+    reference_id: RHSA-2019:2893
+  - url: https://access.redhat.com/errata/RHSA-2019:2925
+    reference_type:
+    reference_id: RHSA-2019:2925
+  - url: https://access.redhat.com/errata/RHSA-2019:2939
+    reference_type:
+    reference_id: RHSA-2019:2939
+  - url: https://access.redhat.com/errata/RHSA-2019:2946
+    reference_type:
+    reference_id: RHSA-2019:2946
+  - url: https://access.redhat.com/errata/RHSA-2019:2949
+    reference_type:
+    reference_id: RHSA-2019:2949
+  - url: https://access.redhat.com/errata/RHSA-2019:2950
+    reference_type:
+    reference_id: RHSA-2019:2950
+  - url: https://access.redhat.com/errata/RHSA-2019:2955
+    reference_type:
+    reference_id: RHSA-2019:2955
+  - url: https://access.redhat.com/errata/RHSA-2019:3932
+    reference_type:
+    reference_id: RHSA-2019:3932
+  - url: https://access.redhat.com/errata/RHSA-2019:3933
+    reference_type:
+    reference_id: RHSA-2019:3933
+  - url: https://access.redhat.com/errata/RHSA-2019:3935
+    reference_type:
+    reference_id: RHSA-2019:3935
+  - url: https://access.redhat.com/errata/RHSA-2020:0922
+    reference_type:
+    reference_id: RHSA-2020:0922
+  - url: https://access.redhat.com/errata/RHSA-2020:0983
+    reference_type:
+    reference_id: RHSA-2020:0983
+  - url: https://access.redhat.com/errata/RHSA-2020:1445
+    reference_type:
+    reference_id: RHSA-2020:1445
+  - url: https://usn.ubuntu.com/4113-1/
+    reference_type:
+    reference_id: USN-4113-1

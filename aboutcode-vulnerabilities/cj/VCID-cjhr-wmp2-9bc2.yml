@@ -1,0 +1,51 @@
+vulnerability_id: VCID-cjhr-wmp2-9bc2
+aliases:
+  - CVE-2019-19921
+summary:
+severities:
+  - score: '7.0'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-19921.json
+  - score: '0.00046'
+    scoring_system: epss
+    scoring_elements: '0.17871'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-19921
+weaknesses:
+  - CWE-41
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-19921.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-19921
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1796107
+    reference_type:
+    reference_id: 1796107
+  - url: https://security.gentoo.org/glsa/202003-21
+    reference_type:
+    reference_id: GLSA-202003-21
+  - url: https://access.redhat.com/errata/RHSA-2020:0688
+    reference_type:
+    reference_id: RHSA-2020:0688
+  - url: https://access.redhat.com/errata/RHSA-2020:0695
+    reference_type:
+    reference_id: RHSA-2020:0695
+  - url: https://access.redhat.com/errata/RHSA-2020:0942
+    reference_type:
+    reference_id: RHSA-2020:0942
+  - url: https://access.redhat.com/errata/RHSA-2020:1485
+    reference_type:
+    reference_id: RHSA-2020:1485
+  - url: https://access.redhat.com/errata/RHSA-2020:1650
+    reference_type:
+    reference_id: RHSA-2020:1650
+  - url: https://usn.ubuntu.com/4297-1/
+    reference_type:
+    reference_id: USN-4297-1
+  - url: https://usn.ubuntu.com/6088-2/
+    reference_type:
+    reference_id: USN-6088-2

@@ -1,0 +1,36 @@
+vulnerability_id: VCID-c8cr-zdtm-ukg8
+aliases:
+  - CVE-2019-1351
+summary:
+severities:
+  - score: '0.00255'
+    scoring_system: epss
+    scoring_elements: '0.65675'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-1351
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1074
+weaknesses:
+  - CWE-20
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-1351.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-1351
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1781960
+    reference_type:
+    reference_id: 1781960
+  - url: https://security.archlinux.org/AVG-1074
+    reference_type:
+    reference_id: AVG-1074
+  - url: https://security.gentoo.org/glsa/202003-30
+    reference_type:
+    reference_id: GLSA-202003-30
+  - url: https://usn.ubuntu.com/4220-1/
+    reference_type:
+    reference_id: USN-4220-1

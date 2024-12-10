@@ -1,0 +1,13 @@
+vulnerability_id: VCID-s5q8-5wwa-9ufu
+aliases:
+  - CVE-2022-38126
+summary:
+severities: []
+weaknesses: []
+references:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://security.gentoo.org/glsa/202309-15
+    reference_type:
+    reference_id: GLSA-202309-15

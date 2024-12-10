@@ -1,0 +1,27 @@
+vulnerability_id: VCID-s174-qjm6-tyby
+aliases:
+  - CVE-2017-9992
+summary:
+severities:
+  - score: '0.00290'
+    scoring_system: epss
+    scoring_elements: '0.69397'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2017-9992
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2017-9992
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-8365
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-7208
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-7862
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-9992
+    reference_type:
+    reference_id:

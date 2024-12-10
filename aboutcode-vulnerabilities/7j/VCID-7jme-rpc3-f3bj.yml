@@ -1,0 +1,15 @@
+vulnerability_id: VCID-7jme-rpc3-f3bj
+aliases:
+  - CVE-2021-41158
+summary:
+severities:
+  - score: '0.00201'
+    scoring_system: epss
+    scoring_elements: '0.58176'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-41158
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-41158
+    reference_type:
+    reference_id:

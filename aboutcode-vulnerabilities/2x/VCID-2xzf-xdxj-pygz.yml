@@ -1,0 +1,74 @@
+vulnerability_id: VCID-2xzf-xdxj-pygz
+aliases:
+  - CVE-2019-12749
+summary:
+severities:
+  - score: '7.0'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-12749.json
+  - score: '0.00080'
+    scoring_system: epss
+    scoring_elements: '0.35235'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-12749
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-974
+weaknesses:
+  - CWE-287
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-12749.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-12749
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12749
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1719344
+    reference_type:
+    reference_id: 1719344
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=930375
+    reference_type:
+    reference_id: 930375
+  - url: https://security.archlinux.org/ASA-201906-16
+    reference_type:
+    reference_id: ASA-201906-16
+  - url: https://security.archlinux.org/AVG-974
+    reference_type:
+    reference_id: AVG-974
+  - url: https://security.gentoo.org/glsa/201909-08
+    reference_type:
+    reference_id: GLSA-201909-08
+  - url: https://access.redhat.com/errata/RHSA-2019:1726
+    reference_type:
+    reference_id: RHSA-2019:1726
+  - url: https://access.redhat.com/errata/RHSA-2019:2868
+    reference_type:
+    reference_id: RHSA-2019:2868
+  - url: https://access.redhat.com/errata/RHSA-2019:2870
+    reference_type:
+    reference_id: RHSA-2019:2870
+  - url: https://access.redhat.com/errata/RHSA-2019:3707
+    reference_type:
+    reference_id: RHSA-2019:3707
+  - url: https://access.redhat.com/errata/RHSA-2020:4032
+    reference_type:
+    reference_id: RHSA-2020:4032
+  - url: https://access.redhat.com/errata/RHSA-2021:0949
+    reference_type:
+    reference_id: RHSA-2021:0949
+  - url: https://usn.ubuntu.com/4015-1/
+    reference_type:
+    reference_id: USN-4015-1
+  - url: https://usn.ubuntu.com/4015-2/
+    reference_type:
+    reference_id: USN-4015-2

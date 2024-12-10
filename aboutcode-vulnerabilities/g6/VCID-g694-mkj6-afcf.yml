@@ -1,0 +1,56 @@
+vulnerability_id: VCID-g694-mkj6-afcf
+aliases:
+  - CVE-2018-11235
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-11235.json
+  - score: '0.02289'
+    scoring_system: epss
+    scoring_elements: '0.89892'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-11235
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-711
+weaknesses:
+  - CWE-20
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-11235.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-11235
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-11235
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1583862
+    reference_type:
+    reference_id: 1583862
+  - url: https://security.archlinux.org/ASA-201806-1
+    reference_type:
+    reference_id: ASA-201806-1
+  - url: https://security.archlinux.org/AVG-711
+    reference_type:
+    reference_id: AVG-711
+  - url: https://security.gentoo.org/glsa/201805-13
+    reference_type:
+    reference_id: GLSA-201805-13
+  - url: https://access.redhat.com/errata/RHSA-2018:1957
+    reference_type:
+    reference_id: RHSA-2018:1957
+  - url: https://access.redhat.com/errata/RHSA-2018:2147
+    reference_type:
+    reference_id: RHSA-2018:2147
+  - url: https://usn.ubuntu.com/3671-1/
+    reference_type:
+    reference_id: USN-3671-1

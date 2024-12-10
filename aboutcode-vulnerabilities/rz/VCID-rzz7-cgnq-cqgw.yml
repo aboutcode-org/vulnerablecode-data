@@ -1,0 +1,60 @@
+vulnerability_id: VCID-rzz7-cgnq-cqgw
+aliases:
+  - CVE-2020-0556
+summary:
+severities:
+  - score: '7.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:C/C:L/I:L/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-0556.json
+  - score: '0.00103'
+    scoring_system: epss
+    scoring_elements: '0.42903'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-0556
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1116
+weaknesses:
+  - CWE-400
+  - CWE-266
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-0556.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-0556
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-0556
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1814293
+    reference_type:
+    reference_id: 1814293
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=953770
+    reference_type:
+    reference_id: 953770
+  - url: https://security.archlinux.org/ASA-202003-13
+    reference_type:
+    reference_id: ASA-202003-13
+  - url: https://security.archlinux.org/AVG-1116
+    reference_type:
+    reference_id: AVG-1116
+  - url: https://security.gentoo.org/glsa/202003-49
+    reference_type:
+    reference_id: GLSA-202003-49
+  - url: https://access.redhat.com/errata/RHSA-2020:4001
+    reference_type:
+    reference_id: RHSA-2020:4001
+  - url: https://access.redhat.com/errata/RHSA-2020:4481
+    reference_type:
+    reference_id: RHSA-2020:4481
+  - url: https://usn.ubuntu.com/4311-1/
+    reference_type:
+    reference_id: USN-4311-1

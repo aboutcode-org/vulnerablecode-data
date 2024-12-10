@@ -1,0 +1,51 @@
+vulnerability_id: VCID-gmux-pkc6-u7ek
+aliases:
+  - CVE-2022-22744
+summary:
+severities:
+  - score: '6.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-22744.json
+  - score: '0.00135'
+    scoring_system: epss
+    scoring_elements: '0.49726'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-22744
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-01
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-02
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-03
+weaknesses:
+  - CWE-77
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-22744.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-22744
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2039571
+    reference_type:
+    reference_id: 2039571
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-01
+    reference_type:
+    reference_id: mfsa2022-01
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-02
+    reference_type:
+    reference_id: mfsa2022-02
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-03
+    reference_type:
+    reference_id: mfsa2022-03

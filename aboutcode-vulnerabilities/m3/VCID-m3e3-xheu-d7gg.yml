@@ -1,0 +1,29 @@
+vulnerability_id: VCID-m3e3-xheu-d7gg
+aliases:
+  - CVE-2021-32749
+summary:
+severities:
+  - score: '0.01778'
+    scoring_system: epss
+    scoring_elements: '0.88364'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-32749
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2169
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-32749
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/AVG-2169
+    reference_type:
+    reference_id: AVG-2169
+  - url: https://security.gentoo.org/glsa/202310-13
+    reference_type:
+    reference_id: GLSA-202310-13
+  - url: https://usn.ubuntu.com/USN-5232-1/
+    reference_type:
+    reference_id: USN-USN-5232-1

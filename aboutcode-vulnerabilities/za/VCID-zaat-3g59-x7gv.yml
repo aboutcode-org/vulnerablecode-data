@@ -1,0 +1,26 @@
+vulnerability_id: VCID-zaat-3g59-x7gv
+aliases:
+  - CVE-2021-33896
+summary:
+severities:
+  - score: '0.00137'
+    scoring_system: epss
+    scoring_elements: '0.50009'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-33896
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2043
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-33896
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/ASA-202107-35
+    reference_type:
+    reference_id: ASA-202107-35
+  - url: https://security.archlinux.org/AVG-2043
+    reference_type:
+    reference_id: AVG-2043

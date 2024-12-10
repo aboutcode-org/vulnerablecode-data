@@ -1,0 +1,76 @@
+vulnerability_id: VCID-ejn8-xm7a-buag
+aliases:
+  - CVE-2024-45492
+summary:
+severities:
+  - score: '6.2'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-45492.json
+  - score: '0.00091'
+    scoring_system: epss
+    scoring_elements: '0.39778'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-45492
+  - score: '7.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:L
+    published_at:
+    url: https://github.com/libexpat/libexpat/issues/889
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-08-30T13:53:05Z/
+    published_at:
+    url: https://github.com/libexpat/libexpat/issues/889
+  - score: '7.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:L
+    published_at:
+    url: https://github.com/libexpat/libexpat/pull/892
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-08-30T13:53:05Z/
+    published_at:
+    url: https://github.com/libexpat/libexpat/pull/892
+weaknesses: []
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-45492.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-45492
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1080152
+    reference_type:
+    reference_id: 1080152
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2308617
+    reference_type:
+    reference_id: 2308617
+  - url: https://github.com/libexpat/libexpat/issues/889
+    reference_type:
+    reference_id: 889
+  - url: https://github.com/libexpat/libexpat/pull/892
+    reference_type:
+    reference_id: 892
+  - url: https://access.redhat.com/errata/RHSA-2024:6754
+    reference_type:
+    reference_id: RHSA-2024:6754
+  - url: https://access.redhat.com/errata/RHSA-2024:6989
+    reference_type:
+    reference_id: RHSA-2024:6989
+  - url: https://access.redhat.com/errata/RHSA-2024:7213
+    reference_type:
+    reference_id: RHSA-2024:7213
+  - url: https://access.redhat.com/errata/RHSA-2024:7599
+    reference_type:
+    reference_id: RHSA-2024:7599
+  - url: https://usn.ubuntu.com/7000-1/
+    reference_type:
+    reference_id: USN-7000-1
+  - url: https://usn.ubuntu.com/7000-2/
+    reference_type:
+    reference_id: USN-7000-2

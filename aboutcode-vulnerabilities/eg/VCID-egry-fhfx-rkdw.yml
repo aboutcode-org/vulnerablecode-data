@@ -1,0 +1,15 @@
+vulnerability_id: VCID-egry-fhfx-rkdw
+aliases:
+  - CVE-2021-21783
+summary:
+severities:
+  - score: '0.03725'
+    scoring_system: epss
+    scoring_elements: '0.91972'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-21783
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-21783
+    reference_type:
+    reference_id:

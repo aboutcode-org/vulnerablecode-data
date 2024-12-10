@@ -1,0 +1,48 @@
+vulnerability_id: VCID-yukq-hkvk-2qgz
+aliases:
+  - CVE-2018-15664
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:H/PR:L/UI:R/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-15664.json
+  - score: '0.00082'
+    scoring_system: epss
+    scoring_elements: '0.35850'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-15664
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-968
+weaknesses:
+  - CWE-22
+  - CWE-367
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-15664.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-15664
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1714722
+    reference_type:
+    reference_id: 1714722
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=929662
+    reference_type:
+    reference_id: 929662
+  - url: https://security.archlinux.org/AVG-968
+    reference_type:
+    reference_id: AVG-968
+  - url: https://access.redhat.com/errata/RHSA-2019:1910
+    reference_type:
+    reference_id: RHSA-2019:1910
+  - url: https://usn.ubuntu.com/4048-1/
+    reference_type:
+    reference_id: USN-4048-1

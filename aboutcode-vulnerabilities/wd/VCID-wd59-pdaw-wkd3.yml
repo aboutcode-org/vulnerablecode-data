@@ -1,0 +1,40 @@
+vulnerability_id: VCID-wd59-pdaw-wkd3
+aliases:
+  - CVE-2022-28288
+summary:
+severities:
+  - score: '0.00185'
+    scoring_system: epss
+    scoring_elements: '0.56333'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-28288
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2711
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-13
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-28288
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/AVG-2711
+    reference_type:
+    reference_id: AVG-2711
+  - url: https://security.gentoo.org/glsa/202208-08
+    reference_type:
+    reference_id: GLSA-202208-08
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-13
+    reference_type:
+    reference_id: mfsa2022-13
+  - url: https://usn.ubuntu.com/5370-1/
+    reference_type:
+    reference_id: USN-5370-1

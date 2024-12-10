@@ -1,0 +1,1265 @@
+- purl: pkg:alpine/file@5.32-r1?arch=aarch64&distroversion=v3.7&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+- purl: pkg:alpine/file@5.32-r1?arch=aarch64&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+- purl: pkg:alpine/file@5.32-r1?arch=armhf&distroversion=v3.7&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+- purl: pkg:alpine/file@5.32-r1?arch=armhf&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+- purl: pkg:alpine/file@5.32-r1?arch=ppc64le&distroversion=v3.7&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+- purl: pkg:alpine/file@5.32-r1?arch=ppc64le&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+- purl: pkg:alpine/file@5.32-r1?arch=s390x&distroversion=v3.7&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+- purl: pkg:alpine/file@5.32-r1?arch=s390x&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+- purl: pkg:alpine/file@5.32-r1?arch=x86_64&distroversion=v3.7&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+- purl: pkg:alpine/file@5.32-r1?arch=x86_64&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+- purl: pkg:alpine/file@5.32-r1?arch=x86&distroversion=v3.7&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+- purl: pkg:alpine/file@5.32-r1?arch=x86&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+- purl: pkg:alpine/file@5.32-r2?arch=aarch64&distroversion=v3.7&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.32-r2?arch=aarch64&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.32-r2?arch=armhf&distroversion=v3.7&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.32-r2?arch=armhf&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.32-r2?arch=ppc64le&distroversion=v3.7&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.32-r2?arch=ppc64le&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.32-r2?arch=s390x&distroversion=v3.7&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.32-r2?arch=s390x&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.32-r2?arch=x86_64&distroversion=v3.7&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.32-r2?arch=x86_64&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.32-r2?arch=x86&distroversion=v3.7&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.32-r2?arch=x86&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.36-r0?arch=aarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=aarch64&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=aarch64&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=aarch64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=aarch64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=aarch64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=aarch64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=aarch64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=aarch64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=aarch64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=aarch64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=aarch64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=aarch64&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armhf&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armhf&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armhf&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armhf&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armhf&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armhf&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armhf&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armhf&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armhf&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armhf&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armhf&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armhf&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armhf&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armv7&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armv7&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armv7&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armv7&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armv7&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armv7&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armv7&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armv7&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armv7&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armv7&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armv7&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armv7&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=armv7&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=loongarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=mips64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=mips64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=ppc64le&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=ppc64le&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=ppc64le&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=ppc64le&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=ppc64le&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=ppc64le&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=ppc64le&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=ppc64le&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=ppc64le&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=ppc64le&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=ppc64le&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=ppc64le&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=ppc64le&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=riscv64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=riscv64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=s390x&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=s390x&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=s390x&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=s390x&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=s390x&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=s390x&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=s390x&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=s390x&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=s390x&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=s390x&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=s390x&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=s390x&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=s390x&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86_64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86_64&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86_64&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86_64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86_64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86_64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86_64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86_64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86_64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86_64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86_64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86_64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86_64&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mesk-xdkr-f7gd
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r0?arch=x86&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ja2f-s6xu-n3fq
+    - VCID-mfq7-gpxf-kkev
+    - VCID-mqq2-bb48-b7er
+    - VCID-zn2g-d41u-dqhs
+- purl: pkg:alpine/file@5.36-r1?arch=aarch64&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.36-r1?arch=armhf&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.36-r1?arch=armv7&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.36-r1?arch=ppc64le&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.36-r1?arch=s390x&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.36-r1?arch=x86_64&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.36-r1?arch=x86&distroversion=v3.9&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=aarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=aarch64&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=aarch64&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=aarch64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=aarch64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=aarch64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=aarch64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=aarch64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=aarch64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=aarch64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=aarch64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=aarch64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=armhf&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=armhf&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=armhf&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=armhf&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=armhf&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=armhf&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=armhf&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=armhf&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=armhf&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=armhf&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=armhf&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=armhf&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=armv7&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=armv7&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=armv7&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=armv7&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=armv7&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=armv7&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=armv7&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=armv7&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=armv7&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=armv7&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=armv7&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=armv7&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=loongarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=mips64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=mips64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=ppc64le&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=ppc64le&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=ppc64le&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=ppc64le&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=ppc64le&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=ppc64le&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=ppc64le&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=ppc64le&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=ppc64le&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=ppc64le&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=ppc64le&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=ppc64le&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=riscv64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=riscv64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=s390x&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=s390x&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=s390x&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=s390x&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=s390x&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=s390x&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=s390x&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=s390x&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=s390x&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=s390x&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=s390x&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=s390x&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=x86_64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=x86_64&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=x86_64&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=x86_64&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=x86_64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=x86_64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=x86_64&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=x86_64&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=x86_64&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=x86_64&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=x86_64&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=x86_64&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=x86&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=x86&distroversion=v3.10&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=x86&distroversion=v3.11&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=x86&distroversion=v3.12&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=x86&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=x86&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=x86&distroversion=v3.15&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=x86&distroversion=v3.16&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=x86&distroversion=v3.17&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=x86&distroversion=v3.18&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=x86&distroversion=v3.19&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2
+- purl: pkg:alpine/file@5.37-r1?arch=x86&distroversion=v3.20&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8cve-4vej-4kd2

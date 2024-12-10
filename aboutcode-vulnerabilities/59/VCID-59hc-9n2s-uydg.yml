@@ -1,0 +1,88 @@
+vulnerability_id: VCID-59hc-9n2s-uydg
+aliases:
+  - CVE-2023-38545
+summary:
+severities:
+  - score: '8.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-38545.json
+  - score: '0.00267'
+    scoring_system: epss
+    scoring_elements: '0.68091'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-38545
+  - score: High
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2023-38545.html
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2845
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2846
+weaknesses:
+  - CWE-119
+  - CWE-122
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-38545.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-38545
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2023-38545.html
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://hackerone.com/reports/2187833
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2241933
+    reference_type:
+    reference_id: 2241933
+  - url: https://security.archlinux.org/AVG-2845
+    reference_type:
+    reference_id: AVG-2845
+  - url: https://security.archlinux.org/AVG-2846
+    reference_type:
+    reference_id: AVG-2846
+  - url: https://security.gentoo.org/glsa/202310-12
+    reference_type:
+    reference_id: GLSA-202310-12
+  - url: https://access.redhat.com/errata/RHSA-2023:5700
+    reference_type:
+    reference_id: RHSA-2023:5700
+  - url: https://access.redhat.com/errata/RHSA-2023:5763
+    reference_type:
+    reference_id: RHSA-2023:5763
+  - url: https://access.redhat.com/errata/RHSA-2023:6745
+    reference_type:
+    reference_id: RHSA-2023:6745
+  - url: https://access.redhat.com/errata/RHSA-2023:7625
+    reference_type:
+    reference_id: RHSA-2023:7625
+  - url: https://access.redhat.com/errata/RHSA-2023:7626
+    reference_type:
+    reference_id: RHSA-2023:7626
+  - url: https://access.redhat.com/errata/RHSA-2024:0797
+    reference_type:
+    reference_id: RHSA-2024:0797
+  - url: https://access.redhat.com/errata/RHSA-2024:2011
+    reference_type:
+    reference_id: RHSA-2024:2011
+  - url: https://usn.ubuntu.com/6429-1/
+    reference_type:
+    reference_id: USN-6429-1
+  - url: https://usn.ubuntu.com/6429-3/
+    reference_type:
+    reference_id: USN-6429-3

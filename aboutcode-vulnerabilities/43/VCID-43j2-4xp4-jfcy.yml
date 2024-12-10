@@ -1,0 +1,64 @@
+vulnerability_id: VCID-43j2-4xp4-jfcy
+aliases:
+  - CVE-2017-9233
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-9233.json
+  - score: '0.00304'
+    scoring_system: epss
+    scoring_elements: '0.70061'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2017-9233
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-305
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-306
+weaknesses:
+  - CWE-835
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-9233.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2017-9233
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-9233
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1462729
+    reference_type:
+    reference_id: 1462729
+  - url: https://security.archlinux.org/ASA-201706-32
+    reference_type:
+    reference_id: ASA-201706-32
+  - url: https://security.archlinux.org/ASA-201707-27
+    reference_type:
+    reference_id: ASA-201707-27
+  - url: https://security.archlinux.org/AVG-305
+    reference_type:
+    reference_id: AVG-305
+  - url: https://security.archlinux.org/AVG-306
+    reference_type:
+    reference_id: AVG-306
+  - url: https://usn.ubuntu.com/3356-1/
+    reference_type:
+    reference_id: USN-3356-1
+  - url: https://usn.ubuntu.com/3356-2/
+    reference_type:
+    reference_id: USN-3356-2
+  - url: https://usn.ubuntu.com/USN-4825-1/
+    reference_type:
+    reference_id: USN-USN-4825-1

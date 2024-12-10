@@ -1,0 +1,116 @@
+vulnerability_id: VCID-vq7b-uakk-6fhy
+aliases:
+  - CVE-2020-15683
+summary:
+severities:
+  - score: '9.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-15683.json
+  - score: '0.00963'
+    scoring_system: epss
+    scoring_elements: '0.83632'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-15683
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1256
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-45
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-46
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-47
+weaknesses:
+  - CWE-120
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-15683.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-15683
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15683
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15969
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1889932
+    reference_type:
+    reference_id: 1889932
+  - url: https://security.archlinux.org/ASA-202011-1
+    reference_type:
+    reference_id: ASA-202011-1
+  - url: https://security.archlinux.org/AVG-1256
+    reference_type:
+    reference_id: AVG-1256
+  - url: https://security.gentoo.org/glsa/202010-08
+    reference_type:
+    reference_id: GLSA-202010-08
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-45
+    reference_type:
+    reference_id: mfsa2020-45
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-46
+    reference_type:
+    reference_id: mfsa2020-46
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-47
+    reference_type:
+    reference_id: mfsa2020-47
+  - url: https://access.redhat.com/errata/RHSA-2020:4310
+    reference_type:
+    reference_id: RHSA-2020:4310
+  - url: https://access.redhat.com/errata/RHSA-2020:4311
+    reference_type:
+    reference_id: RHSA-2020:4311
+  - url: https://access.redhat.com/errata/RHSA-2020:4315
+    reference_type:
+    reference_id: RHSA-2020:4315
+  - url: https://access.redhat.com/errata/RHSA-2020:4317
+    reference_type:
+    reference_id: RHSA-2020:4317
+  - url: https://access.redhat.com/errata/RHSA-2020:4330
+    reference_type:
+    reference_id: RHSA-2020:4330
+  - url: https://access.redhat.com/errata/RHSA-2020:4909
+    reference_type:
+    reference_id: RHSA-2020:4909
+  - url: https://access.redhat.com/errata/RHSA-2020:4913
+    reference_type:
+    reference_id: RHSA-2020:4913
+  - url: https://access.redhat.com/errata/RHSA-2020:4944
+    reference_type:
+    reference_id: RHSA-2020:4944
+  - url: https://access.redhat.com/errata/RHSA-2020:4945
+    reference_type:
+    reference_id: RHSA-2020:4945
+  - url: https://access.redhat.com/errata/RHSA-2020:4947
+    reference_type:
+    reference_id: RHSA-2020:4947
+  - url: https://access.redhat.com/errata/RHSA-2020:4948
+    reference_type:
+    reference_id: RHSA-2020:4948
+  - url: https://usn.ubuntu.com/4599-1/
+    reference_type:
+    reference_id: USN-4599-1
+  - url: https://usn.ubuntu.com/4599-2/
+    reference_type:
+    reference_id: USN-4599-2
+  - url: https://usn.ubuntu.com/4647-1/
+    reference_type:
+    reference_id: USN-4647-1

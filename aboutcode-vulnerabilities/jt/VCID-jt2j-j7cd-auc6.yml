@@ -1,0 +1,89 @@
+vulnerability_id: VCID-jt2j-j7cd-auc6
+aliases:
+  - CVE-2016-8620
+summary:
+severities:
+  - score: '6.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-8620.json
+  - score: '0.00718'
+    scoring_system: epss
+    scoring_elements: '0.80861'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-8620
+  - score: Medium
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2016-8620.html
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-60
+weaknesses:
+  - CWE-120
+  - CWE-122
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-8620.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-8620
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2016-8620.html
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8615
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8616
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8617
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8618
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8619
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8620
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8621
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8622
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8623
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-8624
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1388382
+    reference_type:
+    reference_id: 1388382
+  - url: https://security.archlinux.org/ASA-201611-7
+    reference_type:
+    reference_id: ASA-201611-7
+  - url: https://security.archlinux.org/AVG-60
+    reference_type:
+    reference_id: AVG-60
+  - url: https://security.gentoo.org/glsa/201701-47
+    reference_type:
+    reference_id: GLSA-201701-47
+  - url: https://access.redhat.com/errata/RHSA-2018:3558
+    reference_type:
+    reference_id: RHSA-2018:3558
+  - url: https://usn.ubuntu.com/3123-1/
+    reference_type:
+    reference_id: USN-3123-1

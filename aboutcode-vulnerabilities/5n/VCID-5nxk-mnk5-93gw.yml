@@ -1,0 +1,121 @@
+vulnerability_id: VCID-5nxk-mnk5-93gw
+aliases:
+  - CVE-2020-12399
+summary:
+severities:
+  - score: '4.4'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:L/UI:R/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-12399.json
+  - score: '0.00063'
+    scoring_system: epss
+    scoring_elements: '0.28587'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-12399
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1173
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1179
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-20
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-21
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-22
+weaknesses:
+  - CWE-327
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-12399.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-12399
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-17006
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-17023
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12398
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12399
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12402
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12405
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12406
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12410
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1826177
+    reference_type:
+    reference_id: 1826177
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=961752
+    reference_type:
+    reference_id: 961752
+  - url: https://security.archlinux.org/ASA-202006-1
+    reference_type:
+    reference_id: ASA-202006-1
+  - url: https://security.archlinux.org/ASA-202006-4
+    reference_type:
+    reference_id: ASA-202006-4
+  - url: https://security.archlinux.org/AVG-1173
+    reference_type:
+    reference_id: AVG-1173
+  - url: https://security.archlinux.org/AVG-1179
+    reference_type:
+    reference_id: AVG-1179
+  - url: https://security.gentoo.org/glsa/202007-49
+    reference_type:
+    reference_id: GLSA-202007-49
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-20
+    reference_type:
+    reference_id: mfsa2020-20
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-21
+    reference_type:
+    reference_id: mfsa2020-21
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-22
+    reference_type:
+    reference_id: mfsa2020-22
+  - url: https://access.redhat.com/errata/RHSA-2020:3280
+    reference_type:
+    reference_id: RHSA-2020:3280
+  - url: https://usn.ubuntu.com/4383-1/
+    reference_type:
+    reference_id: USN-4383-1
+  - url: https://usn.ubuntu.com/4397-1/
+    reference_type:
+    reference_id: USN-4397-1
+  - url: https://usn.ubuntu.com/4397-2/
+    reference_type:
+    reference_id: USN-4397-2
+  - url: https://usn.ubuntu.com/4421-1/
+    reference_type:
+    reference_id: USN-4421-1

@@ -1,0 +1,47 @@
+vulnerability_id: VCID-hzry-vefd-yuhe
+aliases:
+  - CVE-2019-10691
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-10691.json
+  - score: '0.00454'
+    scoring_system: epss
+    scoring_elements: '0.75585'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-10691
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-950
+weaknesses:
+  - CWE-228
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-10691.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-10691
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1701216
+    reference_type:
+    reference_id: 1701216
+  - url: https://security.archlinux.org/ASA-201904-9
+    reference_type:
+    reference_id: ASA-201904-9
+  - url: https://security.archlinux.org/AVG-950
+    reference_type:
+    reference_id: AVG-950
+  - url: https://security.gentoo.org/glsa/201908-29
+    reference_type:
+    reference_id: GLSA-201908-29
+  - url: https://usn.ubuntu.com/3951-1/
+    reference_type:
+    reference_id: USN-3951-1

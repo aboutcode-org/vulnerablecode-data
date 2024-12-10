@@ -1,0 +1,112 @@
+vulnerability_id: VCID-q361-anvh-gygw
+aliases:
+  - CVE-2017-8816
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-8816.json
+  - score: '0.03768'
+    scoring_system: epss
+    scoring_elements: '0.92021'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2017-8816
+  - score: Medium
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2017-8816.html
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-521
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-522
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-523
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-527
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-528
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-529
+weaknesses:
+  - CWE-190
+  - CWE-122
+  - CWE-131
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-8816.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2017-8816
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2017-8816.html
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-8816
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-8817
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1515757
+    reference_type:
+    reference_id: 1515757
+  - url: https://security.archlinux.org/ASA-201711-36
+    reference_type:
+    reference_id: ASA-201711-36
+  - url: https://security.archlinux.org/ASA-201711-37
+    reference_type:
+    reference_id: ASA-201711-37
+  - url: https://security.archlinux.org/ASA-201711-38
+    reference_type:
+    reference_id: ASA-201711-38
+  - url: https://security.archlinux.org/AVG-521
+    reference_type:
+    reference_id: AVG-521
+  - url: https://security.archlinux.org/AVG-522
+    reference_type:
+    reference_id: AVG-522
+  - url: https://security.archlinux.org/AVG-523
+    reference_type:
+    reference_id: AVG-523
+  - url: https://security.archlinux.org/AVG-527
+    reference_type:
+    reference_id: AVG-527
+  - url: https://security.archlinux.org/AVG-528
+    reference_type:
+    reference_id: AVG-528
+  - url: https://security.archlinux.org/AVG-529
+    reference_type:
+    reference_id: AVG-529
+  - url: https://security.gentoo.org/glsa/201712-04
+    reference_type:
+    reference_id: GLSA-201712-04
+  - url: https://access.redhat.com/errata/RHSA-2018:3558
+    reference_type:
+    reference_id: RHSA-2018:3558
+  - url: https://usn.ubuntu.com/3498-1/
+    reference_type:
+    reference_id: USN-3498-1

@@ -1,0 +1,36 @@
+vulnerability_id: VCID-nrmb-6e9r-vuhf
+aliases:
+  - CVE-2023-26054
+summary:
+severities:
+  - score: '6.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-26054.json
+  - score: '0.00187'
+    scoring_system: epss
+    scoring_elements: '0.56665'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-26054
+weaknesses:
+  - CWE-200
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-26054.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-26054
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2176447
+    reference_type:
+    reference_id: 2176447
+  - url: https://security.gentoo.org/glsa/202409-29
+    reference_type:
+    reference_id: GLSA-202409-29
+  - url: https://access.redhat.com/errata/RHSA-2023:3537
+    reference_type:
+    reference_id: RHSA-2023:3537
+  - url: https://access.redhat.com/errata/RHSA-2023:5952
+    reference_type:
+    reference_id: RHSA-2023:5952

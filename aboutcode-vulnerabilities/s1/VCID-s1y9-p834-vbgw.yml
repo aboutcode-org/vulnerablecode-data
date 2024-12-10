@@ -1,0 +1,18 @@
+vulnerability_id: VCID-s1y9-p834-vbgw
+aliases:
+  - CVE-2016-7447
+summary:
+severities:
+  - score: '0.02803'
+    scoring_system: epss
+    scoring_elements: '0.90847'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-7447
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-7447
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:

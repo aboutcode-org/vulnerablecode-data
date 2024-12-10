@@ -1,0 +1,31 @@
+vulnerability_id: VCID-xmuf-8jjp-1kgn
+aliases:
+  - CVE-2021-29944
+summary:
+severities:
+  - score: '0.00096'
+    scoring_system: epss
+    scoring_elements: '0.41021'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-29944
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1835
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-16
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-29944
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/AVG-1835
+    reference_type:
+    reference_id: AVG-1835
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-16
+    reference_type:
+    reference_id: mfsa2021-16

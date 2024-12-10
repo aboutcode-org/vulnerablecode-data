@@ -1,0 +1,54 @@
+vulnerability_id: VCID-3pma-v5uc-vbhd
+aliases:
+  - CVE-2017-5951
+summary:
+severities:
+  - score: '3.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-5951.json
+  - score: '0.00455'
+    scoring_system: epss
+    scoring_elements: '0.75614'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2017-5951
+weaknesses:
+  - CWE-476
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-5951.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2017-5951
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-10219
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-10220
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5951
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-7207
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-8291
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1441572
+    reference_type:
+    reference_id: 1441572
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=859696
+    reference_type:
+    reference_id: 859696
+  - url: https://security.gentoo.org/glsa/201708-06
+    reference_type:
+    reference_id: GLSA-201708-06
+  - url: https://usn.ubuntu.com/3272-1/
+    reference_type:
+    reference_id: USN-3272-1

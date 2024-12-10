@@ -1,0 +1,70 @@
+vulnerability_id: VCID-dver-1rmk-kyg6
+aliases:
+  - CVE-2021-38510
+summary:
+severities:
+  - score: '6.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-38510.json
+  - score: '0.00219'
+    scoring_system: epss
+    scoring_elements: '0.60137'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-38510
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2512
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2519
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-48
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-49
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-50
+weaknesses:
+  - CWE-77
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-38510.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-38510
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2019629
+    reference_type:
+    reference_id: 2019629
+  - url: https://security.archlinux.org/AVG-2512
+    reference_type:
+    reference_id: AVG-2512
+  - url: https://security.archlinux.org/AVG-2519
+    reference_type:
+    reference_id: AVG-2519
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-48
+    reference_type:
+    reference_id: mfsa2021-48
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-49
+    reference_type:
+    reference_id: mfsa2021-49
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-50
+    reference_type:
+    reference_id: mfsa2021-50

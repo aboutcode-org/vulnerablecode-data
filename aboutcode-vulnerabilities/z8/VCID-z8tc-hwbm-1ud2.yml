@@ -1,0 +1,27 @@
+vulnerability_id: VCID-z8tc-hwbm-1ud2
+aliases:
+  - CVE-2022-3920
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-3920.json
+  - score: '0.00179'
+    scoring_system: epss
+    scoring_elements: '0.55640'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-3920
+weaknesses:
+  - CWE-862
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-3920.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-3920
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2148169
+    reference_type:
+    reference_id: 2148169

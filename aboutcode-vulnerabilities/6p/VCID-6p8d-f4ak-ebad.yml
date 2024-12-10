@@ -1,0 +1,34 @@
+vulnerability_id: VCID-6p8d-f4ak-ebad
+aliases:
+  - CVE-2022-35015
+summary:
+severities:
+  - score: '5.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-35015.json
+  - score: '0.00126'
+    scoring_system: epss
+    scoring_elements: '0.48074'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-35015
+weaknesses:
+  - CWE-122
+  - CWE-125
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-35015.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-35015
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1019592
+    reference_type:
+    reference_id: 1019592
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2127378
+    reference_type:
+    reference_id: 2127378
+  - url: https://usn.ubuntu.com/5838-1/
+    reference_type:
+    reference_id: USN-5838-1

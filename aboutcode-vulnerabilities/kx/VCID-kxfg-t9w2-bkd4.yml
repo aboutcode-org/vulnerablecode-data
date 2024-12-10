@@ -1,0 +1,36 @@
+vulnerability_id: VCID-kxfg-t9w2-bkd4
+aliases:
+  - CVE-2018-18544
+summary:
+severities:
+  - score: '3.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-18544.json
+  - score: '0.00185'
+    scoring_system: epss
+    scoring_elements: '0.56272'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-18544
+weaknesses:
+  - CWE-400
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-18544.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-18544
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1642614
+    reference_type:
+    reference_id: 1642614
+  - url: https://access.redhat.com/errata/RHSA-2020:1180
+    reference_type:
+    reference_id: RHSA-2020:1180
+  - url: https://usn.ubuntu.com/4034-1/
+    reference_type:
+    reference_id: USN-4034-1

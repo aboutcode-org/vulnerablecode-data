@@ -1,0 +1,18 @@
+vulnerability_id: VCID-bufm-xknr-eqga
+aliases:
+  - CVE-2020-35776
+summary:
+severities:
+  - score: '0.00831'
+    scoring_system: epss
+    scoring_elements: '0.82336'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-35776
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-35776
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=983158
+    reference_type:
+    reference_id: 983158

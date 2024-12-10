@@ -1,0 +1,15 @@
+vulnerability_id: VCID-2fuy-5nku-xfas
+aliases:
+  - CVE-2021-40824
+summary:
+severities:
+  - score: '0.00084'
+    scoring_system: epss
+    scoring_elements: '0.36668'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-40824
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-40824
+    reference_type:
+    reference_id:

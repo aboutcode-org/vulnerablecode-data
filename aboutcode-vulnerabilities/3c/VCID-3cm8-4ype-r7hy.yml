@@ -1,0 +1,32 @@
+vulnerability_id: VCID-3cm8-4ype-r7hy
+aliases:
+  - CVE-2020-35964
+summary:
+severities:
+  - score: '0.00275'
+    scoring_system: epss
+    scoring_elements: '0.68524'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-35964
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1649
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-35964
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=980000
+    reference_type:
+    reference_id: 980000
+  - url: https://security.archlinux.org/ASA-202103-7
+    reference_type:
+    reference_id: ASA-202103-7
+  - url: https://security.archlinux.org/AVG-1649
+    reference_type:
+    reference_id: AVG-1649
+  - url: https://security.gentoo.org/glsa/202105-24
+    reference_type:
+    reference_id: GLSA-202105-24

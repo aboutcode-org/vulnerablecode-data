@@ -1,0 +1,57 @@
+vulnerability_id: VCID-1ut7-33u2-cbhz
+aliases:
+  - CVE-2020-12284
+summary:
+severities:
+  - score: '9.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-12284.json
+  - score: '0.04915'
+    scoring_system: epss
+    scoring_elements: '0.92969'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-12284
+weaknesses:
+  - CWE-122
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-12284.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-12284
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-13390
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-17539
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-17542
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12284
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-13904
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-20448
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-20902
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1831712
+    reference_type:
+    reference_id: 1831712
+  - url: https://security.gentoo.org/glsa/202007-58
+    reference_type:
+    reference_id: GLSA-202007-58
+  - url: https://usn.ubuntu.com/4431-1/
+    reference_type:
+    reference_id: USN-4431-1

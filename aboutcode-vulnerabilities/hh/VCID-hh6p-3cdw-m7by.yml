@@ -1,0 +1,48 @@
+vulnerability_id: VCID-hh6p-3cdw-m7by
+aliases:
+  - CVE-2022-45939
+summary:
+severities:
+  - score: '7.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-45939.json
+  - score: '0.00092'
+    scoring_system: epss
+    scoring_elements: '0.40051'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-45939
+weaknesses:
+  - CWE-78
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-45939.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-45939
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1025009
+    reference_type:
+    reference_id: 1025009
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2149380
+    reference_type:
+    reference_id: 2149380
+  - url: https://access.redhat.com/errata/RHSA-2023:2366
+    reference_type:
+    reference_id: RHSA-2023:2366
+  - url: https://access.redhat.com/errata/RHSA-2023:3042
+    reference_type:
+    reference_id: RHSA-2023:3042
+  - url: https://access.redhat.com/errata/RHSA-2024:1103
+    reference_type:
+    reference_id: RHSA-2024:1103
+  - url: https://usn.ubuntu.com/5781-1/
+    reference_type:
+    reference_id: USN-5781-1
+  - url: https://usn.ubuntu.com/7027-1/
+    reference_type:
+    reference_id: USN-7027-1

@@ -1,0 +1,21 @@
+vulnerability_id: VCID-m12f-muqt-hbbv
+aliases:
+  - CVE-2017-13147
+summary:
+severities:
+  - score: '0.00316'
+    scoring_system: epss
+    scoring_elements: '0.70774'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2017-13147
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2017-13147
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://usn.ubuntu.com/4206-1/
+    reference_type:
+    reference_id: USN-4206-1

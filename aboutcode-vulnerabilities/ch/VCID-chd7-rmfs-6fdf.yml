@@ -1,0 +1,60 @@
+vulnerability_id: VCID-chd7-rmfs-6fdf
+aliases:
+  - CVE-2021-31291
+summary:
+severities:
+  - score: '8.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-31291.json
+  - score: '0.00241'
+    scoring_system: epss
+    scoring_elements: '0.64437'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-31291
+weaknesses:
+  - CWE-787
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-31291.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-31291
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1990327
+    reference_type:
+    reference_id: '1990327'
+  - url: https://security.gentoo.org/glsa/202312-06
+    reference_type:
+    reference_id: GLSA-202312-06
+  - url: https://access.redhat.com/errata/RHSA-2021:3152
+    reference_type:
+    reference_id: RHSA-2021:3152
+  - url: https://access.redhat.com/errata/RHSA-2021:3153
+    reference_type:
+    reference_id: RHSA-2021:3153
+  - url: https://access.redhat.com/errata/RHSA-2021:3158
+    reference_type:
+    reference_id: RHSA-2021:3158
+  - url: https://access.redhat.com/errata/RHSA-2021:3230
+    reference_type:
+    reference_id: RHSA-2021:3230
+  - url: https://access.redhat.com/errata/RHSA-2021:3231
+    reference_type:
+    reference_id: RHSA-2021:3231
+  - url: https://access.redhat.com/errata/RHSA-2021:3232
+    reference_type:
+    reference_id: RHSA-2021:3232
+  - url: https://access.redhat.com/errata/RHSA-2021:3233
+    reference_type:
+    reference_id: RHSA-2021:3233
+  - url: https://access.redhat.com/errata/RHSA-2021:3234
+    reference_type:
+    reference_id: RHSA-2021:3234
+  - url: https://usn.ubuntu.com/5028-1/
+    reference_type:
+    reference_id: USN-5028-1

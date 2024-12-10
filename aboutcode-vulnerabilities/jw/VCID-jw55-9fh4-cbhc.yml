@@ -1,0 +1,72 @@
+vulnerability_id: VCID-jw55-9fh4-cbhc
+aliases:
+  - CVE-2019-11038
+summary:
+severities:
+  - score: '3.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-11038.json
+  - score: '0.00381'
+    scoring_system: epss
+    scoring_elements: '0.73375'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-11038
+weaknesses:
+  - CWE-200
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-11038.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-11038
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11034
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11035
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11036
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11038
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11039
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11040
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11041
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11042
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-13224
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1724149
+    reference_type:
+    reference_id: 1724149
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=929821
+    reference_type:
+    reference_id: 929821
+  - url: https://access.redhat.com/errata/RHSA-2019:2519
+    reference_type:
+    reference_id: RHSA-2019:2519
+  - url: https://access.redhat.com/errata/RHSA-2019:3299
+    reference_type:
+    reference_id: RHSA-2019:3299
+  - url: https://usn.ubuntu.com/4316-1/
+    reference_type:
+    reference_id: USN-4316-1
+  - url: https://usn.ubuntu.com/4316-2/
+    reference_type:
+    reference_id: USN-4316-2

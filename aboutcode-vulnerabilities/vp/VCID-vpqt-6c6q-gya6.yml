@@ -1,0 +1,18 @@
+vulnerability_id: VCID-vpqt-6c6q-gya6
+aliases:
+  - CVE-2021-45086
+summary:
+severities:
+  - score: '0.00124'
+    scoring_system: epss
+    scoring_elements: '0.47723'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-45086
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-45086
+    reference_type:
+    reference_id:
+  - url: https://usn.ubuntu.com/5561-1/
+    reference_type:
+    reference_id: USN-5561-1

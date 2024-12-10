@@ -1,0 +1,71 @@
+vulnerability_id: VCID-e63z-nb8s-fyav
+aliases:
+  - CVE-2021-30641
+summary:
+severities:
+  - score: '5.9'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-30641.json
+  - score: '0.00337'
+    scoring_system: epss
+    scoring_elements: '0.71694'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-30641
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2053
+weaknesses:
+  - CWE-20
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-30641.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-30641
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-35452
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-26690
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-26691
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-30641
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31618
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1966743
+    reference_type:
+    reference_id: '1966743'
+  - url: https://security.archlinux.org/AVG-2053
+    reference_type:
+    reference_id: AVG-2053
+  - url: https://security.gentoo.org/glsa/202107-38
+    reference_type:
+    reference_id: GLSA-202107-38
+  - url: https://access.redhat.com/errata/RHSA-2021:4257
+    reference_type:
+    reference_id: RHSA-2021:4257
+  - url: https://access.redhat.com/errata/RHSA-2021:4613
+    reference_type:
+    reference_id: RHSA-2021:4613
+  - url: https://access.redhat.com/errata/RHSA-2021:4614
+    reference_type:
+    reference_id: RHSA-2021:4614
+  - url: https://usn.ubuntu.com/4994-1/
+    reference_type:
+    reference_id: USN-4994-1
+  - url: https://usn.ubuntu.com/4994-2/
+    reference_type:
+    reference_id: USN-4994-2

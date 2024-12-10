@@ -1,0 +1,65 @@
+vulnerability_id: VCID-j2nd-cgw5-jyhq
+aliases:
+  - CVE-2019-17009
+summary:
+severities:
+  - score: '7.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-17009.json
+  - score: '0.00045'
+    scoring_system: epss
+    scoring_elements: '0.14953'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-17009
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1071
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-36
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-37
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-38
+weaknesses:
+  - CWE-377
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-17009.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-17009
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1779433
+    reference_type:
+    reference_id: 1779433
+  - url: https://security.archlinux.org/ASA-201912-1
+    reference_type:
+    reference_id: ASA-201912-1
+  - url: https://security.archlinux.org/AVG-1071
+    reference_type:
+    reference_id: AVG-1071
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-36
+    reference_type:
+    reference_id: mfsa2019-36
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-37
+    reference_type:
+    reference_id: mfsa2019-37
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-38
+    reference_type:
+    reference_id: mfsa2019-38

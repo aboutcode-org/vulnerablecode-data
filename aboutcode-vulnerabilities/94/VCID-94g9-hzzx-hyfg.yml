@@ -1,0 +1,39 @@
+vulnerability_id: VCID-94g9-hzzx-hyfg
+aliases:
+  - CVE-2022-27239
+summary:
+severities:
+  - score: '7.0'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-27239.json
+  - score: '0.00095'
+    scoring_system: epss
+    scoring_elements: '0.40852'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-27239
+weaknesses:
+  - CWE-787
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-27239.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-27239
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1010818
+    reference_type:
+    reference_id: 1010818
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2081040
+    reference_type:
+    reference_id: 2081040
+  - url: https://security.gentoo.org/glsa/202311-05
+    reference_type:
+    reference_id: GLSA-202311-05
+  - url: https://usn.ubuntu.com/5459-1/
+    reference_type:
+    reference_id: USN-5459-1

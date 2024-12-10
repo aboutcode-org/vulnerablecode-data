@@ -1,0 +1,87 @@
+vulnerability_id: VCID-gwnj-gsdv-9qfg
+aliases:
+  - CVE-2016-9905
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-9905.json
+  - score: '0.01168'
+    scoring_system: epss
+    scoring_elements: '0.85302'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-9905
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2016-95
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2016-96
+weaknesses: []
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-9905.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-9905
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9893
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9895
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9897
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9898
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9899
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9900
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9901
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9902
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9904
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-9905
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1404094
+    reference_type:
+    reference_id: 1404094
+  - url: https://security.gentoo.org/glsa/201701-15
+    reference_type:
+    reference_id: GLSA-201701-15
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2016-95
+    reference_type:
+    reference_id: mfsa2016-95
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2016-96
+    reference_type:
+    reference_id: mfsa2016-96
+  - url: https://access.redhat.com/errata/RHSA-2016:2946
+    reference_type:
+    reference_id: RHSA-2016:2946
+  - url: https://access.redhat.com/errata/RHSA-2016:2973
+    reference_type:
+    reference_id: RHSA-2016:2973
+  - url: https://usn.ubuntu.com/3165-1/
+    reference_type:
+    reference_id: USN-3165-1

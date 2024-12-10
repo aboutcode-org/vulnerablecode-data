@@ -1,0 +1,18 @@
+vulnerability_id: VCID-vtrd-mgm6-zyay
+aliases:
+  - CVE-2019-1000016
+summary:
+severities:
+  - score: '0.00081'
+    scoring_system: epss
+    scoring_elements: '0.35460'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-1000016
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-1000016
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=922066
+    reference_type:
+    reference_id: 922066

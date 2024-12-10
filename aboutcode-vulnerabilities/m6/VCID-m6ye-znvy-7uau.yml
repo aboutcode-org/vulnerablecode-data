@@ -1,0 +1,43 @@
+vulnerability_id: VCID-m6ye-znvy-7uau
+aliases:
+  - CVE-2020-12423
+summary:
+severities:
+  - score: '7.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-12423.json
+  - score: '0.00140'
+    scoring_system: epss
+    scoring_elements: '0.50306'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-12423
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-24
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-29
+weaknesses:
+  - CWE-426
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-12423.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-12423
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1872536
+    reference_type:
+    reference_id: 1872536
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-24
+    reference_type:
+    reference_id: mfsa2020-24
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-29
+    reference_type:
+    reference_id: mfsa2020-29

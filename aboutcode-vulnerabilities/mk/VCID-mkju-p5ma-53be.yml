@@ -1,0 +1,71 @@
+vulnerability_id: VCID-mkju-p5ma-53be
+aliases:
+  - CVE-2019-10098
+summary:
+severities:
+  - score: '3.7'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-10098.json
+  - score: '0.14235'
+    scoring_system: epss
+    scoring_elements: '0.95820'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-10098
+weaknesses: []
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-10098.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-10098
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-10081
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-10082
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-10092
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-10098
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9517
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1743959
+    reference_type:
+    reference_id: 1743959
+  - url: https://0day.work/open-redirects-in-improperly-configured-mod_rewrite-rules-poc-for-cve-2019-10098/
+    reference_type: exploit
+    reference_id: CVE-2019-10098
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/multiple/webapps/47689.md
+    reference_type: exploit
+    reference_id: CVE-2019-10098
+  - url: https://security.gentoo.org/glsa/201909-04
+    reference_type:
+    reference_id: GLSA-201909-04
+  - url: https://access.redhat.com/errata/RHSA-2020:1336
+    reference_type:
+    reference_id: RHSA-2020:1336
+  - url: https://access.redhat.com/errata/RHSA-2020:1337
+    reference_type:
+    reference_id: RHSA-2020:1337
+  - url: https://access.redhat.com/errata/RHSA-2020:2263
+    reference_type:
+    reference_id: RHSA-2020:2263
+  - url: https://access.redhat.com/errata/RHSA-2020:3958
+    reference_type:
+    reference_id: RHSA-2020:3958
+  - url: https://access.redhat.com/errata/RHSA-2020:4751
+    reference_type:
+    reference_id: RHSA-2020:4751
+  - url: https://usn.ubuntu.com/4113-1/
+    reference_type:
+    reference_id: USN-4113-1

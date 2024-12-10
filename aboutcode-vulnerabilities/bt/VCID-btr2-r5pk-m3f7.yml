@@ -1,0 +1,34 @@
+vulnerability_id: VCID-btr2-r5pk-m3f7
+aliases:
+  - CVE-2024-24557
+summary:
+severities:
+  - score: '6.9'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:N/UI:R/S:C/C:L/I:H/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-24557.json
+  - score: '0.00053'
+    scoring_system: epss
+    scoring_elements: '0.22435'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-24557
+weaknesses:
+  - CWE-345
+  - CWE-346
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-24557.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-24557
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1071745
+    reference_type:
+    reference_id: 1071745
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2262352
+    reference_type:
+    reference_id: 2262352
+  - url: https://security.gentoo.org/glsa/202409-29
+    reference_type:
+    reference_id: GLSA-202409-29

@@ -1,0 +1,48 @@
+- purl: pkg:alpine/db@0?arch=aarch64&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-b6ga-8fw3-4bcd
+    - VCID-k9w1-md52-tuhx
+    - VCID-pnh5-d4m8-xbfm
+    - VCID-s8s9-7gd3-q3eu
+    - VCID-vrqf-ypac-juek
+- purl: pkg:alpine/db@0?arch=armhf&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-b6ga-8fw3-4bcd
+    - VCID-k9w1-md52-tuhx
+    - VCID-pnh5-d4m8-xbfm
+    - VCID-s8s9-7gd3-q3eu
+    - VCID-vrqf-ypac-juek
+- purl: pkg:alpine/db@0?arch=ppc64le&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-b6ga-8fw3-4bcd
+    - VCID-k9w1-md52-tuhx
+    - VCID-pnh5-d4m8-xbfm
+    - VCID-s8s9-7gd3-q3eu
+    - VCID-vrqf-ypac-juek
+- purl: pkg:alpine/db@0?arch=s390x&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-b6ga-8fw3-4bcd
+    - VCID-k9w1-md52-tuhx
+    - VCID-pnh5-d4m8-xbfm
+    - VCID-s8s9-7gd3-q3eu
+    - VCID-vrqf-ypac-juek
+- purl: pkg:alpine/db@0?arch=x86_64&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-b6ga-8fw3-4bcd
+    - VCID-k9w1-md52-tuhx
+    - VCID-pnh5-d4m8-xbfm
+    - VCID-s8s9-7gd3-q3eu
+    - VCID-vrqf-ypac-juek
+- purl: pkg:alpine/db@0?arch=x86&distroversion=v3.8&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-b6ga-8fw3-4bcd
+    - VCID-k9w1-md52-tuhx
+    - VCID-pnh5-d4m8-xbfm
+    - VCID-s8s9-7gd3-q3eu
+    - VCID-vrqf-ypac-juek

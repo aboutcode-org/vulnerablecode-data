@@ -1,0 +1,56 @@
+vulnerability_id: VCID-necn-3nta-gfhn
+aliases:
+  - CVE-2021-39293
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-39293.json
+  - score: '0.00255'
+    scoring_system: epss
+    scoring_elements: '0.65660'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-39293
+  - score: Low
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2370
+weaknesses:
+  - CWE-400
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-39293.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-39293
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2006044
+    reference_type:
+    reference_id: 2006044
+  - url: https://security.archlinux.org/AVG-2370
+    reference_type:
+    reference_id: AVG-2370
+  - url: https://access.redhat.com/errata/RHSA-2021:4902
+    reference_type:
+    reference_id: RHSA-2021:4902
+  - url: https://access.redhat.com/errata/RHSA-2022:0432
+    reference_type:
+    reference_id: RHSA-2022:0432
+  - url: https://access.redhat.com/errata/RHSA-2022:0434
+    reference_type:
+    reference_id: RHSA-2022:0434
+  - url: https://access.redhat.com/errata/RHSA-2022:0655
+    reference_type:
+    reference_id: RHSA-2022:0655
+  - url: https://access.redhat.com/errata/RHSA-2022:1819
+    reference_type:
+    reference_id: RHSA-2022:1819
+  - url: https://access.redhat.com/errata/RHSA-2022:4814
+    reference_type:
+    reference_id: RHSA-2022:4814

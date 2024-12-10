@@ -1,0 +1,88 @@
+vulnerability_id: VCID-mdwt-szxk-dbhq
+aliases:
+  - CVE-2023-29337
+summary:
+severities:
+  - score: '7.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:L/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-29337.json
+  - score: '0.01013'
+    scoring_system: epss
+    scoring_elements: '0.84055'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-29337
+  - score: '7.1'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:L/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C
+    published_at:
+    url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29337
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-06-04T01:31:31Z/
+    published_at:
+    url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29337
+weaknesses:
+  - CWE-367
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-29337.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-29337
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1050835
+    reference_type:
+    reference_id: 1050835
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2213703
+    reference_type:
+    reference_id: 2213703
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:nuget:5.11.4:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:nuget:5.11.4:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:nuget:6.0.4:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:nuget:6.0.4:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:nuget:6.2.3:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:nuget:6.2.3:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:nuget:6.3.2:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:nuget:6.3.2:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:nuget:6.4.1:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:nuget:6.4.1:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:nuget:6.5.0:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:nuget:6.5.0:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:nuget:6.6.0:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:nuget:6.6.0:*:*:*:*:*:*:*
+  - url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29337
+    reference_type:
+    reference_id: CVE-2023-29337
+  - url: https://access.redhat.com/errata/RHSA-2023:3580
+    reference_type:
+    reference_id: RHSA-2023:3580
+  - url: https://access.redhat.com/errata/RHSA-2023:3581
+    reference_type:
+    reference_id: RHSA-2023:3581
+  - url: https://access.redhat.com/errata/RHSA-2023:3582
+    reference_type:
+    reference_id: RHSA-2023:3582
+  - url: https://access.redhat.com/errata/RHSA-2023:3592
+    reference_type:
+    reference_id: RHSA-2023:3592
+  - url: https://access.redhat.com/errata/RHSA-2023:3593
+    reference_type:
+    reference_id: RHSA-2023:3593
+  - url: https://access.redhat.com/errata/RHSA-2023:4448
+    reference_type:
+    reference_id: RHSA-2023:4448
+  - url: https://access.redhat.com/errata/RHSA-2023:4449
+    reference_type:
+    reference_id: RHSA-2023:4449
+  - url: https://usn.ubuntu.com/6161-1/
+    reference_type:
+    reference_id: USN-6161-1

@@ -1,0 +1,360 @@
+- purl: pkg:alpine/frr@8.2.1-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek
+- purl: pkg:alpine/frr@8.2.1-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8vtp-96pc-jfcw
+    - VCID-fdes-zr5m-gqcc
+    - VCID-ukgx-njwy-f3hj
+    - VCID-wm1w-4t4d-p3dw
+    - VCID-yu4u-9k2w-2yek

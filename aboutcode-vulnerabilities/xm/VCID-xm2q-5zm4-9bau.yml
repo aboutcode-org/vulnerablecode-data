@@ -1,0 +1,27 @@
+vulnerability_id: VCID-xm2q-5zm4-9bau
+aliases:
+  - CVE-2020-14295
+summary:
+severities:
+  - score: '0.32686'
+    scoring_system: epss
+    scoring_elements: '0.97109'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-14295
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-14295
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=963139
+    reference_type:
+    reference_id: 963139
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/php/webapps/49810.py
+    reference_type: exploit
+    reference_id: CVE-2020-14295
+  - url: https://security.gentoo.org/glsa/202007-03
+    reference_type:
+    reference_id: GLSA-202007-03
+  - url: https://usn.ubuntu.com/USN-5214-1/
+    reference_type:
+    reference_id: USN-USN-5214-1

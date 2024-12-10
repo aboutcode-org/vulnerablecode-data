@@ -1,0 +1,85 @@
+vulnerability_id: VCID-jphw-nk2d-kfex
+aliases:
+  - CVE-2023-27522
+  - GHSA-vcph-37mh-fqrh
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-27522.json
+  - score: '0.01352'
+    scoring_system: epss
+    scoring_elements: '0.86497'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-27522
+weaknesses:
+  - CWE-113
+  - CWE-1035
+  - CWE-444
+  - CWE-937
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-27522.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-27522
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://github.com/apache/httpd/commit/d753ea76b5972a85349b68c31b59d04c60014f2d
+    reference_type:
+    reference_id:
+  - url: https://github.com/unbit/uwsgi/commit/58ee1df31fa9e9af106aaeabb82374c36b433822
+    reference_type:
+    reference_id:
+  - url: https://github.com/unbit/uwsgi/commit/acb03530aaaeaa810f28a5b64da619525940f569
+    reference_type:
+    reference_id:
+  - url: https://httpd.apache.org/security/vulnerabilities_24.html
+    reference_type:
+    reference_id:
+  - url: https://lists.debian.org/debian-lts-announce/2023/04/msg00028.html
+    reference_type:
+    reference_id:
+  - url: https://uwsgi-docs.readthedocs.io/en/latest/Changelog-2.0.22.html
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1032476
+    reference_type:
+    reference_id: 1032476
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2176211
+    reference_type:
+    reference_id: 2176211
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2023-27522
+    reference_type:
+    reference_id: CVE-2023-27522
+  - url: https://github.com/advisories/GHSA-vcph-37mh-fqrh
+    reference_type:
+    reference_id: GHSA-vcph-37mh-fqrh
+  - url: https://security.gentoo.org/glsa/202309-01
+    reference_type:
+    reference_id: GLSA-202309-01
+  - url: https://access.redhat.com/errata/RHSA-2023:4628
+    reference_type:
+    reference_id: RHSA-2023:4628
+  - url: https://access.redhat.com/errata/RHSA-2023:4629
+    reference_type:
+    reference_id: RHSA-2023:4629
+  - url: https://access.redhat.com/errata/RHSA-2023:5049
+    reference_type:
+    reference_id: RHSA-2023:5049
+  - url: https://access.redhat.com/errata/RHSA-2023:5050
+    reference_type:
+    reference_id: RHSA-2023:5050
+  - url: https://access.redhat.com/errata/RHSA-2023:6403
+    reference_type:
+    reference_id: RHSA-2023:6403
+  - url: https://access.redhat.com/errata/RHSA-2024:4504
+    reference_type:
+    reference_id: RHSA-2024:4504
+  - url: https://usn.ubuntu.com/5942-1/
+    reference_type:
+    reference_id: USN-5942-1

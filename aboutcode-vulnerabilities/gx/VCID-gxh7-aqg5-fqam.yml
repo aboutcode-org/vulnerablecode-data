@@ -1,0 +1,96 @@
+vulnerability_id: VCID-gxh7-aqg5-fqam
+aliases:
+  - CVE-2021-22945
+summary:
+severities:
+  - score: '9.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-22945.json
+  - score: '0.00688'
+    scoring_system: epss
+    scoring_elements: '0.80414'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-22945
+  - score: Medium
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2021-22945.html
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2384
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2385
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2386
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2387
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2388
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2389
+weaknesses:
+  - CWE-416
+  - CWE-415
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-22945.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-22945
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2021-22945.html
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://hackerone.com/reports/1269242
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2001527
+    reference_type:
+    reference_id: 2001527
+  - url: https://security.archlinux.org/AVG-2384
+    reference_type:
+    reference_id: AVG-2384
+  - url: https://security.archlinux.org/AVG-2385
+    reference_type:
+    reference_id: AVG-2385
+  - url: https://security.archlinux.org/AVG-2386
+    reference_type:
+    reference_id: AVG-2386
+  - url: https://security.archlinux.org/AVG-2387
+    reference_type:
+    reference_id: AVG-2387
+  - url: https://security.archlinux.org/AVG-2388
+    reference_type:
+    reference_id: AVG-2388
+  - url: https://security.archlinux.org/AVG-2389
+    reference_type:
+    reference_id: AVG-2389
+  - url: https://security.gentoo.org/glsa/202212-01
+    reference_type:
+    reference_id: GLSA-202212-01
+  - url: https://usn.ubuntu.com/5079-1/
+    reference_type:
+    reference_id: USN-5079-1

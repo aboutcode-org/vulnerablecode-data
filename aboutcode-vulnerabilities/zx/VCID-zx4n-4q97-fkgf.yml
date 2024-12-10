@@ -1,0 +1,45 @@
+vulnerability_id: VCID-zx4n-4q97-fkgf
+aliases:
+  - CVE-2014-0139
+summary:
+severities:
+  - score: '0.00193'
+    scoring_system: epss
+    scoring_elements: '0.57484'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2014-0139
+  - score: Medium
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2014-0139.html
+weaknesses:
+  - CWE-297
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2014-0139.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2014-0139
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2014-0139.html
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-0138
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-0139
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1079149
+    reference_type:
+    reference_id: 1079149
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=742728
+    reference_type:
+    reference_id: 742728
+  - url: https://security.gentoo.org/glsa/201406-21
+    reference_type:
+    reference_id: GLSA-201406-21
+  - url: https://usn.ubuntu.com/2167-1/
+    reference_type:
+    reference_id: USN-2167-1

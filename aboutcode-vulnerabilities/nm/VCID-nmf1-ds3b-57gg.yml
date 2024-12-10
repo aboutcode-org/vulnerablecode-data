@@ -1,0 +1,91 @@
+vulnerability_id: VCID-nmf1-ds3b-57gg
+aliases:
+  - CVE-2020-10713
+summary:
+severities:
+  - score: '8.2'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-10713.json
+  - score: '0.00068'
+    scoring_system: epss
+    scoring_elements: '0.31066'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-10713
+weaknesses:
+  - CWE-787
+  - CWE-78
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-10713.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-10713
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10713
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14308
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14309
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14310
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14311
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15706
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15707
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1825243
+    reference_type:
+    reference_id: 1825243
+  - url: https://security.gentoo.org/glsa/202104-05
+    reference_type:
+    reference_id: GLSA-202104-05
+  - url: https://access.redhat.com/errata/RHSA-2020:3216
+    reference_type:
+    reference_id: RHSA-2020:3216
+  - url: https://access.redhat.com/errata/RHSA-2020:3217
+    reference_type:
+    reference_id: RHSA-2020:3217
+  - url: https://access.redhat.com/errata/RHSA-2020:3223
+    reference_type:
+    reference_id: RHSA-2020:3223
+  - url: https://access.redhat.com/errata/RHSA-2020:3227
+    reference_type:
+    reference_id: RHSA-2020:3227
+  - url: https://access.redhat.com/errata/RHSA-2020:3271
+    reference_type:
+    reference_id: RHSA-2020:3271
+  - url: https://access.redhat.com/errata/RHSA-2020:3273
+    reference_type:
+    reference_id: RHSA-2020:3273
+  - url: https://access.redhat.com/errata/RHSA-2020:3274
+    reference_type:
+    reference_id: RHSA-2020:3274
+  - url: https://access.redhat.com/errata/RHSA-2020:3275
+    reference_type:
+    reference_id: RHSA-2020:3275
+  - url: https://access.redhat.com/errata/RHSA-2020:3276
+    reference_type:
+    reference_id: RHSA-2020:3276
+  - url: https://access.redhat.com/errata/RHSA-2020:4115
+    reference_type:
+    reference_id: RHSA-2020:4115
+  - url: https://access.redhat.com/errata/RHSA-2020:4172
+    reference_type:
+    reference_id: RHSA-2020:4172
+  - url: https://usn.ubuntu.com/4432-1/
+    reference_type:
+    reference_id: USN-4432-1

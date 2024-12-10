@@ -1,0 +1,26 @@
+vulnerability_id: VCID-g145-kkuz-bkag
+aliases:
+  - CVE-2022-29910
+summary:
+severities:
+  - score: '0.00087'
+    scoring_system: epss
+    scoring_elements: '0.37549'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-29910
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-16
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-29910
+    reference_type:
+    reference_id:
+  - url: https://security.gentoo.org/glsa/202208-08
+    reference_type:
+    reference_id: GLSA-202208-08
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-16
+    reference_type:
+    reference_id: mfsa2022-16

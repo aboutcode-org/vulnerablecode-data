@@ -1,0 +1,56 @@
+vulnerability_id: VCID-55km-7weh-j3h6
+aliases:
+  - CVE-2020-13904
+summary:
+severities:
+  - score: '0.00161'
+    scoring_system: epss
+    scoring_elements: '0.53208'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-13904
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1180
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-13904
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-13390
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-17539
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-17542
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12284
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-13904
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-20448
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-20902
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/ASA-202007-4
+    reference_type:
+    reference_id: ASA-202007-4
+  - url: https://security.archlinux.org/AVG-1180
+    reference_type:
+    reference_id: AVG-1180
+  - url: https://security.gentoo.org/glsa/202007-58
+    reference_type:
+    reference_id: GLSA-202007-58
+  - url: https://usn.ubuntu.com/4431-1/
+    reference_type:
+    reference_id: USN-4431-1

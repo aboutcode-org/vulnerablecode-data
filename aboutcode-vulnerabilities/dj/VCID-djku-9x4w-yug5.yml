@@ -1,0 +1,18 @@
+vulnerability_id: VCID-djku-9x4w-yug5
+aliases:
+  - CVE-2023-39361
+summary:
+severities:
+  - score: '0.03865'
+    scoring_system: epss
+    scoring_elements: '0.92104'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-39361
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-39361
+    reference_type:
+    reference_id:
+  - url: https://usn.ubuntu.com/6720-1/
+    reference_type:
+    reference_id: USN-6720-1

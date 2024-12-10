@@ -1,0 +1,37 @@
+vulnerability_id: VCID-3p7y-b3su-g3ew
+aliases:
+  - CVE-2020-35114
+summary:
+severities:
+  - score: '0.00221'
+    scoring_system: epss
+    scoring_elements: '0.60506'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-35114
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1362
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-54
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-35114
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/ASA-202012-25
+    reference_type:
+    reference_id: ASA-202012-25
+  - url: https://security.archlinux.org/AVG-1362
+    reference_type:
+    reference_id: AVG-1362
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-54
+    reference_type:
+    reference_id: mfsa2020-54
+  - url: https://usn.ubuntu.com/4671-1/
+    reference_type:
+    reference_id: USN-4671-1

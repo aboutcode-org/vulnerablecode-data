@@ -1,0 +1,40 @@
+vulnerability_id: VCID-v5b7-51m5-8qhx
+aliases:
+  - CVE-2021-23955
+summary:
+severities:
+  - score: '0.00084'
+    scoring_system: epss
+    scoring_elements: '0.36821'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-23955
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1492
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-03
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-23955
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/ASA-202102-1
+    reference_type:
+    reference_id: ASA-202102-1
+  - url: https://security.archlinux.org/AVG-1492
+    reference_type:
+    reference_id: AVG-1492
+  - url: https://security.gentoo.org/glsa/202102-01
+    reference_type:
+    reference_id: GLSA-202102-01
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-03
+    reference_type:
+    reference_id: mfsa2021-03
+  - url: https://usn.ubuntu.com/4717-1/
+    reference_type:
+    reference_id: USN-4717-1

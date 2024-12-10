@@ -1,0 +1,24 @@
+vulnerability_id: VCID-jwy3-aghv-97a8
+aliases:
+  - CVE-2020-3341
+summary:
+severities:
+  - score: '0.00686'
+    scoring_system: epss
+    scoring_elements: '0.80374'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-3341
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-3341
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://usn.ubuntu.com/4370-1/
+    reference_type:
+    reference_id: USN-4370-1
+  - url: https://usn.ubuntu.com/4370-2/
+    reference_type:
+    reference_id: USN-4370-2

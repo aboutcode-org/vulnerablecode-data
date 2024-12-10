@@ -1,0 +1,123 @@
+vulnerability_id: VCID-a5w1-q765-ake8
+aliases:
+  - CVE-2021-22925
+summary:
+severities:
+  - score: '3.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:L/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-22925.json
+  - score: '0.00373'
+    scoring_system: epss
+    scoring_elements: '0.73105'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-22925
+  - score: Medium
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2021-22925.html
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2194
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2195
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2196
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2197
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2198
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2199
+weaknesses:
+  - CWE-908
+  - CWE-457
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-22925.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-22925
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2021-22925.html
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://hackerone.com/reports/1223882
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1970902
+    reference_type:
+    reference_id: '1970902'
+  - url: https://security.archlinux.org/ASA-202107-59
+    reference_type:
+    reference_id: ASA-202107-59
+  - url: https://security.archlinux.org/ASA-202107-60
+    reference_type:
+    reference_id: ASA-202107-60
+  - url: https://security.archlinux.org/ASA-202107-61
+    reference_type:
+    reference_id: ASA-202107-61
+  - url: https://security.archlinux.org/ASA-202107-62
+    reference_type:
+    reference_id: ASA-202107-62
+  - url: https://security.archlinux.org/ASA-202107-63
+    reference_type:
+    reference_id: ASA-202107-63
+  - url: https://security.archlinux.org/ASA-202107-64
+    reference_type:
+    reference_id: ASA-202107-64
+  - url: https://security.archlinux.org/AVG-2194
+    reference_type:
+    reference_id: AVG-2194
+  - url: https://security.archlinux.org/AVG-2195
+    reference_type:
+    reference_id: AVG-2195
+  - url: https://security.archlinux.org/AVG-2196
+    reference_type:
+    reference_id: AVG-2196
+  - url: https://security.archlinux.org/AVG-2197
+    reference_type:
+    reference_id: AVG-2197
+  - url: https://security.archlinux.org/AVG-2198
+    reference_type:
+    reference_id: AVG-2198
+  - url: https://security.archlinux.org/AVG-2199
+    reference_type:
+    reference_id: AVG-2199
+  - url: https://security.gentoo.org/glsa/202212-01
+    reference_type:
+    reference_id: GLSA-202212-01
+  - url: https://access.redhat.com/errata/RHSA-2021:4511
+    reference_type:
+    reference_id: RHSA-2021:4511
+  - url: https://usn.ubuntu.com/5021-1/
+    reference_type:
+    reference_id: USN-5021-1
+  - url: https://usn.ubuntu.com/5021-2/
+    reference_type:
+    reference_id: USN-5021-2
+  - url: https://usn.ubuntu.com/5894-1/
+    reference_type:
+    reference_id: USN-5894-1

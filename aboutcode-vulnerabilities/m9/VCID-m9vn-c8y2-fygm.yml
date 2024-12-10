@@ -1,0 +1,21 @@
+vulnerability_id: VCID-m9vn-c8y2-fygm
+aliases:
+  - CVE-2020-7237
+summary:
+severities:
+  - score: '0.02742'
+    scoring_system: epss
+    scoring_elements: '0.90763'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-7237
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-7237
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=949997
+    reference_type:
+    reference_id: 949997
+  - url: https://security.gentoo.org/glsa/202003-40
+    reference_type:
+    reference_id: GLSA-202003-40

@@ -1,0 +1,23 @@
+vulnerability_id: VCID-2uha-71m8-dbdm
+aliases:
+  - CVE-2020-26964
+summary:
+severities:
+  - score: '0.00160'
+    scoring_system: epss
+    scoring_elements: '0.53082'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-26964
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-50
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-26964
+    reference_type:
+    reference_id:
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-50
+    reference_type:
+    reference_id: mfsa2020-50

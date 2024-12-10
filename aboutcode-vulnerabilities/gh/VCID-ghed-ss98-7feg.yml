@@ -1,0 +1,15 @@
+vulnerability_id: VCID-ghed-ss98-7feg
+aliases:
+  - CVE-2018-13304
+summary:
+severities:
+  - score: '0.00082'
+    scoring_system: epss
+    scoring_elements: '0.35868'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-13304
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-13304
+    reference_type:
+    reference_id:

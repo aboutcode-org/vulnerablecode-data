@@ -1,0 +1,57 @@
+vulnerability_id: VCID-j79e-68pf-t3fb
+aliases:
+  - CVE-2021-38185
+summary:
+severities:
+  - score: '7.0'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-38185.json
+  - score: '0.00250'
+    scoring_system: epss
+    scoring_elements: '0.65230'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-38185
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2262
+weaknesses:
+  - CWE-190
+  - CWE-787
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-38185.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-38185
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1991731
+    reference_type:
+    reference_id: '1991731'
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=992045
+    reference_type:
+    reference_id: 992045
+  - url: https://security.archlinux.org/AVG-2262
+    reference_type:
+    reference_id: AVG-2262
+  - url: https://security.gentoo.org/glsa/202407-07
+    reference_type:
+    reference_id: GLSA-202407-07
+  - url: https://access.redhat.com/errata/RHSA-2022:1991
+    reference_type:
+    reference_id: RHSA-2022:1991
+  - url: https://usn.ubuntu.com/5064-1/
+    reference_type:
+    reference_id: USN-5064-1
+  - url: https://usn.ubuntu.com/5064-2/
+    reference_type:
+    reference_id: USN-5064-2
+  - url: https://usn.ubuntu.com/5064-3/
+    reference_type:
+    reference_id: USN-5064-3

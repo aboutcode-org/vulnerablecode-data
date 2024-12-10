@@ -1,0 +1,24 @@
+vulnerability_id: VCID-ru92-bhw9-eygv
+aliases:
+  - CVE-2022-1270
+summary:
+severities:
+  - score: '0.00063'
+    scoring_system: epss
+    scoring_elements: '0.28079'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-1270
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-1270
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://security.gentoo.org/glsa/202209-19
+    reference_type:
+    reference_id: GLSA-202209-19
+  - url: https://usn.ubuntu.com/5974-1/
+    reference_type:
+    reference_id: USN-5974-1

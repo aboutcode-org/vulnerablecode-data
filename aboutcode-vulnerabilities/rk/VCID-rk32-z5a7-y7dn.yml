@@ -1,0 +1,68 @@
+vulnerability_id: VCID-rk32-z5a7-y7dn
+aliases:
+  - CVE-2021-40438
+summary:
+severities:
+  - score: '9.0'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-40438.json
+  - score: '0.96700'
+    scoring_system: epss
+    scoring_elements: '0.99693'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-40438
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2289
+weaknesses:
+  - CWE-918
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-40438.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-40438
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2005117
+    reference_type:
+    reference_id: 2005117
+  - url: https://security.archlinux.org/AVG-2289
+    reference_type:
+    reference_id: AVG-2289
+  - url: https://security.gentoo.org/glsa/202208-20
+    reference_type:
+    reference_id: GLSA-202208-20
+  - url: https://access.redhat.com/errata/RHSA-2021:3745
+    reference_type:
+    reference_id: RHSA-2021:3745
+  - url: https://access.redhat.com/errata/RHSA-2021:3746
+    reference_type:
+    reference_id: RHSA-2021:3746
+  - url: https://access.redhat.com/errata/RHSA-2021:3754
+    reference_type:
+    reference_id: RHSA-2021:3754
+  - url: https://access.redhat.com/errata/RHSA-2021:3816
+    reference_type:
+    reference_id: RHSA-2021:3816
+  - url: https://access.redhat.com/errata/RHSA-2021:3836
+    reference_type:
+    reference_id: RHSA-2021:3836
+  - url: https://access.redhat.com/errata/RHSA-2021:3837
+    reference_type:
+    reference_id: RHSA-2021:3837
+  - url: https://access.redhat.com/errata/RHSA-2021:3856
+    reference_type:
+    reference_id: RHSA-2021:3856
+  - url: https://usn.ubuntu.com/5090-1/
+    reference_type:
+    reference_id: USN-5090-1
+  - url: https://usn.ubuntu.com/5090-2/
+    reference_type:
+    reference_id: USN-5090-2

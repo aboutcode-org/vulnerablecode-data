@@ -1,0 +1,84 @@
+vulnerability_id: VCID-vpnx-ykyb-w7gg
+aliases:
+  - CVE-2023-28427
+  - GHSA-mwq8-fjpf-c2gr
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-28427.json
+  - score: '0.00452'
+    scoring_system: epss
+    scoring_elements: '0.75552'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-28427
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-12
+weaknesses:
+  - CWE-1321
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-28427.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-28427
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://matrix.org/blog/2023/03/28/security-releases-matrix-js-sdk-24-0-0-and-matrix-react-sdk-3-69-0
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1033621
+    reference_type:
+    reference_id: 1033621
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2183278
+    reference_type:
+    reference_id: 2183278
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2023-28427
+    reference_type:
+    reference_id: CVE-2023-28427
+  - url: https://github.com/advisories/GHSA-mwq8-fjpf-c2gr
+    reference_type:
+    reference_id: GHSA-mwq8-fjpf-c2gr
+  - url: https://github.com/matrix-org/matrix-js-sdk/security/advisories/GHSA-mwq8-fjpf-c2gr
+    reference_type:
+    reference_id: GHSA-mwq8-fjpf-c2gr
+  - url: https://github.com/matrix-org/matrix-js-sdk/security/advisories/GHSA-rfv9-x7hh-xc32
+    reference_type:
+    reference_id: GHSA-rfv9-x7hh-xc32
+  - url: https://security.gentoo.org/glsa/202305-36
+    reference_type:
+    reference_id: GLSA-202305-36
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-12
+    reference_type:
+    reference_id: mfsa2023-12
+  - url: https://access.redhat.com/errata/RHSA-2023:1802
+    reference_type:
+    reference_id: RHSA-2023:1802
+  - url: https://access.redhat.com/errata/RHSA-2023:1803
+    reference_type:
+    reference_id: RHSA-2023:1803
+  - url: https://access.redhat.com/errata/RHSA-2023:1804
+    reference_type:
+    reference_id: RHSA-2023:1804
+  - url: https://access.redhat.com/errata/RHSA-2023:1805
+    reference_type:
+    reference_id: RHSA-2023:1805
+  - url: https://access.redhat.com/errata/RHSA-2023:1806
+    reference_type:
+    reference_id: RHSA-2023:1806
+  - url: https://access.redhat.com/errata/RHSA-2023:1809
+    reference_type:
+    reference_id: RHSA-2023:1809
+  - url: https://access.redhat.com/errata/RHSA-2023:1810
+    reference_type:
+    reference_id: RHSA-2023:1810
+  - url: https://access.redhat.com/errata/RHSA-2023:1811
+    reference_type:
+    reference_id: RHSA-2023:1811

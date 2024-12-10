@@ -1,0 +1,179 @@
+vulnerability_id: VCID-exy1-4v57-3fhr
+aliases:
+  - CVE-2023-38546
+summary:
+severities:
+  - score: '3.7'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-38546.json
+  - score: '0.00095'
+    scoring_system: epss
+    scoring_elements: '0.40914'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-38546
+  - score: Low
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2023-38546.html
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-13T15:01:53Z/
+    published_at:
+    url: http://seclists.org/fulldisclosure/2024/Jan/34
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-13T15:01:53Z/
+    published_at:
+    url: http://seclists.org/fulldisclosure/2024/Jan/37
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-13T15:01:53Z/
+    published_at:
+    url: http://seclists.org/fulldisclosure/2024/Jan/38
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-13T15:01:53Z/
+    published_at:
+    url: https://forum.vmssoftware.com/viewtopic.php?f=8&t=8868
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-13T15:01:53Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/OGMXNRNSJ4ETDK6FRNU3J7SABXPWCHSQ/
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2845
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2846
+  - score: '6.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://support.apple.com/kb/HT214036
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-26T19:26:00Z/
+    published_at:
+    url: https://support.apple.com/kb/HT214036
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-13T15:01:53Z/
+    published_at:
+    url: https://support.apple.com/kb/HT214057
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-13T15:01:53Z/
+    published_at:
+    url: https://support.apple.com/kb/HT214058
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-13T15:01:53Z/
+    published_at:
+    url: https://support.apple.com/kb/HT214063
+weaknesses:
+  - CWE-73
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-38546.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-38546
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2023-38546.html
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://hackerone.com/reports/2148242
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2241938
+    reference_type:
+    reference_id: 2241938
+  - url: http://seclists.org/fulldisclosure/2024/Jan/34
+    reference_type:
+    reference_id: 34
+  - url: http://seclists.org/fulldisclosure/2024/Jan/37
+    reference_type:
+    reference_id: 37
+  - url: http://seclists.org/fulldisclosure/2024/Jan/38
+    reference_type:
+    reference_id: 38
+  - url: https://security.archlinux.org/AVG-2845
+    reference_type:
+    reference_id: AVG-2845
+  - url: https://security.archlinux.org/AVG-2846
+    reference_type:
+    reference_id: AVG-2846
+  - url: https://security.gentoo.org/glsa/202310-12
+    reference_type:
+    reference_id: GLSA-202310-12
+  - url: https://support.apple.com/kb/HT214036
+    reference_type:
+    reference_id: HT214036
+  - url: https://support.apple.com/kb/HT214057
+    reference_type:
+    reference_id: HT214057
+  - url: https://support.apple.com/kb/HT214058
+    reference_type:
+    reference_id: HT214058
+  - url: https://support.apple.com/kb/HT214063
+    reference_type:
+    reference_id: HT214063
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/OGMXNRNSJ4ETDK6FRNU3J7SABXPWCHSQ/
+    reference_type:
+    reference_id: OGMXNRNSJ4ETDK6FRNU3J7SABXPWCHSQ
+  - url: https://access.redhat.com/errata/RHSA-2023:5700
+    reference_type:
+    reference_id: RHSA-2023:5700
+  - url: https://access.redhat.com/errata/RHSA-2023:5763
+    reference_type:
+    reference_id: RHSA-2023:5763
+  - url: https://access.redhat.com/errata/RHSA-2023:6292
+    reference_type:
+    reference_id: RHSA-2023:6292
+  - url: https://access.redhat.com/errata/RHSA-2023:6745
+    reference_type:
+    reference_id: RHSA-2023:6745
+  - url: https://access.redhat.com/errata/RHSA-2023:7540
+    reference_type:
+    reference_id: RHSA-2023:7540
+  - url: https://access.redhat.com/errata/RHSA-2023:7625
+    reference_type:
+    reference_id: RHSA-2023:7625
+  - url: https://access.redhat.com/errata/RHSA-2023:7626
+    reference_type:
+    reference_id: RHSA-2023:7626
+  - url: https://access.redhat.com/errata/RHSA-2024:1601
+    reference_type:
+    reference_id: RHSA-2024:1601
+  - url: https://access.redhat.com/errata/RHSA-2024:2092
+    reference_type:
+    reference_id: RHSA-2024:2092
+  - url: https://access.redhat.com/errata/RHSA-2024:2093
+    reference_type:
+    reference_id: RHSA-2024:2093
+  - url: https://access.redhat.com/errata/RHSA-2024:2101
+    reference_type:
+    reference_id: RHSA-2024:2101
+  - url: https://usn.ubuntu.com/6429-1/
+    reference_type:
+    reference_id: USN-6429-1
+  - url: https://usn.ubuntu.com/6429-2/
+    reference_type:
+    reference_id: USN-6429-2
+  - url: https://usn.ubuntu.com/6429-3/
+    reference_type:
+    reference_id: USN-6429-3
+  - url: https://forum.vmssoftware.com/viewtopic.php?f=8&t=8868
+    reference_type:
+    reference_id: viewtopic.php?f=8&t=8868

@@ -1,0 +1,48 @@
+vulnerability_id: VCID-xa93-9bhs-y3hz
+aliases:
+  - CVE-2020-27781
+summary:
+severities:
+  - score: '7.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-27781.json
+  - score: '0.00045'
+    scoring_system: epss
+    scoring_elements: '0.16440'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-27781
+weaknesses:
+  - CWE-522
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-27781.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-27781
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1900109
+    reference_type:
+    reference_id: '1900109'
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=985670
+    reference_type:
+    reference_id: 985670
+  - url: https://security.gentoo.org/glsa/202105-39
+    reference_type:
+    reference_id: GLSA-202105-39
+  - url: https://access.redhat.com/errata/RHSA-2021:0081
+    reference_type:
+    reference_id: RHSA-2021:0081
+  - url: https://access.redhat.com/errata/RHSA-2021:1518
+    reference_type:
+    reference_id: RHSA-2021:1518
+  - url: https://usn.ubuntu.com/4998-1/
+    reference_type:
+    reference_id: USN-4998-1
+  - url: https://usn.ubuntu.com/5128-1/
+    reference_type:
+    reference_id: USN-5128-1

@@ -1,0 +1,174 @@
+vulnerability_id: VCID-ndyq-5prf-fkbm
+aliases:
+  - BIT-brotli-2020-8927
+  - BIT-dotnet-2020-8927
+  - BIT-dotnet-sdk-2020-8927
+  - CVE-2020-8927
+  - GHSA-5v8v-66v8-mwm7
+  - PYSEC-2020-29
+  - RUSTSEC-2021-0131
+  - RUSTSEC-2021-0132
+summary: A buffer overflow exists in the Brotli library versions prior to 1.0.8 where an attacker
+  controlling the input length of a "one-shot" decompression request to a script can trigger
+  a crash, which happens when copying over chunks of data larger than 2 GiB. It is recommended
+  to update your Brotli library to 1.0.8 or later. If one cannot update, we recommend to use
+  the "streaming" API as opposed to the "one-shot" API, and impose chunk size limits.
+severities:
+  - score: '6.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-8927.json
+  - score: '0.00954'
+    scoring_system: epss
+    scoring_elements: '0.83564'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-8927
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1230
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1231
+weaknesses:
+  - CWE-130
+  - CWE-120
+  - CWE-937
+  - CWE-1035
+references:
+  - url: http://lists.opensuse.org/opensuse-security-announce/2020-09/msg00108.html
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-8927.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-8927
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://github.com/bitemyapp/brotli2-rs
+    reference_type:
+    reference_id:
+  - url: https://github.com/bitemyapp/brotli2-rs/issues/45
+    reference_type:
+    reference_id:
+  - url: https://github.com/github/advisory-database/issues/785
+    reference_type:
+    reference_id:
+  - url: https://github.com/google/brotli/commit/223d80cfbec8fd346e32906c732c8ede21f0cea6
+    reference_type:
+    reference_id:
+  - url: https://github.com/google/brotli/releases/tag/v1.0.8
+    reference_type:
+    reference_id:
+  - url: https://github.com/google/brotli/releases/tag/v1.0.9
+    reference_type:
+    reference_id:
+  - url: https://github.com/pypa/advisory-database/tree/main/vulns/brotli/PYSEC-2020-29.yaml
+    reference_type:
+    reference_id:
+  - url: https://lists.debian.org/debian-lts-announce/2020/12/msg00003.html
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/356JOYTWW4BWSZ42SEFLV7NYHL3S3AEH
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/356JOYTWW4BWSZ42SEFLV7NYHL3S3AEH/
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/4TOGTZ2ZWDH662ZNFFSZVL3M5AJXV6JF
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/J4E265WKWKYMK2RYYSIXBEGZTDY5IQE6
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/J4E265WKWKYMK2RYYSIXBEGZTDY5IQE6/
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/M4VCDOJGL6BK3HB4XRD2WETBPYX2ITF6
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/M4VCDOJGL6BK3HB4XRD2WETBPYX2ITF6/
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/MMBKACMLSRX7JJSKBTR35UOEP2WFR6QP
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/MMBKACMLSRX7JJSKBTR35UOEP2WFR6QP/
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/MQLM7ABVCYJLF6JRPF3M3EBXW63GNC27
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/W23CUADGMVMQQNFKHPHXVP7RPZJZNN6I
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/W23CUADGMVMQQNFKHPHXVP7RPZJZNN6I/
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/WW62OZEY2GHJL4JCOLJRBSRETXDHMWRK
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/WW62OZEY2GHJL4JCOLJRBSRETXDHMWRK/
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/ZXEQ3GQVELA2T4HNZG7VPMS2HDVXMJRG
+    reference_type:
+    reference_id:
+  - url: https://rustsec.org/advisories/RUSTSEC-2021-0131.html
+    reference_type:
+    reference_id:
+  - url: https://rustsec.org/advisories/RUSTSEC-2021-0132.html
+    reference_type:
+    reference_id:
+  - url: https://usn.ubuntu.com/4568-1
+    reference_type:
+    reference_id:
+  - url: https://usn.ubuntu.com/4568-1/
+    reference_type:
+    reference_id:
+  - url: https://www.debian.org/security/2020/dsa-4801
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1879225
+    reference_type:
+    reference_id: 1879225
+  - url: https://security.archlinux.org/ASA-202009-12
+    reference_type:
+    reference_id: ASA-202009-12
+  - url: https://security.archlinux.org/ASA-202009-13
+    reference_type:
+    reference_id: ASA-202009-13
+  - url: https://security.archlinux.org/AVG-1230
+    reference_type:
+    reference_id: AVG-1230
+  - url: https://security.archlinux.org/AVG-1231
+    reference_type:
+    reference_id: AVG-1231
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2020-8927
+    reference_type:
+    reference_id: CVE-2020-8927
+  - url: https://github.com/advisories/GHSA-5v8v-66v8-mwm7
+    reference_type:
+    reference_id: GHSA-5v8v-66v8-mwm7
+  - url: https://access.redhat.com/errata/RHSA-2021:1702
+    reference_type:
+    reference_id: RHSA-2021:1702
+  - url: https://access.redhat.com/errata/RHSA-2022:0827
+    reference_type:
+    reference_id: RHSA-2022:0827
+  - url: https://access.redhat.com/errata/RHSA-2022:0828
+    reference_type:
+    reference_id: RHSA-2022:0828
+  - url: https://access.redhat.com/errata/RHSA-2022:0829
+    reference_type:
+    reference_id: RHSA-2022:0829
+  - url: https://access.redhat.com/errata/RHSA-2022:0830
+    reference_type:
+    reference_id: RHSA-2022:0830

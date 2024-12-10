@@ -1,0 +1,92 @@
+vulnerability_id: VCID-6pgm-d8qc-8bg4
+aliases:
+  - CVE-2021-25217
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-25217.json
+  - score: '0.00277'
+    scoring_system: epss
+    scoring_elements: '0.68620'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-25217
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2004
+weaknesses:
+  - CWE-119
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-25217.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-25217
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1963258
+    reference_type:
+    reference_id: '1963258'
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=989157
+    reference_type:
+    reference_id: 989157
+  - url: https://security.archlinux.org/ASA-202106-10
+    reference_type:
+    reference_id: ASA-202106-10
+  - url: https://security.archlinux.org/ASA-202106-11
+    reference_type:
+    reference_id: ASA-202106-11
+  - url: https://security.archlinux.org/AVG-2004
+    reference_type:
+    reference_id: AVG-2004
+  - url: https://security.gentoo.org/glsa/202305-22
+    reference_type:
+    reference_id: GLSA-202305-22
+  - url: https://access.redhat.com/errata/RHSA-2021:2357
+    reference_type:
+    reference_id: RHSA-2021:2357
+  - url: https://access.redhat.com/errata/RHSA-2021:2359
+    reference_type:
+    reference_id: RHSA-2021:2359
+  - url: https://access.redhat.com/errata/RHSA-2021:2405
+    reference_type:
+    reference_id: RHSA-2021:2405
+  - url: https://access.redhat.com/errata/RHSA-2021:2414
+    reference_type:
+    reference_id: RHSA-2021:2414
+  - url: https://access.redhat.com/errata/RHSA-2021:2415
+    reference_type:
+    reference_id: RHSA-2021:2415
+  - url: https://access.redhat.com/errata/RHSA-2021:2416
+    reference_type:
+    reference_id: RHSA-2021:2416
+  - url: https://access.redhat.com/errata/RHSA-2021:2418
+    reference_type:
+    reference_id: RHSA-2021:2418
+  - url: https://access.redhat.com/errata/RHSA-2021:2419
+    reference_type:
+    reference_id: RHSA-2021:2419
+  - url: https://access.redhat.com/errata/RHSA-2021:2420
+    reference_type:
+    reference_id: RHSA-2021:2420
+  - url: https://access.redhat.com/errata/RHSA-2021:2469
+    reference_type:
+    reference_id: RHSA-2021:2469
+  - url: https://access.redhat.com/errata/RHSA-2021:2519
+    reference_type:
+    reference_id: RHSA-2021:2519
+  - url: https://access.redhat.com/errata/RHSA-2021:2555
+    reference_type:
+    reference_id: RHSA-2021:2555
+  - url: https://usn.ubuntu.com/4969-1/
+    reference_type:
+    reference_id: USN-4969-1
+  - url: https://usn.ubuntu.com/4969-2/
+    reference_type:
+    reference_id: USN-4969-2

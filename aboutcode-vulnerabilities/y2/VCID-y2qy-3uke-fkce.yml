@@ -1,0 +1,88 @@
+vulnerability_id: VCID-y2qy-3uke-fkce
+aliases:
+  - CVE-2018-16839
+summary:
+severities:
+  - score: '5.0'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:L/I:L/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-16839.json
+  - score: '0.01575'
+    scoring_system: epss
+    scoring_elements: '0.87606'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-16839
+  - score: Low
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2018-16839.html
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-796
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-797
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-798
+weaknesses:
+  - CWE-190
+  - CWE-122
+  - CWE-131
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-16839.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-16839
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2018-16839.html
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-16839
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-16842
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1642201
+    reference_type:
+    reference_id: 1642201
+  - url: https://security.archlinux.org/ASA-201811-7
+    reference_type:
+    reference_id: ASA-201811-7
+  - url: https://security.archlinux.org/ASA-201811-8
+    reference_type:
+    reference_id: ASA-201811-8
+  - url: https://security.archlinux.org/ASA-201811-9
+    reference_type:
+    reference_id: ASA-201811-9
+  - url: https://security.archlinux.org/AVG-796
+    reference_type:
+    reference_id: AVG-796
+  - url: https://security.archlinux.org/AVG-797
+    reference_type:
+    reference_id: AVG-797
+  - url: https://security.archlinux.org/AVG-798
+    reference_type:
+    reference_id: AVG-798
+  - url: https://security.gentoo.org/glsa/201903-03
+    reference_type:
+    reference_id: GLSA-201903-03
+  - url: https://access.redhat.com/errata/RHSA-2019:1543
+    reference_type:
+    reference_id: RHSA-2019:1543
+  - url: https://usn.ubuntu.com/3805-1/
+    reference_type:
+    reference_id: USN-3805-1

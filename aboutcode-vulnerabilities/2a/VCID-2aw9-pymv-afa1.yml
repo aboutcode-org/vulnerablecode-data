@@ -1,0 +1,125 @@
+vulnerability_id: VCID-2aw9-pymv-afa1
+aliases:
+  - CVE-2024-25629
+summary:
+severities:
+  - score: '4.4'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-25629.json
+  - score: '0.00045'
+    scoring_system: epss
+    scoring_elements: '0.16440'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-25629
+  - score: '4.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://github.com/c-ares/c-ares/commit/a804c04ddc8245fc8adf0e92368709639125e183
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-02-23T19:18:11Z/
+    published_at:
+    url: https://github.com/c-ares/c-ares/commit/a804c04ddc8245fc8adf0e92368709639125e183
+  - score: '4.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://github.com/c-ares/c-ares/security/advisories/GHSA-mg26-v6qh-x48q
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-02-23T19:18:11Z/
+    published_at:
+    url: https://github.com/c-ares/c-ares/security/advisories/GHSA-mg26-v6qh-x48q
+  - score: '4.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/2P76QYINQNPEHUTEEDOUYIRZ2X6UVZ5K/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-02-23T19:18:11Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/2P76QYINQNPEHUTEEDOUYIRZ2X6UVZ5K/
+  - score: '4.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/CSCMTSPDIE2UHU34TIXQQHZ6JTE3Y3VF/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-02-23T19:18:11Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/CSCMTSPDIE2UHU34TIXQQHZ6JTE3Y3VF/
+  - score: '4.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/GX37LFPFQ3T6FFMMFYQTEGIQXXN7F27U/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-02-23T19:18:11Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/GX37LFPFQ3T6FFMMFYQTEGIQXXN7F27U/
+weaknesses:
+  - CWE-127
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-25629.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-25629
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2265713
+    reference_type:
+    reference_id: 2265713
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/2P76QYINQNPEHUTEEDOUYIRZ2X6UVZ5K/
+    reference_type:
+    reference_id: 2P76QYINQNPEHUTEEDOUYIRZ2X6UVZ5K
+  - url: https://github.com/c-ares/c-ares/commit/a804c04ddc8245fc8adf0e92368709639125e183
+    reference_type:
+    reference_id: a804c04ddc8245fc8adf0e92368709639125e183
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/CSCMTSPDIE2UHU34TIXQQHZ6JTE3Y3VF/
+    reference_type:
+    reference_id: CSCMTSPDIE2UHU34TIXQQHZ6JTE3Y3VF
+  - url: https://github.com/c-ares/c-ares/security/advisories/GHSA-mg26-v6qh-x48q
+    reference_type:
+    reference_id: GHSA-mg26-v6qh-x48q
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/GX37LFPFQ3T6FFMMFYQTEGIQXXN7F27U/
+    reference_type:
+    reference_id: GX37LFPFQ3T6FFMMFYQTEGIQXXN7F27U
+  - url: https://access.redhat.com/errata/RHSA-2024:2778
+    reference_type:
+    reference_id: RHSA-2024:2778
+  - url: https://access.redhat.com/errata/RHSA-2024:2779
+    reference_type:
+    reference_id: RHSA-2024:2779
+  - url: https://access.redhat.com/errata/RHSA-2024:2780
+    reference_type:
+    reference_id: RHSA-2024:2780
+  - url: https://access.redhat.com/errata/RHSA-2024:2853
+    reference_type:
+    reference_id: RHSA-2024:2853
+  - url: https://access.redhat.com/errata/RHSA-2024:2910
+    reference_type:
+    reference_id: RHSA-2024:2910
+  - url: https://access.redhat.com/errata/RHSA-2024:3842
+    reference_type:
+    reference_id: RHSA-2024:3842
+  - url: https://access.redhat.com/errata/RHSA-2024:4249
+    reference_type:
+    reference_id: RHSA-2024:4249
+  - url: https://access.redhat.com/errata/RHSA-2024:4559
+    reference_type:
+    reference_id: RHSA-2024:4559
+  - url: https://access.redhat.com/errata/RHSA-2024:4721
+    reference_type:
+    reference_id: RHSA-2024:4721
+  - url: https://usn.ubuntu.com/6676-1/
+    reference_type:
+    reference_id: USN-6676-1

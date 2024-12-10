@@ -1,0 +1,93 @@
+vulnerability_id: VCID-vxtg-cbre-efgp
+aliases:
+  - CVE-2019-11708
+summary:
+severities:
+  - score: '10.0'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-11708.json
+  - score: '0.02539'
+    scoring_system: epss
+    scoring_elements: '0.90413'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-11708
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-997
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-19
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-20
+weaknesses:
+  - CWE-270
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-11708.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-11708
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11707
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11708
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1722673
+    reference_type:
+    reference_id: 1722673
+  - url: https://security.archlinux.org/ASA-201906-20
+    reference_type:
+    reference_id: ASA-201906-20
+  - url: https://security.archlinux.org/AVG-997
+    reference_type:
+    reference_id: AVG-997
+  - url: https://github.com/0vercl0k/CVE-2019-11708/tree/1cdf26140f17de8a620e90f4f6ea3865e18e49ad
+    reference_type: exploit
+    reference_id: CVE-2019-9810;CVE-2019-11708
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/windows_x86-64/local/47752.js
+    reference_type: exploit
+    reference_id: CVE-2019-9810;CVE-2019-11708
+  - url: https://security.gentoo.org/glsa/201908-12
+    reference_type:
+    reference_id: GLSA-201908-12
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-19
+    reference_type:
+    reference_id: mfsa2019-19
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-20
+    reference_type:
+    reference_id: mfsa2019-20
+  - url: https://access.redhat.com/errata/RHSA-2019:1603
+    reference_type:
+    reference_id: RHSA-2019:1603
+  - url: https://access.redhat.com/errata/RHSA-2019:1604
+    reference_type:
+    reference_id: RHSA-2019:1604
+  - url: https://access.redhat.com/errata/RHSA-2019:1623
+    reference_type:
+    reference_id: RHSA-2019:1623
+  - url: https://access.redhat.com/errata/RHSA-2019:1624
+    reference_type:
+    reference_id: RHSA-2019:1624
+  - url: https://access.redhat.com/errata/RHSA-2019:1626
+    reference_type:
+    reference_id: RHSA-2019:1626
+  - url: https://access.redhat.com/errata/RHSA-2019:1696
+    reference_type:
+    reference_id: RHSA-2019:1696
+  - url: https://usn.ubuntu.com/4032-1/
+    reference_type:
+    reference_id: USN-4032-1
+  - url: https://usn.ubuntu.com/4045-1/
+    reference_type:
+    reference_id: USN-4045-1

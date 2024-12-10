@@ -1,0 +1,15 @@
+vulnerability_id: VCID-rwvy-tde5-gkem
+aliases:
+  - CVE-2017-9671
+summary:
+severities:
+  - score: '0.02413'
+    scoring_system: epss
+    scoring_elements: '0.90155'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2017-9671
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2017-9671
+    reference_type:
+    reference_id:

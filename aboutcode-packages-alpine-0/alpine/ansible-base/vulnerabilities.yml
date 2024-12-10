@@ -1,0 +1,1034 @@
+- purl: pkg:alpine/ansible-base@2.6.3-r0?arch=aarch64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-xqw5-r1jh-skhu
+- purl: pkg:alpine/ansible-base@2.6.3-r0?arch=aarch64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-xqw5-r1jh-skhu
+- purl: pkg:alpine/ansible-base@2.6.3-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-xqw5-r1jh-skhu
+- purl: pkg:alpine/ansible-base@2.6.3-r0?arch=armhf&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-xqw5-r1jh-skhu
+- purl: pkg:alpine/ansible-base@2.6.3-r0?arch=armhf&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-xqw5-r1jh-skhu
+- purl: pkg:alpine/ansible-base@2.6.3-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-xqw5-r1jh-skhu
+- purl: pkg:alpine/ansible-base@2.6.3-r0?arch=armv7&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-xqw5-r1jh-skhu
+- purl: pkg:alpine/ansible-base@2.6.3-r0?arch=armv7&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-xqw5-r1jh-skhu
+- purl: pkg:alpine/ansible-base@2.6.3-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-xqw5-r1jh-skhu
+- purl: pkg:alpine/ansible-base@2.6.3-r0?arch=mips64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-xqw5-r1jh-skhu
+- purl: pkg:alpine/ansible-base@2.6.3-r0?arch=ppc64le&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-xqw5-r1jh-skhu
+- purl: pkg:alpine/ansible-base@2.6.3-r0?arch=ppc64le&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-xqw5-r1jh-skhu
+- purl: pkg:alpine/ansible-base@2.6.3-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-xqw5-r1jh-skhu
+- purl: pkg:alpine/ansible-base@2.6.3-r0?arch=s390x&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-xqw5-r1jh-skhu
+- purl: pkg:alpine/ansible-base@2.6.3-r0?arch=s390x&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-xqw5-r1jh-skhu
+- purl: pkg:alpine/ansible-base@2.6.3-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-xqw5-r1jh-skhu
+- purl: pkg:alpine/ansible-base@2.6.3-r0?arch=x86_64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-xqw5-r1jh-skhu
+- purl: pkg:alpine/ansible-base@2.6.3-r0?arch=x86_64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-xqw5-r1jh-skhu
+- purl: pkg:alpine/ansible-base@2.6.3-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-xqw5-r1jh-skhu
+- purl: pkg:alpine/ansible-base@2.6.3-r0?arch=x86&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-xqw5-r1jh-skhu
+- purl: pkg:alpine/ansible-base@2.6.3-r0?arch=x86&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-xqw5-r1jh-skhu
+- purl: pkg:alpine/ansible-base@2.6.3-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-xqw5-r1jh-skhu
+- purl: pkg:alpine/ansible-base@2.7.9-r0?arch=aarch64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6wvk-bjy1-a3hq
+- purl: pkg:alpine/ansible-base@2.7.9-r0?arch=aarch64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6wvk-bjy1-a3hq
+- purl: pkg:alpine/ansible-base@2.7.9-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6wvk-bjy1-a3hq
+- purl: pkg:alpine/ansible-base@2.7.9-r0?arch=armhf&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6wvk-bjy1-a3hq
+- purl: pkg:alpine/ansible-base@2.7.9-r0?arch=armhf&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6wvk-bjy1-a3hq
+- purl: pkg:alpine/ansible-base@2.7.9-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6wvk-bjy1-a3hq
+- purl: pkg:alpine/ansible-base@2.7.9-r0?arch=armv7&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6wvk-bjy1-a3hq
+- purl: pkg:alpine/ansible-base@2.7.9-r0?arch=armv7&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6wvk-bjy1-a3hq
+- purl: pkg:alpine/ansible-base@2.7.9-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6wvk-bjy1-a3hq
+- purl: pkg:alpine/ansible-base@2.7.9-r0?arch=mips64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6wvk-bjy1-a3hq
+- purl: pkg:alpine/ansible-base@2.7.9-r0?arch=ppc64le&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6wvk-bjy1-a3hq
+- purl: pkg:alpine/ansible-base@2.7.9-r0?arch=ppc64le&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6wvk-bjy1-a3hq
+- purl: pkg:alpine/ansible-base@2.7.9-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6wvk-bjy1-a3hq
+- purl: pkg:alpine/ansible-base@2.7.9-r0?arch=s390x&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6wvk-bjy1-a3hq
+- purl: pkg:alpine/ansible-base@2.7.9-r0?arch=s390x&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6wvk-bjy1-a3hq
+- purl: pkg:alpine/ansible-base@2.7.9-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6wvk-bjy1-a3hq
+- purl: pkg:alpine/ansible-base@2.7.9-r0?arch=x86_64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6wvk-bjy1-a3hq
+- purl: pkg:alpine/ansible-base@2.7.9-r0?arch=x86_64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6wvk-bjy1-a3hq
+- purl: pkg:alpine/ansible-base@2.7.9-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6wvk-bjy1-a3hq
+- purl: pkg:alpine/ansible-base@2.7.9-r0?arch=x86&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6wvk-bjy1-a3hq
+- purl: pkg:alpine/ansible-base@2.7.9-r0?arch=x86&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6wvk-bjy1-a3hq
+- purl: pkg:alpine/ansible-base@2.7.9-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6wvk-bjy1-a3hq
+- purl: pkg:alpine/ansible-base@2.8.2-r0?arch=aarch64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7m29-gktm-t7fy
+- purl: pkg:alpine/ansible-base@2.8.2-r0?arch=aarch64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7m29-gktm-t7fy
+- purl: pkg:alpine/ansible-base@2.8.2-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7m29-gktm-t7fy
+- purl: pkg:alpine/ansible-base@2.8.2-r0?arch=armhf&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7m29-gktm-t7fy
+- purl: pkg:alpine/ansible-base@2.8.2-r0?arch=armhf&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7m29-gktm-t7fy
+- purl: pkg:alpine/ansible-base@2.8.2-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7m29-gktm-t7fy
+- purl: pkg:alpine/ansible-base@2.8.2-r0?arch=armv7&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7m29-gktm-t7fy
+- purl: pkg:alpine/ansible-base@2.8.2-r0?arch=armv7&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7m29-gktm-t7fy
+- purl: pkg:alpine/ansible-base@2.8.2-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7m29-gktm-t7fy
+- purl: pkg:alpine/ansible-base@2.8.2-r0?arch=mips64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7m29-gktm-t7fy
+- purl: pkg:alpine/ansible-base@2.8.2-r0?arch=ppc64le&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7m29-gktm-t7fy
+- purl: pkg:alpine/ansible-base@2.8.2-r0?arch=ppc64le&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7m29-gktm-t7fy
+- purl: pkg:alpine/ansible-base@2.8.2-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7m29-gktm-t7fy
+- purl: pkg:alpine/ansible-base@2.8.2-r0?arch=s390x&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7m29-gktm-t7fy
+- purl: pkg:alpine/ansible-base@2.8.2-r0?arch=s390x&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7m29-gktm-t7fy
+- purl: pkg:alpine/ansible-base@2.8.2-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7m29-gktm-t7fy
+- purl: pkg:alpine/ansible-base@2.8.2-r0?arch=x86_64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7m29-gktm-t7fy
+- purl: pkg:alpine/ansible-base@2.8.2-r0?arch=x86_64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7m29-gktm-t7fy
+- purl: pkg:alpine/ansible-base@2.8.2-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7m29-gktm-t7fy
+- purl: pkg:alpine/ansible-base@2.8.2-r0?arch=x86&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7m29-gktm-t7fy
+- purl: pkg:alpine/ansible-base@2.8.2-r0?arch=x86&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7m29-gktm-t7fy
+- purl: pkg:alpine/ansible-base@2.8.2-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7m29-gktm-t7fy
+- purl: pkg:alpine/ansible-base@2.8.4-r0?arch=aarch64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1xtv-g8q8-3udv
+    - VCID-ees2-ku2d-cua3
+- purl: pkg:alpine/ansible-base@2.8.4-r0?arch=aarch64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1xtv-g8q8-3udv
+    - VCID-ees2-ku2d-cua3
+- purl: pkg:alpine/ansible-base@2.8.4-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1xtv-g8q8-3udv
+    - VCID-ees2-ku2d-cua3
+- purl: pkg:alpine/ansible-base@2.8.4-r0?arch=armhf&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1xtv-g8q8-3udv
+    - VCID-ees2-ku2d-cua3
+- purl: pkg:alpine/ansible-base@2.8.4-r0?arch=armhf&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1xtv-g8q8-3udv
+    - VCID-ees2-ku2d-cua3
+- purl: pkg:alpine/ansible-base@2.8.4-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1xtv-g8q8-3udv
+    - VCID-ees2-ku2d-cua3
+- purl: pkg:alpine/ansible-base@2.8.4-r0?arch=armv7&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1xtv-g8q8-3udv
+    - VCID-ees2-ku2d-cua3
+- purl: pkg:alpine/ansible-base@2.8.4-r0?arch=armv7&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1xtv-g8q8-3udv
+    - VCID-ees2-ku2d-cua3
+- purl: pkg:alpine/ansible-base@2.8.4-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1xtv-g8q8-3udv
+    - VCID-ees2-ku2d-cua3
+- purl: pkg:alpine/ansible-base@2.8.4-r0?arch=mips64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1xtv-g8q8-3udv
+    - VCID-ees2-ku2d-cua3
+- purl: pkg:alpine/ansible-base@2.8.4-r0?arch=ppc64le&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1xtv-g8q8-3udv
+    - VCID-ees2-ku2d-cua3
+- purl: pkg:alpine/ansible-base@2.8.4-r0?arch=ppc64le&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1xtv-g8q8-3udv
+    - VCID-ees2-ku2d-cua3
+- purl: pkg:alpine/ansible-base@2.8.4-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1xtv-g8q8-3udv
+    - VCID-ees2-ku2d-cua3
+- purl: pkg:alpine/ansible-base@2.8.4-r0?arch=s390x&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1xtv-g8q8-3udv
+    - VCID-ees2-ku2d-cua3
+- purl: pkg:alpine/ansible-base@2.8.4-r0?arch=s390x&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1xtv-g8q8-3udv
+    - VCID-ees2-ku2d-cua3
+- purl: pkg:alpine/ansible-base@2.8.4-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1xtv-g8q8-3udv
+    - VCID-ees2-ku2d-cua3
+- purl: pkg:alpine/ansible-base@2.8.4-r0?arch=x86_64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1xtv-g8q8-3udv
+    - VCID-ees2-ku2d-cua3
+- purl: pkg:alpine/ansible-base@2.8.4-r0?arch=x86_64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1xtv-g8q8-3udv
+    - VCID-ees2-ku2d-cua3
+- purl: pkg:alpine/ansible-base@2.8.4-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1xtv-g8q8-3udv
+    - VCID-ees2-ku2d-cua3
+- purl: pkg:alpine/ansible-base@2.8.4-r0?arch=x86&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1xtv-g8q8-3udv
+    - VCID-ees2-ku2d-cua3
+- purl: pkg:alpine/ansible-base@2.8.4-r0?arch=x86&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1xtv-g8q8-3udv
+    - VCID-ees2-ku2d-cua3
+- purl: pkg:alpine/ansible-base@2.8.4-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1xtv-g8q8-3udv
+    - VCID-ees2-ku2d-cua3
+- purl: pkg:alpine/ansible-base@2.8.6-r0?arch=aarch64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-a2a6-6atv-fbgx
+    - VCID-bn9b-3ne3-7kfv
+    - VCID-ged2-y8h5-nkau
+- purl: pkg:alpine/ansible-base@2.8.6-r0?arch=aarch64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-a2a6-6atv-fbgx
+    - VCID-bn9b-3ne3-7kfv
+    - VCID-ged2-y8h5-nkau
+- purl: pkg:alpine/ansible-base@2.8.6-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-a2a6-6atv-fbgx
+    - VCID-bn9b-3ne3-7kfv
+    - VCID-ged2-y8h5-nkau
+- purl: pkg:alpine/ansible-base@2.8.6-r0?arch=armhf&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-a2a6-6atv-fbgx
+    - VCID-bn9b-3ne3-7kfv
+    - VCID-ged2-y8h5-nkau
+- purl: pkg:alpine/ansible-base@2.8.6-r0?arch=armhf&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-a2a6-6atv-fbgx
+    - VCID-bn9b-3ne3-7kfv
+    - VCID-ged2-y8h5-nkau
+- purl: pkg:alpine/ansible-base@2.8.6-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-a2a6-6atv-fbgx
+    - VCID-bn9b-3ne3-7kfv
+    - VCID-ged2-y8h5-nkau
+- purl: pkg:alpine/ansible-base@2.8.6-r0?arch=armv7&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-a2a6-6atv-fbgx
+    - VCID-bn9b-3ne3-7kfv
+    - VCID-ged2-y8h5-nkau
+- purl: pkg:alpine/ansible-base@2.8.6-r0?arch=armv7&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-a2a6-6atv-fbgx
+    - VCID-bn9b-3ne3-7kfv
+    - VCID-ged2-y8h5-nkau
+- purl: pkg:alpine/ansible-base@2.8.6-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-a2a6-6atv-fbgx
+    - VCID-bn9b-3ne3-7kfv
+    - VCID-ged2-y8h5-nkau
+- purl: pkg:alpine/ansible-base@2.8.6-r0?arch=mips64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-a2a6-6atv-fbgx
+    - VCID-bn9b-3ne3-7kfv
+    - VCID-ged2-y8h5-nkau
+- purl: pkg:alpine/ansible-base@2.8.6-r0?arch=ppc64le&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-a2a6-6atv-fbgx
+    - VCID-bn9b-3ne3-7kfv
+    - VCID-ged2-y8h5-nkau
+- purl: pkg:alpine/ansible-base@2.8.6-r0?arch=ppc64le&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-a2a6-6atv-fbgx
+    - VCID-bn9b-3ne3-7kfv
+    - VCID-ged2-y8h5-nkau
+- purl: pkg:alpine/ansible-base@2.8.6-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-a2a6-6atv-fbgx
+    - VCID-bn9b-3ne3-7kfv
+    - VCID-ged2-y8h5-nkau
+- purl: pkg:alpine/ansible-base@2.8.6-r0?arch=s390x&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-a2a6-6atv-fbgx
+    - VCID-bn9b-3ne3-7kfv
+    - VCID-ged2-y8h5-nkau
+- purl: pkg:alpine/ansible-base@2.8.6-r0?arch=s390x&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-a2a6-6atv-fbgx
+    - VCID-bn9b-3ne3-7kfv
+    - VCID-ged2-y8h5-nkau
+- purl: pkg:alpine/ansible-base@2.8.6-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-a2a6-6atv-fbgx
+    - VCID-bn9b-3ne3-7kfv
+    - VCID-ged2-y8h5-nkau
+- purl: pkg:alpine/ansible-base@2.8.6-r0?arch=x86_64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-a2a6-6atv-fbgx
+    - VCID-bn9b-3ne3-7kfv
+    - VCID-ged2-y8h5-nkau
+- purl: pkg:alpine/ansible-base@2.8.6-r0?arch=x86_64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-a2a6-6atv-fbgx
+    - VCID-bn9b-3ne3-7kfv
+    - VCID-ged2-y8h5-nkau
+- purl: pkg:alpine/ansible-base@2.8.6-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-a2a6-6atv-fbgx
+    - VCID-bn9b-3ne3-7kfv
+    - VCID-ged2-y8h5-nkau
+- purl: pkg:alpine/ansible-base@2.8.6-r0?arch=x86&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-a2a6-6atv-fbgx
+    - VCID-bn9b-3ne3-7kfv
+    - VCID-ged2-y8h5-nkau
+- purl: pkg:alpine/ansible-base@2.8.6-r0?arch=x86&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-a2a6-6atv-fbgx
+    - VCID-bn9b-3ne3-7kfv
+    - VCID-ged2-y8h5-nkau
+- purl: pkg:alpine/ansible-base@2.8.6-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-a2a6-6atv-fbgx
+    - VCID-bn9b-3ne3-7kfv
+    - VCID-ged2-y8h5-nkau
+- purl: pkg:alpine/ansible-base@2.9.13-r0?arch=aarch64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cna8-m6z2-sufr
+    - VCID-nuxn-pk4p-83cw
+    - VCID-y1ce-qa2d-jqf2
+- purl: pkg:alpine/ansible-base@2.9.13-r0?arch=aarch64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cna8-m6z2-sufr
+    - VCID-nuxn-pk4p-83cw
+    - VCID-y1ce-qa2d-jqf2
+- purl: pkg:alpine/ansible-base@2.9.13-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cna8-m6z2-sufr
+    - VCID-nuxn-pk4p-83cw
+    - VCID-y1ce-qa2d-jqf2
+- purl: pkg:alpine/ansible-base@2.9.13-r0?arch=armhf&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cna8-m6z2-sufr
+    - VCID-nuxn-pk4p-83cw
+    - VCID-y1ce-qa2d-jqf2
+- purl: pkg:alpine/ansible-base@2.9.13-r0?arch=armhf&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cna8-m6z2-sufr
+    - VCID-nuxn-pk4p-83cw
+    - VCID-y1ce-qa2d-jqf2
+- purl: pkg:alpine/ansible-base@2.9.13-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cna8-m6z2-sufr
+    - VCID-nuxn-pk4p-83cw
+    - VCID-y1ce-qa2d-jqf2
+- purl: pkg:alpine/ansible-base@2.9.13-r0?arch=armv7&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cna8-m6z2-sufr
+    - VCID-nuxn-pk4p-83cw
+    - VCID-y1ce-qa2d-jqf2
+- purl: pkg:alpine/ansible-base@2.9.13-r0?arch=armv7&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cna8-m6z2-sufr
+    - VCID-nuxn-pk4p-83cw
+    - VCID-y1ce-qa2d-jqf2
+- purl: pkg:alpine/ansible-base@2.9.13-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cna8-m6z2-sufr
+    - VCID-nuxn-pk4p-83cw
+    - VCID-y1ce-qa2d-jqf2
+- purl: pkg:alpine/ansible-base@2.9.13-r0?arch=mips64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cna8-m6z2-sufr
+    - VCID-nuxn-pk4p-83cw
+    - VCID-y1ce-qa2d-jqf2
+- purl: pkg:alpine/ansible-base@2.9.13-r0?arch=ppc64le&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cna8-m6z2-sufr
+    - VCID-nuxn-pk4p-83cw
+    - VCID-y1ce-qa2d-jqf2
+- purl: pkg:alpine/ansible-base@2.9.13-r0?arch=ppc64le&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cna8-m6z2-sufr
+    - VCID-nuxn-pk4p-83cw
+    - VCID-y1ce-qa2d-jqf2
+- purl: pkg:alpine/ansible-base@2.9.13-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cna8-m6z2-sufr
+    - VCID-nuxn-pk4p-83cw
+    - VCID-y1ce-qa2d-jqf2
+- purl: pkg:alpine/ansible-base@2.9.13-r0?arch=s390x&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cna8-m6z2-sufr
+    - VCID-nuxn-pk4p-83cw
+    - VCID-y1ce-qa2d-jqf2
+- purl: pkg:alpine/ansible-base@2.9.13-r0?arch=s390x&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cna8-m6z2-sufr
+    - VCID-nuxn-pk4p-83cw
+    - VCID-y1ce-qa2d-jqf2
+- purl: pkg:alpine/ansible-base@2.9.13-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cna8-m6z2-sufr
+    - VCID-nuxn-pk4p-83cw
+    - VCID-y1ce-qa2d-jqf2
+- purl: pkg:alpine/ansible-base@2.9.13-r0?arch=x86_64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cna8-m6z2-sufr
+    - VCID-nuxn-pk4p-83cw
+    - VCID-y1ce-qa2d-jqf2
+- purl: pkg:alpine/ansible-base@2.9.13-r0?arch=x86_64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cna8-m6z2-sufr
+    - VCID-nuxn-pk4p-83cw
+    - VCID-y1ce-qa2d-jqf2
+- purl: pkg:alpine/ansible-base@2.9.13-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cna8-m6z2-sufr
+    - VCID-nuxn-pk4p-83cw
+    - VCID-y1ce-qa2d-jqf2
+- purl: pkg:alpine/ansible-base@2.9.13-r0?arch=x86&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cna8-m6z2-sufr
+    - VCID-nuxn-pk4p-83cw
+    - VCID-y1ce-qa2d-jqf2
+- purl: pkg:alpine/ansible-base@2.9.13-r0?arch=x86&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cna8-m6z2-sufr
+    - VCID-nuxn-pk4p-83cw
+    - VCID-y1ce-qa2d-jqf2
+- purl: pkg:alpine/ansible-base@2.9.13-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-cna8-m6z2-sufr
+    - VCID-nuxn-pk4p-83cw
+    - VCID-y1ce-qa2d-jqf2
+- purl: pkg:alpine/ansible-base@2.9.3-r0?arch=aarch64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s3kn-sgfs-yybd
+    - VCID-ynsw-zhfq-1kh6
+- purl: pkg:alpine/ansible-base@2.9.3-r0?arch=aarch64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s3kn-sgfs-yybd
+    - VCID-ynsw-zhfq-1kh6
+- purl: pkg:alpine/ansible-base@2.9.3-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s3kn-sgfs-yybd
+    - VCID-ynsw-zhfq-1kh6
+- purl: pkg:alpine/ansible-base@2.9.3-r0?arch=armhf&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s3kn-sgfs-yybd
+    - VCID-ynsw-zhfq-1kh6
+- purl: pkg:alpine/ansible-base@2.9.3-r0?arch=armhf&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s3kn-sgfs-yybd
+    - VCID-ynsw-zhfq-1kh6
+- purl: pkg:alpine/ansible-base@2.9.3-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s3kn-sgfs-yybd
+    - VCID-ynsw-zhfq-1kh6
+- purl: pkg:alpine/ansible-base@2.9.3-r0?arch=armv7&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s3kn-sgfs-yybd
+    - VCID-ynsw-zhfq-1kh6
+- purl: pkg:alpine/ansible-base@2.9.3-r0?arch=armv7&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s3kn-sgfs-yybd
+    - VCID-ynsw-zhfq-1kh6
+- purl: pkg:alpine/ansible-base@2.9.3-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s3kn-sgfs-yybd
+    - VCID-ynsw-zhfq-1kh6
+- purl: pkg:alpine/ansible-base@2.9.3-r0?arch=mips64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s3kn-sgfs-yybd
+    - VCID-ynsw-zhfq-1kh6
+- purl: pkg:alpine/ansible-base@2.9.3-r0?arch=ppc64le&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s3kn-sgfs-yybd
+    - VCID-ynsw-zhfq-1kh6
+- purl: pkg:alpine/ansible-base@2.9.3-r0?arch=ppc64le&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s3kn-sgfs-yybd
+    - VCID-ynsw-zhfq-1kh6
+- purl: pkg:alpine/ansible-base@2.9.3-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s3kn-sgfs-yybd
+    - VCID-ynsw-zhfq-1kh6
+- purl: pkg:alpine/ansible-base@2.9.3-r0?arch=s390x&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s3kn-sgfs-yybd
+    - VCID-ynsw-zhfq-1kh6
+- purl: pkg:alpine/ansible-base@2.9.3-r0?arch=s390x&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s3kn-sgfs-yybd
+    - VCID-ynsw-zhfq-1kh6
+- purl: pkg:alpine/ansible-base@2.9.3-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s3kn-sgfs-yybd
+    - VCID-ynsw-zhfq-1kh6
+- purl: pkg:alpine/ansible-base@2.9.3-r0?arch=x86_64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s3kn-sgfs-yybd
+    - VCID-ynsw-zhfq-1kh6
+- purl: pkg:alpine/ansible-base@2.9.3-r0?arch=x86_64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s3kn-sgfs-yybd
+    - VCID-ynsw-zhfq-1kh6
+- purl: pkg:alpine/ansible-base@2.9.3-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s3kn-sgfs-yybd
+    - VCID-ynsw-zhfq-1kh6
+- purl: pkg:alpine/ansible-base@2.9.3-r0?arch=x86&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s3kn-sgfs-yybd
+    - VCID-ynsw-zhfq-1kh6
+- purl: pkg:alpine/ansible-base@2.9.3-r0?arch=x86&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s3kn-sgfs-yybd
+    - VCID-ynsw-zhfq-1kh6
+- purl: pkg:alpine/ansible-base@2.9.3-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s3kn-sgfs-yybd
+    - VCID-ynsw-zhfq-1kh6
+- purl: pkg:alpine/ansible-base@2.9.6-r0?arch=aarch64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9eyu-fqmy-n7eg
+- purl: pkg:alpine/ansible-base@2.9.6-r0?arch=aarch64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9eyu-fqmy-n7eg
+- purl: pkg:alpine/ansible-base@2.9.6-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9eyu-fqmy-n7eg
+- purl: pkg:alpine/ansible-base@2.9.6-r0?arch=armhf&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9eyu-fqmy-n7eg
+- purl: pkg:alpine/ansible-base@2.9.6-r0?arch=armhf&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9eyu-fqmy-n7eg
+- purl: pkg:alpine/ansible-base@2.9.6-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9eyu-fqmy-n7eg
+- purl: pkg:alpine/ansible-base@2.9.6-r0?arch=armv7&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9eyu-fqmy-n7eg
+- purl: pkg:alpine/ansible-base@2.9.6-r0?arch=armv7&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9eyu-fqmy-n7eg
+- purl: pkg:alpine/ansible-base@2.9.6-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9eyu-fqmy-n7eg
+- purl: pkg:alpine/ansible-base@2.9.6-r0?arch=mips64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9eyu-fqmy-n7eg
+- purl: pkg:alpine/ansible-base@2.9.6-r0?arch=ppc64le&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9eyu-fqmy-n7eg
+- purl: pkg:alpine/ansible-base@2.9.6-r0?arch=ppc64le&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9eyu-fqmy-n7eg
+- purl: pkg:alpine/ansible-base@2.9.6-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9eyu-fqmy-n7eg
+- purl: pkg:alpine/ansible-base@2.9.6-r0?arch=s390x&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9eyu-fqmy-n7eg
+- purl: pkg:alpine/ansible-base@2.9.6-r0?arch=s390x&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9eyu-fqmy-n7eg
+- purl: pkg:alpine/ansible-base@2.9.6-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9eyu-fqmy-n7eg
+- purl: pkg:alpine/ansible-base@2.9.6-r0?arch=x86_64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9eyu-fqmy-n7eg
+- purl: pkg:alpine/ansible-base@2.9.6-r0?arch=x86_64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9eyu-fqmy-n7eg
+- purl: pkg:alpine/ansible-base@2.9.6-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9eyu-fqmy-n7eg
+- purl: pkg:alpine/ansible-base@2.9.6-r0?arch=x86&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9eyu-fqmy-n7eg
+- purl: pkg:alpine/ansible-base@2.9.6-r0?arch=x86&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9eyu-fqmy-n7eg
+- purl: pkg:alpine/ansible-base@2.9.6-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9eyu-fqmy-n7eg
+- purl: pkg:alpine/ansible-base@2.9.7-r0?arch=aarch64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-884c-8xcm-x3g5
+    - VCID-deds-bqcs-yqhd
+    - VCID-keza-fgv1-qqce
+    - VCID-rduu-x2d1-3yc8
+    - VCID-w4jv-237a-qbek
+    - VCID-zymc-6k67-53ej
+- purl: pkg:alpine/ansible-base@2.9.7-r0?arch=aarch64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-884c-8xcm-x3g5
+    - VCID-deds-bqcs-yqhd
+    - VCID-keza-fgv1-qqce
+    - VCID-rduu-x2d1-3yc8
+    - VCID-w4jv-237a-qbek
+    - VCID-zymc-6k67-53ej
+- purl: pkg:alpine/ansible-base@2.9.7-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-884c-8xcm-x3g5
+    - VCID-deds-bqcs-yqhd
+    - VCID-keza-fgv1-qqce
+    - VCID-rduu-x2d1-3yc8
+    - VCID-w4jv-237a-qbek
+    - VCID-zymc-6k67-53ej
+- purl: pkg:alpine/ansible-base@2.9.7-r0?arch=armhf&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-884c-8xcm-x3g5
+    - VCID-deds-bqcs-yqhd
+    - VCID-keza-fgv1-qqce
+    - VCID-rduu-x2d1-3yc8
+    - VCID-w4jv-237a-qbek
+    - VCID-zymc-6k67-53ej
+- purl: pkg:alpine/ansible-base@2.9.7-r0?arch=armhf&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-884c-8xcm-x3g5
+    - VCID-deds-bqcs-yqhd
+    - VCID-keza-fgv1-qqce
+    - VCID-rduu-x2d1-3yc8
+    - VCID-w4jv-237a-qbek
+    - VCID-zymc-6k67-53ej
+- purl: pkg:alpine/ansible-base@2.9.7-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-884c-8xcm-x3g5
+    - VCID-deds-bqcs-yqhd
+    - VCID-keza-fgv1-qqce
+    - VCID-rduu-x2d1-3yc8
+    - VCID-w4jv-237a-qbek
+    - VCID-zymc-6k67-53ej
+- purl: pkg:alpine/ansible-base@2.9.7-r0?arch=armv7&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-884c-8xcm-x3g5
+    - VCID-deds-bqcs-yqhd
+    - VCID-keza-fgv1-qqce
+    - VCID-rduu-x2d1-3yc8
+    - VCID-w4jv-237a-qbek
+    - VCID-zymc-6k67-53ej
+- purl: pkg:alpine/ansible-base@2.9.7-r0?arch=armv7&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-884c-8xcm-x3g5
+    - VCID-deds-bqcs-yqhd
+    - VCID-keza-fgv1-qqce
+    - VCID-rduu-x2d1-3yc8
+    - VCID-w4jv-237a-qbek
+    - VCID-zymc-6k67-53ej
+- purl: pkg:alpine/ansible-base@2.9.7-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-884c-8xcm-x3g5
+    - VCID-deds-bqcs-yqhd
+    - VCID-keza-fgv1-qqce
+    - VCID-rduu-x2d1-3yc8
+    - VCID-w4jv-237a-qbek
+    - VCID-zymc-6k67-53ej
+- purl: pkg:alpine/ansible-base@2.9.7-r0?arch=mips64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-884c-8xcm-x3g5
+    - VCID-deds-bqcs-yqhd
+    - VCID-keza-fgv1-qqce
+    - VCID-rduu-x2d1-3yc8
+    - VCID-w4jv-237a-qbek
+    - VCID-zymc-6k67-53ej
+- purl: pkg:alpine/ansible-base@2.9.7-r0?arch=ppc64le&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-884c-8xcm-x3g5
+    - VCID-deds-bqcs-yqhd
+    - VCID-keza-fgv1-qqce
+    - VCID-rduu-x2d1-3yc8
+    - VCID-w4jv-237a-qbek
+    - VCID-zymc-6k67-53ej
+- purl: pkg:alpine/ansible-base@2.9.7-r0?arch=ppc64le&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-884c-8xcm-x3g5
+    - VCID-deds-bqcs-yqhd
+    - VCID-keza-fgv1-qqce
+    - VCID-rduu-x2d1-3yc8
+    - VCID-w4jv-237a-qbek
+    - VCID-zymc-6k67-53ej
+- purl: pkg:alpine/ansible-base@2.9.7-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-884c-8xcm-x3g5
+    - VCID-deds-bqcs-yqhd
+    - VCID-keza-fgv1-qqce
+    - VCID-rduu-x2d1-3yc8
+    - VCID-w4jv-237a-qbek
+    - VCID-zymc-6k67-53ej
+- purl: pkg:alpine/ansible-base@2.9.7-r0?arch=s390x&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-884c-8xcm-x3g5
+    - VCID-deds-bqcs-yqhd
+    - VCID-keza-fgv1-qqce
+    - VCID-rduu-x2d1-3yc8
+    - VCID-w4jv-237a-qbek
+    - VCID-zymc-6k67-53ej
+- purl: pkg:alpine/ansible-base@2.9.7-r0?arch=s390x&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-884c-8xcm-x3g5
+    - VCID-deds-bqcs-yqhd
+    - VCID-keza-fgv1-qqce
+    - VCID-rduu-x2d1-3yc8
+    - VCID-w4jv-237a-qbek
+    - VCID-zymc-6k67-53ej
+- purl: pkg:alpine/ansible-base@2.9.7-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-884c-8xcm-x3g5
+    - VCID-deds-bqcs-yqhd
+    - VCID-keza-fgv1-qqce
+    - VCID-rduu-x2d1-3yc8
+    - VCID-w4jv-237a-qbek
+    - VCID-zymc-6k67-53ej
+- purl: pkg:alpine/ansible-base@2.9.7-r0?arch=x86_64&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-884c-8xcm-x3g5
+    - VCID-deds-bqcs-yqhd
+    - VCID-keza-fgv1-qqce
+    - VCID-rduu-x2d1-3yc8
+    - VCID-w4jv-237a-qbek
+    - VCID-zymc-6k67-53ej
+- purl: pkg:alpine/ansible-base@2.9.7-r0?arch=x86_64&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-884c-8xcm-x3g5
+    - VCID-deds-bqcs-yqhd
+    - VCID-keza-fgv1-qqce
+    - VCID-rduu-x2d1-3yc8
+    - VCID-w4jv-237a-qbek
+    - VCID-zymc-6k67-53ej
+- purl: pkg:alpine/ansible-base@2.9.7-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-884c-8xcm-x3g5
+    - VCID-deds-bqcs-yqhd
+    - VCID-keza-fgv1-qqce
+    - VCID-rduu-x2d1-3yc8
+    - VCID-w4jv-237a-qbek
+    - VCID-zymc-6k67-53ej
+- purl: pkg:alpine/ansible-base@2.9.7-r0?arch=x86&distroversion=v3.13&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-884c-8xcm-x3g5
+    - VCID-deds-bqcs-yqhd
+    - VCID-keza-fgv1-qqce
+    - VCID-rduu-x2d1-3yc8
+    - VCID-w4jv-237a-qbek
+    - VCID-zymc-6k67-53ej
+- purl: pkg:alpine/ansible-base@2.9.7-r0?arch=x86&distroversion=v3.14&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-884c-8xcm-x3g5
+    - VCID-deds-bqcs-yqhd
+    - VCID-keza-fgv1-qqce
+    - VCID-rduu-x2d1-3yc8
+    - VCID-w4jv-237a-qbek
+    - VCID-zymc-6k67-53ej
+- purl: pkg:alpine/ansible-base@2.9.7-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-884c-8xcm-x3g5
+    - VCID-deds-bqcs-yqhd
+    - VCID-keza-fgv1-qqce
+    - VCID-rduu-x2d1-3yc8
+    - VCID-w4jv-237a-qbek
+    - VCID-zymc-6k67-53ej

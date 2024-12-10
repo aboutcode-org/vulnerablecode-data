@@ -1,0 +1,68 @@
+vulnerability_id: VCID-ywwc-qbx2-uff1
+aliases:
+  - CVE-2023-39358
+summary:
+severities:
+  - score: '0.00118'
+    scoring_system: epss
+    scoring_elements: '0.46786'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-39358
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/Cacti/cacti/security/advisories/GHSA-gj95-7xr8-9p7g
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:T/P:M/B:A/M:M/D:R/2024-09-26T19:08:55Z/
+    published_at:
+    url: https://github.com/Cacti/cacti/security/advisories/GHSA-gj95-7xr8-9p7g
+  - score: '4.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/CFH3J2WVBKY4ZJNMARVOWJQK6PSLPHFH/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-26T19:08:26Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/CFH3J2WVBKY4ZJNMARVOWJQK6PSLPHFH/
+  - score: '4.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/WOQFYGLZBAWT4AWNMO7DU73QXWPXTCKH/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-26T19:08:26Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/WOQFYGLZBAWT4AWNMO7DU73QXWPXTCKH/
+  - score: '4.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/WZGB2UXJEUYWWA6IWVFQ3ZTP22FIHMGN/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-09-26T19:08:26Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/WZGB2UXJEUYWWA6IWVFQ3ZTP22FIHMGN/
+weaknesses:
+  - CWE-89
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-39358
+    reference_type:
+    reference_id:
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/CFH3J2WVBKY4ZJNMARVOWJQK6PSLPHFH/
+    reference_type:
+    reference_id: CFH3J2WVBKY4ZJNMARVOWJQK6PSLPHFH
+  - url: https://github.com/Cacti/cacti/security/advisories/GHSA-gj95-7xr8-9p7g
+    reference_type:
+    reference_id: GHSA-gj95-7xr8-9p7g
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/WOQFYGLZBAWT4AWNMO7DU73QXWPXTCKH/
+    reference_type:
+    reference_id: WOQFYGLZBAWT4AWNMO7DU73QXWPXTCKH
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/WZGB2UXJEUYWWA6IWVFQ3ZTP22FIHMGN/
+    reference_type:
+    reference_id: WZGB2UXJEUYWWA6IWVFQ3ZTP22FIHMGN

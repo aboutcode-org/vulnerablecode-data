@@ -1,0 +1,67 @@
+vulnerability_id: VCID-8y2s-8mp9-sba7
+aliases:
+  - CVE-2022-26691
+  - MNDT-2022-0026
+summary:
+severities:
+  - score: '6.7'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-26691.json
+  - score: '0.00063'
+    scoring_system: epss
+    scoring_elements: '0.28587'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-26691
+weaknesses:
+  - CWE-288
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-26691.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-26691
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-26691
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://github.com/apple-oss-distributions/cups/commits/cups-499.4/cups/scheduler/cert.c
+    reference_type:
+    reference_id:
+  - url: https://support.apple.com/en-us/HT213183
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1011769
+    reference_type:
+    reference_id: 1011769
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2084321
+    reference_type:
+    reference_id: 2084321
+  - url: https://security.gentoo.org/glsa/202402-17
+    reference_type:
+    reference_id: GLSA-202402-17
+  - url: https://access.redhat.com/errata/RHSA-2022:4990
+    reference_type:
+    reference_id: RHSA-2022:4990
+  - url: https://access.redhat.com/errata/RHSA-2022:5054
+    reference_type:
+    reference_id: RHSA-2022:5054
+  - url: https://access.redhat.com/errata/RHSA-2022:5055
+    reference_type:
+    reference_id: RHSA-2022:5055
+  - url: https://access.redhat.com/errata/RHSA-2022:5056
+    reference_type:
+    reference_id: RHSA-2022:5056
+  - url: https://access.redhat.com/errata/RHSA-2022:5057
+    reference_type:
+    reference_id: RHSA-2022:5057
+  - url: https://usn.ubuntu.com/5454-1/
+    reference_type:
+    reference_id: USN-5454-1
+  - url: https://usn.ubuntu.com/5454-2/
+    reference_type:
+    reference_id: USN-5454-2

@@ -1,0 +1,48 @@
+vulnerability_id: VCID-cwcq-ppy6-sbeg
+aliases:
+  - CVE-2018-19876
+summary:
+severities:
+  - score: '5.9'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-19876.json
+  - score: '0.00092'
+    scoring_system: epss
+    scoring_elements: '0.40073'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-19876
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-826
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-827
+weaknesses: []
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-19876.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-19876
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1661454
+    reference_type:
+    reference_id: 1661454
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=915801
+    reference_type:
+    reference_id: 915801
+  - url: https://security.archlinux.org/ASA-201902-19
+    reference_type:
+    reference_id: ASA-201902-19
+  - url: https://security.archlinux.org/AVG-826
+    reference_type:
+    reference_id: AVG-826
+  - url: https://security.archlinux.org/AVG-827
+    reference_type:
+    reference_id: AVG-827

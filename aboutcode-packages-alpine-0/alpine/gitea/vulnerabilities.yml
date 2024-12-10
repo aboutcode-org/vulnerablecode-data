@@ -1,0 +1,2475 @@
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.11.2-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-r16u-44jn-jkbh
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=aarch64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=armhf&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=armv7&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=ppc64le&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=s390x&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=x86_64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=x86&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.2-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-7ays-7auv-t3ea
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=aarch64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=armhf&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=armv7&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=ppc64le&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=s390x&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=x86_64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=x86&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.4-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-24pc-dtpd-63c7
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=aarch64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=armhf&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=armv7&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=ppc64le&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=s390x&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=x86_64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=x86&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.6-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kwfr-6ayn-fybj
+- purl: pkg:alpine/gitea@1.13.7?arch=aarch64&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7?arch=armhf&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7?arch=armv7&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7?arch=mips64&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7?arch=ppc64le&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7?arch=s390x&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7?arch=x86_64&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7?arch=x86&distroversion=v3.12&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=aarch64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=aarch64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=armhf&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=armhf&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=armv7&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=armv7&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=mips64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=ppc64le&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=ppc64le&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=s390x&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=s390x&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=x86_64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=x86_64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=x86&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=x86&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.13.7-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-fy3c-z9cn-m7ar
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=aarch64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=armhf&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=armv7&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=ppc64le&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=s390x&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=x86_64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=x86&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.14.6-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3ybx-kdxa-2fdn
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.3-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-3jwr-pkh5-p7d8
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.16.7-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-wm7v-xuk6-kyav
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.17.3-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-9ey4-ga21-vfdb
+    - VCID-9kue-6uba-cbdq
+- purl: pkg:alpine/gitea@1.21.3-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/gitea@1.21.3-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/gitea@1.21.3-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/gitea@1.21.3-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/gitea@1.21.3-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/gitea@1.21.3-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/gitea@1.21.3-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/gitea@1.21.3-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/gitea@1.21.3-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/gitea@1.21.3-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/gitea@1.21.3-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/gitea@1.21.3-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/gitea@1.21.3-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/gitea@1.21.3-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/gitea@1.21.3-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/gitea@1.21.3-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/gitea@1.21.3-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/gitea@1.21.3-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/gitea@1.21.3-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/gitea@1.21.3-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/gitea@1.21.3-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/gitea@1.21.3-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/gitea@1.21.3-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/gitea@1.21.3-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-8gtq-mjnj-nuh4
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.1-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-beet-2enc-f7g6
+    - VCID-fqn3-785y-ryhp
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj
+- purl: pkg:alpine/gitea@1.5.2-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-s8pj-v7da-g3aj

@@ -1,0 +1,15 @@
+vulnerability_id: VCID-6e7u-96b7-yqgn
+aliases:
+  - CVE-2019-16062
+summary:
+severities:
+  - score: '0.00079'
+    scoring_system: epss
+    scoring_elements: '0.35198'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-16062
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-16062
+    reference_type:
+    reference_id:

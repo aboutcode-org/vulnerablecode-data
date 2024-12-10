@@ -1,0 +1,31 @@
+vulnerability_id: VCID-5zc2-ma7s-97ag
+aliases:
+  - CVE-2022-36060
+  - GHSA-2x9c-qwgf-94xr
+summary:
+severities:
+  - score: '0.00054'
+    scoring_system: epss
+    scoring_elements: '0.22783'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-36060
+weaknesses:
+  - CWE-1035
+  - CWE-1321
+  - CWE-937
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-36060
+    reference_type:
+    reference_id:
+  - url: https://github.com/matrix-org/matrix-react-sdk/releases/tag/v3.53.0
+    reference_type:
+    reference_id:
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2022-36060
+    reference_type:
+    reference_id: CVE-2022-36060
+  - url: https://github.com/advisories/GHSA-2x9c-qwgf-94xr
+    reference_type:
+    reference_id: GHSA-2x9c-qwgf-94xr
+  - url: https://github.com/matrix-org/matrix-react-sdk/security/advisories/GHSA-2x9c-qwgf-94xr
+    reference_type:
+    reference_id: GHSA-2x9c-qwgf-94xr

@@ -1,0 +1,35 @@
+vulnerability_id: VCID-wmx6-gkw2-mkep
+aliases:
+  - CVE-2020-13938
+summary:
+severities:
+  - score: '6.2'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-13938.json
+  - score: '0.00042'
+    scoring_system: epss
+    scoring_elements: '0.05073'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-13938
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2054
+weaknesses:
+  - CWE-732
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-13938.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-13938
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1970006
+    reference_type:
+    reference_id: '1970006'
+  - url: https://security.archlinux.org/AVG-2054
+    reference_type:
+    reference_id: AVG-2054

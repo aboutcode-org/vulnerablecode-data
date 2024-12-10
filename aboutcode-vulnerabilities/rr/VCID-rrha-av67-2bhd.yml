@@ -1,0 +1,59 @@
+vulnerability_id: VCID-rrha-av67-2bhd
+aliases:
+  - CVE-2023-27533
+summary:
+severities:
+  - score: '4.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-27533.json
+  - score: '0.00227'
+    scoring_system: epss
+    scoring_elements: '0.61137'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-27533
+  - score: Low
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2023-27533.html
+weaknesses:
+  - CWE-75
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-27533.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-27533
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2023-27533.html
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://hackerone.com/reports/1891474
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2179062
+    reference_type:
+    reference_id: 2179062
+  - url: https://security.gentoo.org/glsa/202310-12
+    reference_type:
+    reference_id: GLSA-202310-12
+  - url: https://access.redhat.com/errata/RHSA-2023:3354
+    reference_type:
+    reference_id: RHSA-2023:3354
+  - url: https://access.redhat.com/errata/RHSA-2023:3355
+    reference_type:
+    reference_id: RHSA-2023:3355
+  - url: https://access.redhat.com/errata/RHSA-2023:6679
+    reference_type:
+    reference_id: RHSA-2023:6679
+  - url: https://usn.ubuntu.com/5964-1/
+    reference_type:
+    reference_id: USN-5964-1
+  - url: https://usn.ubuntu.com/5964-2/
+    reference_type:
+    reference_id: USN-5964-2

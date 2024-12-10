@@ -1,0 +1,41 @@
+vulnerability_id: VCID-dtk2-uvbd-9uew
+aliases:
+  - CVE-2021-41244
+summary:
+severities:
+  - score: '9.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-41244.json
+  - score: '0.00307'
+    scoring_system: epss
+    scoring_elements: '0.70253'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-41244
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2559
+weaknesses:
+  - CWE-863
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-41244.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-41244
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2024730
+    reference_type:
+    reference_id: 2024730
+  - url: https://security.archlinux.org/ASA-202111-6
+    reference_type:
+    reference_id: ASA-202111-6
+  - url: https://security.archlinux.org/AVG-2559
+    reference_type:
+    reference_id: AVG-2559

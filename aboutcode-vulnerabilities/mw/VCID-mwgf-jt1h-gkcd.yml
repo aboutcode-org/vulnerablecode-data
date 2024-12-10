@@ -1,0 +1,36 @@
+vulnerability_id: VCID-mwgf-jt1h-gkcd
+aliases:
+  - CVE-2020-1759
+summary:
+severities:
+  - score: '6.4'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:A/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-1759.json
+  - score: '0.00186'
+    scoring_system: epss
+    scoring_elements: '0.56483'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-1759
+weaknesses:
+  - CWE-323
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-1759.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-1759
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1811712
+    reference_type:
+    reference_id: 1811712
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=956139
+    reference_type:
+    reference_id: 956139
+  - url: https://security.gentoo.org/glsa/202105-39
+    reference_type:
+    reference_id: GLSA-202105-39

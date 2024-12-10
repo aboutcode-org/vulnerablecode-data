@@ -1,0 +1,15 @@
+vulnerability_id: VCID-rqwv-6hv5-fyb8
+aliases:
+  - CVE-2024-23770
+summary:
+severities:
+  - score: '0.00042'
+    scoring_system: epss
+    scoring_elements: '0.05073'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-23770
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-23770
+    reference_type:
+    reference_id:

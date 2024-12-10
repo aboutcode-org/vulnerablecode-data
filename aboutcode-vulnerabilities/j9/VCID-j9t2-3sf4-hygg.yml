@@ -1,0 +1,15 @@
+vulnerability_id: VCID-j9t2-3sf4-hygg
+aliases:
+  - CVE-2021-26712
+summary:
+severities:
+  - score: '0.01525'
+    scoring_system: epss
+    scoring_elements: '0.87369'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-26712
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-26712
+    reference_type:
+    reference_id:

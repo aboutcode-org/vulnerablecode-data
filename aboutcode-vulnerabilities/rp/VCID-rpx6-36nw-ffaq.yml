@@ -1,0 +1,59 @@
+vulnerability_id: VCID-rpx6-36nw-ffaq
+aliases:
+  - CVE-2019-10149
+summary:
+severities:
+  - score: '9.0'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-10149.json
+  - score: '0.97421'
+    scoring_system: epss
+    scoring_elements: '0.99952'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-10149
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-982
+weaknesses:
+  - CWE-78
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-10149.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-10149
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-10149
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1715237
+    reference_type:
+    reference_id: 1715237
+  - url: https://security.archlinux.org/AVG-982
+    reference_type:
+    reference_id: AVG-982
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/linux/local/46996.sh
+    reference_type: exploit
+    reference_id: CVE-2019-10149
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/linux/local/47307.rb
+    reference_type: exploit
+    reference_id: CVE-2019-10149
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/linux/remote/46974.txt
+    reference_type: exploit
+    reference_id: CVE-2019-10149
+  - url: https://lwn.net/Articles/790553/
+    reference_type: exploit
+    reference_id: CVE-2019-10149
+  - url: https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/local/exim4_deliver_message_priv_esc.rb
+    reference_type: exploit
+    reference_id: CVE-2019-10149
+  - url: https://security.gentoo.org/glsa/201906-01
+    reference_type:
+    reference_id: GLSA-201906-01
+  - url: https://usn.ubuntu.com/4010-1/
+    reference_type:
+    reference_id: USN-4010-1

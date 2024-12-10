@@ -1,0 +1,45 @@
+- purl: pkg:alpine/botan3@3.5.0-r0?arch=aarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan3@3.5.0-r0?arch=armhf&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan3@3.5.0-r0?arch=armv7&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan3@3.5.0-r0?arch=loongarch64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan3@3.5.0-r0?arch=ppc64le&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan3@3.5.0-r0?arch=riscv64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan3@3.5.0-r0?arch=s390x&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan3@3.5.0-r0?arch=x86_64&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga
+- purl: pkg:alpine/botan3@3.5.0-r0?arch=x86&distroversion=edge&reponame=main
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-2s2x-6r7m-ckfv
+    - VCID-rasm-zrvz-8fga

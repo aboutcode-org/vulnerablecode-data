@@ -1,0 +1,105 @@
+vulnerability_id: VCID-b3d9-zvbr-sydp
+aliases:
+  - CVE-2020-6822
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-6822.json
+  - score: '0.00309'
+    scoring_system: epss
+    scoring_elements: '0.70346'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-6822
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-12
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-13
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-14
+weaknesses:
+  - CWE-119
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-6822.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-6822
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-6819
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-6820
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-6821
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-6822
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-6825
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1821676
+    reference_type:
+    reference_id: 1821676
+  - url: https://security.gentoo.org/glsa/202004-11
+    reference_type:
+    reference_id: GLSA-202004-11
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-12
+    reference_type:
+    reference_id: mfsa2020-12
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-13
+    reference_type:
+    reference_id: mfsa2020-13
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-14
+    reference_type:
+    reference_id: mfsa2020-14
+  - url: https://access.redhat.com/errata/RHSA-2020:1404
+    reference_type:
+    reference_id: RHSA-2020:1404
+  - url: https://access.redhat.com/errata/RHSA-2020:1406
+    reference_type:
+    reference_id: RHSA-2020:1406
+  - url: https://access.redhat.com/errata/RHSA-2020:1420
+    reference_type:
+    reference_id: RHSA-2020:1420
+  - url: https://access.redhat.com/errata/RHSA-2020:1429
+    reference_type:
+    reference_id: RHSA-2020:1429
+  - url: https://access.redhat.com/errata/RHSA-2020:1488
+    reference_type:
+    reference_id: RHSA-2020:1488
+  - url: https://access.redhat.com/errata/RHSA-2020:1489
+    reference_type:
+    reference_id: RHSA-2020:1489
+  - url: https://access.redhat.com/errata/RHSA-2020:1495
+    reference_type:
+    reference_id: RHSA-2020:1495
+  - url: https://access.redhat.com/errata/RHSA-2020:1496
+    reference_type:
+    reference_id: RHSA-2020:1496
+  - url: https://usn.ubuntu.com/4323-1/
+    reference_type:
+    reference_id: USN-4323-1
+  - url: https://usn.ubuntu.com/4328-1/
+    reference_type:
+    reference_id: USN-4328-1
+  - url: https://usn.ubuntu.com/4335-1/
+    reference_type:
+    reference_id: USN-4335-1

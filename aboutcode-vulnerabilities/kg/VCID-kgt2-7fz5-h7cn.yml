@@ -1,0 +1,33 @@
+vulnerability_id: VCID-kgt2-7fz5-h7cn
+aliases:
+  - CVE-2020-1700
+summary:
+severities:
+  - score: '6.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-1700.json
+  - score: '0.00288'
+    scoring_system: epss
+    scoring_elements: '0.69300'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-1700
+weaknesses:
+  - CWE-400
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-1700.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-1700
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1791691
+    reference_type:
+    reference_id: 1791691
+  - url: https://usn.ubuntu.com/4304-1/
+    reference_type:
+    reference_id: USN-4304-1

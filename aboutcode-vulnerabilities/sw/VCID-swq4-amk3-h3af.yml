@@ -1,0 +1,65 @@
+vulnerability_id: VCID-swq4-amk3-h3af
+aliases:
+  - CVE-2022-35252
+summary:
+severities:
+  - score: '3.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-35252.json
+  - score: '0.00146'
+    scoring_system: epss
+    scoring_elements: '0.51268'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-35252
+  - score: Low
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2022-35252.html
+weaknesses:
+  - CWE-1286
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-35252.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-35252
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2022-35252.html
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://hackerone.com/reports/1613943
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1018831
+    reference_type:
+    reference_id: 1018831
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2120718
+    reference_type:
+    reference_id: 2120718
+  - url: https://security.gentoo.org/glsa/202212-01
+    reference_type:
+    reference_id: GLSA-202212-01
+  - url: https://access.redhat.com/errata/RHSA-2022:8840
+    reference_type:
+    reference_id: RHSA-2022:8840
+  - url: https://access.redhat.com/errata/RHSA-2022:8841
+    reference_type:
+    reference_id: RHSA-2022:8841
+  - url: https://access.redhat.com/errata/RHSA-2023:2478
+    reference_type:
+    reference_id: RHSA-2023:2478
+  - url: https://access.redhat.com/errata/RHSA-2023:2963
+    reference_type:
+    reference_id: RHSA-2023:2963
+  - url: https://access.redhat.com/errata/RHSA-2024:0428
+    reference_type:
+    reference_id: RHSA-2024:0428
+  - url: https://usn.ubuntu.com/5587-1/
+    reference_type:
+    reference_id: USN-5587-1

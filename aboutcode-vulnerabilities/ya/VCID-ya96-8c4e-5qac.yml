@@ -1,0 +1,48 @@
+vulnerability_id: VCID-ya96-8c4e-5qac
+aliases:
+  - CVE-2020-8623
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-8623.json
+  - score: '0.02444'
+    scoring_system: epss
+    scoring_elements: '0.90243'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-8623
+weaknesses:
+  - CWE-400
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-8623.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-8623
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1869477
+    reference_type:
+    reference_id: 1869477
+  - url: https://security.gentoo.org/glsa/202008-19
+    reference_type:
+    reference_id: GLSA-202008-19
+  - url: https://access.redhat.com/errata/RHSA-2020:4500
+    reference_type:
+    reference_id: RHSA-2020:4500
+  - url: https://access.redhat.com/errata/RHSA-2020:4992
+    reference_type:
+    reference_id: RHSA-2020:4992
+  - url: https://access.redhat.com/errata/RHSA-2020:5011
+    reference_type:
+    reference_id: RHSA-2020:5011
+  - url: https://access.redhat.com/errata/RHSA-2020:5203
+    reference_type:
+    reference_id: RHSA-2020:5203
+  - url: https://usn.ubuntu.com/4468-1/
+    reference_type:
+    reference_id: USN-4468-1

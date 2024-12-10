@@ -1,0 +1,179 @@
+vulnerability_id: VCID-2b36-zuph-9bb7
+aliases:
+  - CVE-2024-28834
+summary:
+severities:
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:1784
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-03-21T18:20:34Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:1784
+  - score: 5
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:1879
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-03-21T18:00:08Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:1879
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:1997
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-03-21T18:20:34Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:1997
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:2044
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-03-21T18:20:34Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:2044
+  - score: 5
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:2570
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-03-21T18:00:08Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:2570
+  - score: 5
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:2889
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-03-21T18:00:08Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:2889
+  - score: '5.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-28834.json
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/security/cve/CVE-2024-28834
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-03-21T18:20:34Z/
+    published_at:
+    url: https://access.redhat.com/security/cve/CVE-2024-28834
+  - score: '0.00044'
+    scoring_system: epss
+    scoring_elements: '0.13873'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-28834
+  - score: 5
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.gnupg.org/pipermail/gnutls-help/2024-March/004845.html
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-03-21T18:00:08Z/
+    published_at:
+    url: https://lists.gnupg.org/pipermail/gnutls-help/2024-March/004845.html
+weaknesses:
+  - CWE-200
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-28834.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-28834
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://lists.gnupg.org/pipermail/gnutls-help/2024-March/004845.html
+    reference_type:
+    reference_id: 004845.html
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1067464
+    reference_type:
+    reference_id: 1067464
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2269228
+    reference_type:
+    reference_id: 2269228
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:/a:redhat:enterprise_linux:8::appstream
+    reference_type:
+    reference_id: cpe:/a:redhat:enterprise_linux:8::appstream
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:/a:redhat:enterprise_linux:9::appstream
+    reference_type:
+    reference_id: cpe:/a:redhat:enterprise_linux:9::appstream
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:/a:redhat:rhel_eus:8.6::appstream
+    reference_type:
+    reference_id: cpe:/a:redhat:rhel_eus:8.6::appstream
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:/a:redhat:rhel_eus:8.8::appstream
+    reference_type:
+    reference_id: cpe:/a:redhat:rhel_eus:8.8::appstream
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:/a:redhat:rhel_eus:9.2::appstream
+    reference_type:
+    reference_id: cpe:/a:redhat:rhel_eus:9.2::appstream
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:/o:redhat:enterprise_linux:6
+    reference_type:
+    reference_id: cpe:/o:redhat:enterprise_linux:6
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:/o:redhat:enterprise_linux:7
+    reference_type:
+    reference_id: cpe:/o:redhat:enterprise_linux:7
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:/o:redhat:enterprise_linux:8::baseos
+    reference_type:
+    reference_id: cpe:/o:redhat:enterprise_linux:8::baseos
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:/o:redhat:enterprise_linux:9::baseos
+    reference_type:
+    reference_id: cpe:/o:redhat:enterprise_linux:9::baseos
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:/o:redhat:rhel_eus:8.6::baseos
+    reference_type:
+    reference_id: cpe:/o:redhat:rhel_eus:8.6::baseos
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:/o:redhat:rhel_eus:8.8::baseos
+    reference_type:
+    reference_id: cpe:/o:redhat:rhel_eus:8.8::baseos
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:/o:redhat:rhel_eus:9.2::baseos
+    reference_type:
+    reference_id: cpe:/o:redhat:rhel_eus:9.2::baseos
+  - url: https://access.redhat.com/security/cve/CVE-2024-28834
+    reference_type:
+    reference_id: CVE-2024-28834
+  - url: https://access.redhat.com/errata/RHSA-2024:1784
+    reference_type:
+    reference_id: RHSA-2024:1784
+  - url: https://access.redhat.com/errata/RHSA-2024:1879
+    reference_type:
+    reference_id: RHSA-2024:1879
+  - url: https://access.redhat.com/errata/RHSA-2024:1997
+    reference_type:
+    reference_id: RHSA-2024:1997
+  - url: https://access.redhat.com/errata/RHSA-2024:2044
+    reference_type:
+    reference_id: RHSA-2024:2044
+  - url: https://access.redhat.com/errata/RHSA-2024:2570
+    reference_type:
+    reference_id: RHSA-2024:2570
+  - url: https://access.redhat.com/errata/RHSA-2024:2889
+    reference_type:
+    reference_id: RHSA-2024:2889
+  - url: https://usn.ubuntu.com/6733-1/
+    reference_type:
+    reference_id: USN-6733-1
+  - url: https://usn.ubuntu.com/6733-2/
+    reference_type:
+    reference_id: USN-6733-2

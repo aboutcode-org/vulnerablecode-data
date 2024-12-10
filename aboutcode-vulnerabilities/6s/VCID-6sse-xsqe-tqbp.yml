@@ -1,0 +1,98 @@
+vulnerability_id: VCID-6sse-xsqe-tqbp
+aliases:
+  - CVE-2020-1945
+summary:
+severities:
+  - score: '6.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-1945.json
+  - score: '0.00076'
+    scoring_system: epss
+    scoring_elements: '0.33766'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-1945
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1159
+weaknesses:
+  - CWE-377
+  - CWE-1035
+  - CWE-668
+  - CWE-937
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-1945.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-1945
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://lists.apache.org/thread.html/r1863b9ce4c3e4b1e5b0c671ad05545ba3eb8399616aa746af5dfe1b1@%3Cdev.creadur.apache.org%3E
+    reference_type:
+    reference_id:
+  - url: https://lists.apache.org/thread.html/r8e592bbfc016a5dbe2a8c0e81ff99682b9c78c453621b82c14e7b75e%40%3Cdev.ant.apache.org%3E
+    reference_type:
+    reference_id:
+  - url: https://lists.apache.org/thread.html/r95dc943e47a211d29df605e14f86c280fc9fa8d828b2b53bd07673c9@%3Cdev.creadur.apache.org%3E
+    reference_type:
+    reference_id:
+  - url: https://lists.apache.org/thread.html/rd7dda48ff835f4d0293949837d55541bfde3683bd35bd8431e324538@%3Cdev.creadur.apache.org%3E
+    reference_type:
+    reference_id:
+  - url: https://lists.apache.org/thread.html/rda80ac59119558eaec452e58ddfac2ccc9211da1c65f7927682c78b1@%3Cdev.creadur.apache.org%3E
+    reference_type:
+    reference_id:
+  - url: https://lists.apache.org/thread.html/re1ce84518d773a94a613d988771daf9252c9cf7375a9a477009f9735@%3Ccommits.creadur.apache.org%3E
+    reference_type:
+    reference_id:
+  - url: https://lists.apache.org/thread.html/rfd346609527a79662c48b1da3ac500ec30f29f7ddaa3575051e81890@%3Ccommits.creadur.apache.org%3E
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1837444
+    reference_type:
+    reference_id: 1837444
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=960630
+    reference_type:
+    reference_id: 960630
+  - url: https://security.archlinux.org/ASA-202005-15
+    reference_type:
+    reference_id: ASA-202005-15
+  - url: https://security.archlinux.org/AVG-1159
+    reference_type:
+    reference_id: AVG-1159
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2020-1945
+    reference_type:
+    reference_id: CVE-2020-1945
+  - url: https://security.gentoo.org/glsa/202007-34
+    reference_type:
+    reference_id: GLSA-202007-34
+  - url: https://access.redhat.com/errata/RHSA-2020:2618
+    reference_type:
+    reference_id: RHSA-2020:2618
+  - url: https://access.redhat.com/errata/RHSA-2020:4960
+    reference_type:
+    reference_id: RHSA-2020:4960
+  - url: https://access.redhat.com/errata/RHSA-2020:4961
+    reference_type:
+    reference_id: RHSA-2020:4961
+  - url: https://access.redhat.com/errata/RHSA-2021:0423
+    reference_type:
+    reference_id: RHSA-2021:0423
+  - url: https://access.redhat.com/errata/RHSA-2021:0429
+    reference_type:
+    reference_id: RHSA-2021:0429
+  - url: https://access.redhat.com/errata/RHSA-2021:0637
+    reference_type:
+    reference_id: RHSA-2021:0637
+  - url: https://usn.ubuntu.com/4380-1/
+    reference_type:
+    reference_id: USN-4380-1
+  - url: https://usn.ubuntu.com/USN-4874-1/
+    reference_type:
+    reference_id: USN-USN-4874-1

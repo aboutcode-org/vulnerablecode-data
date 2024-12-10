@@ -1,0 +1,60 @@
+vulnerability_id: VCID-1wf3-5mx9-s7gk
+aliases:
+  - CVE-2022-29187
+summary:
+severities:
+  - score: '7.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-29187.json
+  - score: '0.00046'
+    scoring_system: epss
+    scoring_elements: '0.17871'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-29187
+  - score: Unknown
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2778
+weaknesses:
+  - CWE-282
+  - CWE-427
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-29187.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-29187
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1014848
+    reference_type:
+    reference_id: 1014848
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2107439
+    reference_type:
+    reference_id: 2107439
+  - url: https://security.archlinux.org/AVG-2778
+    reference_type:
+    reference_id: AVG-2778
+  - url: https://security.gentoo.org/glsa/202312-15
+    reference_type:
+    reference_id: GLSA-202312-15
+  - url: https://security.gentoo.org/glsa/202401-17
+    reference_type:
+    reference_id: GLSA-202401-17
+  - url: https://access.redhat.com/errata/RHSA-2023:2319
+    reference_type:
+    reference_id: RHSA-2023:2319
+  - url: https://access.redhat.com/errata/RHSA-2023:2859
+    reference_type:
+    reference_id: RHSA-2023:2859
+  - url: https://access.redhat.com/errata/RHSA-2024:0407
+    reference_type:
+    reference_id: RHSA-2024:0407
+  - url: https://usn.ubuntu.com/5511-1/
+    reference_type:
+    reference_id: USN-5511-1

@@ -1,0 +1,24 @@
+vulnerability_id: VCID-j1n8-uuzs-1qcr
+aliases:
+  - CVE-2023-51766
+summary:
+severities:
+  - score: '0.00276'
+    scoring_system: epss
+    scoring_elements: '0.68556'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-51766
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-51766
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1059387
+    reference_type:
+    reference_id: 1059387
+  - url: https://security.gentoo.org/glsa/202402-18
+    reference_type:
+    reference_id: GLSA-202402-18
+  - url: https://usn.ubuntu.com/6611-1/
+    reference_type:
+    reference_id: USN-6611-1

@@ -1,0 +1,42 @@
+vulnerability_id: VCID-gmrv-9c37-yua3
+aliases:
+  - CVE-2022-30184
+summary:
+severities:
+  - score: '5.0'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-30184.json
+  - score: '0.00265'
+    scoring_system: epss
+    scoring_elements: '0.66446'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-30184
+weaknesses:
+  - CWE-212
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-30184.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-30184
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2096963
+    reference_type:
+    reference_id: 2096963
+  - url: https://access.redhat.com/errata/RHSA-2022:5046
+    reference_type:
+    reference_id: RHSA-2022:5046
+  - url: https://access.redhat.com/errata/RHSA-2022:5047
+    reference_type:
+    reference_id: RHSA-2022:5047
+  - url: https://access.redhat.com/errata/RHSA-2022:5050
+    reference_type:
+    reference_id: RHSA-2022:5050
+  - url: https://access.redhat.com/errata/RHSA-2022:5061
+    reference_type:
+    reference_id: RHSA-2022:5061
+  - url: https://access.redhat.com/errata/RHSA-2022:5062
+    reference_type:
+    reference_id: RHSA-2022:5062
