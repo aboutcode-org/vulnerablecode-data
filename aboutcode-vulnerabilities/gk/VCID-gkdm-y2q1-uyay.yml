@@ -1,0 +1,101 @@
+vulnerability_id: VCID-gkdm-y2q1-uyay
+aliases:
+  - CVE-2017-9798
+summary:
+severities:
+  - score: '5.9'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-9798.json
+  - score: '0.97394'
+    scoring_system: epss
+    scoring_elements: '0.99940'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2017-9798
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-404
+weaknesses:
+  - CWE-416
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-9798.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2017-9798
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-9798
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1490344
+    reference_type:
+    reference_id: 1490344
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=876109
+    reference_type:
+    reference_id: 876109
+  - url: https://security.archlinux.org/ASA-201709-15
+    reference_type:
+    reference_id: ASA-201709-15
+  - url: https://security.archlinux.org/AVG-404
+    reference_type:
+    reference_id: AVG-404
+  - url: https://github.com/hannob/optionsbleed/blob/e297ce13cfb0f338b2cabfb81a70349fd6925f82/optionsbleed
+    reference_type: exploit
+    reference_id: CVE-2017-9798;OPTIONSBLEED
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/linux/webapps/42745.py
+    reference_type: exploit
+    reference_id: CVE-2017-9798;OPTIONSBLEED
+  - url: https://security.gentoo.org/glsa/201710-32
+    reference_type:
+    reference_id: GLSA-201710-32
+  - url: https://access.redhat.com/errata/RHSA-2017:2882
+    reference_type:
+    reference_id: RHSA-2017:2882
+  - url: https://access.redhat.com/errata/RHSA-2017:2972
+    reference_type:
+    reference_id: RHSA-2017:2972
+  - url: https://access.redhat.com/errata/RHSA-2017:3018
+    reference_type:
+    reference_id: RHSA-2017:3018
+  - url: https://access.redhat.com/errata/RHSA-2017:3113
+    reference_type:
+    reference_id: RHSA-2017:3113
+  - url: https://access.redhat.com/errata/RHSA-2017:3114
+    reference_type:
+    reference_id: RHSA-2017:3114
+  - url: https://access.redhat.com/errata/RHSA-2017:3193
+    reference_type:
+    reference_id: RHSA-2017:3193
+  - url: https://access.redhat.com/errata/RHSA-2017:3194
+    reference_type:
+    reference_id: RHSA-2017:3194
+  - url: https://access.redhat.com/errata/RHSA-2017:3195
+    reference_type:
+    reference_id: RHSA-2017:3195
+  - url: https://access.redhat.com/errata/RHSA-2017:3239
+    reference_type:
+    reference_id: RHSA-2017:3239
+  - url: https://access.redhat.com/errata/RHSA-2017:3240
+    reference_type:
+    reference_id: RHSA-2017:3240
+  - url: https://access.redhat.com/errata/RHSA-2017:3475
+    reference_type:
+    reference_id: RHSA-2017:3475
+  - url: https://access.redhat.com/errata/RHSA-2017:3476
+    reference_type:
+    reference_id: RHSA-2017:3476
+  - url: https://access.redhat.com/errata/RHSA-2017:3477
+    reference_type:
+    reference_id: RHSA-2017:3477
+  - url: https://usn.ubuntu.com/3425-1/
+    reference_type:
+    reference_id: USN-3425-1
+  - url: https://usn.ubuntu.com/3425-2/
+    reference_type:
+    reference_id: USN-3425-2

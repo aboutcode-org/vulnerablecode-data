@@ -1,0 +1,44 @@
+vulnerability_id: VCID-j3jx-d5qb-tkb1
+aliases:
+  - CVE-2023-43622
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-43622.json
+  - score: '0.00063'
+    scoring_system: epss
+    scoring_elements: '0.28435'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-43622
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:P/P:M/B:A/M:M/D:T/2024-09-11T16:02:28Z/
+    published_at:
+    url: https://security.netapp.com/advisory/ntap-20231027-0011/
+weaknesses:
+  - CWE-400
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-43622.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-43622
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2245153
+    reference_type:
+    reference_id: 2245153
+  - url: https://security.netapp.com/advisory/ntap-20231027-0011/
+    reference_type:
+    reference_id: ntap-20231027-0011
+  - url: https://access.redhat.com/errata/RHSA-2024:2368
+    reference_type:
+    reference_id: RHSA-2024:2368
+  - url: https://usn.ubuntu.com/6506-1/
+    reference_type:
+    reference_id: USN-6506-1

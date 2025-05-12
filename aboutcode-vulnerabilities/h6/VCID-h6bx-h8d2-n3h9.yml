@@ -1,0 +1,31 @@
+vulnerability_id: VCID-h6bx-h8d2-n3h9
+aliases:
+  - CVE-2021-23957
+summary:
+severities:
+  - score: '0.00081'
+    scoring_system: epss
+    scoring_elements: '0.35596'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-23957
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1493
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-03
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-23957
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/AVG-1493
+    reference_type:
+    reference_id: AVG-1493
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-03
+    reference_type:
+    reference_id: mfsa2021-03

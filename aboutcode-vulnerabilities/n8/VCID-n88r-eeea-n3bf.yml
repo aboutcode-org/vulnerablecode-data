@@ -1,0 +1,130 @@
+vulnerability_id: VCID-n88r-eeea-n3bf
+aliases:
+  - CVE-2020-26976
+summary:
+severities:
+  - score: '6.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-26976.json
+  - score: '0.00596'
+    scoring_system: epss
+    scoring_elements: '0.78713'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-26976
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1362
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1496
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-54
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-04
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-05
+weaknesses:
+  - CWE-200
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-26976.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-26976
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15685
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-16044
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-26976
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23953
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23954
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23960
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23964
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1920649
+    reference_type:
+    reference_id: '1920649'
+  - url: https://security.archlinux.org/ASA-202012-25
+    reference_type:
+    reference_id: ASA-202012-25
+  - url: https://security.archlinux.org/ASA-202102-2
+    reference_type:
+    reference_id: ASA-202102-2
+  - url: https://security.archlinux.org/AVG-1362
+    reference_type:
+    reference_id: AVG-1362
+  - url: https://security.archlinux.org/AVG-1496
+    reference_type:
+    reference_id: AVG-1496
+  - url: https://security.gentoo.org/glsa/202102-02
+    reference_type:
+    reference_id: GLSA-202102-02
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-54
+    reference_type:
+    reference_id: mfsa2020-54
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-04
+    reference_type:
+    reference_id: mfsa2021-04
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-05
+    reference_type:
+    reference_id: mfsa2021-05
+  - url: https://access.redhat.com/errata/RHSA-2021:0285
+    reference_type:
+    reference_id: RHSA-2021:0285
+  - url: https://access.redhat.com/errata/RHSA-2021:0288
+    reference_type:
+    reference_id: RHSA-2021:0288
+  - url: https://access.redhat.com/errata/RHSA-2021:0289
+    reference_type:
+    reference_id: RHSA-2021:0289
+  - url: https://access.redhat.com/errata/RHSA-2021:0290
+    reference_type:
+    reference_id: RHSA-2021:0290
+  - url: https://access.redhat.com/errata/RHSA-2021:0297
+    reference_type:
+    reference_id: RHSA-2021:0297
+  - url: https://access.redhat.com/errata/RHSA-2021:0298
+    reference_type:
+    reference_id: RHSA-2021:0298
+  - url: https://access.redhat.com/errata/RHSA-2021:0299
+    reference_type:
+    reference_id: RHSA-2021:0299
+  - url: https://access.redhat.com/errata/RHSA-2021:0397
+    reference_type:
+    reference_id: RHSA-2021:0397
+  - url: https://usn.ubuntu.com/4671-1/
+    reference_type:
+    reference_id: USN-4671-1
+  - url: https://usn.ubuntu.com/4736-1/
+    reference_type:
+    reference_id: USN-4736-1

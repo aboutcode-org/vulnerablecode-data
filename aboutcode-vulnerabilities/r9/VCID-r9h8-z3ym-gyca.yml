@@ -1,0 +1,59 @@
+vulnerability_id: VCID-r9h8-z3ym-gyca
+aliases:
+  - CVE-2017-14495
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-14495.json
+  - score: '0.89944'
+    scoring_system: epss
+    scoring_elements: '0.98879'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2017-14495
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-421
+weaknesses:
+  - CWE-400
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-14495.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2017-14495
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1495415
+    reference_type:
+    reference_id: 1495415
+  - url: https://security.archlinux.org/ASA-201710-1
+    reference_type:
+    reference_id: ASA-201710-1
+  - url: https://security.archlinux.org/AVG-421
+    reference_type:
+    reference_id: AVG-421
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/multiple/dos/42945.py
+    reference_type: exploit
+    reference_id: CVE-2017-14495
+  - url: https://raw.githubusercontent.com/google/security-research-pocs/master/vulnerabilities/dnsmasq/CVE-2017-14495.py
+    reference_type: exploit
+    reference_id: CVE-2017-14495
+  - url: https://security.gentoo.org/glsa/201710-27
+    reference_type:
+    reference_id: GLSA-201710-27
+  - url: https://access.redhat.com/errata/RHSA-2017:2836
+    reference_type:
+    reference_id: RHSA-2017:2836
+  - url: https://usn.ubuntu.com/3430-1/
+    reference_type:
+    reference_id: USN-3430-1
+  - url: https://usn.ubuntu.com/3430-2/
+    reference_type:
+    reference_id: USN-3430-2

@@ -1,0 +1,15 @@
+vulnerability_id: VCID-buq5-ef47-c3av
+aliases:
+  - CVE-2020-25646
+summary:
+severities:
+  - score: '0.00168'
+    scoring_system: epss
+    scoring_elements: '0.54292'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-25646
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-25646
+    reference_type:
+    reference_id:

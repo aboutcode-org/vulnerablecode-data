@@ -1,0 +1,86 @@
+vulnerability_id: VCID-3ayg-ck6y-gqf9
+aliases:
+  - CVE-2023-44442
+summary:
+severities:
+  - score: '7.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-44442.json
+  - score: '0.00046'
+    scoring_system: epss
+    scoring_elements: '0.17114'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-44442
+  - score: '7.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://www.gimp.org/news/2023/11/07/gimp-2-10-36-released/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-06-05T15:16:52Z/
+    published_at:
+    url: https://www.gimp.org/news/2023/11/07/gimp-2-10-36-released/
+  - score: '7.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://www.zerodayinitiative.com/advisories/ZDI-23-1594/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-19T13:15:13Z/
+    published_at:
+    url: https://www.zerodayinitiative.com/advisories/ZDI-23-1594/
+weaknesses:
+  - CWE-122
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-44442.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-44442
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1055984
+    reference_type:
+    reference_id: 1055984
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2249942
+    reference_type:
+    reference_id: 2249942
+  - url: https://www.gimp.org/news/2023/11/07/gimp-2-10-36-released/
+    reference_type:
+    reference_id: gimp-2-10-36-released
+  - url: https://access.redhat.com/errata/RHSA-2024:0675
+    reference_type:
+    reference_id: RHSA-2024:0675
+  - url: https://access.redhat.com/errata/RHSA-2024:0702
+    reference_type:
+    reference_id: RHSA-2024:0702
+  - url: https://access.redhat.com/errata/RHSA-2024:0716
+    reference_type:
+    reference_id: RHSA-2024:0716
+  - url: https://access.redhat.com/errata/RHSA-2024:0861
+    reference_type:
+    reference_id: RHSA-2024:0861
+  - url: https://access.redhat.com/errata/RHSA-2024:0862
+    reference_type:
+    reference_id: RHSA-2024:0862
+  - url: https://access.redhat.com/errata/RHSA-2024:0863
+    reference_type:
+    reference_id: RHSA-2024:0863
+  - url: https://access.redhat.com/errata/RHSA-2024:1007
+    reference_type:
+    reference_id: RHSA-2024:1007
+  - url: https://access.redhat.com/errata/RHSA-2024:1327
+    reference_type:
+    reference_id: RHSA-2024:1327
+  - url: https://usn.ubuntu.com/6521-1/
+    reference_type:
+    reference_id: USN-6521-1
+  - url: https://www.zerodayinitiative.com/advisories/ZDI-23-1594/
+    reference_type:
+    reference_id: ZDI-23-1594

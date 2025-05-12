@@ -1,0 +1,28 @@
+vulnerability_id: VCID-jdez-ar54-53em
+aliases:
+  - CVE-2020-24979
+summary:
+severities:
+  - score: '5.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-24979.json
+  - score: '0.00241'
+    scoring_system: epss
+    scoring_elements: '0.64437'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-24979
+weaknesses:
+  - CWE-20
+  - CWE-122
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-24979.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-24979
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1877772
+    reference_type:
+    reference_id: 1877772

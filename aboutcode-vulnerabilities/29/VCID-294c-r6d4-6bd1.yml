@@ -1,0 +1,26 @@
+vulnerability_id: VCID-294c-r6d4-6bd1
+aliases:
+  - CVE-2022-1637
+summary:
+severities:
+  - score: '0.00134'
+    scoring_system: epss
+    scoring_elements: '0.49497'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-1637
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2720
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-1637
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/AVG-2720
+    reference_type:
+    reference_id: AVG-2720
+  - url: https://security.gentoo.org/glsa/202208-25
+    reference_type:
+    reference_id: GLSA-202208-25

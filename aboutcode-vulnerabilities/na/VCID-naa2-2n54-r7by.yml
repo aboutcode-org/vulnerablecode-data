@@ -1,0 +1,111 @@
+vulnerability_id: VCID-naa2-2n54-r7by
+aliases:
+  - CVE-2018-1000005
+summary:
+severities:
+  - score: '4.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-1000005.json
+  - score: '0.00653'
+    scoring_system: epss
+    scoring_elements: '0.79788'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-1000005
+  - score: Low
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2018-1000005.html
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-593
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-594
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-595
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-596
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-597
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-598
+weaknesses:
+  - CWE-125
+  - CWE-126
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-1000005.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-1000005
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2018-1000005.html
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1536013
+    reference_type:
+    reference_id: 1536013
+  - url: https://security.archlinux.org/ASA-201801-20
+    reference_type:
+    reference_id: ASA-201801-20
+  - url: https://security.archlinux.org/ASA-201801-22
+    reference_type:
+    reference_id: ASA-201801-22
+  - url: https://security.archlinux.org/ASA-201801-23
+    reference_type:
+    reference_id: ASA-201801-23
+  - url: https://security.archlinux.org/ASA-201801-24
+    reference_type:
+    reference_id: ASA-201801-24
+  - url: https://security.archlinux.org/ASA-201801-25
+    reference_type:
+    reference_id: ASA-201801-25
+  - url: https://security.archlinux.org/ASA-201801-26
+    reference_type:
+    reference_id: ASA-201801-26
+  - url: https://security.archlinux.org/AVG-593
+    reference_type:
+    reference_id: AVG-593
+  - url: https://security.archlinux.org/AVG-594
+    reference_type:
+    reference_id: AVG-594
+  - url: https://security.archlinux.org/AVG-595
+    reference_type:
+    reference_id: AVG-595
+  - url: https://security.archlinux.org/AVG-596
+    reference_type:
+    reference_id: AVG-596
+  - url: https://security.archlinux.org/AVG-597
+    reference_type:
+    reference_id: AVG-597
+  - url: https://security.archlinux.org/AVG-598
+    reference_type:
+    reference_id: AVG-598
+  - url: https://security.gentoo.org/glsa/201804-04
+    reference_type:
+    reference_id: GLSA-201804-04
+  - url: https://access.redhat.com/errata/RHSA-2019:1543
+    reference_type:
+    reference_id: RHSA-2019:1543
+  - url: https://usn.ubuntu.com/3554-1/
+    reference_type:
+    reference_id: USN-3554-1

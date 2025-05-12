@@ -1,0 +1,15 @@
+vulnerability_id: VCID-zczy-2hcd-k3f8
+aliases:
+  - CVE-2022-2831
+summary:
+severities:
+  - score: '0.00188'
+    scoring_system: epss
+    scoring_elements: '0.56751'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-2831
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-2831
+    reference_type:
+    reference_id:

@@ -1,0 +1,35 @@
+vulnerability_id: VCID-2b66-4asq-yyfh
+aliases:
+  - CVE-2022-20792
+summary:
+severities:
+  - score: '0.00073'
+    scoring_system: epss
+    scoring_elements: '0.32557'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-20792
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2722
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-20792
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/AVG-2722
+    reference_type:
+    reference_id: AVG-2722
+  - url: https://security.gentoo.org/glsa/202310-01
+    reference_type:
+    reference_id: GLSA-202310-01
+  - url: https://usn.ubuntu.com/5423-1/
+    reference_type:
+    reference_id: USN-5423-1
+  - url: https://usn.ubuntu.com/5423-2/
+    reference_type:
+    reference_id: USN-5423-2

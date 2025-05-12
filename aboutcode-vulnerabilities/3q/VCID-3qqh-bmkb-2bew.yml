@@ -1,0 +1,97 @@
+vulnerability_id: VCID-3qqh-bmkb-2bew
+aliases:
+  - CVE-2024-21392
+  - GHSA-5fxj-whcv-crrc
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-21392.json
+  - score: '0.00046'
+    scoring_system: epss
+    scoring_elements: '0.17845'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-21392
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:P/RL:O/RC:C
+    published_at:
+    url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21392
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:P/P:M/B:A/M:M/D:T/2024-03-12T19:02:46Z/
+    published_at:
+    url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21392
+weaknesses:
+  - CWE-400
+  - CWE-937
+  - CWE-1035
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-21392.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-21392
+    reference_type:
+    reference_id:
+  - url: https://github.com/dotnet/announcements/issues/299
+    reference_type:
+    reference_id:
+  - url: https://github.com/dotnet/runtime
+    reference_type:
+    reference_id:
+  - url: https://github.com/dotnet/runtime/commit/5a958edb63110d8090c92fd34e2ae6379b23f4db
+    reference_type:
+    reference_id:
+  - url: https://github.com/dotnet/runtime/commit/e597140113b0bcfb47f80bc2a03c17a98fac14f3
+    reference_type:
+    reference_id:
+  - url: https://github.com/dotnet/runtime/issues/99621
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2268266
+    reference_type:
+    reference_id: 2268266
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:.net:7.0.0:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:.net:7.0.0:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:.net:8.0.0:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:.net:8.0.0:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:powershell:7.3:-:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:powershell:7.3:-:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:visual_studio:2022:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:visual_studio:2022:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:visual_studio_2022:17.4:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:visual_studio_2022:17.4:*:*:*:*:*:*:*
+  - url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21392
+    reference_type:
+    reference_id: CVE-2024-21392
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2024-21392
+    reference_type:
+    reference_id: CVE-2024-21392
+  - url: https://github.com/advisories/GHSA-5fxj-whcv-crrc
+    reference_type:
+    reference_id: GHSA-5fxj-whcv-crrc
+  - url: https://github.com/dotnet/runtime/security/advisories/GHSA-5fxj-whcv-crrc
+    reference_type:
+    reference_id: GHSA-5fxj-whcv-crrc
+  - url: https://access.redhat.com/errata/RHSA-2024:1308
+    reference_type:
+    reference_id: RHSA-2024:1308
+  - url: https://access.redhat.com/errata/RHSA-2024:1309
+    reference_type:
+    reference_id: RHSA-2024:1309
+  - url: https://access.redhat.com/errata/RHSA-2024:1310
+    reference_type:
+    reference_id: RHSA-2024:1310
+  - url: https://access.redhat.com/errata/RHSA-2024:1311
+    reference_type:
+    reference_id: RHSA-2024:1311
+  - url: https://usn.ubuntu.com/6693-1/
+    reference_type:
+    reference_id: USN-6693-1

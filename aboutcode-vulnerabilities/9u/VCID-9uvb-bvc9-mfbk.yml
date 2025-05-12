@@ -1,0 +1,24 @@
+vulnerability_id: VCID-9uvb-bvc9-mfbk
+aliases:
+  - CVE-2019-3500
+summary:
+severities:
+  - score: '0.00042'
+    scoring_system: epss
+    scoring_elements: '0.05073'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-3500
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-3500
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=918058
+    reference_type:
+    reference_id: 918058
+  - url: https://usn.ubuntu.com/3965-1/
+    reference_type:
+    reference_id: USN-3965-1
+  - url: https://usn.ubuntu.com/USN-4869-1/
+    reference_type:
+    reference_id: USN-USN-4869-1

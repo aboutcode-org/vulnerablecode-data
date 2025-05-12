@@ -1,0 +1,48 @@
+vulnerability_id: VCID-3zz5-a193-77d1
+aliases:
+  - CVE-2018-10906
+summary:
+severities:
+  - score: '5.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-10906.json
+  - score: '0.00134'
+    scoring_system: epss
+    scoring_elements: '0.49474'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-10906
+weaknesses:
+  - CWE-285
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-10906.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-10906
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-10906
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1602996
+    reference_type:
+    reference_id: 1602996
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=904439
+    reference_type:
+    reference_id: 904439
+  - url: https://bugs.chromium.org/p/project-zero/issues/detail?id=1616
+    reference_type: exploit
+    reference_id: CVE-2018-10906
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/linux/dos/45106.c
+    reference_type: exploit
+    reference_id: CVE-2018-10906
+  - url: https://access.redhat.com/errata/RHSA-2018:3324
+    reference_type:
+    reference_id: RHSA-2018:3324
+  - url: https://usn.ubuntu.com/5326-1/
+    reference_type:
+    reference_id: USN-5326-1

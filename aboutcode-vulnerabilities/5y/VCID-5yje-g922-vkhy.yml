@@ -1,0 +1,122 @@
+vulnerability_id: VCID-5yje-g922-vkhy
+aliases:
+  - CVE-2021-3114
+summary:
+severities:
+  - score: '6.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-3114.json
+  - score: '0.01435'
+    scoring_system: epss
+    scoring_elements: '0.86886'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-3114
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1481
+weaknesses:
+  - CWE-682
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-3114.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-3114
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15586
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-16845
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7919
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3114
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1918750
+    reference_type:
+    reference_id: '1918750'
+  - url: https://security.archlinux.org/ASA-202101-27
+    reference_type:
+    reference_id: ASA-202101-27
+  - url: https://security.archlinux.org/AVG-1481
+    reference_type:
+    reference_id: AVG-1481
+  - url: https://security.gentoo.org/glsa/202208-02
+    reference_type:
+    reference_id: GLSA-202208-02
+  - url: https://access.redhat.com/errata/RHSA-2021:0957
+    reference_type:
+    reference_id: RHSA-2021:0957
+  - url: https://access.redhat.com/errata/RHSA-2021:0958
+    reference_type:
+    reference_id: RHSA-2021:0958
+  - url: https://access.redhat.com/errata/RHSA-2021:1006
+    reference_type:
+    reference_id: RHSA-2021:1006
+  - url: https://access.redhat.com/errata/RHSA-2021:1338
+    reference_type:
+    reference_id: RHSA-2021:1338
+  - url: https://access.redhat.com/errata/RHSA-2021:1339
+    reference_type:
+    reference_id: RHSA-2021:1339
+  - url: https://access.redhat.com/errata/RHSA-2021:1366
+    reference_type:
+    reference_id: RHSA-2021:1366
+  - url: https://access.redhat.com/errata/RHSA-2021:1551
+    reference_type:
+    reference_id: RHSA-2021:1551
+  - url: https://access.redhat.com/errata/RHSA-2021:1746
+    reference_type:
+    reference_id: RHSA-2021:1746
+  - url: https://access.redhat.com/errata/RHSA-2021:2021
+    reference_type:
+    reference_id: RHSA-2021:2021
+  - url: https://access.redhat.com/errata/RHSA-2021:2041
+    reference_type:
+    reference_id: RHSA-2021:2041
+  - url: https://access.redhat.com/errata/RHSA-2021:2093
+    reference_type:
+    reference_id: RHSA-2021:2093
+  - url: https://access.redhat.com/errata/RHSA-2021:2095
+    reference_type:
+    reference_id: RHSA-2021:2095
+  - url: https://access.redhat.com/errata/RHSA-2021:2437
+    reference_type:
+    reference_id: RHSA-2021:2437
+  - url: https://access.redhat.com/errata/RHSA-2021:2438
+    reference_type:
+    reference_id: RHSA-2021:2438
+  - url: https://access.redhat.com/errata/RHSA-2021:2532
+    reference_type:
+    reference_id: RHSA-2021:2532
+  - url: https://access.redhat.com/errata/RHSA-2021:2543
+    reference_type:
+    reference_id: RHSA-2021:2543
+  - url: https://access.redhat.com/errata/RHSA-2021:2920
+    reference_type:
+    reference_id: RHSA-2021:2920
+  - url: https://access.redhat.com/errata/RHSA-2021:3119
+    reference_type:
+    reference_id: RHSA-2021:3119
+  - url: https://access.redhat.com/errata/RHSA-2021:3748
+    reference_type:
+    reference_id: RHSA-2021:3748
+  - url: https://access.redhat.com/errata/RHSA-2021:4103
+    reference_type:
+    reference_id: RHSA-2021:4103
+  - url: https://access.redhat.com/errata/RHSA-2021:4226
+    reference_type:
+    reference_id: RHSA-2021:4226
+  - url: https://access.redhat.com/errata/RHSA-2022:0308
+    reference_type:
+    reference_id: RHSA-2022:0308

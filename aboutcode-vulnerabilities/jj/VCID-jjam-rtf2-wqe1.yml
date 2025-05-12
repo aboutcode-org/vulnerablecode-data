@@ -1,0 +1,15 @@
+vulnerability_id: VCID-jjam-rtf2-wqe1
+aliases:
+  - CVE-2022-23538
+summary:
+severities:
+  - score: '0.00097'
+    scoring_system: epss
+    scoring_elements: '0.41362'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-23538
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-23538
+    reference_type:
+    reference_id:

@@ -1,0 +1,46 @@
+vulnerability_id: VCID-6hhp-u7hp-n7gm
+aliases:
+  - CVE-2023-42115
+summary:
+severities:
+  - score: '9.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-42115.json
+  - score: '0.00065'
+    scoring_system: epss
+    scoring_elements: '0.29847'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-42115
+  - score: '9.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://www.zerodayinitiative.com/advisories/ZDI-23-1469/
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:T/P:M/B:A/M:M/D:R/2024-09-20T19:32:20Z/
+    published_at:
+    url: https://www.zerodayinitiative.com/advisories/ZDI-23-1469/
+weaknesses:
+  - CWE-787
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-42115.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-42115
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2241525
+    reference_type:
+    reference_id: 2241525
+  - url: https://security.gentoo.org/glsa/202402-18
+    reference_type:
+    reference_id: GLSA-202402-18
+  - url: https://usn.ubuntu.com/6411-1/
+    reference_type:
+    reference_id: USN-6411-1
+  - url: https://www.zerodayinitiative.com/advisories/ZDI-23-1469/
+    reference_type:
+    reference_id: ZDI-23-1469

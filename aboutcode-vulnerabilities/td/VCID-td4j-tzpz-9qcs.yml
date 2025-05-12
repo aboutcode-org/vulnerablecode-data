@@ -1,0 +1,36 @@
+vulnerability_id: VCID-td4j-tzpz-9qcs
+aliases:
+  - CVE-2022-2881
+summary:
+severities:
+  - score: '5.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:L/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-2881.json
+  - score: '0.00126'
+    scoring_system: epss
+    scoring_elements: '0.48081'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-2881
+weaknesses:
+  - CWE-126
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-2881.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-2881
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2128594
+    reference_type:
+    reference_id: 2128594
+  - url: https://security.gentoo.org/glsa/202210-25
+    reference_type:
+    reference_id: GLSA-202210-25
+  - url: https://usn.ubuntu.com/5626-1/
+    reference_type:
+    reference_id: USN-5626-1

@@ -1,0 +1,43 @@
+vulnerability_id: VCID-basx-4q9w-77ge
+aliases:
+  - CVE-2022-21673
+summary:
+severities:
+  - score: '4.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-21673.json
+  - score: '0.00110'
+    scoring_system: epss
+    scoring_elements: '0.45013'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-21673
+weaknesses:
+  - CWE-200
+  - CWE-201
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-21673.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-21673
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2044628
+    reference_type:
+    reference_id: 2044628
+  - url: https://access.redhat.com/errata/RHSA-2022:0056
+    reference_type:
+    reference_id: RHSA-2022:0056
+  - url: https://access.redhat.com/errata/RHSA-2022:6024
+    reference_type:
+    reference_id: RHSA-2022:6024
+  - url: https://access.redhat.com/errata/RHSA-2022:7519
+    reference_type:
+    reference_id: RHSA-2022:7519
+  - url: https://access.redhat.com/errata/RHSA-2022:8057
+    reference_type:
+    reference_id: RHSA-2022:8057

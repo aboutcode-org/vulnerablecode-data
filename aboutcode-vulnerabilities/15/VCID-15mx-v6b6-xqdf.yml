@@ -1,0 +1,56 @@
+vulnerability_id: VCID-15mx-v6b6-xqdf
+aliases:
+  - CVE-2024-32473
+summary:
+severities:
+  - score: '4.7'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:N/UI:R/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-32473.json
+  - score: '0.00043'
+    scoring_system: epss
+    scoring_elements: '0.09705'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-32473
+  - score: '4.7'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:N/UI:R/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://github.com/moby/moby/commit/7cef0d9cd1cf221d8c0b7b7aeda69552649e0642
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-08-21T13:58:32Z/
+    published_at:
+    url: https://github.com/moby/moby/commit/7cef0d9cd1cf221d8c0b7b7aeda69552649e0642
+  - score: '4.7'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:N/UI:R/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://github.com/moby/moby/security/advisories/GHSA-x84c-p2g9-rqv9
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-08-21T13:58:32Z/
+    published_at:
+    url: https://github.com/moby/moby/security/advisories/GHSA-x84c-p2g9-rqv9
+weaknesses:
+  - CWE-668
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-32473.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-32473
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1070378
+    reference_type:
+    reference_id: 1070378
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2276026
+    reference_type:
+    reference_id: 2276026
+  - url: https://github.com/moby/moby/commit/7cef0d9cd1cf221d8c0b7b7aeda69552649e0642
+    reference_type:
+    reference_id: 7cef0d9cd1cf221d8c0b7b7aeda69552649e0642
+  - url: https://github.com/moby/moby/security/advisories/GHSA-x84c-p2g9-rqv9
+    reference_type:
+    reference_id: GHSA-x84c-p2g9-rqv9

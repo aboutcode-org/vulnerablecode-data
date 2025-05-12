@@ -1,0 +1,59 @@
+vulnerability_id: VCID-7r57-95k1-pbb8
+aliases:
+  - CVE-2020-11523
+summary:
+severities:
+  - score: '6.6'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-11523.json
+  - score: '0.01983'
+    scoring_system: epss
+    scoring_elements: '0.89090'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-11523
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1131
+weaknesses:
+  - CWE-190
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-11523.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-11523
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1836234
+    reference_type:
+    reference_id: 1836234
+  - url: https://security.archlinux.org/AVG-1131
+    reference_type:
+    reference_id: AVG-1131
+  - url: https://security.gentoo.org/glsa/202005-07
+    reference_type:
+    reference_id: GLSA-202005-07
+  - url: https://access.redhat.com/errata/RHSA-2020:2334
+    reference_type:
+    reference_id: RHSA-2020:2334
+  - url: https://access.redhat.com/errata/RHSA-2020:2335
+    reference_type:
+    reference_id: RHSA-2020:2335
+  - url: https://access.redhat.com/errata/RHSA-2020:2336
+    reference_type:
+    reference_id: RHSA-2020:2336
+  - url: https://access.redhat.com/errata/RHSA-2020:2354
+    reference_type:
+    reference_id: RHSA-2020:2354
+  - url: https://usn.ubuntu.com/4379-1/
+    reference_type:
+    reference_id: USN-4379-1
+  - url: https://usn.ubuntu.com/4382-1/
+    reference_type:
+    reference_id: USN-4382-1
+  - url: https://usn.ubuntu.com/4382-2/
+    reference_type:
+    reference_id: USN-4382-2

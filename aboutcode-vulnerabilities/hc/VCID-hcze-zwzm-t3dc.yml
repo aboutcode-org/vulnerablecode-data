@@ -1,0 +1,50 @@
+vulnerability_id: VCID-hcze-zwzm-t3dc
+aliases:
+  - CVE-2019-3829
+summary:
+severities:
+  - score: '5.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-3829.json
+  - score: '0.01198'
+    scoring_system: epss
+    scoring_elements: '0.85545'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-3829
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-945
+weaknesses:
+  - CWE-416
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-3829.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-3829
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1677048
+    reference_type:
+    reference_id: 1677048
+  - url: https://security.archlinux.org/ASA-201904-2
+    reference_type:
+    reference_id: ASA-201904-2
+  - url: https://security.archlinux.org/AVG-945
+    reference_type:
+    reference_id: AVG-945
+  - url: https://security.gentoo.org/glsa/201904-14
+    reference_type:
+    reference_id: GLSA-201904-14
+  - url: https://access.redhat.com/errata/RHSA-2019:3600
+    reference_type:
+    reference_id: RHSA-2019:3600
+  - url: https://usn.ubuntu.com/3999-1/
+    reference_type:
+    reference_id: USN-3999-1

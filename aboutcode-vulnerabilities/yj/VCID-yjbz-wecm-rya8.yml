@@ -1,0 +1,53 @@
+vulnerability_id: VCID-yjbz-wecm-rya8
+aliases:
+  - CVE-2017-1000250
+summary:
+severities:
+  - score: '6.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-1000250.json
+  - score: '0.00506'
+    scoring_system: epss
+    scoring_elements: '0.76847'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2017-1000250
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-396
+weaknesses:
+  - CWE-125
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-1000250.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2017-1000250
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-1000250
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1489446
+    reference_type:
+    reference_id: 1489446
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=875633
+    reference_type:
+    reference_id: 875633
+  - url: https://security.archlinux.org/ASA-201709-3
+    reference_type:
+    reference_id: ASA-201709-3
+  - url: https://security.archlinux.org/AVG-396
+    reference_type:
+    reference_id: AVG-396
+  - url: https://access.redhat.com/errata/RHSA-2017:2685
+    reference_type:
+    reference_id: RHSA-2017:2685
+  - url: https://usn.ubuntu.com/3413-1/
+    reference_type:
+    reference_id: USN-3413-1

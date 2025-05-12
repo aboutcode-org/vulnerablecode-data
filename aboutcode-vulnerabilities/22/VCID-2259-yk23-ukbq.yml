@@ -1,0 +1,188 @@
+vulnerability_id: VCID-2259-yk23-ukbq
+aliases:
+  - CVE-2024-41110
+summary:
+severities:
+  - score: '9.9'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-41110.json
+  - score: '0.00045'
+    scoring_system: epss
+    scoring_elements: '0.14983'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-41110
+  - score: 10
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/moby/moby/commit/411e817ddf710ff8e08fa193da80cb78af708191
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-26T03:55:30Z/
+    published_at:
+    url: https://github.com/moby/moby/commit/411e817ddf710ff8e08fa193da80cb78af708191
+  - score: 10
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/moby/moby/commit/42f40b1d6dd7562342f832b9cd2adf9e668eeb76
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-26T03:55:30Z/
+    published_at:
+    url: https://github.com/moby/moby/commit/42f40b1d6dd7562342f832b9cd2adf9e668eeb76
+  - score: 10
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/moby/moby/commit/65cc597cea28cdc25bea3b8a86384b4251872919
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-26T03:55:30Z/
+    published_at:
+    url: https://github.com/moby/moby/commit/65cc597cea28cdc25bea3b8a86384b4251872919
+  - score: 10
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/moby/moby/commit/852759a7df454cbf88db4e954c919becd48faa9b
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-26T03:55:30Z/
+    published_at:
+    url: https://github.com/moby/moby/commit/852759a7df454cbf88db4e954c919becd48faa9b
+  - score: 10
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/moby/moby/commit/a31260625655cff9ae226b51757915e275e304b0
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-26T03:55:30Z/
+    published_at:
+    url: https://github.com/moby/moby/commit/a31260625655cff9ae226b51757915e275e304b0
+  - score: 10
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/moby/moby/commit/a79fabbfe84117696a19671f4aa88b82d0f64fc1
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-26T03:55:30Z/
+    published_at:
+    url: https://github.com/moby/moby/commit/a79fabbfe84117696a19671f4aa88b82d0f64fc1
+  - score: 10
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/moby/moby/commit/ae160b4edddb72ef4bd71f66b975a1a1cc434f00
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-26T03:55:30Z/
+    published_at:
+    url: https://github.com/moby/moby/commit/ae160b4edddb72ef4bd71f66b975a1a1cc434f00
+  - score: 10
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/moby/moby/commit/ae2b3666c517c96cbc2adf1af5591a6b00d4ec0f
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-26T03:55:30Z/
+    published_at:
+    url: https://github.com/moby/moby/commit/ae2b3666c517c96cbc2adf1af5591a6b00d4ec0f
+  - score: 10
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/moby/moby/commit/cc13f952511154a2866bddbb7dddebfe9e83b801
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-26T03:55:30Z/
+    published_at:
+    url: https://github.com/moby/moby/commit/cc13f952511154a2866bddbb7dddebfe9e83b801
+  - score: 10
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/moby/moby/commit/fc274cd2ff4cf3b48c91697fb327dd1fb95588fb
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-26T03:55:30Z/
+    published_at:
+    url: https://github.com/moby/moby/commit/fc274cd2ff4cf3b48c91697fb327dd1fb95588fb
+  - score: 10
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/moby/moby/security/advisories/GHSA-v23v-6jw2-98fq
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-26T03:55:30Z/
+    published_at:
+    url: https://github.com/moby/moby/security/advisories/GHSA-v23v-6jw2-98fq
+  - score: 10
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://www.docker.com/blog/docker-security-advisory-docker-engine-authz-plugin
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-26T03:55:30Z/
+    published_at:
+    url: https://www.docker.com/blog/docker-security-advisory-docker-engine-authz-plugin
+weaknesses:
+  - CWE-187
+  - CWE-444
+  - CWE-863
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-41110.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-41110
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2299720
+    reference_type:
+    reference_id: 2299720
+  - url: https://github.com/moby/moby/commit/411e817ddf710ff8e08fa193da80cb78af708191
+    reference_type:
+    reference_id: 411e817ddf710ff8e08fa193da80cb78af708191
+  - url: https://github.com/moby/moby/commit/42f40b1d6dd7562342f832b9cd2adf9e668eeb76
+    reference_type:
+    reference_id: 42f40b1d6dd7562342f832b9cd2adf9e668eeb76
+  - url: https://github.com/moby/moby/commit/65cc597cea28cdc25bea3b8a86384b4251872919
+    reference_type:
+    reference_id: 65cc597cea28cdc25bea3b8a86384b4251872919
+  - url: https://github.com/moby/moby/commit/852759a7df454cbf88db4e954c919becd48faa9b
+    reference_type:
+    reference_id: 852759a7df454cbf88db4e954c919becd48faa9b
+  - url: https://github.com/moby/moby/commit/a31260625655cff9ae226b51757915e275e304b0
+    reference_type:
+    reference_id: a31260625655cff9ae226b51757915e275e304b0
+  - url: https://github.com/moby/moby/commit/a79fabbfe84117696a19671f4aa88b82d0f64fc1
+    reference_type:
+    reference_id: a79fabbfe84117696a19671f4aa88b82d0f64fc1
+  - url: https://github.com/moby/moby/commit/ae160b4edddb72ef4bd71f66b975a1a1cc434f00
+    reference_type:
+    reference_id: ae160b4edddb72ef4bd71f66b975a1a1cc434f00
+  - url: https://github.com/moby/moby/commit/ae2b3666c517c96cbc2adf1af5591a6b00d4ec0f
+    reference_type:
+    reference_id: ae2b3666c517c96cbc2adf1af5591a6b00d4ec0f
+  - url: https://github.com/moby/moby/commit/cc13f952511154a2866bddbb7dddebfe9e83b801
+    reference_type:
+    reference_id: cc13f952511154a2866bddbb7dddebfe9e83b801
+  - url: https://www.docker.com/blog/docker-security-advisory-docker-engine-authz-plugin
+    reference_type:
+    reference_id: docker-security-advisory-docker-engine-authz-plugin
+  - url: https://github.com/moby/moby/commit/fc274cd2ff4cf3b48c91697fb327dd1fb95588fb
+    reference_type:
+    reference_id: fc274cd2ff4cf3b48c91697fb327dd1fb95588fb
+  - url: https://github.com/moby/moby/security/advisories/GHSA-v23v-6jw2-98fq
+    reference_type:
+    reference_id: GHSA-v23v-6jw2-98fq

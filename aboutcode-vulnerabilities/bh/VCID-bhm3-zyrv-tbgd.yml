@@ -1,0 +1,54 @@
+vulnerability_id: VCID-bhm3-zyrv-tbgd
+aliases:
+  - CVE-2019-9818
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-9818.json
+  - score: '0.00267'
+    scoring_system: epss
+    scoring_elements: '0.68048'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-9818
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-13
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-14
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-15
+weaknesses:
+  - CWE-416
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-9818.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-9818
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1712627
+    reference_type:
+    reference_id: 1712627
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-13
+    reference_type:
+    reference_id: mfsa2019-13
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-14
+    reference_type:
+    reference_id: mfsa2019-14
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2019-15
+    reference_type:
+    reference_id: mfsa2019-15

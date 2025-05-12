@@ -1,0 +1,61 @@
+vulnerability_id: VCID-a8b1-ba2d-53c4
+aliases:
+  - CVE-2020-12401
+summary:
+severities:
+  - score: '4.4'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:L/UI:R/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-12401.json
+  - score: '0.00046'
+    scoring_system: epss
+    scoring_elements: '0.17850'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-12401
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-36
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-39
+weaknesses:
+  - CWE-327
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-12401.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-12401
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1851294
+    reference_type:
+    reference_id: 1851294
+  - url: https://security.gentoo.org/glsa/202008-08
+    reference_type:
+    reference_id: GLSA-202008-08
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-36
+    reference_type:
+    reference_id: mfsa2020-36
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-39
+    reference_type:
+    reference_id: mfsa2020-39
+  - url: https://access.redhat.com/errata/RHSA-2020:4076
+    reference_type:
+    reference_id: RHSA-2020:4076
+  - url: https://access.redhat.com/errata/RHSA-2021:0538
+    reference_type:
+    reference_id: RHSA-2021:0538
+  - url: https://access.redhat.com/errata/RHSA-2021:0949
+    reference_type:
+    reference_id: RHSA-2021:0949
+  - url: https://usn.ubuntu.com/4455-1/
+    reference_type:
+    reference_id: USN-4455-1
+  - url: https://usn.ubuntu.com/4474-1/
+    reference_type:
+    reference_id: USN-4474-1

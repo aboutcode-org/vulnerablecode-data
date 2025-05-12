@@ -1,0 +1,67 @@
+vulnerability_id: VCID-4q4m-buqj-x3by
+aliases:
+  - CVE-2024-6874
+summary:
+severities:
+  - score: '5.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-6874.json
+  - score: '0.00079'
+    scoring_system: epss
+    scoring_elements: '0.35143'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-6874
+  - score: Low
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2024-6874.html
+  - score: '3.1'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:L/I:N/A:N
+    published_at:
+    url: https://curl.se/docs/CVE-2024-6874.json
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-24T16:13:40Z/
+    published_at:
+    url: https://curl.se/docs/CVE-2024-6874.json
+  - score: '3.1'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:L/I:N/A:N
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/07/24/2
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-24T16:13:40Z/
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/07/24/2
+weaknesses:
+  - CWE-126
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-6874.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-6874
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2024-6874.html
+    reference_type:
+    reference_id:
+  - url: https://hackerone.com/reports/2604391
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1076996
+    reference_type:
+    reference_id: 1076996
+  - url: http://www.openwall.com/lists/oss-security/2024/07/24/2
+    reference_type:
+    reference_id: 2
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2299654
+    reference_type:
+    reference_id: 2299654
+  - url: https://curl.se/docs/CVE-2024-6874.json
+    reference_type:
+    reference_id: CVE-2024-6874.json

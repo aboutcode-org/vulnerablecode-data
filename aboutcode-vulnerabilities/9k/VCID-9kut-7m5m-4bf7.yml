@@ -1,0 +1,29 @@
+vulnerability_id: VCID-9kut-7m5m-4bf7
+aliases:
+  - CVE-2021-33815
+summary:
+severities:
+  - score: '0.00183'
+    scoring_system: epss
+    scoring_elements: '0.56137'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-33815
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1989
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-33815
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/AVG-1989
+    reference_type:
+    reference_id: AVG-1989
+  - url: https://security.gentoo.org/glsa/202312-14
+    reference_type:
+    reference_id: GLSA-202312-14

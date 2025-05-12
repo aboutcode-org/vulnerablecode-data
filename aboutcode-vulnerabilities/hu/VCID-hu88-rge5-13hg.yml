@@ -1,0 +1,55 @@
+vulnerability_id: VCID-hu88-rge5-13hg
+aliases:
+  - CVE-2022-48622
+summary:
+severities:
+  - score: '7.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-48622.json
+  - score: '0.00082'
+    scoring_system: epss
+    scoring_elements: '0.35795'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-48622
+  - score: '7.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://gitlab.gnome.org/GNOME/gdk-pixbuf/-/issues/202
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:T/P:M/B:A/M:M/D:R/2024-08-26T19:23:51Z/
+    published_at:
+    url: https://gitlab.gnome.org/GNOME/gdk-pixbuf/-/issues/202
+weaknesses:
+  - CWE-787
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-48622.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-48622
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1071265
+    reference_type:
+    reference_id: 1071265
+  - url: https://gitlab.gnome.org/GNOME/gdk-pixbuf/-/issues/202
+    reference_type:
+    reference_id: 202
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2260545
+    reference_type:
+    reference_id: 2260545
+  - url: https://access.redhat.com/errata/RHSA-2024:3341
+    reference_type:
+    reference_id: RHSA-2024:3341
+  - url: https://access.redhat.com/errata/RHSA-2024:3834
+    reference_type:
+    reference_id: RHSA-2024:3834
+  - url: https://usn.ubuntu.com/6806-1/
+    reference_type:
+    reference_id: USN-6806-1

@@ -1,0 +1,36 @@
+vulnerability_id: VCID-8vtp-96pc-jfcw
+aliases:
+  - CVE-2022-26128
+summary:
+severities:
+  - score: '8.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-26128.json
+  - score: '0.00065'
+    scoring_system: epss
+    scoring_elements: '0.29528'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-26128
+weaknesses:
+  - CWE-1284
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-26128.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-26128
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1008010
+    reference_type:
+    reference_id: 1008010
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2058648
+    reference_type:
+    reference_id: 2058648
+  - url: https://usn.ubuntu.com/6807-1/
+    reference_type:
+    reference_id: USN-6807-1

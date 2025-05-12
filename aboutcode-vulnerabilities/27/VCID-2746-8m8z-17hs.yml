@@ -1,0 +1,23 @@
+vulnerability_id: VCID-2746-8m8z-17hs
+aliases:
+  - CVE-2022-22749
+summary:
+severities:
+  - score: '0.00087'
+    scoring_system: epss
+    scoring_elements: '0.37549'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-22749
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-01
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-22749
+    reference_type:
+    reference_id:
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-01
+    reference_type:
+    reference_id: mfsa2022-01

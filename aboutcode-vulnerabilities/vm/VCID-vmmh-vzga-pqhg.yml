@@ -1,0 +1,75 @@
+vulnerability_id: VCID-vmmh-vzga-pqhg
+aliases:
+  - CVE-2023-25690
+summary:
+severities:
+  - score: '9.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-25690.json
+  - score: '0.01209'
+    scoring_system: epss
+    scoring_elements: '0.85620'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-25690
+weaknesses:
+  - CWE-113
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-25690.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-25690
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1032476
+    reference_type:
+    reference_id: 1032476
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2176209
+    reference_type:
+    reference_id: 2176209
+  - url: https://security.gentoo.org/glsa/202309-01
+    reference_type:
+    reference_id: GLSA-202309-01
+  - url: https://access.redhat.com/errata/RHSA-2023:1547
+    reference_type:
+    reference_id: RHSA-2023:1547
+  - url: https://access.redhat.com/errata/RHSA-2023:1593
+    reference_type:
+    reference_id: RHSA-2023:1593
+  - url: https://access.redhat.com/errata/RHSA-2023:1596
+    reference_type:
+    reference_id: RHSA-2023:1596
+  - url: https://access.redhat.com/errata/RHSA-2023:1597
+    reference_type:
+    reference_id: RHSA-2023:1597
+  - url: https://access.redhat.com/errata/RHSA-2023:1670
+    reference_type:
+    reference_id: RHSA-2023:1670
+  - url: https://access.redhat.com/errata/RHSA-2023:1672
+    reference_type:
+    reference_id: RHSA-2023:1672
+  - url: https://access.redhat.com/errata/RHSA-2023:1673
+    reference_type:
+    reference_id: RHSA-2023:1673
+  - url: https://access.redhat.com/errata/RHSA-2023:1916
+    reference_type:
+    reference_id: RHSA-2023:1916
+  - url: https://access.redhat.com/errata/RHSA-2023:3292
+    reference_type:
+    reference_id: RHSA-2023:3292
+  - url: https://access.redhat.com/errata/RHSA-2023:3354
+    reference_type:
+    reference_id: RHSA-2023:3354
+  - url: https://access.redhat.com/errata/RHSA-2023:3355
+    reference_type:
+    reference_id: RHSA-2023:3355
+  - url: https://usn.ubuntu.com/5942-1/
+    reference_type:
+    reference_id: USN-5942-1
+  - url: https://usn.ubuntu.com/5942-2/
+    reference_type:
+    reference_id: USN-5942-2

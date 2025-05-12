@@ -1,0 +1,60 @@
+vulnerability_id: VCID-6mqz-qbbn-byf8
+aliases:
+  - CVE-2016-0718
+summary:
+severities:
+  - score: '0.00814'
+    scoring_system: epss
+    scoring_elements: '0.82150'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-0718
+  - score: none
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2016-68
+weaknesses:
+  - CWE-125
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-0718.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-0718
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-0718
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4472
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1296102
+    reference_type:
+    reference_id: 1296102
+  - url: https://security.gentoo.org/glsa/201701-21
+    reference_type:
+    reference_id: GLSA-201701-21
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2016-68
+    reference_type:
+    reference_id: mfsa2016-68
+  - url: https://access.redhat.com/errata/RHSA-2016:2824
+    reference_type:
+    reference_id: RHSA-2016:2824
+  - url: https://access.redhat.com/errata/RHSA-2018:2486
+    reference_type:
+    reference_id: RHSA-2018:2486
+  - url: https://usn.ubuntu.com/2983-1/
+    reference_type:
+    reference_id: USN-2983-1
+  - url: https://usn.ubuntu.com/3013-1/
+    reference_type:
+    reference_id: USN-3013-1
+  - url: https://usn.ubuntu.com/3044-1/
+    reference_type:
+    reference_id: USN-3044-1
+  - url: https://usn.ubuntu.com/USN-5455-1/
+    reference_type:
+    reference_id: USN-USN-5455-1

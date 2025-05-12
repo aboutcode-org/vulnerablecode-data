@@ -1,0 +1,142 @@
+vulnerability_id: VCID-9z7g-g3xs-6bfp
+aliases:
+  - CVE-2021-31618
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-31618.json
+  - score: '0.03107'
+    scoring_system: epss
+    scoring_elements: '0.91262'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-31618
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-05-20T16:18:33Z/
+    published_at:
+    url: https://lists.apache.org/thread.html/r14b66ef0f4f569fd515a3f96cd4eb58bd9a8ff525cc326bb0359664f%40%3Ccvs.httpd.apache.org%3E
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-05-20T16:18:33Z/
+    published_at:
+    url: https://lists.apache.org/thread.html/r783b6558abf3305b17ea462bed4bd66d82866438999bf38cef6d11d1%40%3Ccvs.httpd.apache.org%3E
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-05-20T16:18:33Z/
+    published_at:
+    url: https://lists.debian.org/debian-lts-announce/2021/07/msg00006.html
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-05-20T16:18:33Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/2NKJ3ZA3FTSZ2QBBPKS6BYGAWYRABNQQ/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-05-20T16:18:33Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/A73QJ4HPUMU26I6EULG6SCK67TUEXZYR/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-05-20T16:18:33Z/
+    published_at:
+    url: https://seclists.org/oss-sec/2021/q2/206
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2041
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-05-20T16:18:33Z/
+    published_at:
+    url: https://security.netapp.com/advisory/ntap-20210727-0008/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-05-20T16:18:33Z/
+    published_at:
+    url: https://www.debian.org/security/2021/dsa-4937
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-05-20T16:18:33Z/
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2021/06/10/9
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-05-20T16:18:33Z/
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2024/03/13/2
+weaknesses:
+  - CWE-476
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-31618.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-31618
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-35452
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-26690
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-26691
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-30641
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31618
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1968013
+    reference_type:
+    reference_id: '1968013'
+  - url: http://www.openwall.com/lists/oss-security/2024/03/13/2
+    reference_type:
+    reference_id: 2
+  - url: https://seclists.org/oss-sec/2021/q2/206
+    reference_type:
+    reference_id: 206
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/2NKJ3ZA3FTSZ2QBBPKS6BYGAWYRABNQQ/
+    reference_type:
+    reference_id: 2NKJ3ZA3FTSZ2QBBPKS6BYGAWYRABNQQ
+  - url: http://www.openwall.com/lists/oss-security/2021/06/10/9
+    reference_type:
+    reference_id: 9
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=989562
+    reference_type:
+    reference_id: 989562
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/A73QJ4HPUMU26I6EULG6SCK67TUEXZYR/
+    reference_type:
+    reference_id: A73QJ4HPUMU26I6EULG6SCK67TUEXZYR
+  - url: https://security.archlinux.org/ASA-202106-23
+    reference_type:
+    reference_id: ASA-202106-23
+  - url: https://security.archlinux.org/AVG-2041
+    reference_type:
+    reference_id: AVG-2041
+  - url: https://www.debian.org/security/2021/dsa-4937
+    reference_type:
+    reference_id: dsa-4937
+  - url: https://security.gentoo.org/glsa/202107-38
+    reference_type:
+    reference_id: GLSA-202107-38
+  - url: https://lists.debian.org/debian-lts-announce/2021/07/msg00006.html
+    reference_type:
+    reference_id: msg00006.html
+  - url: https://security.netapp.com/advisory/ntap-20210727-0008/
+    reference_type:
+    reference_id: ntap-20210727-0008
+  - url: https://lists.apache.org/thread.html/r14b66ef0f4f569fd515a3f96cd4eb58bd9a8ff525cc326bb0359664f%40%3Ccvs.httpd.apache.org%3E
+    reference_type:
+    reference_id: r14b66ef0f4f569fd515a3f96cd4eb58bd9a8ff525cc326bb0359664f%40%3Ccvs.httpd.apache.org%3E
+  - url: https://lists.apache.org/thread.html/r783b6558abf3305b17ea462bed4bd66d82866438999bf38cef6d11d1%40%3Ccvs.httpd.apache.org%3E
+    reference_type:
+    reference_id: r783b6558abf3305b17ea462bed4bd66d82866438999bf38cef6d11d1%40%3Ccvs.httpd.apache.org%3E

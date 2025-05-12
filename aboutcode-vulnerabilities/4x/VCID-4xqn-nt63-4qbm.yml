@@ -1,0 +1,118 @@
+vulnerability_id: VCID-4xqn-nt63-4qbm
+aliases:
+  - CVE-2022-31742
+summary:
+severities:
+  - score: '6.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-31742.json
+  - score: '0.00117'
+    scoring_system: epss
+    scoring_elements: '0.46543'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-31742
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2760
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2761
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-20
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-21
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-22
+weaknesses:
+  - CWE-829
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-31742.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-31742
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2092025
+    reference_type:
+    reference_id: 2092025
+  - url: https://security.archlinux.org/AVG-2760
+    reference_type:
+    reference_id: AVG-2760
+  - url: https://security.archlinux.org/AVG-2761
+    reference_type:
+    reference_id: AVG-2761
+  - url: https://security.gentoo.org/glsa/202208-08
+    reference_type:
+    reference_id: GLSA-202208-08
+  - url: https://security.gentoo.org/glsa/202208-14
+    reference_type:
+    reference_id: GLSA-202208-14
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-20
+    reference_type:
+    reference_id: mfsa2022-20
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-21
+    reference_type:
+    reference_id: mfsa2022-21
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-22
+    reference_type:
+    reference_id: mfsa2022-22
+  - url: https://access.redhat.com/errata/RHSA-2022:4870
+    reference_type:
+    reference_id: RHSA-2022:4870
+  - url: https://access.redhat.com/errata/RHSA-2022:4871
+    reference_type:
+    reference_id: RHSA-2022:4871
+  - url: https://access.redhat.com/errata/RHSA-2022:4872
+    reference_type:
+    reference_id: RHSA-2022:4872
+  - url: https://access.redhat.com/errata/RHSA-2022:4873
+    reference_type:
+    reference_id: RHSA-2022:4873
+  - url: https://access.redhat.com/errata/RHSA-2022:4875
+    reference_type:
+    reference_id: RHSA-2022:4875
+  - url: https://access.redhat.com/errata/RHSA-2022:4876
+    reference_type:
+    reference_id: RHSA-2022:4876
+  - url: https://access.redhat.com/errata/RHSA-2022:4887
+    reference_type:
+    reference_id: RHSA-2022:4887
+  - url: https://access.redhat.com/errata/RHSA-2022:4888
+    reference_type:
+    reference_id: RHSA-2022:4888
+  - url: https://access.redhat.com/errata/RHSA-2022:4889
+    reference_type:
+    reference_id: RHSA-2022:4889
+  - url: https://access.redhat.com/errata/RHSA-2022:4890
+    reference_type:
+    reference_id: RHSA-2022:4890
+  - url: https://access.redhat.com/errata/RHSA-2022:4891
+    reference_type:
+    reference_id: RHSA-2022:4891
+  - url: https://access.redhat.com/errata/RHSA-2022:4892
+    reference_type:
+    reference_id: RHSA-2022:4892
+  - url: https://usn.ubuntu.com/5475-1/
+    reference_type:
+    reference_id: USN-5475-1
+  - url: https://usn.ubuntu.com/5512-1/
+    reference_type:
+    reference_id: USN-5512-1

@@ -1,0 +1,40 @@
+vulnerability_id: VCID-4vhn-1ega-h3bj
+aliases:
+  - CVE-2021-30538
+summary:
+severities:
+  - score: '0.00295'
+    scoring_system: epss
+    scoring_elements: '0.69687'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-30538
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1990
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1991
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-30538
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=990079
+    reference_type:
+    reference_id: 990079
+  - url: https://security.archlinux.org/ASA-202106-2
+    reference_type:
+    reference_id: ASA-202106-2
+  - url: https://security.archlinux.org/AVG-1990
+    reference_type:
+    reference_id: AVG-1990
+  - url: https://security.archlinux.org/AVG-1991
+    reference_type:
+    reference_id: AVG-1991
+  - url: https://security.gentoo.org/glsa/202107-06
+    reference_type:
+    reference_id: GLSA-202107-06

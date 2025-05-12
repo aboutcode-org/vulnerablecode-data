@@ -1,0 +1,18 @@
+vulnerability_id: VCID-p9a2-zze8-2kb8
+aliases:
+  - CVE-2021-45085
+summary:
+severities:
+  - score: '0.00256'
+    scoring_system: epss
+    scoring_elements: '0.65684'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-45085
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-45085
+    reference_type:
+    reference_id:
+  - url: https://usn.ubuntu.com/5561-1/
+    reference_type:
+    reference_id: USN-5561-1

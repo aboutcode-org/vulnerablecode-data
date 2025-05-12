@@ -1,0 +1,46 @@
+vulnerability_id: VCID-bj9m-xmue-bqcs
+aliases:
+  - CVE-2022-1304
+summary:
+severities:
+  - score: '5.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:L/I:L/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-1304.json
+  - score: '0.00065'
+    scoring_system: epss
+    scoring_elements: '0.29510'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-1304
+weaknesses:
+  - CWE-125
+  - CWE-787
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-1304.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-1304
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1010263
+    reference_type:
+    reference_id: 1010263
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2069726
+    reference_type:
+    reference_id: 2069726
+  - url: https://security.gentoo.org/glsa/202402-15
+    reference_type:
+    reference_id: GLSA-202402-15
+  - url: https://access.redhat.com/errata/RHSA-2022:7720
+    reference_type:
+    reference_id: RHSA-2022:7720
+  - url: https://access.redhat.com/errata/RHSA-2022:8361
+    reference_type:
+    reference_id: RHSA-2022:8361
+  - url: https://usn.ubuntu.com/5464-1/
+    reference_type:
+    reference_id: USN-5464-1

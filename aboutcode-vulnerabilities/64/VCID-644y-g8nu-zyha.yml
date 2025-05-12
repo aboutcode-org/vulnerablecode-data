@@ -1,0 +1,65 @@
+vulnerability_id: VCID-644y-g8nu-zyha
+aliases:
+  - CVE-2022-32221
+summary:
+severities:
+  - score: '4.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-32221.json
+  - score: '0.00755'
+    scoring_system: epss
+    scoring_elements: '0.81365'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-32221
+  - score: Medium
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2022-32221.html
+weaknesses:
+  - CWE-440
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-32221.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-32221
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2022-32221.html
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://hackerone.com/reports/1704017
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2135411
+    reference_type:
+    reference_id: 2135411
+  - url: https://security.gentoo.org/glsa/202212-01
+    reference_type:
+    reference_id: GLSA-202212-01
+  - url: https://access.redhat.com/errata/RHSA-2022:8840
+    reference_type:
+    reference_id: RHSA-2022:8840
+  - url: https://access.redhat.com/errata/RHSA-2022:8841
+    reference_type:
+    reference_id: RHSA-2022:8841
+  - url: https://access.redhat.com/errata/RHSA-2023:0333
+    reference_type:
+    reference_id: RHSA-2023:0333
+  - url: https://access.redhat.com/errata/RHSA-2023:4139
+    reference_type:
+    reference_id: RHSA-2023:4139
+  - url: https://usn.ubuntu.com/5702-1/
+    reference_type:
+    reference_id: USN-5702-1
+  - url: https://usn.ubuntu.com/5702-2/
+    reference_type:
+    reference_id: USN-5702-2
+  - url: https://usn.ubuntu.com/5823-1/
+    reference_type:
+    reference_id: USN-5823-1

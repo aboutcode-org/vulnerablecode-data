@@ -1,0 +1,68 @@
+vulnerability_id: VCID-8t8h-ynt9-3fe1
+aliases:
+  - CVE-2018-17961
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-17961.json
+  - score: '0.00243'
+    scoring_system: epss
+    scoring_elements: '0.64602'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-17961
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-786
+weaknesses:
+  - CWE-460
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-17961.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-17961
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-11645
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17961
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18073
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18284
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1642578
+    reference_type:
+    reference_id: 1642578
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=910678
+    reference_type:
+    reference_id: 910678
+  - url: https://security.archlinux.org/ASA-201811-3
+    reference_type:
+    reference_id: ASA-201811-3
+  - url: https://security.archlinux.org/AVG-786
+    reference_type:
+    reference_id: AVG-786
+  - url: https://bugs.chromium.org/p/project-zero/issues/detail?id=1682&desc=2
+    reference_type: exploit
+    reference_id: CVE-2018-17961
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/linux/local/45573.txt
+    reference_type: exploit
+    reference_id: CVE-2018-17961
+  - url: https://access.redhat.com/errata/RHSA-2018:3834
+    reference_type:
+    reference_id: RHSA-2018:3834
+  - url: https://usn.ubuntu.com/3803-1/
+    reference_type:
+    reference_id: USN-3803-1

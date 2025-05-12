@@ -1,0 +1,40 @@
+vulnerability_id: VCID-by3y-ek34-7fhk
+aliases:
+  - CVE-2021-21221
+summary:
+severities:
+  - score: '0.00520'
+    scoring_system: epss
+    scoring_elements: '0.77149'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-21221
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1827
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1828
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-21221
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=987053
+    reference_type:
+    reference_id: 987053
+  - url: https://security.archlinux.org/ASA-202104-2
+    reference_type:
+    reference_id: ASA-202104-2
+  - url: https://security.archlinux.org/AVG-1827
+    reference_type:
+    reference_id: AVG-1827
+  - url: https://security.archlinux.org/AVG-1828
+    reference_type:
+    reference_id: AVG-1828
+  - url: https://security.gentoo.org/glsa/202104-08
+    reference_type:
+    reference_id: GLSA-202104-08

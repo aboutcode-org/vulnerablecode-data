@@ -1,0 +1,31 @@
+vulnerability_id: VCID-8bbx-7pjz-qfby
+aliases:
+  - CVE-2021-29962
+summary:
+severities:
+  - score: '0.00097'
+    scoring_system: epss
+    scoring_elements: '0.41391'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-29962
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2019
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-23
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-29962
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/AVG-2019
+    reference_type:
+    reference_id: AVG-2019
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-23
+    reference_type:
+    reference_id: mfsa2021-23

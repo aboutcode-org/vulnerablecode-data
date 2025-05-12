@@ -1,0 +1,71 @@
+vulnerability_id: VCID-wsj1-p6yx-dqat
+aliases:
+  - CVE-2017-7668
+summary:
+severities:
+  - score: '6.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:L/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-7668.json
+  - score: '0.27310'
+    scoring_system: epss
+    scoring_elements: '0.96883'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2017-7668
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-316
+weaknesses:
+  - CWE-122
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-7668.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2017-7668
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-3167
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-3169
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-7668
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-7679
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1463205
+    reference_type:
+    reference_id: 1463205
+  - url: https://security.archlinux.org/ASA-201706-34
+    reference_type:
+    reference_id: ASA-201706-34
+  - url: https://security.archlinux.org/AVG-316
+    reference_type:
+    reference_id: AVG-316
+  - url: https://security.gentoo.org/glsa/201710-32
+    reference_type:
+    reference_id: GLSA-201710-32
+  - url: https://access.redhat.com/errata/RHSA-2017:2479
+    reference_type:
+    reference_id: RHSA-2017:2479
+  - url: https://access.redhat.com/errata/RHSA-2017:2483
+    reference_type:
+    reference_id: RHSA-2017:2483
+  - url: https://access.redhat.com/errata/RHSA-2017:3193
+    reference_type:
+    reference_id: RHSA-2017:3193
+  - url: https://access.redhat.com/errata/RHSA-2017:3194
+    reference_type:
+    reference_id: RHSA-2017:3194
+  - url: https://usn.ubuntu.com/3340-1/
+    reference_type:
+    reference_id: USN-3340-1
+  - url: https://usn.ubuntu.com/3373-1/
+    reference_type:
+    reference_id: USN-3373-1

@@ -1,0 +1,31 @@
+vulnerability_id: VCID-xcnw-tp3n-1kf7
+aliases:
+  - CVE-2015-1197
+summary:
+severities:
+  - score: '0.00043'
+    scoring_system: epss
+    scoring_elements: '0.10511'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2015-1197
+weaknesses:
+  - CWE-59
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2015-1197.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2015-1197
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1179773
+    reference_type:
+    reference_id: 1179773
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=774669
+    reference_type:
+    reference_id: 774669
+  - url: https://security.gentoo.org/glsa/201502-11
+    reference_type:
+    reference_id: GLSA-201502-11
+  - url: https://usn.ubuntu.com/2906-1/
+    reference_type:
+    reference_id: USN-2906-1

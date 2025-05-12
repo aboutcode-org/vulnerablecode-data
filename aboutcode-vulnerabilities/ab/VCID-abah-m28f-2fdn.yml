@@ -1,0 +1,84 @@
+vulnerability_id: VCID-abah-m28f-2fdn
+aliases:
+  - CVE-2024-31445
+summary:
+severities:
+  - score: '0.00045'
+    scoring_system: epss
+    scoring_elements: '0.16440'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-31445
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/Cacti/cacti/blob/501712998589763d411a68d35e3cda98fd9cfd18/lib/api_automation.php#L717
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:T/P:M/B:A/M:M/D:R/2024-05-17T04:00:40Z/
+    published_at:
+    url: https://github.com/Cacti/cacti/blob/501712998589763d411a68d35e3cda98fd9cfd18/lib/api_automation.php#L717
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/Cacti/cacti/blob/501712998589763d411a68d35e3cda98fd9cfd18/lib/api_automation.php#L856
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:T/P:M/B:A/M:M/D:R/2024-05-17T04:00:40Z/
+    published_at:
+    url: https://github.com/Cacti/cacti/blob/501712998589763d411a68d35e3cda98fd9cfd18/lib/api_automation.php#L856
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/Cacti/cacti/commit/fd93c6e47651958b77c3bbe6a01fff695f81e886
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:T/P:M/B:A/M:M/D:R/2024-05-17T04:00:40Z/
+    published_at:
+    url: https://github.com/Cacti/cacti/commit/fd93c6e47651958b77c3bbe6a01fff695f81e886
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/Cacti/cacti/security/advisories/GHSA-vjph-r677-6pcc
+  - score: Track*
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:T/P:M/B:A/M:M/D:R/2024-05-17T04:00:40Z/
+    published_at:
+    url: https://github.com/Cacti/cacti/security/advisories/GHSA-vjph-r677-6pcc
+  - score: '9.1'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/RBEOAFKRARQHTDIYSL723XAFJ2Q6624X/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-05-13T17:13:47Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/RBEOAFKRARQHTDIYSL723XAFJ2Q6624X/
+weaknesses:
+  - CWE-89
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-31445
+    reference_type:
+    reference_id:
+  - url: https://github.com/Cacti/cacti/blob/501712998589763d411a68d35e3cda98fd9cfd18/lib/api_automation.php#L717
+    reference_type:
+    reference_id: api_automation.php#L717
+  - url: https://github.com/Cacti/cacti/blob/501712998589763d411a68d35e3cda98fd9cfd18/lib/api_automation.php#L856
+    reference_type:
+    reference_id: api_automation.php#L856
+  - url: https://github.com/Cacti/cacti/commit/fd93c6e47651958b77c3bbe6a01fff695f81e886
+    reference_type:
+    reference_id: fd93c6e47651958b77c3bbe6a01fff695f81e886
+  - url: https://github.com/Cacti/cacti/security/advisories/GHSA-vjph-r677-6pcc
+    reference_type:
+    reference_id: GHSA-vjph-r677-6pcc
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/RBEOAFKRARQHTDIYSL723XAFJ2Q6624X/
+    reference_type:
+    reference_id: RBEOAFKRARQHTDIYSL723XAFJ2Q6624X
+  - url: https://usn.ubuntu.com/6969-1/
+    reference_type:
+    reference_id: USN-6969-1

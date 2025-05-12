@@ -1,0 +1,94 @@
+vulnerability_id: VCID-a2a6-6atv-fbgx
+aliases:
+  - CVE-2019-14858
+  - GHSA-h653-95qw-h2mp
+  - PYSEC-2019-171
+summary: A vulnerability was found in Ansible engine 2.x up to 2.8 and Ansible tower 3.x up
+  to 3.5. When a module has an argument_spec with sub parameters marked as no_log, passing an
+  invalid parameter name to the module will cause the task to fail before the no_log options
+  in the sub parameters are processed. As a result, data in the sub parameter fields will not
+  be masked and will be displayed if Ansible is run with increased verbosity and present in
+  the module invocation arguments for the task.
+severities:
+  - score: '5.0'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-14858.json
+  - score: '0.00078'
+    scoring_system: epss
+    scoring_elements: '0.34429'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-14858
+weaknesses:
+  - CWE-117
+  - CWE-532
+  - CWE-937
+  - CWE-1035
+references:
+  - url: http://lists.opensuse.org/opensuse-security-announce/2020-04/msg00021.html
+    reference_type:
+    reference_id:
+  - url: http://lists.opensuse.org/opensuse-security-announce/2020-04/msg00026.html
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/errata/RHSA-2019:3201
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/errata/RHSA-2019:3202
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/errata/RHSA-2019:3203
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/errata/RHSA-2019:3207
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/errata/RHSA-2020:0756
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-14858.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-14858
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2019-14858
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://github.com/ansible/ansible
+    reference_type:
+    reference_id:
+  - url: https://github.com/ansible/ansible/commit/0fd656e9964a91f2e8b1e9bbf78c74661ab9d37b
+    reference_type:
+    reference_id:
+  - url: https://github.com/ansible/ansible/commit/3dfb8e81bb5f776a6b00c7a90dd087e85b71f8bb
+    reference_type:
+    reference_id:
+  - url: https://github.com/ansible/ansible/commit/87f8d77d70476454f7fe2381bd363a329ce4266c
+    reference_type:
+    reference_id:
+  - url: https://github.com/ansible/ansible/commit/f610ed3a4eb87eb557200606279796921fa9b722
+    reference_type:
+    reference_id:
+  - url: https://github.com/ansible/ansible/pull/63405
+    reference_type:
+    reference_id:
+  - url: https://github.com/pypa/advisory-database/tree/main/vulns/ansible/PYSEC-2019-171.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1760593
+    reference_type:
+    reference_id: 1760593
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=942332
+    reference_type:
+    reference_id: 942332
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2019-14858
+    reference_type:
+    reference_id: CVE-2019-14858
+  - url: https://github.com/advisories/GHSA-h653-95qw-h2mp
+    reference_type:
+    reference_id: GHSA-h653-95qw-h2mp

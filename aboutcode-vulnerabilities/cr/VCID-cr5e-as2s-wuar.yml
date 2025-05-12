@@ -1,0 +1,38 @@
+vulnerability_id: VCID-cr5e-as2s-wuar
+aliases:
+  - CVE-2018-12648
+summary:
+severities:
+  - score: '3.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-12648.json
+  - score: '0.00252'
+    scoring_system: epss
+    scoring_elements: '0.65389'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-12648
+weaknesses:
+  - CWE-476
+  - CWE-787
+  - CWE-125
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-12648.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-12648
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1594642
+    reference_type:
+    reference_id: 1594642
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=902175
+    reference_type:
+    reference_id: 902175
+  - url: https://usn.ubuntu.com/5483-1/
+    reference_type:
+    reference_id: USN-5483-1

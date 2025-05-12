@@ -1,0 +1,51 @@
+vulnerability_id: VCID-3y5k-amf5-4ffu
+aliases:
+  - CVE-2019-14809
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-14809.json
+  - score: '0.03744'
+    scoring_system: epss
+    scoring_elements: '0.91996'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-14809
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1021
+weaknesses:
+  - CWE-20
+  - CWE-285
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-14809.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-14809
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-14809
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9512
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9514
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1743129
+    reference_type:
+    reference_id: 1743129
+  - url: https://security.archlinux.org/ASA-201908-15
+    reference_type:
+    reference_id: ASA-201908-15
+  - url: https://security.archlinux.org/AVG-1021
+    reference_type:
+    reference_id: AVG-1021
+  - url: https://access.redhat.com/errata/RHSA-2019:3433
+    reference_type:
+    reference_id: RHSA-2019:3433

@@ -1,0 +1,59 @@
+vulnerability_id: VCID-3ec2-n7qc-bqcg
+aliases:
+  - CVE-2019-10082
+summary:
+severities:
+  - score: '6.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-10082.json
+  - score: '0.00818'
+    scoring_system: epss
+    scoring_elements: '0.82188'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-10082
+weaknesses: []
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-10082.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-10082
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-10081
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-10082
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-10092
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-10098
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9517
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1743974
+    reference_type:
+    reference_id: 1743974
+  - url: https://security.gentoo.org/glsa/201909-04
+    reference_type:
+    reference_id: GLSA-201909-04
+  - url: https://access.redhat.com/errata/RHSA-2020:1336
+    reference_type:
+    reference_id: RHSA-2020:1336
+  - url: https://access.redhat.com/errata/RHSA-2020:1337
+    reference_type:
+    reference_id: RHSA-2020:1337
+  - url: https://access.redhat.com/errata/RHSA-2020:4751
+    reference_type:
+    reference_id: RHSA-2020:4751
+  - url: https://usn.ubuntu.com/4113-1/
+    reference_type:
+    reference_id: USN-4113-1

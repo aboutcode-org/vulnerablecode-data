@@ -1,0 +1,32 @@
+vulnerability_id: VCID-rasm-zrvz-8fga
+aliases:
+  - CVE-2024-39312
+summary:
+severities:
+  - score: '0.00043'
+    scoring_system: epss
+    scoring_elements: '0.09705'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-39312
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N
+    published_at:
+    url: https://github.com/randombit/botan/security/advisories/GHSA-jp24-56jm-gg86
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-08T19:57:15Z/
+    published_at:
+    url: https://github.com/randombit/botan/security/advisories/GHSA-jp24-56jm-gg86
+weaknesses:
+  - CWE-295
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-39312
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://github.com/randombit/botan/security/advisories/GHSA-jp24-56jm-gg86
+    reference_type:
+    reference_id: GHSA-jp24-56jm-gg86

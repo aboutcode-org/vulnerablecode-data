@@ -1,0 +1,45 @@
+vulnerability_id: VCID-d8sp-ja94-gfgw
+aliases:
+  - CVE-2023-38171
+  - GHSA-xh5m-8qqp-c5x7
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-38171.json
+  - score: '0.00279'
+    scoring_system: epss
+    scoring_elements: '0.68735'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-38171
+weaknesses:
+  - CWE-476
+  - CWE-1035
+  - CWE-937
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-38171.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-38171
+    reference_type:
+    reference_id:
+  - url: https://github.com/microsoft/msquic/commit/3226cff07d22662f16fc98d605656860e64cd343
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2242804
+    reference_type:
+    reference_id: 2242804
+  - url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-38171
+    reference_type:
+    reference_id: CVE-2023-38171
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2023-38171
+    reference_type:
+    reference_id: CVE-2023-38171
+  - url: https://github.com/advisories/GHSA-xh5m-8qqp-c5x7
+    reference_type:
+    reference_id: GHSA-xh5m-8qqp-c5x7
+  - url: https://github.com/microsoft/msquic/security/advisories/GHSA-xh5m-8qqp-c5x7
+    reference_type:
+    reference_id: GHSA-xh5m-8qqp-c5x7

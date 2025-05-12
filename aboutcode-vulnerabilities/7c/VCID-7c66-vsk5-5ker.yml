@@ -1,0 +1,57 @@
+vulnerability_id: VCID-7c66-vsk5-5ker
+aliases:
+  - CVE-2023-37464
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-37464.json
+  - score: '0.00255'
+    scoring_system: epss
+    scoring_elements: '0.65625'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-37464
+weaknesses:
+  - CWE-327
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-37464.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-37464
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1041423
+    reference_type:
+    reference_id: 1041423
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2223295
+    reference_type:
+    reference_id: 2223295
+  - url: https://access.redhat.com/errata/RHSA-2023:4408
+    reference_type:
+    reference_id: RHSA-2023:4408
+  - url: https://access.redhat.com/errata/RHSA-2023:4409
+    reference_type:
+    reference_id: RHSA-2023:4409
+  - url: https://access.redhat.com/errata/RHSA-2023:4410
+    reference_type:
+    reference_id: RHSA-2023:4410
+  - url: https://access.redhat.com/errata/RHSA-2023:4411
+    reference_type:
+    reference_id: RHSA-2023:4411
+  - url: https://access.redhat.com/errata/RHSA-2023:4417
+    reference_type:
+    reference_id: RHSA-2023:4417
+  - url: https://access.redhat.com/errata/RHSA-2023:4418
+    reference_type:
+    reference_id: RHSA-2023:4418
+  - url: https://access.redhat.com/errata/RHSA-2023:4429
+    reference_type:
+    reference_id: RHSA-2023:4429
+  - url: https://usn.ubuntu.com/6307-1/
+    reference_type:
+    reference_id: USN-6307-1

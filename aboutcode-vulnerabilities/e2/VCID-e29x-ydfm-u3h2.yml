@@ -1,0 +1,49 @@
+vulnerability_id: VCID-e29x-ydfm-u3h2
+aliases:
+  - CVE-2020-29509
+summary:
+severities:
+  - score: '5.6'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-29509.json
+  - score: '0.00105'
+    scoring_system: epss
+    scoring_elements: '0.43797'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-29509
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1357
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1358
+weaknesses:
+  - CWE-115
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-29509.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-29509
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1908535
+    reference_type:
+    reference_id: '1908535'
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=948190
+    reference_type:
+    reference_id: 948190
+  - url: https://security.archlinux.org/AVG-1357
+    reference_type:
+    reference_id: AVG-1357
+  - url: https://security.archlinux.org/AVG-1358
+    reference_type:
+    reference_id: AVG-1358

@@ -1,0 +1,23 @@
+vulnerability_id: VCID-hrt5-1nrk-e3a1
+aliases:
+  - CVE-2020-26955
+summary:
+severities:
+  - score: '0.00081'
+    scoring_system: epss
+    scoring_elements: '0.35596'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-26955
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-50
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-26955
+    reference_type:
+    reference_id:
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-50
+    reference_type:
+    reference_id: mfsa2020-50

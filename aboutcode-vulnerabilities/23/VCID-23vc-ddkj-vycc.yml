@@ -1,0 +1,86 @@
+vulnerability_id: VCID-23vc-ddkj-vycc
+aliases:
+  - CVE-2019-5435
+summary:
+severities:
+  - score: '3.7'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-5435.json
+  - score: '0.01663'
+    scoring_system: epss
+    scoring_elements: '0.87941'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-5435
+  - score: Low
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2019-5435.html
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-961
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-962
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-963
+weaknesses:
+  - CWE-131
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-5435.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-5435
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2019-5435.html
+    reference_type:
+    reference_id:
+  - url: https://hackerone.com/reports/547630
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1710609
+    reference_type:
+    reference_id: 1710609
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=929352
+    reference_type:
+    reference_id: 929352
+  - url: https://security.archlinux.org/ASA-201905-13
+    reference_type:
+    reference_id: ASA-201905-13
+  - url: https://security.archlinux.org/ASA-201905-14
+    reference_type:
+    reference_id: ASA-201905-14
+  - url: https://security.archlinux.org/ASA-201905-15
+    reference_type:
+    reference_id: ASA-201905-15
+  - url: https://security.archlinux.org/AVG-961
+    reference_type:
+    reference_id: AVG-961
+  - url: https://security.archlinux.org/AVG-962
+    reference_type:
+    reference_id: AVG-962
+  - url: https://security.archlinux.org/AVG-963
+    reference_type:
+    reference_id: AVG-963
+  - url: https://security.gentoo.org/glsa/202003-29
+    reference_type:
+    reference_id: GLSA-202003-29
+  - url: https://access.redhat.com/errata/RHSA-2020:4383
+    reference_type:
+    reference_id: RHSA-2020:4383
+  - url: https://access.redhat.com/errata/RHSA-2020:4384
+    reference_type:
+    reference_id: RHSA-2020:4384
+  - url: https://usn.ubuntu.com/3993-1/
+    reference_type:
+    reference_id: USN-3993-1

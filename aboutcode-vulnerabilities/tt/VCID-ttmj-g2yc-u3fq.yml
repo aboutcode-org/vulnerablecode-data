@@ -1,0 +1,54 @@
+vulnerability_id: VCID-ttmj-g2yc-u3fq
+aliases:
+  - CVE-2020-26966
+summary:
+severities:
+  - score: '6.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-26966.json
+  - score: '0.00150'
+    scoring_system: epss
+    scoring_elements: '0.51696'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-26966
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-50
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-51
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-52
+weaknesses:
+  - CWE-200
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-26966.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-26966
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1898740
+    reference_type:
+    reference_id: 1898740
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-50
+    reference_type:
+    reference_id: mfsa2020-50
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-51
+    reference_type:
+    reference_id: mfsa2020-51
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-52
+    reference_type:
+    reference_id: mfsa2020-52

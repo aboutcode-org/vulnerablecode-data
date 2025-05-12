@@ -1,0 +1,59 @@
+vulnerability_id: VCID-2hxc-ry4g-67ct
+aliases:
+  - CVE-2024-34703
+summary:
+severities:
+  - score: '0.00045'
+    scoring_system: epss
+    scoring_elements: '0.16440'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-34703
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://github.com/randombit/botan/commit/08c404b23740babee1f6aa51b54e966029aadee4
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-02T14:55:26Z/
+    published_at:
+    url: https://github.com/randombit/botan/commit/08c404b23740babee1f6aa51b54e966029aadee4
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://github.com/randombit/botan/commit/94e9154c143aa5264da6254a6a1be5bc66ee2b5a
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-02T14:55:26Z/
+    published_at:
+    url: https://github.com/randombit/botan/commit/94e9154c143aa5264da6254a6a1be5bc66ee2b5a
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://github.com/randombit/botan/security/advisories/GHSA-w4g2-7m2h-7xj7
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-02T14:55:26Z/
+    published_at:
+    url: https://github.com/randombit/botan/security/advisories/GHSA-w4g2-7m2h-7xj7
+weaknesses:
+  - CWE-405
+  - CWE-770
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-34703
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://github.com/randombit/botan/commit/08c404b23740babee1f6aa51b54e966029aadee4
+    reference_type:
+    reference_id: 08c404b23740babee1f6aa51b54e966029aadee4
+  - url: https://github.com/randombit/botan/commit/94e9154c143aa5264da6254a6a1be5bc66ee2b5a
+    reference_type:
+    reference_id: 94e9154c143aa5264da6254a6a1be5bc66ee2b5a
+  - url: https://github.com/randombit/botan/security/advisories/GHSA-w4g2-7m2h-7xj7
+    reference_type:
+    reference_id: GHSA-w4g2-7m2h-7xj7

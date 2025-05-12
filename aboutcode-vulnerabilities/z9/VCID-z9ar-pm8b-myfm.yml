@@ -1,0 +1,21 @@
+vulnerability_id: VCID-z9ar-pm8b-myfm
+aliases:
+  - CVE-2018-14395
+summary:
+severities:
+  - score: '0.00187'
+    scoring_system: epss
+    scoring_elements: '0.56641'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-14395
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-14395
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-14395
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:

@@ -1,0 +1,51 @@
+vulnerability_id: VCID-8abe-tm57-sybp
+aliases:
+  - CVE-2019-10216
+summary:
+severities:
+  - score: '7.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-10216.json
+  - score: '0.00104'
+    scoring_system: epss
+    scoring_elements: '0.43510'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-10216
+weaknesses:
+  - CWE-648
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-10216.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-10216
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-10216
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1737080
+    reference_type:
+    reference_id: 1737080
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=934638
+    reference_type:
+    reference_id: 934638
+  - url: https://security.gentoo.org/glsa/202004-03
+    reference_type:
+    reference_id: GLSA-202004-03
+  - url: https://access.redhat.com/errata/RHSA-2019:2462
+    reference_type:
+    reference_id: RHSA-2019:2462
+  - url: https://access.redhat.com/errata/RHSA-2019:2465
+    reference_type:
+    reference_id: RHSA-2019:2465
+  - url: https://access.redhat.com/errata/RHSA-2019:2534
+    reference_type:
+    reference_id: RHSA-2019:2534
+  - url: https://usn.ubuntu.com/4092-1/
+    reference_type:
+    reference_id: USN-4092-1

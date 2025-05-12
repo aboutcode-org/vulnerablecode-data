@@ -1,0 +1,18 @@
+vulnerability_id: VCID-bk65-23q2-ykes
+aliases:
+  - CVE-2018-7751
+summary:
+severities:
+  - score: '0.00278'
+    scoring_system: epss
+    scoring_elements: '0.68671'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-7751
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-7751
+    reference_type:
+    reference_id:
+  - url: https://security.gentoo.org/glsa/202003-65
+    reference_type:
+    reference_id: GLSA-202003-65

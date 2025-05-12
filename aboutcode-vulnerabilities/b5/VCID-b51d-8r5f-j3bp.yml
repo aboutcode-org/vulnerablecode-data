@@ -1,0 +1,40 @@
+vulnerability_id: VCID-b51d-8r5f-j3bp
+aliases:
+  - CVE-2016-4472
+summary:
+severities:
+  - score: '0.01365'
+    scoring_system: epss
+    scoring_elements: '0.86577'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-4472
+weaknesses:
+  - CWE-190
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-4472.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-4472
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-0718
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4472
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1344251
+    reference_type:
+    reference_id: 1344251
+  - url: https://security.gentoo.org/glsa/201701-21
+    reference_type:
+    reference_id: GLSA-201701-21
+  - url: https://usn.ubuntu.com/3013-1/
+    reference_type:
+    reference_id: USN-3013-1
+  - url: https://usn.ubuntu.com/USN-5455-1/
+    reference_type:
+    reference_id: USN-USN-5455-1

@@ -1,0 +1,43 @@
+vulnerability_id: VCID-xr7t-vhtn-zbbs
+aliases:
+  - CVE-2020-26969
+summary:
+severities:
+  - score: '0.00276'
+    scoring_system: epss
+    scoring_elements: '0.68578'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-26969
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1279
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-50
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-26969
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/ASA-202011-12
+    reference_type:
+    reference_id: ASA-202011-12
+  - url: https://security.archlinux.org/AVG-1279
+    reference_type:
+    reference_id: AVG-1279
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-50
+    reference_type:
+    reference_id: mfsa2020-50
+  - url: https://usn.ubuntu.com/4637-1/
+    reference_type:
+    reference_id: USN-4637-1
+  - url: https://usn.ubuntu.com/4637-2/
+    reference_type:
+    reference_id: USN-4637-2

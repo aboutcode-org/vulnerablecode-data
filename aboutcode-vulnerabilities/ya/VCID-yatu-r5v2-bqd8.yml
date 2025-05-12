@@ -1,0 +1,57 @@
+vulnerability_id: VCID-yatu-r5v2-bqd8
+aliases:
+  - CVE-2023-28450
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-28450.json
+  - score: '0.00317'
+    scoring_system: epss
+    scoring_elements: '0.70803'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-28450
+weaknesses:
+  - CWE-770
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-28450.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-28450
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1033165
+    reference_type:
+    reference_id: 1033165
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2178948
+    reference_type:
+    reference_id: 2178948
+  - url: https://access.redhat.com/errata/RHSA-2023:6524
+    reference_type:
+    reference_id: RHSA-2023:6524
+  - url: https://access.redhat.com/errata/RHSA-2023:7046
+    reference_type:
+    reference_id: RHSA-2023:7046
+  - url: https://access.redhat.com/errata/RHSA-2024:1544
+    reference_type:
+    reference_id: RHSA-2024:1544
+  - url: https://access.redhat.com/errata/RHSA-2024:1545
+    reference_type:
+    reference_id: RHSA-2024:1545
+  - url: https://access.redhat.com/errata/RHSA-2024:4052
+    reference_type:
+    reference_id: RHSA-2024:4052
+  - url: https://usn.ubuntu.com/6034-1/
+    reference_type:
+    reference_id: USN-6034-1
+  - url: https://usn.ubuntu.com/6657-1/
+    reference_type:
+    reference_id: USN-6657-1
+  - url: https://usn.ubuntu.com/6657-2/
+    reference_type:
+    reference_id: USN-6657-2

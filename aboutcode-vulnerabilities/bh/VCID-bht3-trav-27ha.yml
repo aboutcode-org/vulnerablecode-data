@@ -1,0 +1,39 @@
+vulnerability_id: VCID-bht3-trav-27ha
+aliases:
+  - CVE-2019-6477
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-6477.json
+  - score: '0.01709'
+    scoring_system: epss
+    scoring_elements: '0.88111'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-6477
+weaknesses:
+  - CWE-400
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-6477.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-6477
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1773617
+    reference_type:
+    reference_id: 1773617
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=945171
+    reference_type:
+    reference_id: 945171
+  - url: https://access.redhat.com/errata/RHSA-2020:1061
+    reference_type:
+    reference_id: RHSA-2020:1061
+  - url: https://access.redhat.com/errata/RHSA-2020:1845
+    reference_type:
+    reference_id: RHSA-2020:1845
+  - url: https://usn.ubuntu.com/4197-1/
+    reference_type:
+    reference_id: USN-4197-1

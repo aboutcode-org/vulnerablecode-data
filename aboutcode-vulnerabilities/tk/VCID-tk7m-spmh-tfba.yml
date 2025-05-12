@@ -1,0 +1,119 @@
+vulnerability_id: VCID-tk7m-spmh-tfba
+aliases:
+  - CVE-2020-6820
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-6820.json
+  - score: '0.00891'
+    scoring_system: epss
+    scoring_elements: '0.82966'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-6820
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1125
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1132
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-11
+  - score: critical
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-14
+weaknesses:
+  - CWE-416
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-6820.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-6820
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-6819
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-6820
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-6821
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-6822
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-6825
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1820878
+    reference_type:
+    reference_id: 1820878
+  - url: https://security.archlinux.org/ASA-202004-12
+    reference_type:
+    reference_id: ASA-202004-12
+  - url: https://security.archlinux.org/ASA-202004-6
+    reference_type:
+    reference_id: ASA-202004-6
+  - url: https://security.archlinux.org/AVG-1125
+    reference_type:
+    reference_id: AVG-1125
+  - url: https://security.archlinux.org/AVG-1132
+    reference_type:
+    reference_id: AVG-1132
+  - url: https://security.gentoo.org/glsa/202004-07
+    reference_type:
+    reference_id: GLSA-202004-07
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-11
+    reference_type:
+    reference_id: mfsa2020-11
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-14
+    reference_type:
+    reference_id: mfsa2020-14
+  - url: https://access.redhat.com/errata/RHSA-2020:1338
+    reference_type:
+    reference_id: RHSA-2020:1338
+  - url: https://access.redhat.com/errata/RHSA-2020:1339
+    reference_type:
+    reference_id: RHSA-2020:1339
+  - url: https://access.redhat.com/errata/RHSA-2020:1340
+    reference_type:
+    reference_id: RHSA-2020:1340
+  - url: https://access.redhat.com/errata/RHSA-2020:1341
+    reference_type:
+    reference_id: RHSA-2020:1341
+  - url: https://access.redhat.com/errata/RHSA-2020:1488
+    reference_type:
+    reference_id: RHSA-2020:1488
+  - url: https://access.redhat.com/errata/RHSA-2020:1489
+    reference_type:
+    reference_id: RHSA-2020:1489
+  - url: https://access.redhat.com/errata/RHSA-2020:1495
+    reference_type:
+    reference_id: RHSA-2020:1495
+  - url: https://access.redhat.com/errata/RHSA-2020:1496
+    reference_type:
+    reference_id: RHSA-2020:1496
+  - url: https://usn.ubuntu.com/4317-1/
+    reference_type:
+    reference_id: USN-4317-1
+  - url: https://usn.ubuntu.com/4328-1/
+    reference_type:
+    reference_id: USN-4328-1
+  - url: https://usn.ubuntu.com/4335-1/
+    reference_type:
+    reference_id: USN-4335-1

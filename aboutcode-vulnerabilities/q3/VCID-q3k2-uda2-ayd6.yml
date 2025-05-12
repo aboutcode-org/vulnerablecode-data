@@ -1,0 +1,44 @@
+vulnerability_id: VCID-q3k2-uda2-ayd6
+aliases:
+  - CVE-2021-37621
+summary:
+severities:
+  - score: '5.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-37621.json
+  - score: '0.00112'
+    scoring_system: epss
+    scoring_elements: '0.45405'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-37621
+  - score: Low
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2265
+weaknesses:
+  - CWE-835
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-37621.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-37621
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1992183
+    reference_type:
+    reference_id: '1992183'
+  - url: https://security.archlinux.org/AVG-2265
+    reference_type:
+    reference_id: AVG-2265
+  - url: https://security.gentoo.org/glsa/202312-06
+    reference_type:
+    reference_id: GLSA-202312-06
+  - url: https://usn.ubuntu.com/5043-1/
+    reference_type:
+    reference_id: USN-5043-1

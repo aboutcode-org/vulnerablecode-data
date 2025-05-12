@@ -1,0 +1,59 @@
+vulnerability_id: VCID-q7ed-guha-j7dg
+aliases:
+  - CVE-2021-29982
+summary:
+severities:
+  - score: '0.00207'
+    scoring_system: epss
+    scoring_elements: '0.58862'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-29982
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2269
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2291
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-33
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-36
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-29982
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/ASA-202108-14
+    reference_type:
+    reference_id: ASA-202108-14
+  - url: https://security.archlinux.org/AVG-2269
+    reference_type:
+    reference_id: AVG-2269
+  - url: https://security.archlinux.org/AVG-2291
+    reference_type:
+    reference_id: AVG-2291
+  - url: https://security.gentoo.org/glsa/202202-03
+    reference_type:
+    reference_id: GLSA-202202-03
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-33
+    reference_type:
+    reference_id: mfsa2021-33
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-36
+    reference_type:
+    reference_id: mfsa2021-36
+  - url: https://usn.ubuntu.com/5037-1/
+    reference_type:
+    reference_id: USN-5037-1
+  - url: https://usn.ubuntu.com/5248-1/
+    reference_type:
+    reference_id: USN-5248-1

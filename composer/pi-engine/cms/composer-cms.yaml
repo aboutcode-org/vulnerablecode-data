@@ -1,6 +1,0 @@
-package: pkg:composer/pi-engine/cms
-versions:
-  - purl: pkg:composer/pi-engine/cms@2.5.0
-    affected_by_vulnerabilities:
-      - VCID-7e51-qys9-aaak
-    fixing_vulnerabilities: []

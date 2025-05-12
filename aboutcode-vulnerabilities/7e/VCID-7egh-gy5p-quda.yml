@@ -1,0 +1,47 @@
+vulnerability_id: VCID-7egh-gy5p-quda
+aliases:
+  - CVE-2019-10063
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-10063.json
+  - score: '0.00209'
+    scoring_system: epss
+    scoring_elements: '0.59049'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-10063
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-971
+weaknesses:
+  - CWE-266
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-10063.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-10063
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1695973
+    reference_type:
+    reference_id: 1695973
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=925541
+    reference_type:
+    reference_id: 925541
+  - url: https://security.archlinux.org/AVG-971
+    reference_type:
+    reference_id: AVG-971
+  - url: https://access.redhat.com/errata/RHSA-2019:1024
+    reference_type:
+    reference_id: RHSA-2019:1024
+  - url: https://access.redhat.com/errata/RHSA-2019:1143
+    reference_type:
+    reference_id: RHSA-2019:1143

@@ -1,0 +1,35 @@
+vulnerability_id: VCID-ym8f-32bb-tka1
+aliases:
+  - CVE-2016-6318
+summary:
+severities:
+  - score: '4.0'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-6318.json
+  - score: '0.00042'
+    scoring_system: epss
+    scoring_elements: '0.05073'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-6318
+weaknesses: []
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-6318.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-6318
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1364944
+    reference_type:
+    reference_id: 1364944
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=834502
+    reference_type:
+    reference_id: 834502
+  - url: https://security.gentoo.org/glsa/201612-25
+    reference_type:
+    reference_id: GLSA-201612-25

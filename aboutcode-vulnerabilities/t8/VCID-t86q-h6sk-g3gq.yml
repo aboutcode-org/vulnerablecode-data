@@ -1,0 +1,50 @@
+vulnerability_id: VCID-t86q-h6sk-g3gq
+aliases:
+  - CVE-2016-9952
+summary:
+severities:
+  - score: '0.00181'
+    scoring_system: epss
+    scoring_elements: '0.55821'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-9952
+  - score: '8.1'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://curl.haxx.se/CVE-2016-9952.patch
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-23T19:19:07Z/
+    published_at:
+    url: https://curl.haxx.se/CVE-2016-9952.patch
+  - score: '8.1'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://curl.haxx.se/docs/adv_20161221B.html
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-23T19:19:07Z/
+    published_at:
+    url: https://curl.haxx.se/docs/adv_20161221B.html
+  - score: Medium
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2016-9952.html
+weaknesses:
+  - CWE-295
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-9952
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2016-9952.html
+    reference_type:
+    reference_id:
+  - url: https://curl.haxx.se/docs/adv_20161221B.html
+    reference_type:
+    reference_id: adv_20161221B.html
+  - url: https://curl.haxx.se/CVE-2016-9952.patch
+    reference_type:
+    reference_id: CVE-2016-9952.patch

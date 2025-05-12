@@ -1,0 +1,51 @@
+vulnerability_id: VCID-hc53-zqs1-rkge
+aliases:
+  - CVE-2022-2928
+summary:
+severities:
+  - score: '6.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-2928.json
+  - score: '0.00107'
+    scoring_system: epss
+    scoring_elements: '0.44224'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-2928
+weaknesses:
+  - CWE-190
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-2928.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-2928
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1021320
+    reference_type:
+    reference_id: 1021320
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2132002
+    reference_type:
+    reference_id: 2132002
+  - url: https://security.gentoo.org/glsa/202305-22
+    reference_type:
+    reference_id: GLSA-202305-22
+  - url: https://access.redhat.com/errata/RHSA-2023:2502
+    reference_type:
+    reference_id: RHSA-2023:2502
+  - url: https://access.redhat.com/errata/RHSA-2023:3000
+    reference_type:
+    reference_id: RHSA-2023:3000
+  - url: https://usn.ubuntu.com/5658-1/
+    reference_type:
+    reference_id: USN-5658-1
+  - url: https://usn.ubuntu.com/5658-2/
+    reference_type:
+    reference_id: USN-5658-2
+  - url: https://usn.ubuntu.com/5658-3/
+    reference_type:
+    reference_id: USN-5658-3

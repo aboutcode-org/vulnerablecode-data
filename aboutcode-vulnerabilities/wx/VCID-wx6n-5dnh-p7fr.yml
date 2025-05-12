@@ -1,0 +1,93 @@
+vulnerability_id: VCID-wx6n-5dnh-p7fr
+aliases:
+  - CVE-2017-2629
+summary:
+severities:
+  - score: '4.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-2629.json
+  - score: '0.00199'
+    scoring_system: epss
+    scoring_elements: '0.58073'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2017-2629
+  - score: Medium
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2017-2629.html
+  - score: Low
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-179
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-180
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-181
+  - score: Low
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-182
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-183
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-184
+weaknesses:
+  - CWE-295
+  - CWE-304
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-2629.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2017-2629
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2017-2629.html
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1425746
+    reference_type:
+    reference_id: 1425746
+  - url: https://security.archlinux.org/ASA-201703-1
+    reference_type:
+    reference_id: ASA-201703-1
+  - url: https://security.archlinux.org/AVG-179
+    reference_type:
+    reference_id: AVG-179
+  - url: https://security.archlinux.org/AVG-180
+    reference_type:
+    reference_id: AVG-180
+  - url: https://security.archlinux.org/AVG-181
+    reference_type:
+    reference_id: AVG-181
+  - url: https://security.archlinux.org/AVG-182
+    reference_type:
+    reference_id: AVG-182
+  - url: https://security.archlinux.org/AVG-183
+    reference_type:
+    reference_id: AVG-183
+  - url: https://security.archlinux.org/AVG-184
+    reference_type:
+    reference_id: AVG-184
+  - url: https://security.gentoo.org/glsa/201703-04
+    reference_type:
+    reference_id: GLSA-201703-04

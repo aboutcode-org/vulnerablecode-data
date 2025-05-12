@@ -1,0 +1,54 @@
+vulnerability_id: VCID-6rn8-pvvg-u3ey
+aliases:
+  - CVE-2016-7141
+summary:
+severities:
+  - score: '4.2'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:L/UI:N/S:U/C:L/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-7141.json
+  - score: '0.00356'
+    scoring_system: epss
+    scoring_elements: '0.72472'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-7141
+  - score: High
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2016-7141.html
+weaknesses:
+  - CWE-295
+  - CWE-305
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-7141.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-7141
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2016-7141.html
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1373229
+    reference_type:
+    reference_id: 1373229
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=836918
+    reference_type:
+    reference_id: 836918
+  - url: https://security.gentoo.org/glsa/201701-47
+    reference_type:
+    reference_id: GLSA-201701-47
+  - url: https://access.redhat.com/errata/RHSA-2016:2575
+    reference_type:
+    reference_id: RHSA-2016:2575
+  - url: https://access.redhat.com/errata/RHSA-2016:2957
+    reference_type:
+    reference_id: RHSA-2016:2957
+  - url: https://access.redhat.com/errata/RHSA-2018:3558
+    reference_type:
+    reference_id: RHSA-2018:3558
+  - url: https://usn.ubuntu.com/3123-1/
+    reference_type:
+    reference_id: USN-3123-1

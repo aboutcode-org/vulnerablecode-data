@@ -1,0 +1,228 @@
+vulnerability_id: VCID-vfwf-djqz-5bfp
+aliases:
+  - CVE-2021-41133
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-41133.json
+  - score: '0.00046'
+    scoring_system: epss
+    scoring_elements: '0.17871'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-41133
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/1330662f33a55e88bfe18e76de28b7922d91a999
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-30T16:07:06Z/
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/1330662f33a55e88bfe18e76de28b7922d91a999
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/26b12484eb8a6219b9e7aa287b298a894b2f34ca
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-30T16:07:06Z/
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/26b12484eb8a6219b9e7aa287b298a894b2f34ca
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/462fca2c666e0cd2b60d6d2593a7216a83047aaf
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-30T16:07:06Z/
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/462fca2c666e0cd2b60d6d2593a7216a83047aaf
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/4c34815784e9ffda5733225c7d95824f96375e36
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-30T16:07:06Z/
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/4c34815784e9ffda5733225c7d95824f96375e36
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/89ae9fe74c6d445bb1b3a40e568d77cf5de47e48
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-30T16:07:06Z/
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/89ae9fe74c6d445bb1b3a40e568d77cf5de47e48
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/9766ee05b1425db397d2cf23afd24c7f6146a69f
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-30T16:07:06Z/
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/9766ee05b1425db397d2cf23afd24c7f6146a69f
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/a10f52a7565c549612c92b8e736a6698a53db330
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-30T16:07:06Z/
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/a10f52a7565c549612c92b8e736a6698a53db330
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/e26ac7586c392b5eb35ff4609fe232c52523b2cf
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-30T16:07:06Z/
+    published_at:
+    url: https://github.com/flatpak/flatpak/commit/e26ac7586c392b5eb35ff4609fe232c52523b2cf
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://github.com/flatpak/flatpak/security/advisories/GHSA-67h7-w3jq-vh4q
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-30T16:07:06Z/
+    published_at:
+    url: https://github.com/flatpak/flatpak/security/advisories/GHSA-67h7-w3jq-vh4q
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/R5656ONDP2MGKIJMKEC7N2NXCV27WGTC/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-30T16:07:06Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/R5656ONDP2MGKIJMKEC7N2NXCV27WGTC/
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/T5DKCYRC6MFSTFCUP4DELCOUUP3SFEFX/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-30T16:07:06Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/T5DKCYRC6MFSTFCUP4DELCOUUP3SFEFX/
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2455
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: https://www.debian.org/security/2021/dsa-4984
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-30T16:07:06Z/
+    published_at:
+    url: https://www.debian.org/security/2021/dsa-4984
+  - score: '8.8'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2021/10/26/9
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-07-30T16:07:06Z/
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2021/10/26/9
+weaknesses:
+  - CWE-20
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-41133.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-41133
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://github.com/flatpak/flatpak/commit/1330662f33a55e88bfe18e76de28b7922d91a999
+    reference_type:
+    reference_id: 1330662f33a55e88bfe18e76de28b7922d91a999
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2012245
+    reference_type:
+    reference_id: 2012245
+  - url: https://github.com/flatpak/flatpak/commit/26b12484eb8a6219b9e7aa287b298a894b2f34ca
+    reference_type:
+    reference_id: 26b12484eb8a6219b9e7aa287b298a894b2f34ca
+  - url: https://github.com/flatpak/flatpak/commit/462fca2c666e0cd2b60d6d2593a7216a83047aaf
+    reference_type:
+    reference_id: 462fca2c666e0cd2b60d6d2593a7216a83047aaf
+  - url: https://github.com/flatpak/flatpak/commit/4c34815784e9ffda5733225c7d95824f96375e36
+    reference_type:
+    reference_id: 4c34815784e9ffda5733225c7d95824f96375e36
+  - url: https://github.com/flatpak/flatpak/commit/89ae9fe74c6d445bb1b3a40e568d77cf5de47e48
+    reference_type:
+    reference_id: 89ae9fe74c6d445bb1b3a40e568d77cf5de47e48
+  - url: http://www.openwall.com/lists/oss-security/2021/10/26/9
+    reference_type:
+    reference_id: 9
+  - url: https://github.com/flatpak/flatpak/commit/9766ee05b1425db397d2cf23afd24c7f6146a69f
+    reference_type:
+    reference_id: 9766ee05b1425db397d2cf23afd24c7f6146a69f
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=995935
+    reference_type:
+    reference_id: 995935
+  - url: https://github.com/flatpak/flatpak/commit/a10f52a7565c549612c92b8e736a6698a53db330
+    reference_type:
+    reference_id: a10f52a7565c549612c92b8e736a6698a53db330
+  - url: https://security.archlinux.org/AVG-2455
+    reference_type:
+    reference_id: AVG-2455
+  - url: https://www.debian.org/security/2021/dsa-4984
+    reference_type:
+    reference_id: dsa-4984
+  - url: https://github.com/flatpak/flatpak/commit/e26ac7586c392b5eb35ff4609fe232c52523b2cf
+    reference_type:
+    reference_id: e26ac7586c392b5eb35ff4609fe232c52523b2cf
+  - url: https://github.com/flatpak/flatpak/security/advisories/GHSA-67h7-w3jq-vh4q
+    reference_type:
+    reference_id: GHSA-67h7-w3jq-vh4q
+  - url: https://security.gentoo.org/glsa/202312-12
+    reference_type:
+    reference_id: GLSA-202312-12
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/R5656ONDP2MGKIJMKEC7N2NXCV27WGTC/
+    reference_type:
+    reference_id: R5656ONDP2MGKIJMKEC7N2NXCV27WGTC
+  - url: https://access.redhat.com/errata/RHSA-2021:4042
+    reference_type:
+    reference_id: RHSA-2021:4042
+  - url: https://access.redhat.com/errata/RHSA-2021:4044
+    reference_type:
+    reference_id: RHSA-2021:4044
+  - url: https://access.redhat.com/errata/RHSA-2021:4106
+    reference_type:
+    reference_id: RHSA-2021:4106
+  - url: https://access.redhat.com/errata/RHSA-2021:4107
+    reference_type:
+    reference_id: RHSA-2021:4107
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/T5DKCYRC6MFSTFCUP4DELCOUUP3SFEFX/
+    reference_type:
+    reference_id: T5DKCYRC6MFSTFCUP4DELCOUUP3SFEFX
+  - url: https://usn.ubuntu.com/5191-1/
+    reference_type:
+    reference_id: USN-5191-1

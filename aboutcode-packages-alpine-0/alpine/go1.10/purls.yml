@@ -1,0 +1,6 @@
+- pkg:alpine/go1.10@1.9.4-r0?arch=aarch64&distroversion=v3.7&reponame=community
+- pkg:alpine/go1.10@1.9.4-r0?arch=armhf&distroversion=v3.7&reponame=community
+- pkg:alpine/go1.10@1.9.4-r0?arch=ppc64le&distroversion=v3.7&reponame=community
+- pkg:alpine/go1.10@1.9.4-r0?arch=s390x&distroversion=v3.7&reponame=community
+- pkg:alpine/go1.10@1.9.4-r0?arch=x86_64&distroversion=v3.7&reponame=community
+- pkg:alpine/go1.10@1.9.4-r0?arch=x86&distroversion=v3.7&reponame=community

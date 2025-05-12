@@ -1,0 +1,99 @@
+vulnerability_id: VCID-76rx-9mj3-9fc2
+aliases:
+  - CVE-2020-15586
+summary:
+severities:
+  - score: '5.9'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-15586.json
+  - score: '0.01086'
+    scoring_system: epss
+    scoring_elements: '0.84662'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-15586
+weaknesses:
+  - CWE-362
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-15586.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-15586
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15586
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-16845
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7919
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3114
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1856953
+    reference_type:
+    reference_id: 1856953
+  - url: https://access.redhat.com/errata/RHSA-2020:3665
+    reference_type:
+    reference_id: RHSA-2020:3665
+  - url: https://access.redhat.com/errata/RHSA-2020:4201
+    reference_type:
+    reference_id: RHSA-2020:4201
+  - url: https://access.redhat.com/errata/RHSA-2020:4214
+    reference_type:
+    reference_id: RHSA-2020:4214
+  - url: https://access.redhat.com/errata/RHSA-2020:4297
+    reference_type:
+    reference_id: RHSA-2020:4297
+  - url: https://access.redhat.com/errata/RHSA-2020:5118
+    reference_type:
+    reference_id: RHSA-2020:5118
+  - url: https://access.redhat.com/errata/RHSA-2020:5119
+    reference_type:
+    reference_id: RHSA-2020:5119
+  - url: https://access.redhat.com/errata/RHSA-2020:5605
+    reference_type:
+    reference_id: RHSA-2020:5605
+  - url: https://access.redhat.com/errata/RHSA-2020:5606
+    reference_type:
+    reference_id: RHSA-2020:5606
+  - url: https://access.redhat.com/errata/RHSA-2020:5649
+    reference_type:
+    reference_id: RHSA-2020:5649
+  - url: https://access.redhat.com/errata/RHSA-2021:0072
+    reference_type:
+    reference_id: RHSA-2021:0072
+  - url: https://access.redhat.com/errata/RHSA-2021:0172
+    reference_type:
+    reference_id: RHSA-2021:0172
+  - url: https://access.redhat.com/errata/RHSA-2021:0713
+    reference_type:
+    reference_id: RHSA-2021:0713
+  - url: https://access.redhat.com/errata/RHSA-2021:0799
+    reference_type:
+    reference_id: RHSA-2021:0799
+  - url: https://access.redhat.com/errata/RHSA-2021:0956
+    reference_type:
+    reference_id: RHSA-2021:0956
+  - url: https://access.redhat.com/errata/RHSA-2021:1016
+    reference_type:
+    reference_id: RHSA-2021:1016
+  - url: https://access.redhat.com/errata/RHSA-2021:1366
+    reference_type:
+    reference_id: RHSA-2021:1366
+  - url: https://access.redhat.com/errata/RHSA-2021:1515
+    reference_type:
+    reference_id: RHSA-2021:1515
+  - url: https://access.redhat.com/errata/RHSA-2021:2122
+    reference_type:
+    reference_id: RHSA-2021:2122
+  - url: https://access.redhat.com/errata/RHSA-2021:4103
+    reference_type:
+    reference_id: RHSA-2021:4103

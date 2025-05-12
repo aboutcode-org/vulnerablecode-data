@@ -1,0 +1,34 @@
+vulnerability_id: VCID-1yzg-qchx-q7fz
+aliases:
+  - CVE-2016-2148
+summary:
+severities:
+  - score: '0.01921'
+    scoring_system: epss
+    scoring_elements: '0.88903'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-2148
+weaknesses:
+  - CWE-122
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-2148.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-2148
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1316556
+    reference_type:
+    reference_id: 1316556
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=818497
+    reference_type:
+    reference_id: 818497
+  - url: https://security.gentoo.org/glsa/201612-04
+    reference_type:
+    reference_id: GLSA-201612-04
+  - url: https://usn.ubuntu.com/3935-1/
+    reference_type:
+    reference_id: USN-3935-1

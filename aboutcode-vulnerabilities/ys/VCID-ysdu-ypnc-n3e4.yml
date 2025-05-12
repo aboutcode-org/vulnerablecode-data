@@ -1,0 +1,42 @@
+vulnerability_id: VCID-ysdu-ypnc-n3e4
+aliases:
+  - CVE-2019-10222
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-10222.json
+  - score: '0.00445'
+    scoring_system: epss
+    scoring_elements: '0.75358'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-10222
+weaknesses:
+  - CWE-755
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-10222.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-10222
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1739292
+    reference_type:
+    reference_id: 1739292
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=936015
+    reference_type:
+    reference_id: 936015
+  - url: https://access.redhat.com/errata/RHSA-2019:2577
+    reference_type:
+    reference_id: RHSA-2019:2577
+  - url: https://access.redhat.com/errata/RHSA-2019:2579
+    reference_type:
+    reference_id: RHSA-2019:2579
+  - url: https://usn.ubuntu.com/4112-1/
+    reference_type:
+    reference_id: USN-4112-1

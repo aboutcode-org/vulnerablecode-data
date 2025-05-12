@@ -1,0 +1,48 @@
+vulnerability_id: VCID-hkwz-7sf8-4kc4
+aliases:
+  - CVE-2018-16802
+summary:
+severities:
+  - score: '7.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-16802.json
+  - score: '0.00319'
+    scoring_system: epss
+    scoring_elements: '0.70897'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-16802
+weaknesses:
+  - CWE-20
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-16802.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-16802
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-16509
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-16802
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17183
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1627959
+    reference_type:
+    reference_id: 1627959
+  - url: https://security.gentoo.org/glsa/201811-12
+    reference_type:
+    reference_id: GLSA-201811-12
+  - url: https://access.redhat.com/errata/RHSA-2018:3834
+    reference_type:
+    reference_id: RHSA-2018:3834
+  - url: https://usn.ubuntu.com/3768-1/
+    reference_type:
+    reference_id: USN-3768-1

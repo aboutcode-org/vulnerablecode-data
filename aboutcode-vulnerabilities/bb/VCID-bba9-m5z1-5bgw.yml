@@ -1,0 +1,37 @@
+vulnerability_id: VCID-bba9-m5z1-5bgw
+aliases:
+  - CVE-2021-21173
+summary:
+severities:
+  - score: '0.01431'
+    scoring_system: epss
+    scoring_elements: '0.86873'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-21173
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1631
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1633
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-21173
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/ASA-202103-19
+    reference_type:
+    reference_id: ASA-202103-19
+  - url: https://security.archlinux.org/AVG-1631
+    reference_type:
+    reference_id: AVG-1631
+  - url: https://security.archlinux.org/AVG-1633
+    reference_type:
+    reference_id: AVG-1633
+  - url: https://security.gentoo.org/glsa/202104-08
+    reference_type:
+    reference_id: GLSA-202104-08

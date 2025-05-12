@@ -1,0 +1,71 @@
+vulnerability_id: VCID-yzc5-qp81-hfdd
+aliases:
+  - CVE-2023-5981
+summary:
+severities:
+  - score: '6.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:2094
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-05-02T13:53:04Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:2094
+  - score: '5.9'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-5981.json
+  - score: '0.00102'
+    scoring_system: epss
+    scoring_elements: '0.42449'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-5981
+weaknesses:
+  - CWE-1300
+  - CWE-203
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-5981.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-5981
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1056188
+    reference_type:
+    reference_id: 1056188
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2248445
+    reference_type:
+    reference_id: 2248445
+  - url: https://access.redhat.com/errata/RHSA-2024:0155
+    reference_type:
+    reference_id: RHSA-2024:0155
+  - url: https://access.redhat.com/errata/RHSA-2024:0319
+    reference_type:
+    reference_id: RHSA-2024:0319
+  - url: https://access.redhat.com/errata/RHSA-2024:0399
+    reference_type:
+    reference_id: RHSA-2024:0399
+  - url: https://access.redhat.com/errata/RHSA-2024:0451
+    reference_type:
+    reference_id: RHSA-2024:0451
+  - url: https://access.redhat.com/errata/RHSA-2024:0533
+    reference_type:
+    reference_id: RHSA-2024:0533
+  - url: https://access.redhat.com/errata/RHSA-2024:1383
+    reference_type:
+    reference_id: RHSA-2024:1383
+  - url: https://access.redhat.com/errata/RHSA-2024:2094
+    reference_type:
+    reference_id: RHSA-2024:2094
+  - url: https://usn.ubuntu.com/6499-1/
+    reference_type:
+    reference_id: USN-6499-1
+  - url: https://usn.ubuntu.com/6499-2/
+    reference_type:
+    reference_id: USN-6499-2

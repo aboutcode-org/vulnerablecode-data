@@ -1,0 +1,21 @@
+vulnerability_id: VCID-k718-azhb-kyf1
+aliases:
+  - CVE-2023-30549
+summary:
+severities:
+  - score: '0.00060'
+    scoring_system: epss
+    scoring_elements: '0.26338'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-30549
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-30549
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1035026
+    reference_type:
+    reference_id: 1035026
+  - url: https://security.gentoo.org/glsa/202311-13
+    reference_type:
+    reference_id: GLSA-202311-13

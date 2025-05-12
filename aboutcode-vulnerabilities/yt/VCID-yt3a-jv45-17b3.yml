@@ -1,0 +1,54 @@
+vulnerability_id: VCID-yt3a-jv45-17b3
+aliases:
+  - CVE-2022-24769
+summary:
+severities:
+  - score: '4.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-24769.json
+  - score: '0.00131'
+    scoring_system: epss
+    scoring_elements: '0.48876'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-24769
+weaknesses:
+  - CWE-276
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-24769.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-24769
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2066837
+    reference_type:
+    reference_id: 2066837
+  - url: https://security.gentoo.org/glsa/202401-31
+    reference_type:
+    reference_id: GLSA-202401-31
+  - url: https://access.redhat.com/errata/RHSA-2022:1357
+    reference_type:
+    reference_id: RHSA-2022:1357
+  - url: https://access.redhat.com/errata/RHSA-2022:1363
+    reference_type:
+    reference_id: RHSA-2022:1363
+  - url: https://access.redhat.com/errata/RHSA-2022:1370
+    reference_type:
+    reference_id: RHSA-2022:1370
+  - url: https://access.redhat.com/errata/RHSA-2022:1622
+    reference_type:
+    reference_id: RHSA-2022:1622
+  - url: https://access.redhat.com/errata/RHSA-2022:1699
+    reference_type:
+    reference_id: RHSA-2022:1699
+  - url: https://access.redhat.com/errata/RHSA-2022:2265
+    reference_type:
+    reference_id: RHSA-2022:2265
+  - url: https://usn.ubuntu.com/5776-1/
+    reference_type:
+    reference_id: USN-5776-1

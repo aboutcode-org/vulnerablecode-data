@@ -1,0 +1,15 @@
+vulnerability_id: VCID-6p1n-1tvg-r7c6
+aliases:
+  - CVE-2022-39200
+summary:
+severities:
+  - score: '0.00061'
+    scoring_system: epss
+    scoring_elements: '0.27119'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-39200
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-39200
+    reference_type:
+    reference_id:

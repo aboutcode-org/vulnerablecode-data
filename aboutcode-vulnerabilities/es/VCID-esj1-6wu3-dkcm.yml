@@ -1,0 +1,37 @@
+vulnerability_id: VCID-esj1-6wu3-dkcm
+aliases:
+  - CVE-2021-30602
+summary:
+severities:
+  - score: '0.00475'
+    scoring_system: epss
+    scoring_elements: '0.76088'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-30602
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2298
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2299
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-30602
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=990079
+    reference_type:
+    reference_id: 990079
+  - url: https://security.archlinux.org/AVG-2298
+    reference_type:
+    reference_id: AVG-2298
+  - url: https://security.archlinux.org/AVG-2299
+    reference_type:
+    reference_id: AVG-2299
+  - url: https://security.gentoo.org/glsa/202201-02
+    reference_type:
+    reference_id: GLSA-202201-02

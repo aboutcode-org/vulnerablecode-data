@@ -1,0 +1,68 @@
+vulnerability_id: VCID-99eh-jgy8-2fas
+aliases:
+  - CVE-2016-2776
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-2776.json
+  - score: '0.97294'
+    scoring_system: epss
+    scoring_elements: '0.99897'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-2776
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-36
+weaknesses:
+  - CWE-617
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-2776.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-2776
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-2775
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-2776
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1378380
+    reference_type:
+    reference_id: 1378380
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=839010
+    reference_type:
+    reference_id: 839010
+  - url: https://security.archlinux.org/ASA-201609-29
+    reference_type:
+    reference_id: ASA-201609-29
+  - url: https://security.archlinux.org/AVG-36
+    reference_type:
+    reference_id: AVG-36
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/multiple/dos/40453.py
+    reference_type: exploit
+    reference_id: CVE-2016-2776
+  - url: https://security.gentoo.org/glsa/201610-07
+    reference_type:
+    reference_id: GLSA-201610-07
+  - url: https://access.redhat.com/errata/RHSA-2016:1944
+    reference_type:
+    reference_id: RHSA-2016:1944
+  - url: https://access.redhat.com/errata/RHSA-2016:1945
+    reference_type:
+    reference_id: RHSA-2016:1945
+  - url: https://access.redhat.com/errata/RHSA-2016:2099
+    reference_type:
+    reference_id: RHSA-2016:2099
+  - url: https://usn.ubuntu.com/3088-1/
+    reference_type:
+    reference_id: USN-3088-1

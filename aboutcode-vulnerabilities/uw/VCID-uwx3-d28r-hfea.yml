@@ -1,0 +1,37 @@
+vulnerability_id: VCID-uwx3-d28r-hfea
+aliases:
+  - CVE-2021-38494
+summary:
+severities:
+  - score: '0.00276'
+    scoring_system: epss
+    scoring_elements: '0.68578'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-38494
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2350
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-38
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-38494
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/ASA-202109-2
+    reference_type:
+    reference_id: ASA-202109-2
+  - url: https://security.archlinux.org/AVG-2350
+    reference_type:
+    reference_id: AVG-2350
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2021-38
+    reference_type:
+    reference_id: mfsa2021-38
+  - url: https://usn.ubuntu.com/5074-1/
+    reference_type:
+    reference_id: USN-5074-1

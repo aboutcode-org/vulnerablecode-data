@@ -1,0 +1,15 @@
+vulnerability_id: VCID-frqz-xwys-pkbp
+aliases:
+  - CVE-2016-10191
+summary:
+severities:
+  - score: '0.05139'
+    scoring_system: epss
+    scoring_elements: '0.93138'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-10191
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-10191
+    reference_type:
+    reference_id:

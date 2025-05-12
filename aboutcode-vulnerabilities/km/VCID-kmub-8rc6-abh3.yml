@@ -1,0 +1,129 @@
+vulnerability_id: VCID-kmub-8rc6-abh3
+aliases:
+  - CVE-2017-1000100
+summary:
+severities:
+  - score: '4.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-1000100.json
+  - score: '0.00384'
+    scoring_system: epss
+    scoring_elements: '0.73465'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2017-1000100
+  - score: High
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2017-1000100.html
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-370
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-371
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-386
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-387
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-388
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-389
+weaknesses:
+  - CWE-125
+  - CWE-126
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2017-1000100.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2017-1000100
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2017-1000100.html
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-1000100
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-1000101
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-1000254
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1478310
+    reference_type:
+    reference_id: 1478310
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=871555
+    reference_type:
+    reference_id: 871555
+  - url: https://security.archlinux.org/ASA-201708-16
+    reference_type:
+    reference_id: ASA-201708-16
+  - url: https://security.archlinux.org/ASA-201710-3
+    reference_type:
+    reference_id: ASA-201710-3
+  - url: https://security.archlinux.org/ASA-201710-4
+    reference_type:
+    reference_id: ASA-201710-4
+  - url: https://security.archlinux.org/ASA-201710-5
+    reference_type:
+    reference_id: ASA-201710-5
+  - url: https://security.archlinux.org/ASA-201710-6
+    reference_type:
+    reference_id: ASA-201710-6
+  - url: https://security.archlinux.org/ASA-201710-7
+    reference_type:
+    reference_id: ASA-201710-7
+  - url: https://security.archlinux.org/AVG-370
+    reference_type:
+    reference_id: AVG-370
+  - url: https://security.archlinux.org/AVG-371
+    reference_type:
+    reference_id: AVG-371
+  - url: https://security.archlinux.org/AVG-386
+    reference_type:
+    reference_id: AVG-386
+  - url: https://security.archlinux.org/AVG-387
+    reference_type:
+    reference_id: AVG-387
+  - url: https://security.archlinux.org/AVG-388
+    reference_type:
+    reference_id: AVG-388
+  - url: https://security.archlinux.org/AVG-389
+    reference_type:
+    reference_id: AVG-389
+  - url: https://security.gentoo.org/glsa/201709-14
+    reference_type:
+    reference_id: GLSA-201709-14
+  - url: https://access.redhat.com/errata/RHSA-2018:3558
+    reference_type:
+    reference_id: RHSA-2018:3558
+  - url: https://usn.ubuntu.com/3441-1/
+    reference_type:
+    reference_id: USN-3441-1
+  - url: https://usn.ubuntu.com/3441-2/
+    reference_type:
+    reference_id: USN-3441-2

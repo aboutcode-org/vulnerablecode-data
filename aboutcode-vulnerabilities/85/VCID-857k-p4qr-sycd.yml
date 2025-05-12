@@ -1,0 +1,18 @@
+vulnerability_id: VCID-857k-p4qr-sycd
+aliases:
+  - CVE-2020-15917
+summary:
+severities:
+  - score: '0.01300'
+    scoring_system: epss
+    scoring_elements: '0.86185'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-15917
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-15917
+    reference_type:
+    reference_id:
+  - url: https://security.gentoo.org/glsa/202007-56
+    reference_type:
+    reference_id: GLSA-202007-56

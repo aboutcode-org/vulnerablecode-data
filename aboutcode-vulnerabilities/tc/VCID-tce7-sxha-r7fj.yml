@@ -1,0 +1,51 @@
+vulnerability_id: VCID-tce7-sxha-r7fj
+aliases:
+  - CVE-2020-27153
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-27153.json
+  - score: '0.04982'
+    scoring_system: epss
+    scoring_elements: '0.93014'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-27153
+weaknesses:
+  - CWE-416
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-27153.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-27153
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-26558
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-27153
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-0129
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1884817
+    reference_type:
+    reference_id: 1884817
+  - url: https://security.gentoo.org/glsa/202011-01
+    reference_type:
+    reference_id: GLSA-202011-01
+  - url: https://access.redhat.com/errata/RHSA-2021:1598
+    reference_type:
+    reference_id: RHSA-2021:1598
+  - url: https://usn.ubuntu.com/4989-1/
+    reference_type:
+    reference_id: USN-4989-1
+  - url: https://usn.ubuntu.com/4989-2/
+    reference_type:
+    reference_id: USN-4989-2

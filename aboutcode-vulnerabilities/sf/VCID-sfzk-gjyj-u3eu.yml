@@ -1,0 +1,21 @@
+vulnerability_id: VCID-sfzk-gjyj-u3eu
+aliases:
+  - CVE-2019-16403
+summary:
+severities:
+  - score: '0.00109'
+    scoring_system: epss
+    scoring_elements: '0.44768'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-16403
+weaknesses:
+  - CWE-1035
+  - CWE-639
+  - CWE-937
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-16403
+    reference_type:
+    reference_id:
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2019-16403
+    reference_type:
+    reference_id: CVE-2019-16403

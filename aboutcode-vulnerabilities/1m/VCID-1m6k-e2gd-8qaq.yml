@@ -1,0 +1,18 @@
+vulnerability_id: VCID-1m6k-e2gd-8qaq
+aliases:
+  - CVE-2019-13952
+summary:
+severities:
+  - score: '0.00341'
+    scoring_system: epss
+    scoring_elements: '0.71856'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-13952
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-13952
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=932407
+    reference_type:
+    reference_id: 932407

@@ -1,0 +1,36 @@
+vulnerability_id: VCID-6aab-qc9z-8bht
+aliases:
+  - CVE-2022-21702
+summary:
+severities:
+  - score: '6.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-21702.json
+  - score: '0.00142'
+    scoring_system: epss
+    scoring_elements: '0.50644'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-21702
+weaknesses:
+  - CWE-79
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-21702.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-21702
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2050648
+    reference_type:
+    reference_id: 2050648
+  - url: https://access.redhat.com/errata/RHSA-2022:7519
+    reference_type:
+    reference_id: RHSA-2022:7519
+  - url: https://access.redhat.com/errata/RHSA-2022:8057
+    reference_type:
+    reference_id: RHSA-2022:8057

@@ -1,0 +1,154 @@
+vulnerability_id: VCID-bx8t-1jkc-abab
+aliases:
+  - CVE-2022-2795
+summary:
+severities:
+  - score: '5.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-2795.json
+  - score: '0.00186'
+    scoring_system: epss
+    scoring_elements: '0.56438'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-2795
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://kb.isc.org/docs/cve-2022-2795
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-04-12T17:20:53Z/
+    published_at:
+    url: https://kb.isc.org/docs/cve-2022-2795
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://lists.debian.org/debian-lts-announce/2022/10/msg00007.html
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-04-12T17:20:53Z/
+    published_at:
+    url: https://lists.debian.org/debian-lts-announce/2022/10/msg00007.html
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/CV4GQWBPF7Y52J2FA24U6UMHQAOXZEF7/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-06-26T19:18:15Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/CV4GQWBPF7Y52J2FA24U6UMHQAOXZEF7/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/MRHB6J4Z7BKH4HPEKG5D35QGRD6ANNMT/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-06-26T19:18:15Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/MRHB6J4Z7BKH4HPEKG5D35QGRD6ANNMT/
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/YZJQNUASODNVAWZV6STKG5SD6XIJ446S/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-06-26T19:18:15Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/YZJQNUASODNVAWZV6STKG5SD6XIJ446S/
+  - score: Unknown
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2811
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://www.debian.org/security/2022/dsa-5235
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-06-26T19:18:15Z/
+    published_at:
+    url: https://www.debian.org/security/2022/dsa-5235
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2022/09/21/3
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-06-26T19:18:15Z/
+    published_at:
+    url: http://www.openwall.com/lists/oss-security/2022/09/21/3
+weaknesses:
+  - CWE-20
+  - CWE-400
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-2795.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-2795
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2128584
+    reference_type:
+    reference_id: 2128584
+  - url: http://www.openwall.com/lists/oss-security/2022/09/21/3
+    reference_type:
+    reference_id: 3
+  - url: https://security.archlinux.org/AVG-2811
+    reference_type:
+    reference_id: AVG-2811
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/CV4GQWBPF7Y52J2FA24U6UMHQAOXZEF7/
+    reference_type:
+    reference_id: CV4GQWBPF7Y52J2FA24U6UMHQAOXZEF7
+  - url: https://kb.isc.org/docs/cve-2022-2795
+    reference_type:
+    reference_id: cve-2022-2795
+  - url: https://www.debian.org/security/2022/dsa-5235
+    reference_type:
+    reference_id: dsa-5235
+  - url: https://security.gentoo.org/glsa/202210-25
+    reference_type:
+    reference_id: GLSA-202210-25
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/MRHB6J4Z7BKH4HPEKG5D35QGRD6ANNMT/
+    reference_type:
+    reference_id: MRHB6J4Z7BKH4HPEKG5D35QGRD6ANNMT
+  - url: https://lists.debian.org/debian-lts-announce/2022/10/msg00007.html
+    reference_type:
+    reference_id: msg00007.html
+  - url: https://access.redhat.com/errata/RHSA-2023:0402
+    reference_type:
+    reference_id: RHSA-2023:0402
+  - url: https://access.redhat.com/errata/RHSA-2023:2261
+    reference_type:
+    reference_id: RHSA-2023:2261
+  - url: https://access.redhat.com/errata/RHSA-2023:2792
+    reference_type:
+    reference_id: RHSA-2023:2792
+  - url: https://access.redhat.com/errata/RHSA-2023:3002
+    reference_type:
+    reference_id: RHSA-2023:3002
+  - url: https://access.redhat.com/errata/RHSA-2024:2720
+    reference_type:
+    reference_id: RHSA-2024:2720
+  - url: https://usn.ubuntu.com/5626-1/
+    reference_type:
+    reference_id: USN-5626-1
+  - url: https://usn.ubuntu.com/5626-2/
+    reference_type:
+    reference_id: USN-5626-2
+  - url: https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/YZJQNUASODNVAWZV6STKG5SD6XIJ446S/
+    reference_type:
+    reference_id: YZJQNUASODNVAWZV6STKG5SD6XIJ446S

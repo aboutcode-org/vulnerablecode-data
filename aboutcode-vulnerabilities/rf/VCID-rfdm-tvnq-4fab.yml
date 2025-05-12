@@ -1,0 +1,31 @@
+vulnerability_id: VCID-rfdm-tvnq-4fab
+aliases:
+  - CVE-2016-3977
+summary:
+severities:
+  - score: '0.01844'
+    scoring_system: epss
+    scoring_elements: '0.88620'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2016-3977
+weaknesses:
+  - CWE-122
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2016-3977.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2016-3977
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1325771
+    reference_type:
+    reference_id: 1325771
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=820526
+    reference_type:
+    reference_id: 820526
+  - url: https://usn.ubuntu.com/4107-1/
+    reference_type:
+    reference_id: USN-4107-1

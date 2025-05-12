@@ -1,0 +1,55 @@
+vulnerability_id: VCID-rr1e-cw7a-6yfs
+aliases:
+  - CVE-2023-51443
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: http://packetstormsecurity.com/files/176393/FreeSWITCH-Denial-Of-Service.html
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:P/P:M/B:A/M:M/D:T/2024-08-27T15:19:54Z/
+    published_at:
+    url: http://packetstormsecurity.com/files/176393/FreeSWITCH-Denial-Of-Service.html
+  - score: '0.00121'
+    scoring_system: epss
+    scoring_elements: '0.47152'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-51443
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://github.com/signalwire/freeswitch/commit/86cbda90b84ba186e508fbc7bfae469270a97d11
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:P/P:M/B:A/M:M/D:T/2024-08-27T15:19:54Z/
+    published_at:
+    url: https://github.com/signalwire/freeswitch/commit/86cbda90b84ba186e508fbc7bfae469270a97d11
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://github.com/signalwire/freeswitch/security/advisories/GHSA-39gv-hq72-j6m6
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:P/P:M/B:A/M:M/D:T/2024-08-27T15:19:54Z/
+    published_at:
+    url: https://github.com/signalwire/freeswitch/security/advisories/GHSA-39gv-hq72-j6m6
+weaknesses:
+  - CWE-703
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-51443
+    reference_type:
+    reference_id:
+  - url: https://github.com/signalwire/freeswitch/commit/86cbda90b84ba186e508fbc7bfae469270a97d11
+    reference_type:
+    reference_id: 86cbda90b84ba186e508fbc7bfae469270a97d11
+  - url: http://packetstormsecurity.com/files/176393/FreeSWITCH-Denial-Of-Service.html
+    reference_type:
+    reference_id: FreeSWITCH-Denial-Of-Service.html
+  - url: https://github.com/signalwire/freeswitch/security/advisories/GHSA-39gv-hq72-j6m6
+    reference_type:
+    reference_id: GHSA-39gv-hq72-j6m6

@@ -1,0 +1,15 @@
+vulnerability_id: VCID-fjt5-catu-wkay
+aliases:
+  - CVE-2023-39516
+summary:
+severities:
+  - score: '0.00114'
+    scoring_system: epss
+    scoring_elements: '0.45790'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-39516
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-39516
+    reference_type:
+    reference_id:

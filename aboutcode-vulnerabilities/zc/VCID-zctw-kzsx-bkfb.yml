@@ -1,0 +1,15 @@
+vulnerability_id: VCID-zctw-kzsx-bkfb
+aliases:
+  - CVE-2022-26498
+summary:
+severities:
+  - score: '0.04107'
+    scoring_system: epss
+    scoring_elements: '0.92337'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-26498
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-26498
+    reference_type:
+    reference_id:

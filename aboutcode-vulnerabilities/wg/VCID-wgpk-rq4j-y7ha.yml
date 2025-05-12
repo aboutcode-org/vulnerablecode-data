@@ -1,0 +1,39 @@
+vulnerability_id: VCID-wgpk-rq4j-y7ha
+aliases:
+  - CVE-2024-23652
+summary:
+severities:
+  - score: '7.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:L/AC:H/PR:N/UI:N/S:C/C:N/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-23652.json
+  - score: '0.00054'
+    scoring_system: epss
+    scoring_elements: '0.22664'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-23652
+weaknesses:
+  - CWE-22
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-23652.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-23652
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2262225
+    reference_type:
+    reference_id: 2262225
+  - url: https://security.gentoo.org/glsa/202407-12
+    reference_type:
+    reference_id: GLSA-202407-12
+  - url: https://security.gentoo.org/glsa/202407-25
+    reference_type:
+    reference_id: GLSA-202407-25
+  - url: https://security.gentoo.org/glsa/202409-29
+    reference_type:
+    reference_id: GLSA-202409-29

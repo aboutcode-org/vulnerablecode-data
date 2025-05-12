@@ -1,0 +1,24 @@
+vulnerability_id: VCID-na7q-mysg-1ue7
+aliases:
+  - CVE-2023-38857
+summary:
+severities:
+  - score: '0.00102'
+    scoring_system: epss
+    scoring_elements: '0.42497'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-38857
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-38857
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1050094
+    reference_type:
+    reference_id: 1050094
+  - url: https://security.gentoo.org/glsa/202401-13
+    reference_type:
+    reference_id: GLSA-202401-13
+  - url: https://usn.ubuntu.com/6313-1/
+    reference_type:
+    reference_id: USN-6313-1

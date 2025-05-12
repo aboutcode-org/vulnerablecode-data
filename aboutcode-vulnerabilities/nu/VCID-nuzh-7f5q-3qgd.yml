@@ -1,0 +1,29 @@
+vulnerability_id: VCID-nuzh-7f5q-3qgd
+aliases:
+  - CVE-2023-37209
+summary:
+severities:
+  - score: '0.00198'
+    scoring_system: epss
+    scoring_elements: '0.57929'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-37209
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-22
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-37209
+    reference_type:
+    reference_id:
+  - url: https://security.gentoo.org/glsa/202401-10
+    reference_type:
+    reference_id: GLSA-202401-10
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2023-22
+    reference_type:
+    reference_id: mfsa2023-22
+  - url: https://usn.ubuntu.com/6201-1/
+    reference_type:
+    reference_id: USN-6201-1

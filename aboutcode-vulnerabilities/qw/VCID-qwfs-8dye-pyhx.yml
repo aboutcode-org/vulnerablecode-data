@@ -1,0 +1,31 @@
+vulnerability_id: VCID-qwfs-8dye-pyhx
+aliases:
+  - CVE-2014-7204
+summary:
+severities:
+  - score: '0.01051'
+    scoring_system: epss
+    scoring_elements: '0.84359'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2014-7204
+weaknesses:
+  - CWE-400
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2014-7204.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2014-7204
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-7204
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1147339
+    reference_type:
+    reference_id: 1147339
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=742605
+    reference_type:
+    reference_id: 742605
+  - url: https://usn.ubuntu.com/2371-1/
+    reference_type:
+    reference_id: USN-2371-1

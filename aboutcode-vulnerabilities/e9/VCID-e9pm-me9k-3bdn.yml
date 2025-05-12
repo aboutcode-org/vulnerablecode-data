@@ -1,0 +1,104 @@
+vulnerability_id: VCID-e9pm-me9k-3bdn
+aliases:
+  - CVE-2024-21404
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-21404.json
+  - score: '0.00233'
+    scoring_system: epss
+    scoring_elements: '0.61594'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-21404
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:P/RL:O/RC:C
+    published_at:
+    url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21404
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:Y/T:P/P:M/B:A/M:M/D:T/2024-06-28T14:17:08Z/
+    published_at:
+    url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21404
+weaknesses:
+  - CWE-400
+  - CWE-476
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-21404.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-21404
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2263086
+    reference_type:
+    reference_id: 2263086
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:.net:6.0.0:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:.net:6.0.0:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:.net:7.0.0:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:.net:7.0.0:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:.net:8.0.0:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:.net:8.0.0:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:visual_studio:2022:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:visual_studio:2022:*:*:*:*:*:*:*
+  - url: https://nvd.nist.gov/vuln/search/results?adv_search=true&isCpeNameSearch=true&query=cpe:2.3:a:microsoft:visual_studio_2022:17.4:*:*:*:*:*:*:*
+    reference_type:
+    reference_id: cpe:2.3:a:microsoft:visual_studio_2022:17.4:*:*:*:*:*:*:*
+  - url: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21404
+    reference_type:
+    reference_id: CVE-2024-21404
+  - url: https://access.redhat.com/errata/RHSA-2024:0805
+    reference_type:
+    reference_id: RHSA-2024:0805
+  - url: https://access.redhat.com/errata/RHSA-2024:0806
+    reference_type:
+    reference_id: RHSA-2024:0806
+  - url: https://access.redhat.com/errata/RHSA-2024:0807
+    reference_type:
+    reference_id: RHSA-2024:0807
+  - url: https://access.redhat.com/errata/RHSA-2024:0808
+    reference_type:
+    reference_id: RHSA-2024:0808
+  - url: https://access.redhat.com/errata/RHSA-2024:0814
+    reference_type:
+    reference_id: RHSA-2024:0814
+  - url: https://access.redhat.com/errata/RHSA-2024:0827
+    reference_type:
+    reference_id: RHSA-2024:0827
+  - url: https://access.redhat.com/errata/RHSA-2024:0848
+    reference_type:
+    reference_id: RHSA-2024:0848
+  - url: https://access.redhat.com/errata/RHSA-2024:1552
+    reference_type:
+    reference_id: RHSA-2024:1552
+  - url: https://access.redhat.com/errata/RHSA-2024:1553
+    reference_type:
+    reference_id: RHSA-2024:1553
+  - url: https://access.redhat.com/errata/RHSA-2024:1554
+    reference_type:
+    reference_id: RHSA-2024:1554
+  - url: https://access.redhat.com/errata/RHSA-2024:1555
+    reference_type:
+    reference_id: RHSA-2024:1555
+  - url: https://access.redhat.com/errata/RHSA-2024:1641
+    reference_type:
+    reference_id: RHSA-2024:1641
+  - url: https://access.redhat.com/errata/RHSA-2024:1643
+    reference_type:
+    reference_id: RHSA-2024:1643
+  - url: https://access.redhat.com/errata/RHSA-2024:2843
+    reference_type:
+    reference_id: RHSA-2024:2843
+  - url: https://access.redhat.com/errata/RHSA-2024:3340
+    reference_type:
+    reference_id: RHSA-2024:3340
+  - url: https://usn.ubuntu.com/6634-1/
+    reference_type:
+    reference_id: USN-6634-1

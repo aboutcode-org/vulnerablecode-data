@@ -1,0 +1,45 @@
+vulnerability_id: VCID-vtrr-682t-ckcx
+aliases:
+  - CVE-2024-31458
+summary:
+severities:
+  - score: '0.00043'
+    scoring_system: epss
+    scoring_elements: '0.09705'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-31458
+  - score: '4.6'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:N/I:L/A:L
+    published_at:
+    url: https://github.com/Cacti/cacti/security/advisories/GHSA-jrxg-8wh8-943x
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:T/P:M/B:A/M:M/D:T/2024-05-13T17:19:29Z/
+    published_at:
+    url: https://github.com/Cacti/cacti/security/advisories/GHSA-jrxg-8wh8-943x
+  - score: '9.1'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/RBEOAFKRARQHTDIYSL723XAFJ2Q6624X/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:P/A:N/T:P/P:M/B:A/M:M/D:T/2024-05-13T17:13:47Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/RBEOAFKRARQHTDIYSL723XAFJ2Q6624X/
+weaknesses:
+  - CWE-89
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-31458
+    reference_type:
+    reference_id:
+  - url: https://github.com/Cacti/cacti/security/advisories/GHSA-jrxg-8wh8-943x
+    reference_type:
+    reference_id: GHSA-jrxg-8wh8-943x
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/RBEOAFKRARQHTDIYSL723XAFJ2Q6624X/
+    reference_type:
+    reference_id: RBEOAFKRARQHTDIYSL723XAFJ2Q6624X
+  - url: https://usn.ubuntu.com/6969-1/
+    reference_type:
+    reference_id: USN-6969-1

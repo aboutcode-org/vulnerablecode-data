@@ -1,0 +1,18 @@
+vulnerability_id: VCID-1hut-acww-n7fs
+aliases:
+  - CVE-2022-1498
+summary:
+severities:
+  - score: '0.00175'
+    scoring_system: epss
+    scoring_elements: '0.55122'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-1498
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-1498
+    reference_type:
+    reference_id:
+  - url: https://security.gentoo.org/glsa/202208-25
+    reference_type:
+    reference_id: GLSA-202208-25

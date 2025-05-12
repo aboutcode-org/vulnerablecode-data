@@ -1,0 +1,117 @@
+vulnerability_id: VCID-ry85-kdde-6uec
+aliases:
+  - CVE-2024-0755
+summary:
+severities:
+  - score: '8.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-0755.json
+  - score: '0.00066'
+    scoring_system: epss
+    scoring_elements: '0.30060'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-0755
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2024-01
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2024-02
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2024-04
+weaknesses:
+  - CWE-120
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-0755.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-0755
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2259934
+    reference_type:
+    reference_id: 2259934
+  - url: https://security.gentoo.org/glsa/202402-25
+    reference_type:
+    reference_id: GLSA-202402-25
+  - url: https://security.gentoo.org/glsa/202402-26
+    reference_type:
+    reference_id: GLSA-202402-26
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2024-01
+    reference_type:
+    reference_id: mfsa2024-01
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2024-02
+    reference_type:
+    reference_id: mfsa2024-02
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2024-04
+    reference_type:
+    reference_id: mfsa2024-04
+  - url: https://access.redhat.com/errata/RHSA-2024:0559
+    reference_type:
+    reference_id: RHSA-2024:0559
+  - url: https://access.redhat.com/errata/RHSA-2024:0565
+    reference_type:
+    reference_id: RHSA-2024:0565
+  - url: https://access.redhat.com/errata/RHSA-2024:0596
+    reference_type:
+    reference_id: RHSA-2024:0596
+  - url: https://access.redhat.com/errata/RHSA-2024:0598
+    reference_type:
+    reference_id: RHSA-2024:0598
+  - url: https://access.redhat.com/errata/RHSA-2024:0600
+    reference_type:
+    reference_id: RHSA-2024:0600
+  - url: https://access.redhat.com/errata/RHSA-2024:0601
+    reference_type:
+    reference_id: RHSA-2024:0601
+  - url: https://access.redhat.com/errata/RHSA-2024:0602
+    reference_type:
+    reference_id: RHSA-2024:0602
+  - url: https://access.redhat.com/errata/RHSA-2024:0603
+    reference_type:
+    reference_id: RHSA-2024:0603
+  - url: https://access.redhat.com/errata/RHSA-2024:0604
+    reference_type:
+    reference_id: RHSA-2024:0604
+  - url: https://access.redhat.com/errata/RHSA-2024:0605
+    reference_type:
+    reference_id: RHSA-2024:0605
+  - url: https://access.redhat.com/errata/RHSA-2024:0608
+    reference_type:
+    reference_id: RHSA-2024:0608
+  - url: https://access.redhat.com/errata/RHSA-2024:0609
+    reference_type:
+    reference_id: RHSA-2024:0609
+  - url: https://access.redhat.com/errata/RHSA-2024:0615
+    reference_type:
+    reference_id: RHSA-2024:0615
+  - url: https://access.redhat.com/errata/RHSA-2024:0616
+    reference_type:
+    reference_id: RHSA-2024:0616
+  - url: https://access.redhat.com/errata/RHSA-2024:0618
+    reference_type:
+    reference_id: RHSA-2024:0618
+  - url: https://access.redhat.com/errata/RHSA-2024:0619
+    reference_type:
+    reference_id: RHSA-2024:0619
+  - url: https://access.redhat.com/errata/RHSA-2024:0622
+    reference_type:
+    reference_id: RHSA-2024:0622
+  - url: https://access.redhat.com/errata/RHSA-2024:0623
+    reference_type:
+    reference_id: RHSA-2024:0623
+  - url: https://usn.ubuntu.com/6610-1/
+    reference_type:
+    reference_id: USN-6610-1
+  - url: https://usn.ubuntu.com/6669-1/
+    reference_type:
+    reference_id: USN-6669-1

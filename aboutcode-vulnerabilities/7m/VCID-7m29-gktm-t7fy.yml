@@ -1,0 +1,130 @@
+vulnerability_id: VCID-7m29-gktm-t7fy
+aliases:
+  - CVE-2019-10156
+  - GHSA-grgm-pph5-j5h7
+  - PYSEC-2019-2
+summary: A flaw was discovered in the way Ansible templating was implemented in versions before
+  2.6.18, 2.7.12 and 2.8.2, causing the possibility of information disclosure through unexpected
+  variable substitution. By taking advantage of unintended variable substitution the content
+  of any variable may be disclosed.
+severities:
+  - score: '4.6'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:L/UI:R/S:U/C:L/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-10156.json
+  - score: '0.00492'
+    scoring_system: epss
+    scoring_elements: '0.76517'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-10156
+weaknesses:
+  - CWE-200
+  - CWE-1035
+  - CWE-937
+references:
+  - url: https://access.redhat.com/errata/RHSA-2019:3744
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/errata/RHSA-2019:3789
+    reference_type:
+    reference_id:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-10156.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-10156
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2019-10156
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-10156
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-10206
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-14846
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-14864
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-14904
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10684
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10685
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10729
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14330
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14332
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14365
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1733
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1735
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1739
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1740
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1746
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1753
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-20228
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://github.com/advisories/GHSA-grgm-pph5-j5h7
+    reference_type:
+    reference_id:
+  - url: https://github.com/ansible/ansible/pull/57188
+    reference_type:
+    reference_id:
+  - url: https://lists.debian.org/debian-lts-announce/2019/09/msg00016.html
+    reference_type:
+    reference_id:
+  - url: https://lists.debian.org/debian-lts-announce/2021/01/msg00023.html
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1717311
+    reference_type:
+    reference_id: 1717311
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=930065
+    reference_type:
+    reference_id: 930065
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2019-10156
+    reference_type:
+    reference_id: CVE-2019-10156
+  - url: https://access.redhat.com/errata/RHSA-2019:1705
+    reference_type:
+    reference_id: RHSA-2019:1705
+  - url: https://access.redhat.com/errata/RHSA-2019:1706
+    reference_type:
+    reference_id: RHSA-2019:1706
+  - url: https://access.redhat.com/errata/RHSA-2019:1707
+    reference_type:
+    reference_id: RHSA-2019:1707
+  - url: https://access.redhat.com/errata/RHSA-2019:1708
+    reference_type:
+    reference_id: RHSA-2019:1708

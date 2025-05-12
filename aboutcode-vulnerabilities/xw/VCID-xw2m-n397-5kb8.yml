@@ -1,0 +1,18 @@
+vulnerability_id: VCID-xw2m-n397-5kb8
+aliases:
+  - CVE-2022-0460
+summary:
+severities:
+  - score: '0.00155'
+    scoring_system: epss
+    scoring_elements: '0.52317'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-0460
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-0460
+    reference_type:
+    reference_id:
+  - url: https://security.gentoo.org/glsa/202202-02
+    reference_type:
+    reference_id: GLSA-202202-02

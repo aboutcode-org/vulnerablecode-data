@@ -1,0 +1,83 @@
+vulnerability_id: VCID-avzb-t6uz-k3fa
+aliases:
+  - CVE-2019-0217
+summary:
+severities:
+  - score: '7.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-0217.json
+  - score: '0.00182'
+    scoring_system: epss
+    scoring_elements: '0.56059'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-0217
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-946
+weaknesses:
+  - CWE-284
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-0217.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-0217
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17189
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17199
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-0196
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-0211
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-0217
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-0220
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1695020
+    reference_type:
+    reference_id: 1695020
+  - url: https://security.archlinux.org/ASA-201904-3
+    reference_type:
+    reference_id: ASA-201904-3
+  - url: https://security.archlinux.org/AVG-946
+    reference_type:
+    reference_id: AVG-946
+  - url: https://access.redhat.com/errata/RHSA-2019:2343
+    reference_type:
+    reference_id: RHSA-2019:2343
+  - url: https://access.redhat.com/errata/RHSA-2019:3436
+    reference_type:
+    reference_id: RHSA-2019:3436
+  - url: https://access.redhat.com/errata/RHSA-2019:3932
+    reference_type:
+    reference_id: RHSA-2019:3932
+  - url: https://access.redhat.com/errata/RHSA-2019:3933
+    reference_type:
+    reference_id: RHSA-2019:3933
+  - url: https://access.redhat.com/errata/RHSA-2019:3935
+    reference_type:
+    reference_id: RHSA-2019:3935
+  - url: https://access.redhat.com/errata/RHSA-2019:4126
+    reference_type:
+    reference_id: RHSA-2019:4126
+  - url: https://usn.ubuntu.com/3937-1/
+    reference_type:
+    reference_id: USN-3937-1
+  - url: https://usn.ubuntu.com/3937-2/
+    reference_type:
+    reference_id: USN-3937-2

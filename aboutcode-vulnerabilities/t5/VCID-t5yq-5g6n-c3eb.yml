@@ -1,0 +1,53 @@
+vulnerability_id: VCID-t5yq-5g6n-c3eb
+aliases:
+  - CVE-2022-0934
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-0934.json
+  - score: '0.00221'
+    scoring_system: epss
+    scoring_elements: '0.60504'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-0934
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2716
+weaknesses:
+  - CWE-416
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-0934.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-0934
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1014715
+    reference_type:
+    reference_id: 1014715
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2057075
+    reference_type:
+    reference_id: 2057075
+  - url: https://security.archlinux.org/AVG-2716
+    reference_type:
+    reference_id: AVG-2716
+  - url: https://access.redhat.com/errata/RHSA-2022:7633
+    reference_type:
+    reference_id: RHSA-2022:7633
+  - url: https://access.redhat.com/errata/RHSA-2022:8070
+    reference_type:
+    reference_id: RHSA-2022:8070
+  - url: https://access.redhat.com/errata/RHSA-2024:1545
+    reference_type:
+    reference_id: RHSA-2024:1545
+  - url: https://usn.ubuntu.com/5408-1/
+    reference_type:
+    reference_id: USN-5408-1

@@ -1,0 +1,61 @@
+vulnerability_id: VCID-a56j-9ane-nqaq
+aliases:
+  - CVE-2020-12425
+summary:
+severities:
+  - score: '6.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-12425.json
+  - score: '0.00205'
+    scoring_system: epss
+    scoring_elements: '0.58708'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-12425
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-24
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-29
+weaknesses:
+  - CWE-125
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-12425.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-12425
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1872540
+    reference_type:
+    reference_id: 1872540
+  - url: https://security.gentoo.org/glsa/202007-10
+    reference_type:
+    reference_id: GLSA-202007-10
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-24
+    reference_type:
+    reference_id: mfsa2020-24
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-29
+    reference_type:
+    reference_id: mfsa2020-29
+  - url: https://access.redhat.com/errata/RHSA-2020:3555
+    reference_type:
+    reference_id: RHSA-2020:3555
+  - url: https://access.redhat.com/errata/RHSA-2020:3557
+    reference_type:
+    reference_id: RHSA-2020:3557
+  - url: https://access.redhat.com/errata/RHSA-2020:3559
+    reference_type:
+    reference_id: RHSA-2020:3559
+  - url: https://access.redhat.com/errata/RHSA-2020:4080
+    reference_type:
+    reference_id: RHSA-2020:4080
+  - url: https://usn.ubuntu.com/4408-1/
+    reference_type:
+    reference_id: USN-4408-1

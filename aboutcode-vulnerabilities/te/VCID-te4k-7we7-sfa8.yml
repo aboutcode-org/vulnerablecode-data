@@ -1,0 +1,56 @@
+vulnerability_id: VCID-te4k-7we7-sfa8
+aliases:
+  - CVE-2023-27534
+summary:
+severities:
+  - score: '3.7'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-27534.json
+  - score: '0.00254'
+    scoring_system: epss
+    scoring_elements: '0.65602'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2023-27534
+  - score: Low
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2023-27534.html
+weaknesses:
+  - CWE-22
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2023-27534.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2023-27534
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2023-27534.html
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://hackerone.com/reports/1892351
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2179069
+    reference_type:
+    reference_id: 2179069
+  - url: https://security.gentoo.org/glsa/202310-12
+    reference_type:
+    reference_id: GLSA-202310-12
+  - url: https://access.redhat.com/errata/RHSA-2023:3354
+    reference_type:
+    reference_id: RHSA-2023:3354
+  - url: https://access.redhat.com/errata/RHSA-2023:3355
+    reference_type:
+    reference_id: RHSA-2023:3355
+  - url: https://access.redhat.com/errata/RHSA-2023:6679
+    reference_type:
+    reference_id: RHSA-2023:6679
+  - url: https://usn.ubuntu.com/5964-1/
+    reference_type:
+    reference_id: USN-5964-1

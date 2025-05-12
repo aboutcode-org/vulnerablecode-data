@@ -1,0 +1,58 @@
+vulnerability_id: VCID-t4h7-m8r5-sfa2
+aliases:
+  - CVE-2024-39695
+summary:
+severities:
+  - score: '0.00052'
+    scoring_system: epss
+    scoring_elements: '0.21386'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-39695
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://github.com/Exiv2/exiv2/commit/3a28346db5ae1735a8728fe3491b0aecc1dbf387
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-08T20:00:33Z/
+    published_at:
+    url: https://github.com/Exiv2/exiv2/commit/3a28346db5ae1735a8728fe3491b0aecc1dbf387
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://github.com/Exiv2/exiv2/pull/3006
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-08T20:00:33Z/
+    published_at:
+    url: https://github.com/Exiv2/exiv2/pull/3006
+  - score: '5.3'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://github.com/Exiv2/exiv2/security/advisories/GHSA-38rv-8x93-pvrh
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-08T20:00:33Z/
+    published_at:
+    url: https://github.com/Exiv2/exiv2/security/advisories/GHSA-38rv-8x93-pvrh
+weaknesses:
+  - CWE-125
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-39695
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://github.com/Exiv2/exiv2/pull/3006
+    reference_type:
+    reference_id: 3006
+  - url: https://github.com/Exiv2/exiv2/commit/3a28346db5ae1735a8728fe3491b0aecc1dbf387
+    reference_type:
+    reference_id: 3a28346db5ae1735a8728fe3491b0aecc1dbf387
+  - url: https://github.com/Exiv2/exiv2/security/advisories/GHSA-38rv-8x93-pvrh
+    reference_type:
+    reference_id: GHSA-38rv-8x93-pvrh

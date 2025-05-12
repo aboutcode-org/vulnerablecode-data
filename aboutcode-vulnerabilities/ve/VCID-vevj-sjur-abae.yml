@@ -1,0 +1,15 @@
+vulnerability_id: VCID-vevj-sjur-abae
+aliases:
+  - CVE-2022-25271
+summary:
+severities:
+  - score: '0.00180'
+    scoring_system: epss
+    scoring_elements: '0.55722'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-25271
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-25271
+    reference_type:
+    reference_id:

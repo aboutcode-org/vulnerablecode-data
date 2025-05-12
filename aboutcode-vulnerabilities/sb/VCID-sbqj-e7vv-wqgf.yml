@@ -1,0 +1,105 @@
+vulnerability_id: VCID-sbqj-e7vv-wqgf
+aliases:
+  - CVE-2024-34158
+summary:
+severities:
+  - score: '5.4'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:L/UI:R/S:U/C:H/I:L/A:N
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:8039
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-10-01T19:23:28Z/
+    published_at:
+    url: https://access.redhat.com/errata/RHSA-2024:8039
+  - score: '5.9'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-34158.json
+  - score: '0.00045'
+    scoring_system: epss
+    scoring_elements: '0.16440'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-34158
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://go.dev/cl/611240
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-09-09T13:59:30Z/
+    published_at:
+    url: https://go.dev/cl/611240
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://go.dev/issue/69141
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-09-09T13:59:30Z/
+    published_at:
+    url: https://go.dev/issue/69141
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://groups.google.com/g/golang-dev/c/S9POB9NCTdk
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-09-09T14:04:16Z/
+    published_at:
+    url: https://groups.google.com/g/golang-dev/c/S9POB9NCTdk
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://pkg.go.dev/vuln/GO-2024-3107
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-09-09T13:59:30Z/
+    published_at:
+    url: https://pkg.go.dev/vuln/GO-2024-3107
+weaknesses:
+  - CWE-1325
+  - CWE-674
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-34158.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-34158
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2310529
+    reference_type:
+    reference_id: 2310529
+  - url: https://go.dev/cl/611240
+    reference_type:
+    reference_id: 611240
+  - url: https://go.dev/issue/69141
+    reference_type:
+    reference_id: 69141
+  - url: https://pkg.go.dev/vuln/GO-2024-3107
+    reference_type:
+    reference_id: GO-2024-3107
+  - url: https://access.redhat.com/errata/RHSA-2024:6908
+    reference_type:
+    reference_id: RHSA-2024:6908
+  - url: https://access.redhat.com/errata/RHSA-2024:6913
+    reference_type:
+    reference_id: RHSA-2024:6913
+  - url: https://access.redhat.com/errata/RHSA-2024:8038
+    reference_type:
+    reference_id: RHSA-2024:8038
+  - url: https://access.redhat.com/errata/RHSA-2024:8039
+    reference_type:
+    reference_id: RHSA-2024:8039
+  - url: https://groups.google.com/g/golang-dev/c/S9POB9NCTdk
+    reference_type:
+    reference_id: S9POB9NCTdk

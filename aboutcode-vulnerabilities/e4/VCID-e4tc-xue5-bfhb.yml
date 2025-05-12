@@ -1,0 +1,217 @@
+vulnerability_id: VCID-e4tc-xue5-bfhb
+aliases:
+  - CVE-2024-1580
+summary:
+severities:
+  - score: '0.00046'
+    scoring_system: epss
+    scoring_elements: '0.17913'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-1580
+  - score: '5.9'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:A/AC:H/PR:L/UI:N/S:U/C:L/I:H/A:L
+    published_at:
+    url: https://code.videolan.org/videolan/dav1d/-/blob/master/NEWS
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-26T15:24:40Z/
+    published_at:
+    url: https://code.videolan.org/videolan/dav1d/-/blob/master/NEWS
+  - score: '5.9'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:A/AC:H/PR:L/UI:N/S:U/C:L/I:H/A:L
+    published_at:
+    url: https://code.videolan.org/videolan/dav1d/-/releases/1.4.0
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-26T15:24:40Z/
+    published_at:
+    url: https://code.videolan.org/videolan/dav1d/-/releases/1.4.0
+  - score: '5.9'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:A/AC:H/PR:L/UI:N/S:U/C:L/I:H/A:L
+    published_at:
+    url: http://seclists.org/fulldisclosure/2024/Mar/36
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-26T15:24:40Z/
+    published_at:
+    url: http://seclists.org/fulldisclosure/2024/Mar/36
+  - score: '5.9'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:A/AC:H/PR:L/UI:N/S:U/C:L/I:H/A:L
+    published_at:
+    url: http://seclists.org/fulldisclosure/2024/Mar/37
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-26T15:24:40Z/
+    published_at:
+    url: http://seclists.org/fulldisclosure/2024/Mar/37
+  - score: '5.9'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:A/AC:H/PR:L/UI:N/S:U/C:L/I:H/A:L
+    published_at:
+    url: http://seclists.org/fulldisclosure/2024/Mar/38
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-26T15:24:40Z/
+    published_at:
+    url: http://seclists.org/fulldisclosure/2024/Mar/38
+  - score: '5.9'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:A/AC:H/PR:L/UI:N/S:U/C:L/I:H/A:L
+    published_at:
+    url: http://seclists.org/fulldisclosure/2024/Mar/39
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-26T15:24:40Z/
+    published_at:
+    url: http://seclists.org/fulldisclosure/2024/Mar/39
+  - score: '5.9'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:A/AC:H/PR:L/UI:N/S:U/C:L/I:H/A:L
+    published_at:
+    url: http://seclists.org/fulldisclosure/2024/Mar/40
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-26T15:24:40Z/
+    published_at:
+    url: http://seclists.org/fulldisclosure/2024/Mar/40
+  - score: '5.9'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:A/AC:H/PR:L/UI:N/S:U/C:L/I:H/A:L
+    published_at:
+    url: http://seclists.org/fulldisclosure/2024/Mar/41
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-26T15:24:40Z/
+    published_at:
+    url: http://seclists.org/fulldisclosure/2024/Mar/41
+  - score: '5.9'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:A/AC:H/PR:L/UI:N/S:U/C:L/I:H/A:L
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/5EPMUNDMEBGESOJ2ZNCWYEAYOOEKNWOO/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-26T15:24:40Z/
+    published_at:
+    url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/5EPMUNDMEBGESOJ2ZNCWYEAYOOEKNWOO/
+  - score: '5.9'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:A/AC:H/PR:L/UI:N/S:U/C:L/I:H/A:L
+    published_at:
+    url: https://support.apple.com/kb/HT214093
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-26T15:24:40Z/
+    published_at:
+    url: https://support.apple.com/kb/HT214093
+  - score: '5.9'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:A/AC:H/PR:L/UI:N/S:U/C:L/I:H/A:L
+    published_at:
+    url: https://support.apple.com/kb/HT214094
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-26T15:24:40Z/
+    published_at:
+    url: https://support.apple.com/kb/HT214094
+  - score: '5.9'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:A/AC:H/PR:L/UI:N/S:U/C:L/I:H/A:L
+    published_at:
+    url: https://support.apple.com/kb/HT214095
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-26T15:24:40Z/
+    published_at:
+    url: https://support.apple.com/kb/HT214095
+  - score: '5.9'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:A/AC:H/PR:L/UI:N/S:U/C:L/I:H/A:L
+    published_at:
+    url: https://support.apple.com/kb/HT214096
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-26T15:24:40Z/
+    published_at:
+    url: https://support.apple.com/kb/HT214096
+  - score: '5.9'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:A/AC:H/PR:L/UI:N/S:U/C:L/I:H/A:L
+    published_at:
+    url: https://support.apple.com/kb/HT214097
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-26T15:24:40Z/
+    published_at:
+    url: https://support.apple.com/kb/HT214097
+  - score: '5.9'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:A/AC:H/PR:L/UI:N/S:U/C:L/I:H/A:L
+    published_at:
+    url: https://support.apple.com/kb/HT214098
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:N/T:P/P:M/B:A/M:M/D:T/2024-07-26T15:24:40Z/
+    published_at:
+    url: https://support.apple.com/kb/HT214098
+weaknesses:
+  - CWE-190
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-1580
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1064310
+    reference_type:
+    reference_id: 1064310
+  - url: https://code.videolan.org/videolan/dav1d/-/releases/1.4.0
+    reference_type:
+    reference_id: 1.4.0
+  - url: http://seclists.org/fulldisclosure/2024/Mar/36
+    reference_type:
+    reference_id: 36
+  - url: http://seclists.org/fulldisclosure/2024/Mar/37
+    reference_type:
+    reference_id: 37
+  - url: http://seclists.org/fulldisclosure/2024/Mar/38
+    reference_type:
+    reference_id: 38
+  - url: http://seclists.org/fulldisclosure/2024/Mar/39
+    reference_type:
+    reference_id: 39
+  - url: http://seclists.org/fulldisclosure/2024/Mar/40
+    reference_type:
+    reference_id: 40
+  - url: http://seclists.org/fulldisclosure/2024/Mar/41
+    reference_type:
+    reference_id: 41
+  - url: https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/5EPMUNDMEBGESOJ2ZNCWYEAYOOEKNWOO/
+    reference_type:
+    reference_id: 5EPMUNDMEBGESOJ2ZNCWYEAYOOEKNWOO
+  - url: https://support.apple.com/kb/HT214093
+    reference_type:
+    reference_id: HT214093
+  - url: https://support.apple.com/kb/HT214094
+    reference_type:
+    reference_id: HT214094
+  - url: https://support.apple.com/kb/HT214095
+    reference_type:
+    reference_id: HT214095
+  - url: https://support.apple.com/kb/HT214096
+    reference_type:
+    reference_id: HT214096
+  - url: https://support.apple.com/kb/HT214097
+    reference_type:
+    reference_id: HT214097
+  - url: https://support.apple.com/kb/HT214098
+    reference_type:
+    reference_id: HT214098
+  - url: https://code.videolan.org/videolan/dav1d/-/blob/master/NEWS
+    reference_type:
+    reference_id: NEWS

@@ -1,0 +1,45 @@
+vulnerability_id: VCID-kvk1-ctx5-pyc4
+aliases:
+  - CVE-2019-15043
+summary:
+severities:
+  - score: '4.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-15043.json
+  - score: '0.31104'
+    scoring_system: epss
+    scoring_elements: '0.97050'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-15043
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1034
+weaknesses:
+  - CWE-284
+  - CWE-200
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-15043.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-15043
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1746945
+    reference_type:
+    reference_id: 1746945
+  - url: https://security.archlinux.org/ASA-201908-21
+    reference_type:
+    reference_id: ASA-201908-21
+  - url: https://security.archlinux.org/AVG-1034
+    reference_type:
+    reference_id: AVG-1034
+  - url: https://access.redhat.com/errata/RHSA-2020:1659
+    reference_type:
+    reference_id: RHSA-2020:1659

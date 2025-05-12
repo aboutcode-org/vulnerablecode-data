@@ -1,0 +1,62 @@
+vulnerability_id: VCID-2ahf-srws-r3ge
+aliases:
+  - CVE-2022-27782
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-27782.json
+  - score: '0.00191'
+    scoring_system: epss
+    scoring_elements: '0.57093'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-27782
+  - score: Medium
+    scoring_system: cvssv3.1
+    scoring_elements:
+    published_at:
+    url: https://curl.se/docs/CVE-2022-27782.html
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-2706
+weaknesses:
+  - CWE-295
+  - CWE-305
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-27782.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-27782
+    reference_type:
+    reference_id:
+  - url: https://curl.se/docs/CVE-2022-27782.html
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://hackerone.com/reports/1555796
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2082215
+    reference_type:
+    reference_id: 2082215
+  - url: https://security.archlinux.org/AVG-2706
+    reference_type:
+    reference_id: AVG-2706
+  - url: https://security.gentoo.org/glsa/202212-01
+    reference_type:
+    reference_id: GLSA-202212-01
+  - url: https://access.redhat.com/errata/RHSA-2022:5245
+    reference_type:
+    reference_id: RHSA-2022:5245
+  - url: https://access.redhat.com/errata/RHSA-2022:5313
+    reference_type:
+    reference_id: RHSA-2022:5313
+  - url: https://usn.ubuntu.com/5412-1/
+    reference_type:
+    reference_id: USN-5412-1

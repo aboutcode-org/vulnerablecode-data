@@ -1,0 +1,40 @@
+vulnerability_id: VCID-x2td-ej7j-m7cz
+aliases:
+  - CVE-2020-26952
+summary:
+severities:
+  - score: '0.00184'
+    scoring_system: epss
+    scoring_elements: '0.56199'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-26952
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1279
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-50
+weaknesses: []
+references:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-26952
+    reference_type:
+    reference_id:
+  - url: https://security.archlinux.org/ASA-202011-12
+    reference_type:
+    reference_id: ASA-202011-12
+  - url: https://security.archlinux.org/AVG-1279
+    reference_type:
+    reference_id: AVG-1279
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2020-50
+    reference_type:
+    reference_id: mfsa2020-50
+  - url: https://usn.ubuntu.com/4637-1/
+    reference_type:
+    reference_id: USN-4637-1
+  - url: https://usn.ubuntu.com/4637-2/
+    reference_type:
+    reference_id: USN-4637-2

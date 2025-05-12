@@ -1,0 +1,39 @@
+vulnerability_id: VCID-v2vt-en9r-fbfd
+aliases:
+  - CVE-2020-13401
+summary:
+severities:
+  - score: '6.0'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:C/C:L/I:L/A:L
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-13401.json
+  - score: '0.00230'
+    scoring_system: epss
+    scoring_elements: '0.61389'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2020-13401
+weaknesses:
+  - CWE-300
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2020-13401.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2020-13401
+    reference_type:
+    reference_id:
+  - url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-13401
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1833233
+    reference_type:
+    reference_id: 1833233
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=962141
+    reference_type:
+    reference_id: 962141
+  - url: https://security.gentoo.org/glsa/202008-15
+    reference_type:
+    reference_id: GLSA-202008-15

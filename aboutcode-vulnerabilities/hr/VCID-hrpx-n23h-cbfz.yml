@@ -1,0 +1,39 @@
+vulnerability_id: VCID-hrpx-n23h-cbfz
+aliases:
+  - CVE-2018-8786
+summary:
+severities:
+  - score: '8.1'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-8786.json
+  - score: '0.03891'
+    scoring_system: epss
+    scoring_elements: '0.92144'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2018-8786
+weaknesses:
+  - CWE-119
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2018-8786.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2018-8786
+    reference_type:
+    reference_id:
+  - url: https://ftp.suse.com/pub/projects/security/yaml/suse-cvss-scores.yaml
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1671359
+    reference_type:
+    reference_id: 1671359
+  - url: https://access.redhat.com/errata/RHSA-2019:0697
+    reference_type:
+    reference_id: RHSA-2019:0697
+  - url: https://usn.ubuntu.com/3845-1/
+    reference_type:
+    reference_id: USN-3845-1
+  - url: https://usn.ubuntu.com/3845-2/
+    reference_type:
+    reference_id: USN-3845-2

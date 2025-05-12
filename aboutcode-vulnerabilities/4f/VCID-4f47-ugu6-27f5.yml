@@ -1,0 +1,41 @@
+vulnerability_id: VCID-4f47-ugu6-27f5
+aliases:
+  - CVE-2019-0215
+summary:
+severities:
+  - score: '6.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.0/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-0215.json
+  - score: '0.00259'
+    scoring_system: epss
+    scoring_elements: '0.65944'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2019-0215
+  - score: Critical
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-946
+weaknesses:
+  - CWE-284
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2019-0215.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2019-0215
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=1695025
+    reference_type:
+    reference_id: 1695025
+  - url: https://security.archlinux.org/ASA-201904-3
+    reference_type:
+    reference_id: ASA-201904-3
+  - url: https://security.archlinux.org/AVG-946
+    reference_type:
+    reference_id: AVG-946
+  - url: https://access.redhat.com/errata/RHSA-2019:0980
+    reference_type:
+    reference_id: RHSA-2019:0980

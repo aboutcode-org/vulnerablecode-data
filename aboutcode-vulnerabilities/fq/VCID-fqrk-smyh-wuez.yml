@@ -1,0 +1,57 @@
+vulnerability_id: VCID-fqrk-smyh-wuez
+aliases:
+  - CVE-2022-3266
+summary:
+severities:
+  - score: '5.3'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:N/I:N/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-3266.json
+  - score: '0.00067'
+    scoring_system: epss
+    scoring_elements: '0.30420'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-3266
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-40
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-41
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at:
+    url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-42
+weaknesses:
+  - CWE-125
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-3266.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-3266
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2157739
+    reference_type:
+    reference_id: 2157739
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-40
+    reference_type:
+    reference_id: mfsa2022-40
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-41
+    reference_type:
+    reference_id: mfsa2022-41
+  - url: https://www.mozilla.org/en-US/security/advisories/mfsa2022-42
+    reference_type:
+    reference_id: mfsa2022-42
+  - url: https://usn.ubuntu.com/5649-1/
+    reference_type:
+    reference_id: USN-5649-1
+  - url: https://usn.ubuntu.com/5724-1/
+    reference_type:
+    reference_id: USN-5724-1

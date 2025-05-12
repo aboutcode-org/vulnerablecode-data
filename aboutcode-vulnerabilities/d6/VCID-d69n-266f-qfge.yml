@@ -1,0 +1,46 @@
+vulnerability_id: VCID-d69n-266f-qfge
+aliases:
+  - CVE-2024-38472
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-38472.json
+  - score: '0.00050'
+    scoring_system: epss
+    scoring_elements: '0.20339'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2024-38472
+  - score: '7.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://security.netapp.com/advisory/ntap-20240712-0001/
+  - score: Track
+    scoring_system: ssvc
+    scoring_elements: SSVCv2/E:N/A:Y/T:P/P:M/B:A/M:M/D:T/2024-07-09T15:16:36Z/
+    published_at:
+    url: https://security.netapp.com/advisory/ntap-20240712-0001/
+weaknesses:
+  - CWE-918
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2024-38472.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2024-38472
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2295011
+    reference_type:
+    reference_id: 2295011
+  - url: https://security.gentoo.org/glsa/202409-31
+    reference_type:
+    reference_id: GLSA-202409-31
+  - url: https://security.netapp.com/advisory/ntap-20240712-0001/
+    reference_type:
+    reference_id: ntap-20240712-0001
+  - url: https://access.redhat.com/errata/RHSA-2024:6928
+    reference_type:
+    reference_id: RHSA-2024:6928

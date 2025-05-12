@@ -1,0 +1,2760 @@
+- purl: pkg:alpine/grafana@11.0.3-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tbyp-bsw4-eyat
+- purl: pkg:alpine/grafana@11.0.3-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tbyp-bsw4-eyat
+- purl: pkg:alpine/grafana@11.0.3-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tbyp-bsw4-eyat
+- purl: pkg:alpine/grafana@11.0.3-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tbyp-bsw4-eyat
+- purl: pkg:alpine/grafana@11.0.3-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tbyp-bsw4-eyat
+- purl: pkg:alpine/grafana@11.0.3-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tbyp-bsw4-eyat
+- purl: pkg:alpine/grafana@11.0.3-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tbyp-bsw4-eyat
+- purl: pkg:alpine/grafana@11.0.3-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tbyp-bsw4-eyat
+- purl: pkg:alpine/grafana@11.0.6-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v6q3-xnwe-p3en
+- purl: pkg:alpine/grafana@11.0.6-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v6q3-xnwe-p3en
+- purl: pkg:alpine/grafana@11.0.6-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v6q3-xnwe-p3en
+- purl: pkg:alpine/grafana@11.0.6-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v6q3-xnwe-p3en
+- purl: pkg:alpine/grafana@11.0.6-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v6q3-xnwe-p3en
+- purl: pkg:alpine/grafana@11.0.6-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v6q3-xnwe-p3en
+- purl: pkg:alpine/grafana@11.0.6-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v6q3-xnwe-p3en
+- purl: pkg:alpine/grafana@11.0.6-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-v6q3-xnwe-p3en
+- purl: pkg:alpine/grafana@11.1.4-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tbyp-bsw4-eyat
+- purl: pkg:alpine/grafana@11.1.4-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tbyp-bsw4-eyat
+- purl: pkg:alpine/grafana@11.1.4-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tbyp-bsw4-eyat
+- purl: pkg:alpine/grafana@11.1.4-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tbyp-bsw4-eyat
+- purl: pkg:alpine/grafana@11.1.4-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tbyp-bsw4-eyat
+- purl: pkg:alpine/grafana@11.1.4-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tbyp-bsw4-eyat
+- purl: pkg:alpine/grafana@11.1.4-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tbyp-bsw4-eyat
+- purl: pkg:alpine/grafana@11.1.4-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tbyp-bsw4-eyat
+- purl: pkg:alpine/grafana@11.1.4-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-tbyp-bsw4-eyat
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=aarch64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=aarch64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=armhf&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=armhf&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=armv7&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=armv7&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=mips64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=ppc64le&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=ppc64le&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=s390x&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=s390x&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=x86_64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=x86_64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=x86&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=x86&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@6.3.4-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-kvk1-ctx5-pyc4
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=aarch64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=aarch64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=armhf&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=armhf&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=armv7&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=armv7&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=mips64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=ppc64le&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=ppc64le&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=s390x&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=s390x&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=x86_64&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=x86_64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=x86&distroversion=v3.13&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=x86&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.0.2-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-m86m-yubj-b7bp
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=aarch64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=armhf&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=armv7&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=ppc64le&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=s390x&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=x86_64&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=x86&distroversion=v3.14&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@7.4.5-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-ctqh-peak-gufk
+    - VCID-fcxw-agau-8fe4
+    - VCID-me7v-vb6b-5fgk
+    - VCID-nnmq-tyg6-sqhj
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.4-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-dtk2-uvbd-9uew
+- purl: pkg:alpine/grafana@8.2.7-r0?arch=aarch64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.2.7-r0?arch=armhf&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.2.7-r0?arch=armv7&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.2.7-r0?arch=ppc64le&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.2.7-r0?arch=s390x&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.2.7-r0?arch=x86_64&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.2.7-r0?arch=x86&distroversion=v3.15&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.1-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-562v-5x11-fqg8
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.2-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-93cs-n8pf-2ycd
+    - VCID-wmer-6vkx-b3d5
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.4-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-basx-4q9w-77ge
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.3.6-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-6aab-qc9z-8bht
+    - VCID-jtr8-tn2h-57g8
+    - VCID-kc7z-cvug-nbhs
+- purl: pkg:alpine/grafana@8.5.11-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@8.5.11-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@8.5.11-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@8.5.11-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@8.5.11-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@8.5.11-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@8.5.11-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@8.5.13-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qu1t-61ck-xbew
+    - VCID-ww6b-y111-sua1
+- purl: pkg:alpine/grafana@8.5.13-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qu1t-61ck-xbew
+    - VCID-ww6b-y111-sua1
+- purl: pkg:alpine/grafana@8.5.13-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qu1t-61ck-xbew
+    - VCID-ww6b-y111-sua1
+- purl: pkg:alpine/grafana@8.5.13-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qu1t-61ck-xbew
+    - VCID-ww6b-y111-sua1
+- purl: pkg:alpine/grafana@8.5.13-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qu1t-61ck-xbew
+    - VCID-ww6b-y111-sua1
+- purl: pkg:alpine/grafana@8.5.13-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qu1t-61ck-xbew
+    - VCID-ww6b-y111-sua1
+- purl: pkg:alpine/grafana@8.5.13-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-qu1t-61ck-xbew
+    - VCID-ww6b-y111-sua1
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.3-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-1w5c-8ywy-syhr
+- purl: pkg:alpine/grafana@8.5.9-r0?arch=aarch64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@8.5.9-r0?arch=armhf&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@8.5.9-r0?arch=armv7&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@8.5.9-r0?arch=ppc64le&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@8.5.9-r0?arch=s390x&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@8.5.9-r0?arch=x86_64&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@8.5.9-r0?arch=x86&distroversion=v3.16&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.0.3-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-awya-eabd-cbdy
+    - VCID-k5j2-kz4r-97bu
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=aarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=aarch64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=aarch64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=aarch64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=aarch64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=armhf&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=armhf&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=armhf&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=armhf&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=armhf&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=armv7&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=armv7&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=armv7&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=armv7&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=armv7&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=loongarch64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=ppc64le&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=ppc64le&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=ppc64le&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=ppc64le&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=ppc64le&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=riscv64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=riscv64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=s390x&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=s390x&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=s390x&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=s390x&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=s390x&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=x86_64&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=x86_64&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=x86_64&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=x86_64&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=x86_64&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=x86&distroversion=edge&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=x86&distroversion=v3.17&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=x86&distroversion=v3.18&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=x86&distroversion=v3.19&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz
+- purl: pkg:alpine/grafana@9.1.2-r0?arch=x86&distroversion=v3.20&reponame=community
+  affected_by_vulnerabilities: []
+  fixing_vulnerabilities:
+    - VCID-91h2-avu1-k7fz

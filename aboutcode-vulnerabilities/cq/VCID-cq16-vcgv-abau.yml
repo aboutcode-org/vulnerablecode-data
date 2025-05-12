@@ -1,0 +1,50 @@
+vulnerability_id: VCID-cq16-vcgv-abau
+aliases:
+  - CVE-2021-0308
+summary:
+severities:
+  - score: '6.8'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:P/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-0308.json
+  - score: '0.00051'
+    scoring_system: epss
+    scoring_elements: '0.20693'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2021-0308
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at:
+    url: https://security.archlinux.org/AVG-1435
+weaknesses:
+  - CWE-787
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2021-0308.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2021-0308
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2051943
+    reference_type:
+    reference_id: 2051943
+  - url: https://security.archlinux.org/ASA-202101-34
+    reference_type:
+    reference_id: ASA-202101-34
+  - url: https://security.archlinux.org/AVG-1435
+    reference_type:
+    reference_id: AVG-1435
+  - url: https://security.gentoo.org/glsa/202105-03
+    reference_type:
+    reference_id: GLSA-202105-03
+  - url: https://access.redhat.com/errata/RHSA-2022:7700
+    reference_type:
+    reference_id: RHSA-2022:7700
+  - url: https://access.redhat.com/errata/RHSA-2024:3486
+    reference_type:
+    reference_id: RHSA-2024:3486
+  - url: https://usn.ubuntu.com/5262-1/
+    reference_type:
+    reference_id: USN-5262-1

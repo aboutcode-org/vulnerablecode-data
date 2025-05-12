@@ -1,0 +1,36 @@
+vulnerability_id: VCID-k8gx-zkkq-f7fw
+aliases:
+  - CVE-2022-41722
+summary:
+severities:
+  - score: '7.5'
+    scoring_system: cvssv3
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N
+    published_at:
+    url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-41722.json
+  - score: '0.00169'
+    scoring_system: epss
+    scoring_elements: '0.54333'
+    published_at: !!timestamp '2024-10-15 00:00:00+00:00'
+    url: https://api.first.org/data/v1/epss?cve=CVE-2022-41722
+weaknesses:
+  - CWE-22
+references:
+  - url: https://access.redhat.com/hydra/rest/securitydata/cve/CVE-2022-41722.json
+    reference_type:
+    reference_id:
+  - url: https://api.first.org/data/v1/epss?cve=CVE-2022-41722
+    reference_type:
+    reference_id:
+  - url: https://bugzilla.redhat.com/show_bug.cgi?id=2203008
+    reference_type:
+    reference_id: 2203008
+  - url: https://access.redhat.com/errata/RHSA-2023:1325
+    reference_type:
+    reference_id: RHSA-2023:1325
+  - url: https://access.redhat.com/errata/RHSA-2023:3304
+    reference_type:
+    reference_id: RHSA-2023:3304
+  - url: https://access.redhat.com/errata/RHSA-2023:3366
+    reference_type:
+    reference_id: RHSA-2023:3366
